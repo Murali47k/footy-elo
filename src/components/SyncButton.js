@@ -10,12 +10,18 @@ const LEAGUES = [
   { id: 'ligue-1', name: 'Ligue 1', apiId: '53' }
 ];
 
-function SyncButton({ lastSyncDate, onSyncComplete }) {
+function SyncButton({ lastSyncDate, onSyncComplete, currentSeason }) {
   const [syncing, setSyncing] = useState(false);
   const [showProgress, setShowProgress] = useState(false);
   const [progress, setProgress] = useState({});
 
   const startSync = async () => {
+    // Only allow sync for current season
+    if (currentSeason !== 'current') {
+      alert('Sync is only available for the current season');
+      return;
+    }
+
     setSyncing(true);
     setShowProgress(true);
 
@@ -90,7 +96,7 @@ function SyncButton({ lastSyncDate, onSyncComplete }) {
         <button 
           className="sync-btn" 
           onClick={startSync}
-          disabled={syncing}
+          disabled={syncing || currentSeason !== 'current'}
         >
           <span className={`sync-icon ${syncing ? 'spinning' : ''}`}>
             {syncing ? '🔄' : '🔄'}
@@ -109,7 +115,7 @@ function SyncButton({ lastSyncDate, onSyncComplete }) {
         <>
           <div className="sync-overlay" onClick={() => !syncing && setShowProgress(false)} />
           <div className="sync-progress">
-            <h3>Syncing All Leagues</h3>
+            <h3>Syncing Current Season</h3>
             {LEAGUES.map(league => (
               <div key={league.id} className="progress-item">
                 <span className="progress-status">
@@ -129,4 +135,3 @@ function SyncButton({ lastSyncDate, onSyncComplete }) {
 }
 
 export default SyncButton;
-

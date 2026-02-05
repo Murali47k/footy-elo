@@ -42,23 +42,11 @@ function App() {
   const [leagueData, setLeagueData] = useState({});
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResult, setSearchResult] = useState(null);
-  const [lastSyncDate, setLastSyncDate] = useState(null);
+  const [lastSyncDate, setLastSyncDate] = useState(new Date()); // Initialize with today
 
   useEffect(() => {
     loadAllLeagues();
-    loadLastSyncDate();
   }, [currentSeason]);
-
-  const loadLastSyncDate = async () => {
-    try {
-      const response = await axios.get('http://localhost:5000/api/last-sync');
-      if (response.data.lastSync) {
-        setLastSyncDate(new Date(response.data.lastSync));
-      }
-    } catch (error) {
-      console.error('Error loading last sync date:', error);
-    }
-  };
 
   const loadAllLeagues = () => {
     LEAGUES.forEach(league => {
@@ -170,10 +158,11 @@ function App() {
   };
 
   const handleSyncComplete = () => {
+    // Only reload if we're viewing current season
     if (currentSeason === 'current') {
       loadAllLeagues();
     }
-    loadLastSyncDate();
+    setLastSyncDate(new Date());
   };
 
   return (
@@ -184,6 +173,7 @@ function App() {
         onLeagueChange={setActiveLeague}
         lastSyncDate={lastSyncDate}
         onSyncComplete={handleSyncComplete}
+        currentSeason={currentSeason}
       />
 
       <div className="container">

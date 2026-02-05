@@ -1,7 +1,7 @@
 import React from 'react';
 import SyncButton from './SyncButton';
 
-function Header({ leagues, activeLeague, onLeagueChange, lastSyncDate, onSyncComplete }) {
+function Header({ leagues, activeLeague, onLeagueChange, lastSyncDate, onSyncComplete, currentSeason }) {
   return (
     <div className="header">
       <div className="logo">Footy ELO</div>
@@ -21,6 +21,7 @@ function Header({ leagues, activeLeague, onLeagueChange, lastSyncDate, onSyncCom
         <SyncButton 
           lastSyncDate={lastSyncDate}
           onSyncComplete={onSyncComplete}
+          currentSeason={currentSeason}
         />
       </nav>
     </div>

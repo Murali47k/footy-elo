@@ -1,5 +1,12 @@
 import pandas as pd
-from def_elo import BASE_ELO, ELO_CONFIG, get_stat_weight
+import os
+import sys
+
+# Add project root to path for imports
+project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, project_root)
+
+from elo.def_elo import BASE_ELO, ELO_CONFIG, get_stat_weight
 
 def calculate_elo(input_csv, output_csv):
     """
