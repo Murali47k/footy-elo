@@ -1,5 +1,6 @@
 import sys
 import os
+import time
 
 # Add project root to path
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -17,10 +18,14 @@ LEAGUE_MAPPING = {
     'ligue-1': {'file': 'ligue1', 'name': 'Ligue 1'}
 }
 
-def sync_league(league_id, api_id):
+def sync_league(league_id, api_id, delay_before_fetch=False):
     """
     Sync a single league: fetch stats and calculate ELO
     """
+    if delay_before_fetch:
+        print("⏳ Waiting 30 seconds before fetching...")
+        time.sleep(30)
+        
     print(f"\n{'='*60}")
     print(f"SYNCING {LEAGUE_MAPPING[league_id]['name']}")
     print(f"{'='*60}")

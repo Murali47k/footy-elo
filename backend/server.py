@@ -21,13 +21,14 @@ def sync_all():
         leagues = data.get('leagues', [])
         
         results = {}
-        
+        first = True
         for league in leagues:
             league_id = league['id']
             api_id = league['apiId']
             
             try:
-                sync_league(league_id, api_id)
+                sync_league(league_id, api_id, delay_before_fetch=not first)
+                first = False
                 results[league_id] = {'status': 'success'}
             except Exception as e:
                 print(f"Error syncing {league_id}: {str(e)}")
