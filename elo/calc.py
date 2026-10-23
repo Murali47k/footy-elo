@@ -41,7 +41,7 @@ def calculate_elo(input_csv, output_csv):
     df["ELO_RAW"] = df.apply(compute_raw_elo, axis=1)
 
     # Position-normalized ELO
-    df["ELO"] = 0
+    df["ELO"] = 0.0
 
     for pos in df["Position"].unique():
         mask = df["Position"] == pos
