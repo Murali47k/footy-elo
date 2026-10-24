@@ -4,8 +4,10 @@ Footy ELO - Bulk Recalculate Script
 Recalculates all player ELO ratings from the raw statistics files in tables/
 and writes the updated ratings directly to public/elo_tables/.
 
-Standings bonuses (league finish + UCL/UEL) are applied automatically
-when standings JSON files exist in standings/ for the given season.
+Standings bonuses are applied automatically per competition when standings JSON
+files exist in standings/ for the given season:
+  - Domestic league tables  -> league finish bonus only
+  - Champions / Europa League tables -> UCL/UEL knockout bonus only
 Fetch fresh standings first with: python scraper/fetch_standings.py
 
 Run this script anytime changes are made to the ELO formula in elo/calc.py or def_elo.py.
@@ -30,14 +32,15 @@ if PROJECT_ROOT not in sys.path:
 
 from elo.calc import calculate_elo
 
+# kind decides which bonus applies: 'league' -> league finish, 'europe' -> UCL/UEL round
 LEAGUES = [
-    {'id': 'premier-league', 'file': 'pl', 'name': 'Premier League'},
-    {'id': 'la-liga', 'file': 'laliga', 'name': 'La Liga'},
-    {'id': 'bundesliga', 'file': 'bundesliga', 'name': 'Bundesliga'},
-    {'id': 'serie-a', 'file': 'seriea', 'name': 'Serie A'},
-    {'id': 'ligue-1', 'file': 'ligue1', 'name': 'Ligue 1'},
-    {'id': 'champions-league', 'file': 'cl', 'name': 'Champions League'},
-    {'id': 'europa-league', 'file': 'el', 'name': 'Europa League'},
+    {'id': 'premier-league', 'file': 'pl', 'name': 'Premier League', 'kind': 'league'},
+    {'id': 'la-liga', 'file': 'laliga', 'name': 'La Liga', 'kind': 'league'},
+    {'id': 'bundesliga', 'file': 'bundesliga', 'name': 'Bundesliga', 'kind': 'league'},
+    {'id': 'serie-a', 'file': 'seriea', 'name': 'Serie A', 'kind': 'league'},
+    {'id': 'ligue-1', 'file': 'ligue1', 'name': 'Ligue 1', 'kind': 'league'},
+    {'id': 'champions-league', 'file': 'cl', 'name': 'Champions League', 'kind': 'europe'},
+    {'id': 'europa-league', 'file': 'el', 'name': 'Europa League', 'kind': 'europe'},
 ]
 
 # (display_label, file_suffix, season_str_for_bonus_lookup)
@@ -83,7 +86,7 @@ def recalculate_tables(league_filter=None, season_filter=None, no_bonus=False):
             print(f"Error: Unknown season '{season_filter}'. Valid examples: current, 2025_2026, 2024-25, 2016/2017")
             return
 
-    bonus_note = " (bonuses DISABLED)" if no_bonus else " (bonuses auto-applied from standings/)"
+    bonus_note = " (bonuses DISABLED)" if no_bonus else " (league tables: league-finish bonus | CL/EL tables: European bonus)"
     total_tasks = len(leagues_to_process) * len(seasons_to_process)
     print(f"\n=======================================================")
     print(f"  Footy ELO Recalculation Engine{bonus_note}")
@@ -124,6 +127,7 @@ def recalculate_tables(league_filter=None, season_filter=None, no_bonus=False):
                     raw_path, out_path,
                     season=season_str,
                     team_bonus=bonus_arg,
+                    kind=league['kind'],
                 )
                 player_count = len(elo_df)
                 top_player = elo_df.iloc[0]['ParticipantName'] if len(elo_df) > 0 else 'N/A'
@@ -185,4 +189,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

@@ -1,578 +1,578 @@
 ParticipantName,TeamName,Position,ELO,STANDINGS_BONUS,ELO_FINAL
-Mohamed Salah,Liverpool,ATT,1673,107,1780
-Marcelo,Real Madrid,DEF,1626,138,1764
-Cristiano Ronaldo,Real Madrid,ATT,1618,138,1756
-Roberto Firmino,Liverpool,ATT,1629,107,1736
-Raphaël Varane,Real Madrid,DEF,1597,138,1735
-Sadio Mané,Liverpool,MID,1623,107,1730
-Thiago Alcántara,Bayern München,MID,1622,100,1722
-Toni Kroos,Real Madrid,MID,1581,138,1719
-Nacho,Real Madrid,DEF,1578,138,1716
-Joshua Kimmich,Bayern München,MID,1607,100,1707
-Sergio Ramos,Real Madrid,DEF,1568,138,1706
-James Milner,Liverpool,MID,1595,107,1702
-Casemiro,Real Madrid,MID,1564,138,1702
-Ragnar Klavan,Liverpool,DEF,1590,107,1697
-Alberto Moreno,Liverpool,DEF,1588,107,1695
-Luka Modric,Real Madrid,MID,1557,138,1695
-Virgil van Dijk,Liverpool,DEF,1586,107,1693
-Trent Alexander-Arnold,Liverpool,DEF,1584,107,1691
-Karim Benzema,Real Madrid,ATT,1552,138,1690
-Dejan Lovren,Liverpool,DEF,1581,107,1688
-Mateo Kovacic,Real Madrid,MID,1549,138,1687
-Daniel Carvajal,Real Madrid,DEF,1549,138,1687
-Philippe Coutinho,Liverpool,ATT,1579,107,1686
-Daniele De Rossi,Roma,MID,1597,88,1685
-Marco Verratti,Paris Saint-Germain,MID,1625,60,1685
-Simon Kjær,Sevilla,DEF,1638,41,1679
-Federico Fazio,Roma,DEF,1591,88,1679
-Javi Martínez,Bayern München,DEF,1578,100,1678
-Edin Dzeko,Roma,ATT,1590,88,1678
-Ander Herrera,Manchester United,MID,1623,54,1677
-Ivan Rakitic,Barcelona,MID,1600,75,1675
+Mohamed Salah,Liverpool,ATT,1673,75,1748
+Marcelo,Real Madrid,DEF,1626,100,1726
+Cristiano Ronaldo,Real Madrid,ATT,1618,100,1718
+Roberto Firmino,Liverpool,ATT,1629,75,1704
+Sadio Mané,Liverpool,MID,1623,75,1698
+Raphaël Varane,Real Madrid,DEF,1597,100,1697
+Toni Kroos,Real Madrid,MID,1581,100,1681
+Nacho,Real Madrid,DEF,1578,100,1678
 Dusko Tosic,Beşiktaş,DEF,1664,10,1674
-Mats Hummels,Bayern München,DEF,1574,100,1674
 Felipe,FC Porto,DEF,1663,10,1673
-Lucas Vázquez,Real Madrid,MID,1535,138,1673
-Giorgio Chiellini,Juventus,DEF,1597,75,1672
-Loris Karius,Liverpool,GK,1564,107,1671
-Nicolás Otamendi,Manchester City,DEF,1595,75,1670
-Ilkay Gündogan,Manchester City,MID,1594,75,1669
-Gareth Bale,Real Madrid,ATT,1531,138,1669
-Aleksandar Kolarov,Roma,DEF,1581,88,1669
-Andrés Iniesta,Barcelona,MID,1591,75,1666
-Konstantinos Manolas,Roma,DEF,1577,88,1665
-Juan Jesus,Roma,DEF,1576,88,1664
-Nemanja Matic,Manchester United,MID,1609,54,1663
-Lionel Messi,Barcelona,ATT,1586,75,1661
-Maxime Gonalons,Roma,MID,1571,88,1659
-Alisson Becker,Roma,GK,1571,88,1659
-Andrew Robertson,Liverpool,DEF,1551,107,1658
-Keylor Navas,Real Madrid,GK,1517,138,1655
-Rafinha,Bayern München,DEF,1555,100,1655
-Marco Asensio,Real Madrid,ATT,1514,138,1652
-Alex Oxlade-Chamberlain,Liverpool,MID,1544,107,1651
-Daley Blind,Manchester United,DEF,1597,54,1651
+Thiago Alcántara,Bayern München,MID,1622,50,1672
+James Milner,Liverpool,MID,1595,75,1670
+Sergio Ramos,Real Madrid,DEF,1568,100,1668
+Ragnar Klavan,Liverpool,DEF,1590,75,1665
+Casemiro,Real Madrid,MID,1564,100,1664
+Simon Kjær,Sevilla,DEF,1638,25,1663
+Alberto Moreno,Liverpool,DEF,1588,75,1663
+Virgil van Dijk,Liverpool,DEF,1586,75,1661
+Trent Alexander-Arnold,Liverpool,DEF,1584,75,1659
+Luka Modric,Real Madrid,MID,1557,100,1657
+Joshua Kimmich,Bayern München,MID,1607,50,1657
+Dejan Lovren,Liverpool,DEF,1581,75,1656
+Philippe Coutinho,Liverpool,ATT,1579,75,1654
+Karim Benzema,Real Madrid,ATT,1552,100,1652
 Pepe,Beşiktaş,DEF,1639,10,1649
-Harry Kane,Tottenham Hotspur,ATT,1601,48,1649
-Joel Matip,Liverpool,DEF,1541,107,1648
-Kingsley Coman,Bayern München,MID,1546,100,1646
-Niklas Süle,Bayern München,DEF,1545,100,1645
-Arturo Vidal,Bayern München,MID,1544,100,1644
-Layvin Kurzawa,Paris Saint-Germain,MID,1583,60,1643
-Dani Alves,Paris Saint-Germain,DEF,1582,60,1642
-Neymar,Paris Saint-Germain,ATT,1581,60,1641
+Daniel Carvajal,Real Madrid,DEF,1549,100,1649
+Mateo Kovacic,Real Madrid,MID,1549,100,1649
+Daniele De Rossi,Roma,MID,1597,50,1647
+Federico Fazio,Roma,DEF,1591,50,1641
 Mikael Lustig,Celtic,DEF,1640,0,1640
-Cesc Fàbregas,Chelsea,MID,1603,36,1639
-Borja Mayoral,Real Madrid,ATT,1501,138,1639
-Adrien Rabiot,Paris Saint-Germain,MID,1577,60,1637
-Marquinhos,Paris Saint-Germain,DEF,1576,60,1636
-Kamil Glik,Monaco,DEF,1592,44,1636
-Clément Lenglet,Sevilla,DEF,1595,41,1636
-Fernandinho,Manchester City,MID,1561,75,1636
-Sergio Busquets,Barcelona,MID,1560,75,1635
-Marc-André ter Stegen,Barcelona,GK,1558,75,1633
-Raheem Sterling,Manchester City,ATT,1558,75,1633
-Samuel Umtiti,Barcelona,DEF,1556,75,1631
-Willi Orbán,RB Leipzig,DEF,1585,45,1630
+Edin Dzeko,Roma,ATT,1590,50,1640
+Loris Karius,Liverpool,GK,1564,75,1639
+Marco Verratti,Paris Saint-Germain,MID,1625,10,1635
+Lucas Vázquez,Real Madrid,MID,1535,100,1635
+Ander Herrera,Manchester United,MID,1623,10,1633
+Gareth Bale,Real Madrid,ATT,1531,100,1631
+Aleksandar Kolarov,Roma,DEF,1581,50,1631
 Iván Marcano,FC Porto,DEF,1620,10,1630
-Paulinho,Barcelona,MID,1555,75,1630
-Thiago Silva,Paris Saint-Germain,DEF,1566,60,1626
-David de Gea,Manchester United,GK,1572,54,1626
-Sergio Agüero,Manchester City,ATT,1550,75,1625
-Sven Ulreich,Bayern München,GK,1524,100,1624
-Bruno Peres,Roma,DEF,1535,88,1623
+Javi Martínez,Bayern München,DEF,1578,50,1628
+Konstantinos Manolas,Roma,DEF,1577,50,1627
+Juan Jesus,Roma,DEF,1576,50,1626
+Andrew Robertson,Liverpool,DEF,1551,75,1626
+Ivan Rakitic,Barcelona,MID,1600,25,1625
+Mats Hummels,Bayern München,DEF,1574,50,1624
 Jesus Rueda,APOEL Nicosia,DEF,1623,0,1623
-David Alaba,Bayern München,DEF,1523,100,1623
-Eden Hazard,Chelsea,ATT,1587,36,1623
-Jordan Henderson,Liverpool,MID,1514,107,1621
-Andrea Barzagli,Juventus,DEF,1545,75,1620
-Jérome Boateng,Bayern München,DEF,1520,100,1620
-Édinson Cavani,Paris Saint-Germain,ATT,1560,60,1620
-Radja Nainggolan,Roma,ATT,1531,88,1619
-Alessandro Florenzi,Roma,MID,1531,88,1619
-Stephan El Shaarawy,Roma,ATT,1529,88,1617
-Alphonse Areola,Paris Saint-Germain,GK,1557,60,1617
-Gerard Piqué,Barcelona,DEF,1541,75,1616
-Diego Perotti,Roma,ATT,1527,88,1615
-Danilo,Manchester City,DEF,1540,75,1615
-Corentin Tolisso,Bayern München,ATT,1514,100,1614
-Jan Vertonghen,Tottenham Hotspur,DEF,1566,48,1614
-N'Golo Kanté,Chelsea,MID,1578,36,1614
+Giorgio Chiellini,Juventus,DEF,1597,25,1622
+Maxime Gonalons,Roma,MID,1571,50,1621
+Alisson Becker,Roma,GK,1571,50,1621
+Clément Lenglet,Sevilla,DEF,1595,25,1620
+Nicolás Otamendi,Manchester City,DEF,1595,25,1620
+Nemanja Matic,Manchester United,MID,1609,10,1619
+Alex Oxlade-Chamberlain,Liverpool,MID,1544,75,1619
+Ilkay Gündogan,Manchester City,MID,1594,25,1619
+Keylor Navas,Real Madrid,GK,1517,100,1617
+Andrés Iniesta,Barcelona,MID,1591,25,1616
+Joel Matip,Liverpool,DEF,1541,75,1616
+Marco Asensio,Real Madrid,ATT,1514,100,1614
 Diego Reyes,FC Porto,DEF,1603,10,1613
-Medhi Benatia,Juventus,DEF,1538,75,1613
-Sami Khedira,Juventus,MID,1537,75,1612
-César Azpilicueta,Chelsea,DEF,1576,36,1612
-Kyle Walker,Manchester City,DEF,1537,75,1612
-Sergio Escudero,Sevilla,DEF,1571,41,1612
-Davinson Sánchez,Tottenham Hotspur,DEF,1564,48,1612
-Mattia De Sciglio,Juventus,DEF,1537,75,1612
-Gonzalo Higuain,Juventus,ATT,1536,75,1611
-Georginio Wijnaldum,Liverpool,ATT,1504,107,1611
-Elseid Hysaj,Napoli,DEF,1566,44,1610
-Kevin Kampl,RB Leipzig,MID,1565,45,1610
-Jordi Alba,Barcelona,DEF,1534,75,1609
+Cesc Fàbregas,Chelsea,MID,1603,10,1613
+Lionel Messi,Barcelona,ATT,1586,25,1611
+Harry Kane,Tottenham Hotspur,ATT,1601,10,1611
+Willi Orbán,RB Leipzig,DEF,1585,25,1610
 Marek Suchy,FC Basel,DEF,1609,0,1609
-Marek Hamsik,Napoli,MID,1564,44,1608
-Marcus Rashford,Manchester United,ATT,1553,54,1607
-Isco,Real Madrid,ATT,1469,138,1607
-Francisco Casilla,Real Madrid,GK,1468,138,1606
-Jemerson,Monaco,DEF,1562,44,1606
-Kevin Strootman,Roma,MID,1517,88,1605
-Kylian Mbappé,Paris Saint-Germain,ATT,1545,60,1605
-Eric Dier,Tottenham Hotspur,DEF,1555,48,1603
-Arjen Robben,Bayern München,ATT,1503,100,1603
-André Gomes,Barcelona,MID,1527,75,1602
-Ederson,Manchester City,GK,1527,75,1602
+Daley Blind,Manchester United,DEF,1597,10,1607
+Rafinha,Bayern München,DEF,1555,50,1605
 Alex Telles,FC Porto,DEF,1592,10,1602
-Chris Smalling,Manchester United,DEF,1547,54,1601
-Theo Hernández,Real Madrid,DEF,1463,138,1601
-Juan Cuadrado,Juventus,MID,1525,75,1600
-Andreas Christensen,Chelsea,DEF,1564,36,1600
-Éver Banega,Sevilla,MID,1558,41,1599
-Cengiz Ünder,Roma,ATT,1511,88,1599
-Bernardo Silva,Manchester City,ATT,1523,75,1598
+Borja Mayoral,Real Madrid,ATT,1501,100,1601
 Viktor Vasin,CSKA Moscow,DEF,1573,25,1598
-Wissam Ben Yedder,Sevilla,ATT,1557,41,1598
-Heung-Min Son,Tottenham Hotspur,ATT,1549,48,1597
-Steven Nzonzi,Sevilla,MID,1555,41,1596
-James Rodríguez,Bayern München,ATT,1496,100,1596
-Daniel Sturridge,Liverpool,ATT,1489,107,1596
-Dani Ceballos,Real Madrid,MID,1455,138,1593
-Danny Ings,Liverpool,ATT,1486,107,1593
-Blaise Matuidi,Juventus,DEF,1517,75,1592
+Eden Hazard,Chelsea,ATT,1587,10,1597
+Sergio Escudero,Sevilla,DEF,1571,25,1596
+Kingsley Coman,Bayern München,MID,1546,50,1596
+Niklas Süle,Bayern München,DEF,1545,50,1595
+Arturo Vidal,Bayern München,MID,1544,50,1594
+Layvin Kurzawa,Paris Saint-Germain,MID,1583,10,1593
+Dani Alves,Paris Saint-Germain,DEF,1582,10,1592
+Kamil Glik,Monaco,DEF,1592,0,1592
 Kieran Tierney,Celtic,DEF,1591,0,1591
-Thomas Müller,Bayern München,ATT,1491,100,1591
+Neymar,Paris Saint-Germain,ATT,1581,10,1591
 Michael Lang,FC Basel,DEF,1590,0,1590
-Leroy Sané,Manchester City,ATT,1513,75,1588
-Sandro Wagner,Bayern München,ATT,1488,100,1588
+Kevin Kampl,RB Leipzig,MID,1565,25,1590
+Jordan Henderson,Liverpool,MID,1514,75,1589
+N'Golo Kanté,Chelsea,MID,1578,10,1588
+Adrien Rabiot,Paris Saint-Germain,MID,1577,10,1587
 Mitja Viler,Maribor,DEF,1587,0,1587
-Achraf Hakimi,Real Madrid,DEF,1448,138,1586
 Adrien Trébel,RSC Anderlecht,MID,1586,0,1586
-Willian,Chelsea,ATT,1550,36,1586
-Marcos Llorente,Real Madrid,DEF,1448,138,1586
-Marcel Halstenberg,RB Leipzig,DEF,1538,45,1583
+Fernandinho,Manchester City,MID,1561,25,1586
+Marquinhos,Paris Saint-Germain,DEF,1576,10,1586
+César Azpilicueta,Chelsea,DEF,1576,10,1586
+Sergio Busquets,Barcelona,MID,1560,25,1585
+Bruno Peres,Roma,DEF,1535,50,1585
 Vincent Aboubakar,FC Porto,ATT,1573,10,1583
-John Stones,Manchester City,DEF,1508,75,1583
-Timo Werner,RB Leipzig,ATT,1538,45,1583
+Marc-André ter Stegen,Barcelona,GK,1558,25,1583
 Praxitelis Vouros,APOEL Nicosia,DEF,1583,0,1583
-Emre Can,Liverpool,DEF,1476,107,1583
-Gabriel Jesus,Manchester City,ATT,1507,75,1582
-Manuel Akanji,FC Basel,DEF,1581,0,1581
-Lukas Klostermann,RB Leipzig,DEF,1536,45,1581
+Raheem Sterling,Manchester City,ATT,1558,25,1583
+Éver Banega,Sevilla,MID,1558,25,1583
+Wissam Ben Yedder,Sevilla,ATT,1557,25,1582
+David de Gea,Manchester United,GK,1572,10,1582
+Alessandro Florenzi,Roma,MID,1531,50,1581
 Danilo Pereira,FC Porto,DEF,1571,10,1581
-Dominic Solanke,Liverpool,ATT,1473,107,1580
+Manuel Akanji,FC Basel,DEF,1581,0,1581
+Samuel Umtiti,Barcelona,DEF,1556,25,1581
+Radja Nainggolan,Roma,ATT,1531,50,1581
+Steven Nzonzi,Sevilla,MID,1555,25,1580
 Mario Fernandes,CSKA Moscow,DEF,1555,25,1580
-João Moutinho,Monaco,MID,1535,44,1579
-Saúl,Atlético de Madrid,MID,1578,0,1578
+Paulinho,Barcelona,MID,1555,25,1580
+Stephan El Shaarawy,Roma,ATT,1529,50,1579
+Georginio Wijnaldum,Liverpool,ATT,1504,75,1579
 Ivan Ordets,Shakhtar Donetsk,DEF,1568,10,1578
-Paco Alcácer,Barcelona,ATT,1503,75,1578
-Ousmane Dembélé,Barcelona,ATT,1503,75,1578
 Cenk Tosun,Beşiktaş,ATT,1568,10,1578
-Federico Bernardeschi,Juventus,ATT,1503,75,1578
-David Silva,Manchester City,ATT,1502,75,1577
-Romelu Lukaku,Manchester United,ATT,1523,54,1577
-Moussa Sissoko,Tottenham Hotspur,MID,1529,48,1577
+Saúl,Atlético de Madrid,MID,1578,0,1578
+Diego Perotti,Roma,ATT,1527,50,1577
+Jan Vertonghen,Tottenham Hotspur,DEF,1566,10,1576
+Thiago Silva,Paris Saint-Germain,DEF,1566,10,1576
 Yaroslav Rakitskiy,Shakhtar Donetsk,DEF,1566,10,1576
-Anthony Martial,Manchester United,ATT,1522,54,1576
-Robert Lewandowski,Bayern München,ATT,1474,100,1574
-Dele Alli,Tottenham Hotspur,ATT,1525,48,1573
-Douglas Costa,Juventus,ATT,1498,75,1573
+Sergio Agüero,Manchester City,ATT,1550,25,1575
+Davinson Sánchez,Tottenham Hotspur,DEF,1564,10,1574
+Sven Ulreich,Bayern München,GK,1524,50,1574
+Andreas Christensen,Chelsea,DEF,1564,10,1574
+David Alaba,Bayern München,DEF,1523,50,1573
 Ricardo Pereira,FC Porto,DEF,1563,10,1573
-Sergi Roberto,Barcelona,MID,1497,75,1572
-Lorenzo Pellegrini,Roma,ATT,1484,88,1572
 Adriano,Beşiktaş,DEF,1561,10,1571
-Gérson,Roma,MID,1482,88,1570
 Scott Brown,Celtic,MID,1570,0,1570
-Manuel Neuer,Bayern München,GK,1468,100,1568
-Radamel Falcao,Monaco,ATT,1523,44,1567
-Ömer Toprak,Borussia Dortmund,DEF,1525,42,1567
+Andrea Barzagli,Juventus,DEF,1545,25,1570
+Édinson Cavani,Paris Saint-Germain,ATT,1560,10,1570
+Jérome Boateng,Bayern München,DEF,1520,50,1570
+Isco,Real Madrid,ATT,1469,100,1569
+Francisco Casilla,Real Madrid,GK,1468,100,1568
+Alphonse Areola,Paris Saint-Germain,GK,1557,10,1567
+Kevin Strootman,Roma,MID,1517,50,1567
 Caner Erkin,Beşiktaş,DEF,1557,10,1567
-Alex Sandro,Juventus,DEF,1492,75,1567
-Grégoire Defrel,Roma,ATT,1478,88,1566
-Patrik Schick,Roma,ATT,1478,88,1566
-Gianluigi Buffon,Juventus,GK,1490,75,1565
-Sèrge Aurier,Tottenham Hotspur,DEF,1516,48,1564
-Gerard Deulofeu,Barcelona,ATT,1488,75,1563
-Brahim Díaz,Manchester City,ATT,1488,75,1563
-Guido Pizarro,Sevilla,MID,1522,41,1563
+Elseid Hysaj,Napoli,DEF,1566,0,1566
+Gerard Piqué,Barcelona,DEF,1541,25,1566
+Eric Dier,Tottenham Hotspur,DEF,1555,10,1565
+Danilo,Manchester City,DEF,1540,25,1565
+Corentin Tolisso,Bayern München,ATT,1514,50,1564
+Daniel Sturridge,Liverpool,ATT,1489,75,1564
+Marek Hamsik,Napoli,MID,1564,0,1564
+Marcel Halstenberg,RB Leipzig,DEF,1538,25,1563
 Marlos,Shakhtar Donetsk,ATT,1553,10,1563
-Emil Forsberg,RB Leipzig,ATT,1518,45,1563
-Lorenzo Insigne,Napoli,ATT,1518,44,1562
+Theo Hernández,Real Madrid,DEF,1463,100,1563
+Medhi Benatia,Juventus,DEF,1538,25,1563
+Timo Werner,RB Leipzig,ATT,1538,25,1563
+Marcus Rashford,Manchester United,ATT,1553,10,1563
+Sami Khedira,Juventus,MID,1537,25,1562
+Jemerson,Monaco,DEF,1562,0,1562
+Mattia De Sciglio,Juventus,DEF,1537,25,1562
 Leander Dendoncker,RSC Anderlecht,MID,1562,0,1562
-Gary Cahill,Chelsea,DEF,1526,36,1562
-Mario Mandzukic,Juventus,ATT,1487,75,1562
 Konstantin Kuchaev,CSKA Moscow,MID,1537,25,1562
-Ángel Di Maria,Paris Saint-Germain,ATT,1501,60,1561
-Franck Ribéry,Bayern München,ATT,1461,100,1561
-Thiago Motta,Paris Saint-Germain,Code_2,1500,60,1560
-Hugo Lloris,Tottenham Hotspur,GK,1512,48,1560
+Kyle Walker,Manchester City,DEF,1537,25,1562
+Danny Ings,Liverpool,ATT,1486,75,1561
+Cengiz Ünder,Roma,ATT,1511,50,1561
+Gonzalo Higuain,Juventus,ATT,1536,25,1561
+Lukas Klostermann,RB Leipzig,DEF,1536,25,1561
+Willian,Chelsea,ATT,1550,10,1560
 Mario Pasalic,Spartak Moscow,MID,1560,0,1560
-Christian Eriksen,Tottenham Hotspur,ATT,1511,48,1559
+Heung-Min Son,Tottenham Hotspur,ATT,1549,10,1559
+Jordi Alba,Barcelona,DEF,1534,25,1559
 Fernando,Spartak Moscow,MID,1558,0,1558
-Pedro,Chelsea,ATT,1522,36,1558
-Marouane Fellaini,Manchester United,ATT,1503,54,1557
 Ismaily,Shakhtar Donetsk,DEF,1547,10,1557
-Andriy Yarmolenko,Borussia Dortmund,ATT,1514,42,1556
-Mousa Dembélé,Tottenham Hotspur,MID,1506,48,1554
-Paulo Dybala,Juventus,ATT,1479,75,1554
+Chris Smalling,Manchester United,DEF,1547,10,1557
+Kylian Mbappé,Paris Saint-Germain,ATT,1545,10,1555
+Dani Ceballos,Real Madrid,MID,1455,100,1555
 Pizzi,Benfica,MID,1554,0,1554
-Julian Draxler,Paris Saint-Germain,ATT,1493,60,1553
-Thibaut Courtois,Chelsea,GK,1517,36,1553
+Arjen Robben,Bayern München,ATT,1503,50,1553
+Ederson,Manchester City,GK,1527,25,1552
+André Gomes,Barcelona,MID,1527,25,1552
 Nuno Morais,APOEL Nicosia,DEF,1551,0,1551
+Emre Can,Liverpool,DEF,1476,75,1551
 Maksim Medvedev,FK Qarabag,DEF,1551,0,1551
-Kevin De Bruyne,Manchester City,ATT,1476,75,1551
-Paul Pogba,Manchester United,ATT,1496,54,1550
+Juan Cuadrado,Juventus,MID,1525,25,1550
 Fred,Shakhtar Donetsk,MID,1540,10,1550
 Marwan Kabha,Maribor,DEF,1550,0,1550
-Allan,Napoli,MID,1505,44,1549
-José Maria Callejon,Napoli,ATT,1505,44,1549
-Vitinho,CSKA Moscow,ATT,1524,25,1549
 Bernard,Shakhtar Donetsk,ATT,1539,10,1549
-Martin Milec,Maribor,DEF,1548,0,1548
-Javier Pastore,Paris Saint-Germain,ATT,1488,60,1548
-Héctor Herrera,FC Porto,MID,1538,10,1548
+Vitinho,CSKA Moscow,ATT,1524,25,1549
 Atiba Hutchinson,Beşiktaş,MID,1538,10,1548
-Aleix Vidal,Barcelona,ATT,1473,75,1548
-Gabriel Mercado,Sevilla,DEF,1505,41,1546
-Franco Vázquez,Sevilla,MID,1505,41,1546
+Héctor Herrera,FC Porto,MID,1538,10,1548
+Achraf Hakimi,Real Madrid,DEF,1448,100,1548
+Dominic Solanke,Liverpool,ATT,1473,75,1548
+Bernardo Silva,Manchester City,ATT,1523,25,1548
+Martin Milec,Maribor,DEF,1548,0,1548
+Marcos Llorente,Real Madrid,DEF,1448,100,1548
+Guido Pizarro,Sevilla,MID,1522,25,1547
 Thomas Partey,Atlético de Madrid,MID,1546,0,1546
-Marcos Alonso,Chelsea,DEF,1510,36,1546
-Nélson Semedo,Barcelona,DEF,1471,75,1546
-Igor Akinfeev,CSKA Moscow,GK,1520,25,1545
+James Rodríguez,Bayern München,ATT,1496,50,1546
 Luca Zuffi,FC Basel,MID,1545,0,1545
-Juan Mata,Manchester United,ATT,1490,54,1544
-Sergio Rico,Sevilla,GK,1503,41,1544
-Ganso,Sevilla,ATT,1503,41,1544
-Michy Batshuayi,Chelsea,ATT,1508,36,1544
-Jasper Cillessen,Barcelona,GK,1468,75,1543
-Wojciech Szczesny,Juventus,GK,1468,75,1543
+Igor Akinfeev,CSKA Moscow,GK,1520,25,1545
+Emil Forsberg,RB Leipzig,ATT,1518,25,1543
+Blaise Matuidi,Juventus,DEF,1517,25,1542
 Richard Almeida,FK Qarabag,MID,1542,0,1542
-Pierre-Emerick Aubameyang,Borussia Dortmund,ATT,1500,42,1542
 Rodrigo Andrés Battaglia,Sporting Lisbon,DEF,1517,25,1542
-Kieran Trippier,Tottenham Hotspur,DEF,1493,48,1541
+Thomas Müller,Bayern München,ATT,1491,50,1541
 Ryan Babel,Beşiktaş,ATT,1531,10,1541
-Denis Suárez,Barcelona,MID,1465,75,1540
-Juan Bernat,Bayern München,MID,1440,100,1540
-Rony Lopes,Monaco,ATT,1496,44,1540
+Moussa Sissoko,Tottenham Hotspur,MID,1529,10,1539
 Dennis Appiah,RSC Anderlecht,DEF,1539,0,1539
-Mario Götze,Borussia Dortmund,ATT,1496,42,1538
-Yacine Brahimi,FC Porto,ATT,1528,10,1538
-Taras Stepanenko,Shakhtar Donetsk,MID,1528,10,1538
 Filipe Luís,Atlético de Madrid,DEF,1538,0,1538
-Arkadiusz Milik,Napoli,ATT,1493,44,1537
+Leroy Sané,Manchester City,ATT,1513,25,1538
+Taras Stepanenko,Shakhtar Donetsk,MID,1528,10,1538
+Sandro Wagner,Bayern München,ATT,1488,50,1538
+Yacine Brahimi,FC Porto,ATT,1528,10,1538
 Oguzhan Özyakup,Beşiktaş,MID,1527,10,1537
-Antonio Rüdiger,Chelsea,DEF,1501,36,1537
-Luis Muriel,Sevilla,ATT,1495,41,1536
-Joaquín Correa,Sevilla,ATT,1495,41,1536
-Joseph Gomez,Liverpool,DEF,1428,107,1535
-Pablo Sarabia,Sevilla,ATT,1493,41,1534
+Gary Cahill,Chelsea,DEF,1526,10,1536
+João Moutinho,Monaco,MID,1535,0,1535
+Ömer Toprak,Borussia Dortmund,DEF,1525,10,1535
+Dele Alli,Tottenham Hotspur,ATT,1525,10,1535
 Gary Medel,Beşiktaş,MID,1524,10,1534
+Lorenzo Pellegrini,Roma,ATT,1484,50,1534
 Quincy Promes,Spartak Moscow,ATT,1534,0,1534
 Qara Garayev,FK Qarabag,MID,1534,0,1534
-Tomás Vaclík,FC Basel,GK,1533,0,1533
+Romelu Lukaku,Manchester United,ATT,1523,10,1533
 Ibrahim Sehic,FK Qarabag,GK,1533,0,1533
-Roman Bürki,Borussia Dortmund,GK,1490,42,1532
+John Stones,Manchester City,DEF,1508,25,1533
+Tomás Vaclík,FC Basel,GK,1533,0,1533
+Gérson,Roma,MID,1482,50,1532
+Pedro,Chelsea,ATT,1522,10,1532
 Bogdan Butko,Shakhtar Donetsk,MID,1522,10,1532
-Guido Carrillo,Monaco,ATT,1488,44,1532
-Stevan Jovetic,Monaco,ATT,1488,44,1532
-Thomas Lemar,Monaco,ATT,1488,44,1532
-Georges-Kévin N'Koudou,Tottenham Hotspur,ATT,1483,48,1531
-Fabian Delph,Manchester City,MID,1455,75,1530
+Gabriel Jesus,Manchester City,ATT,1507,25,1532
+Anthony Martial,Manchester United,ATT,1522,10,1532
 Tolgay Arslan,Beşiktaş,MID,1520,10,1530
-Maximilian Philipp,Borussia Dortmund,ATT,1488,42,1530
-Piotr Zielinski,Napoli,MID,1485,44,1529
-Dries Mertens,Napoli,ATT,1485,44,1529
+Gabriel Mercado,Sevilla,DEF,1505,25,1530
+Franco Vázquez,Sevilla,MID,1505,25,1530
+Ousmane Dembélé,Barcelona,ATT,1503,25,1528
+Paco Alcácer,Barcelona,ATT,1503,25,1528
 Bruno César,Sporting Lisbon,ATT,1503,25,1528
 James Forrest,Celtic,ATT,1528,0,1528
-Luis Suárez,Barcelona,ATT,1453,75,1528
-Lucas Digne,Barcelona,DEF,1453,75,1528
+Federico Bernardeschi,Juventus,ATT,1503,25,1528
+Patrik Schick,Roma,ATT,1478,50,1528
+Ganso,Sevilla,ATT,1503,25,1528
+Grégoire Defrel,Roma,ATT,1478,50,1528
+Sergio Rico,Sevilla,GK,1503,25,1528
 Timur Zhamaletdinov,CSKA Moscow,ATT,1503,25,1528
-Jesús Navas,Sevilla,ATT,1486,41,1527
-Alexis Sánchez,Manchester United,ATT,1473,54,1527
-Antonio Valencia,Manchester United,ATT,1473,54,1527
-Yussuf Poulsen,RB Leipzig,ATT,1481,45,1526
-Pepe Reina,Napoli,GK,1482,44,1526
+Thibaut Courtois,Chelsea,GK,1517,10,1527
+David Silva,Manchester City,ATT,1502,25,1527
+Sèrge Aurier,Tottenham Hotspur,DEF,1516,10,1526
 Jan Oblak,Atlético de Madrid,GK,1526,0,1526
 Sergei Ignashevich,CSKA Moscow,Code_1,1500,25,1525
 Dimitri Oberlin,FC Basel,ATT,1525,0,1525
-Sebastian Rudy,Bayern München,MID,1425,100,1525
-Keita Baldé,Monaco,ATT,1481,44,1525
 Vasili Berezutski,CSKA Moscow,Code_1,1500,25,1525
-Henrikh Mkhitaryan,Manchester United,MID,1470,54,1524
-Stephan Lichtsteiner,Juventus,DEF,1448,75,1523
-Fernando Llorente,Tottenham Hotspur,ATT,1475,48,1523
-Talisca,Beşiktaş,ATT,1513,10,1523
-Thomas Vermaelen,Barcelona,DEF,1448,75,1523
-Aymeric Laporte,Manchester City,DEF,1448,75,1523
-Oleksandr Zinchenko,Manchester City,DEF,1448,75,1523
+Andriy Yarmolenko,Borussia Dortmund,ATT,1514,10,1524
+Robert Lewandowski,Bayern München,ATT,1474,50,1524
 Mohamed Elyounoussi,FC Basel,ATT,1523,0,1523
-Benjamin Mendy,Manchester City,DEF,1448,75,1523
-Javier Mascherano,Barcelona,DEF,1448,75,1523
+Talisca,Beşiktaş,ATT,1513,10,1523
+Radamel Falcao,Monaco,ATT,1523,0,1523
+Douglas Costa,Juventus,ATT,1498,25,1523
+Sergi Roberto,Barcelona,MID,1497,25,1522
+Hugo Lloris,Tottenham Hotspur,GK,1512,10,1522
 Lorenzo Melgarejo,Spartak Moscow,ATT,1522,0,1522
-Péter Gulácsi,RB Leipzig,GK,1477,45,1522
-Miralem Pjanic,Juventus,ATT,1447,75,1522
 Álvaro Negredo,Beşiktaş,ATT,1511,10,1521
+Christian Eriksen,Tottenham Hotspur,ATT,1511,10,1521
 Sofyan Amrabat,Feyenoord,MID,1521,0,1521
+Marcos Alonso,Chelsea,DEF,1510,10,1520
+Luis Muriel,Sevilla,ATT,1495,25,1520
 Antoine Griezmann,Atlético de Madrid,ATT,1520,0,1520
-Christian Pulisic,Borussia Dortmund,ATT,1478,42,1520
-Giovani Lo Celso,Paris Saint-Germain,ATT,1458,60,1518
+Joaquín Correa,Sevilla,ATT,1495,25,1520
+Michy Batshuayi,Chelsea,ATT,1508,10,1518
 Nicolai Jørgensen,Feyenoord,ATT,1518,0,1518
+Pablo Sarabia,Sevilla,ATT,1493,25,1518
+Manuel Neuer,Bayern München,GK,1468,50,1518
+Lorenzo Insigne,Napoli,ATT,1518,0,1518
+Alex Sandro,Juventus,DEF,1492,25,1517
 Rui Patrício,Sporting Lisbon,GK,1492,25,1517
-Shinji Kagawa,Borussia Dortmund,MID,1475,42,1517
-Michel Vorm,Tottenham Hotspur,GK,1468,48,1516
-Fabrizio Caligara,Juventus,MID,1440,75,1515
-Stefano Sturaro,Juventus,MID,1440,75,1515
-Naby Keïta,RB Leipzig,MID,1470,45,1515
+Mousa Dembélé,Tottenham Hotspur,MID,1506,10,1516
 Sofiane Hanni,RSC Anderlecht,ATT,1515,0,1515
+Gianluigi Buffon,Juventus,GK,1490,25,1515
 Moussa Marega,FC Porto,ATT,1504,10,1514
-Jorginho,Napoli,MID,1470,44,1514
-Jean-Kévin Augustin,RB Leipzig,ATT,1468,45,1513
-Fedor Chalov,CSKA Moscow,ATT,1488,25,1513
+Marouane Fellaini,Manchester United,ATT,1503,10,1513
+Brahim Díaz,Manchester City,ATT,1488,25,1513
+Gerard Deulofeu,Barcelona,ATT,1488,25,1513
 Vágner Love,Beşiktaş,ATT,1503,10,1513
-Gonzalo Castro,Borussia Dortmund,ATT,1471,42,1513
-Rachid Ghezzal,Monaco,ATT,1468,44,1512
-Ángel Correa,Atlético de Madrid,ATT,1512,0,1512
+Fedor Chalov,CSKA Moscow,ATT,1488,25,1513
+Mario Mandzukic,Juventus,ATT,1487,25,1512
 Andriy Pyatov,Shakhtar Donetsk,GK,1502,10,1512
+Ángel Correa,Atlético de Madrid,ATT,1512,0,1512
+Antonio Rüdiger,Chelsea,DEF,1501,10,1511
 Éder Álvarez,FC Basel,MID,1511,0,1511
-Toby Alderweireld,Tottenham Hotspur,DEF,1463,48,1511
-Raphaël Guerreiro,Borussia Dortmund,DEF,1468,42,1510
-Vadis Odjidja-Ofoe,Olympiakos,MID,1510,0,1510
+Franck Ribéry,Bayern München,ATT,1461,50,1511
+Jesús Navas,Sevilla,ATT,1486,25,1511
+Ángel Di Maria,Paris Saint-Germain,ATT,1501,10,1511
+Pierre-Emerick Aubameyang,Borussia Dortmund,ATT,1500,10,1510
 Fabri,Beşiktaş,GK,1500,10,1510
+Vadis Odjidja-Ofoe,Olympiakos,MID,1510,0,1510
 Jesús Corona,FC Porto,ATT,1500,10,1510
-Olivier Giroud,Chelsea,ATT,1473,36,1509
-David Soria,Sevilla,GK,1468,41,1509
+Thiago Motta,Paris Saint-Germain,Code_2,1500,10,1510
 Marcos Tavares,Maribor,ATT,1509,0,1509
-Zé Luis,Spartak Moscow,ATT,1508,0,1508
-Eliaquim Mangala,Manchester City,DEF,1433,75,1508
 Konstantinos Fortounis,Olympiakos,ATT,1508,0,1508
-Presnel Kimpembe,Paris Saint-Germain,DEF,1448,60,1508
+Zé Luis,Spartak Moscow,ATT,1508,0,1508
 Jasmin Handanovic,Maribor,GK,1507,0,1507
+Mario Götze,Borussia Dortmund,ATT,1496,10,1506
 Orkan Cinar,Beşiktaş,ATT,1496,10,1506
-Marcel Sabitzer,RB Leipzig,MID,1460,45,1505
+Yussuf Poulsen,RB Leipzig,ATT,1481,25,1506
+Paul Pogba,Manchester United,ATT,1496,10,1506
+Allan,Napoli,MID,1505,0,1505
+José Maria Callejon,Napoli,ATT,1505,0,1505
 Ricardo Quaresma,Beşiktaş,ATT,1494,10,1504
-Tiquinho Soares,FC Porto,ATT,1493,10,1503
+Paulo Dybala,Juventus,ATT,1479,25,1504
+Kieran Trippier,Tottenham Hotspur,DEF,1493,10,1503
 Ricky van Wolfswinkel,FC Basel,ATT,1503,0,1503
-Leigh Griffiths,Celtic,ATT,1503,0,1503
 Jasmin Mesanovic,Maribor,ATT,1503,0,1503
-Efstathios Aloneftis,APOEL Nicosia,ATT,1502,0,1502
-Ashley Young,Manchester United,DEF,1448,54,1502
-Victor Nilsson Lindelöf,Manchester United,DEF,1448,54,1502
+Joseph Gomez,Liverpool,DEF,1428,75,1503
+Julian Draxler,Paris Saint-Germain,ATT,1493,10,1503
+Tiquinho Soares,FC Porto,ATT,1493,10,1503
+Leigh Griffiths,Celtic,ATT,1503,0,1503
 Bruno Fernandes,Sporting Lisbon,ATT,1477,25,1502
-Tiemoué Bakayoko,Chelsea,MID,1465,36,1501
+Efstathios Aloneftis,APOEL Nicosia,ATT,1502,0,1502
+Péter Gulácsi,RB Leipzig,GK,1477,25,1502
 Seydou Doumbia,Sporting Lisbon,ATT,1476,25,1501
-Bruma,RB Leipzig,MID,1455,45,1500
-Roberto Lago,APOEL Nicosia,Code_1,1500,0,1500
-Afran Ismayilov,FK Qarabag,Code_2,1500,0,1500
-Vinicius,APOEL Nicosia,Code_2,1500,0,1500
-Emmanuel Emenike,Olympiakos,Code_3,1500,0,1500
-Eliseu,Benfica,Code_1,1500,0,1500
-Luisao,Benfica,Code_1,1500,0,1500
+Kevin De Bruyne,Manchester City,ATT,1476,25,1501
+Roman Bürki,Borussia Dortmund,GK,1490,10,1500
+Juan Mata,Manchester United,ATT,1490,10,1500
 Dare Vrsic,Maribor,Code_2,1500,0,1500
+Afran Ismayilov,FK Qarabag,Code_2,1500,0,1500
 Aleksander Rajcevic,Maribor,Code_1,1500,0,1500
+Eliseu,Benfica,Code_1,1500,0,1500
+Emmanuel Emenike,Olympiakos,Code_3,1500,0,1500
+Roberto Lago,APOEL Nicosia,Code_1,1500,0,1500
 Jean-Paul Boëtius,Feyenoord,MID,1500,0,1500
-Youri Tielemans,Monaco,MID,1455,44,1499
-Amadou Diawara,Napoli,MID,1455,44,1499
+Vinicius,APOEL Nicosia,Code_2,1500,0,1500
+Luisao,Benfica,Code_1,1500,0,1500
 Bas Dost,Sporting Lisbon,ATT,1474,25,1499
-Soualiho Meité,Monaco,MID,1455,44,1499
 Alan Ruiz,Sporting Lisbon,ATT,1473,25,1498
+Aleix Vidal,Barcelona,ATT,1473,25,1498
+Maximilian Philipp,Borussia Dortmund,ATT,1488,10,1498
 Craig Gordon,Celtic,GK,1498,0,1498
-Mahmoud Dahoud,Borussia Dortmund,MID,1455,42,1497
-Nuri Sahin,Borussia Dortmund,MID,1455,42,1497
-Michael Krohn-Dehli,Sevilla,MID,1455,41,1496
-Nolito,Sevilla,MID,1455,41,1496
-Felipe Pardo,Olympiakos,ATT,1496,0,1496
+Javier Pastore,Paris Saint-Germain,ATT,1488,10,1498
+Nélson Semedo,Barcelona,DEF,1471,25,1496
 Martin Kramaric,Maribor,ATT,1496,0,1496
-Sokratis Papastathopoulos,Borussia Dortmund,DEF,1453,42,1495
-Scott McTominay,Manchester United,MID,1440,54,1494
-Matteo Darmian,Manchester United,MID,1440,54,1494
+Felipe Pardo,Olympiakos,ATT,1496,0,1496
+Rony Lopes,Monaco,ATT,1496,0,1496
+Naby Keïta,RB Leipzig,MID,1470,25,1495
+Georges-Kévin N'Koudou,Tottenham Hotspur,ATT,1483,10,1493
 Moussa Dembélé,Celtic,ATT,1493,0,1493
-Dayot Upamecano,RB Leipzig,DEF,1448,45,1493
+Wojciech Szczesny,Juventus,GK,1468,25,1493
 Scott Sinclair,Celtic,ATT,1493,0,1493
-Bernardo,RB Leipzig,DEF,1448,45,1493
-Thomas Meunier,Paris Saint-Germain,DEF,1433,60,1493
+Jasper Cillessen,Barcelona,GK,1468,25,1493
+David Soria,Sevilla,GK,1468,25,1493
 Georgi Shchennikov,CSKA Moscow,DEF,1468,25,1493
 Mickael Pote,APOEL Nicosia,ATT,1493,0,1493
-Almamy Touré,Monaco,DEF,1448,44,1492
-Terence Kongolo,Monaco,DEF,1448,44,1492
-Nikola Maksimovic,Napoli,DEF,1448,44,1492
-Faouzi Ghoulam,Napoli,DEF,1448,44,1492
-Davide Zappacosta,Chelsea,MID,1455,36,1491
+Jean-Kévin Augustin,RB Leipzig,ATT,1468,25,1493
+Arkadiusz Milik,Napoli,ATT,1493,0,1493
 Steven Berghuis,Feyenoord,ATT,1491,0,1491
-Victor Moses,Chelsea,MID,1455,36,1491
-Lukasz Piszczek,Borussia Dortmund,DEF,1448,42,1490
-Marcel Schmelzer,Borussia Dortmund,DEF,1448,42,1490
+Denis Suárez,Barcelona,MID,1465,25,1490
+Juan Bernat,Bayern München,MID,1440,50,1490
 Sam Larsson,Feyenoord,ATT,1490,0,1490
-Sébastien Corchia,Sevilla,DEF,1448,41,1489
-David Luiz,Chelsea,DEF,1453,36,1489
-Aleksandr Golovin,CSKA Moscow,ATT,1464,25,1489
 Ghayas Zahid,APOEL Nicosia,ATT,1489,0,1489
+Aleksandr Golovin,CSKA Moscow,ATT,1464,25,1489
 Olivier Ntcham,Celtic,ATT,1489,0,1489
-Mahir Emreli,FK Qarabag,ATT,1488,0,1488
-Andreas Makris,APOEL Nicosia,ATT,1488,0,1488
-Igor de Camargo,APOEL Nicosia,ATT,1488,0,1488
-Gregor Bajde,Maribor,ATT,1488,0,1488
-Ramil Sheydayev,FK Qarabag,ATT,1488,0,1488
-Gabriel Barbosa,Benfica,ATT,1488,0,1488
-Sebá,Olympiakos,ATT,1488,0,1488
+Stevan Jovetic,Monaco,ATT,1488,0,1488
 Mustafa Pektemek,Beşiktaş,ATT,1478,10,1488
-Harry Winks,Tottenham Hotspur,MID,1440,48,1488
-Dylan Vente,Feyenoord,ATT,1488,0,1488
-João Carvalho,Benfica,ATT,1488,0,1488
-Nicolás Gaitán,Atlético de Madrid,ATT,1488,0,1488
+Christian Pulisic,Borussia Dortmund,ATT,1478,10,1488
 Valon Ahmedi,Maribor,ATT,1488,0,1488
-Haris Seferovic,Benfica,ATT,1488,0,1488
+Nicolás Gaitán,Atlético de Madrid,ATT,1488,0,1488
+Gregor Bajde,Maribor,ATT,1488,0,1488
+Dylan Vente,Feyenoord,ATT,1488,0,1488
+Guido Carrillo,Monaco,ATT,1488,0,1488
 Patrick Roberts,Celtic,ATT,1488,0,1488
+Thomas Lemar,Monaco,ATT,1488,0,1488
+Andreas Makris,APOEL Nicosia,ATT,1488,0,1488
+Gabriel Barbosa,Benfica,ATT,1488,0,1488
+Haris Seferovic,Benfica,ATT,1488,0,1488
 Valentin Stocker,FC Basel,ATT,1488,0,1488
+João Carvalho,Benfica,ATT,1488,0,1488
+Igor de Camargo,APOEL Nicosia,ATT,1488,0,1488
+Sebá,Olympiakos,ATT,1488,0,1488
+Ramil Sheydayev,FK Qarabag,ATT,1488,0,1488
+Mahir Emreli,FK Qarabag,ATT,1488,0,1488
 Tom Rogic,Celtic,ATT,1487,0,1487
-Eric Bailly,Manchester United,DEF,1433,54,1487
-Gelson Martins,Sporting Lisbon,ATT,1461,25,1486
 Alaixys Romao,Olympiakos,MID,1486,0,1486
-Rodrigo Bentancur,Juventus,MID,1410,75,1485
-Diego Demme,RB Leipzig,MID,1440,45,1485
-Jesse Lingard,Manchester United,ATT,1430,54,1484
-Vlad Chiriches,Napoli,MID,1440,44,1484
+Gelson Martins,Sporting Lisbon,ATT,1461,25,1486
+Marcel Sabitzer,RB Leipzig,MID,1460,25,1485
+Piotr Zielinski,Napoli,MID,1485,0,1485
+Shinji Kagawa,Borussia Dortmund,MID,1475,10,1485
+Fernando Llorente,Tottenham Hotspur,ATT,1475,10,1485
+Dries Mertens,Napoli,ATT,1485,0,1485
 Luiz Adriano,Spartak Moscow,ATT,1484,0,1484
-Aleks Pihler,Maribor,MID,1483,0,1483
-Jeremain Lens,Beşiktaş,ATT,1473,10,1483
-Taison,Shakhtar Donetsk,ATT,1473,10,1483
+Olivier Giroud,Chelsea,ATT,1473,10,1483
+Alexis Sánchez,Manchester United,ATT,1473,10,1483
 Kévin Gameiro,Atlético de Madrid,ATT,1483,0,1483
-Danny Rose,Tottenham Hotspur,DEF,1433,48,1481
-Ben Davies,Tottenham Hotspur,DEF,1433,48,1481
+Aleks Pihler,Maribor,MID,1483,0,1483
+Antonio Valencia,Manchester United,ATT,1473,10,1483
+Taison,Shakhtar Donetsk,ATT,1473,10,1483
+Jeremain Lens,Beşiktaş,ATT,1473,10,1483
+Pepe Reina,Napoli,GK,1482,0,1482
+Keita Baldé,Monaco,ATT,1481,0,1481
+Gonzalo Castro,Borussia Dortmund,ATT,1471,10,1481
 Andrija Zivkovic,Benfica,ATT,1481,0,1481
+Henrikh Mkhitaryan,Manchester United,MID,1470,10,1480
 Alan Dzagoev,CSKA Moscow,MID,1455,25,1480
-Jonathan Cristian Silva,Sporting Lisbon,MID,1455,25,1480
+Nolito,Sevilla,MID,1455,25,1480
 Georgi Milanov,CSKA Moscow,MID,1455,25,1480
-Yannick Carrasco,Atlético de Madrid,ATT,1478,0,1478
-Luciano Vietto,Atlético de Madrid,ATT,1478,0,1478
-Iker Casillas,FC Porto,GK,1468,10,1478
-Marko Marin,Olympiakos,ATT,1478,0,1478
+Bruma,RB Leipzig,MID,1455,25,1480
+Jonathan Cristian Silva,Sporting Lisbon,MID,1455,25,1480
+Michael Krohn-Dehli,Sevilla,MID,1455,25,1480
+Fabian Delph,Manchester City,MID,1455,25,1480
+Lucas Digne,Barcelona,DEF,1453,25,1478
 Miguel Layún,FC Porto,DEF,1468,10,1478
-Raúl Albiol,Napoli,DEF,1433,44,1477
-Bibars Natcho,CSKA Moscow,ATT,1451,25,1476
-Renato Steffen,FC Basel,ATT,1476,0,1476
+Luciano Vietto,Atlético de Madrid,ATT,1478,0,1478
+Luis Suárez,Barcelona,ATT,1453,25,1478
+Yannick Carrasco,Atlético de Madrid,ATT,1478,0,1478
+Iker Casillas,FC Porto,GK,1468,10,1478
+Raphaël Guerreiro,Borussia Dortmund,DEF,1468,10,1478
+Marko Marin,Olympiakos,ATT,1478,0,1478
+Michel Vorm,Tottenham Hotspur,GK,1468,10,1478
 Wilde-Donald Guerrier,FK Qarabag,ATT,1476,0,1476
+Bibars Natcho,CSKA Moscow,ATT,1451,25,1476
 Dino Ndlovu,FK Qarabag,ATT,1476,0,1476
-Marc Bartra,Borussia Dortmund,DEF,1433,42,1475
+Renato Steffen,FC Basel,ATT,1476,0,1476
+Sebastian Rudy,Bayern München,MID,1425,50,1475
+Tiemoué Bakayoko,Chelsea,MID,1465,10,1475
 Damjan Bohar,Maribor,ATT,1474,0,1474
-Nicolas Pareja,Sevilla,DEF,1433,41,1474
-Stefan Ristovski,Sporting Lisbon,DEF,1448,25,1473
-Michiel Kramer,Feyenoord,ATT,1473,0,1473
-Diogo Gonçalves,Benfica,ATT,1473,0,1473
-Dino Hotic,Maribor,ATT,1473,0,1473
-Agustín Farías,APOEL Nicosia,ATT,1473,0,1473
-Stefan Ilsanker,RB Leipzig,DEF,1428,45,1473
 Panagiotis Tachtsidis,Olympiakos,ATT,1473,0,1473
-Ivelin Popov,Spartak Moscow,ATT,1473,0,1473
-Nicolae Stanciu,RSC Anderlecht,ATT,1473,0,1473
+Diogo Gonçalves,Benfica,ATT,1473,0,1473
+Thomas Vermaelen,Barcelona,DEF,1448,25,1473
+Benjamin Mendy,Manchester City,DEF,1448,25,1473
+Bernardo,RB Leipzig,DEF,1448,25,1473
+Toby Alderweireld,Tottenham Hotspur,DEF,1463,10,1473
+Sébastien Corchia,Sevilla,DEF,1448,25,1473
 Jonas,Benfica,ATT,1473,0,1473
+Dayot Upamecano,RB Leipzig,DEF,1448,25,1473
+Oleksandr Zinchenko,Manchester City,DEF,1448,25,1473
+Michiel Kramer,Feyenoord,ATT,1473,0,1473
+Stephan Lichtsteiner,Juventus,DEF,1448,25,1473
+Agustín Farías,APOEL Nicosia,ATT,1473,0,1473
+Aymeric Laporte,Manchester City,DEF,1448,25,1473
+Javier Mascherano,Barcelona,DEF,1448,25,1473
+Stefan Ristovski,Sporting Lisbon,DEF,1448,25,1473
+Dino Hotic,Maribor,ATT,1473,0,1473
+Nicolae Stanciu,RSC Anderlecht,ATT,1473,0,1473
+Ivelin Popov,Spartak Moscow,ATT,1473,0,1473
+Miralem Pjanic,Juventus,ATT,1447,25,1472
 Henry Onyekuru,RSC Anderlecht,ATT,1471,0,1471
 Fernando Torres,Atlético de Madrid,ATT,1471,0,1471
-Aleksandr Samedov,Spartak Moscow,MID,1470,0,1470
 Callum McGregor,Celtic,MID,1470,0,1470
-Adama Diakhaby,Monaco,MID,1425,44,1469
-Christian Maggio,Napoli,MID,1425,44,1469
-Fabinho,Monaco,MID,1425,44,1469
-Frank Boeckx,RSC Anderlecht,GK,1468,0,1468
+Jorginho,Napoli,MID,1470,0,1470
+Aleksandr Samedov,Spartak Moscow,MID,1470,0,1470
 Blás Riveros,FC Basel,DEF,1468,0,1468
-Silvio Proto,Olympiakos,GK,1468,0,1468
-Pedro Henrique,FK Qarabag,ATT,1468,0,1468
+Giovani Lo Celso,Paris Saint-Germain,ATT,1458,10,1468
+Rachid Ghezzal,Monaco,ATT,1468,0,1468
+Frank Boeckx,RSC Anderlecht,GK,1468,0,1468
 Raul Jiménez,Benfica,ATT,1468,0,1468
-Julian Weigl,Borussia Dortmund,MID,1425,42,1467
-Álvaro Morata,Chelsea,ATT,1429,36,1465
+Pedro Henrique,FK Qarabag,ATT,1468,0,1468
+Silvio Proto,Olympiakos,GK,1468,0,1468
 William Carvalho,Sporting Lisbon,MID,1440,25,1465
+Diego Demme,RB Leipzig,MID,1440,25,1465
+Victor Moses,Chelsea,MID,1455,10,1465
 Bruno Costa,FC Porto,MID,1455,10,1465
+Davide Zappacosta,Chelsea,MID,1455,10,1465
+Stefano Sturaro,Juventus,MID,1440,25,1465
 Óliver Torres,FC Porto,MID,1455,10,1465
+Nuri Sahin,Borussia Dortmund,MID,1455,10,1465
+Fabrizio Caligara,Juventus,MID,1440,25,1465
+Mahmoud Dahoud,Borussia Dortmund,MID,1455,10,1465
 Maximiliano Pereira,FC Porto,MID,1455,10,1465
 Dmitri Kombarov,Spartak Moscow,DEF,1463,0,1463
-Uros Djurdjevic,Olympiakos,ATT,1463,0,1463
 Andrei Eshchenko,Spartak Moscow,DEF,1463,0,1463
+David Luiz,Chelsea,DEF,1453,10,1463
+Sokratis Papastathopoulos,Borussia Dortmund,DEF,1453,10,1463
+Uros Djurdjevic,Olympiakos,ATT,1463,0,1463
 Michel,FK Qarabag,ATT,1462,0,1462
-Jorge de Oliveira,Monaco,DEF,1418,44,1462
-Djibril Sidibé,Monaco,DEF,1418,44,1462
-Gökhan Gönül,Beşiktaş,DEF,1448,10,1458
-Marcos Acuña,Sporting Lisbon,DEF,1433,25,1458
-Darijo Srna,Shakhtar Donetsk,DEF,1448,10,1458
+Ashley Young,Manchester United,DEF,1448,10,1458
+Nicolas Pareja,Sevilla,DEF,1433,25,1458
+Marcel Schmelzer,Borussia Dortmund,DEF,1448,10,1458
+Lukasz Piszczek,Borussia Dortmund,DEF,1448,10,1458
 Cristiano Piccini,Sporting Lisbon,DEF,1433,25,1458
+Victor Nilsson Lindelöf,Manchester United,DEF,1448,10,1458
 Kirill Nababkin,CSKA Moscow,DEF,1433,25,1458
-Andre Pinto,Sporting Lisbon,DEF,1433,25,1458
+Marcos Acuña,Sporting Lisbon,DEF,1433,25,1458
 Eduardo Salvio,Benfica,ATT,1458,0,1458
+Gökhan Gönül,Beşiktaş,DEF,1448,10,1458
+Andre Pinto,Sporting Lisbon,DEF,1433,25,1458
+Presnel Kimpembe,Paris Saint-Germain,DEF,1448,10,1458
+Darijo Srna,Shakhtar Donetsk,DEF,1448,10,1458
+Eliaquim Mangala,Manchester City,DEF,1433,25,1458
 Facundo Ferreyra,Shakhtar Donetsk,ATT,1446,10,1456
+Koke,Atlético de Madrid,MID,1455,0,1455
+Georgios Efrem,APOEL Nicosia,MID,1455,0,1455
+Ljubomir Fejsa,Benfica,MID,1455,0,1455
+Soualiho Meité,Monaco,MID,1455,0,1455
 Alejandro Grimaldo,Benfica,MID,1455,0,1455
+Stuart Armstrong,Celtic,MID,1455,0,1455
+Franco Cervi,Benfica,MID,1455,0,1455
+Amadou Diawara,Napoli,MID,1455,0,1455
+Youri Tielemans,Monaco,MID,1455,0,1455
+Kevin Bua,FC Basel,MID,1455,0,1455
+Renato Tapia,Feyenoord,MID,1455,0,1455
 Denis Glushakov,Spartak Moscow,MID,1455,0,1455
 Cristian Gamboa,Celtic,MID,1455,0,1455
-Koke,Atlético de Madrid,MID,1455,0,1455
-Stuart Armstrong,Celtic,MID,1455,0,1455
-Ljubomir Fejsa,Benfica,MID,1455,0,1455
-Kevin Bua,FC Basel,MID,1455,0,1455
-Gabi,Atlético de Madrid,MID,1455,0,1455
 Filipe Augusto,Benfica,MID,1455,0,1455
-Franco Cervi,Benfica,MID,1455,0,1455
-Georgios Efrem,APOEL Nicosia,MID,1455,0,1455
 Pieter Gerkens,RSC Anderlecht,MID,1455,0,1455
-Renato Tapia,Feyenoord,MID,1455,0,1455
+Gabi,Atlético de Madrid,MID,1455,0,1455
+Stefan Ilsanker,RB Leipzig,DEF,1428,25,1453
 Taulant Xhaka,FC Basel,MID,1452,0,1452
+Harry Winks,Tottenham Hotspur,MID,1440,10,1450
 Pontus Wernbloom,CSKA Moscow,MID,1425,25,1450
 Viktor Kovalenko,Shakhtar Donetsk,MID,1440,10,1450
-Carlao,APOEL Nicosia,DEF,1448,0,1448
-Bart Nieuwkoop,Feyenoord,DEF,1448,0,1448
-Giorgos Merkis,APOEL Nicosia,DEF,1448,0,1448
-Douglas,Benfica,DEF,1448,0,1448
-Tyrell Malacia,Feyenoord,DEF,1448,0,1448
+Scott McTominay,Manchester United,MID,1440,10,1450
+Matteo Darmian,Manchester United,MID,1440,10,1450
 José Giménez,Atlético de Madrid,DEF,1448,0,1448
+Terence Kongolo,Monaco,DEF,1448,0,1448
+Bart Nieuwkoop,Feyenoord,DEF,1448,0,1448
+Juanfran,Atlético de Madrid,DEF,1448,0,1448
+Dedryck Boyata,Celtic,DEF,1448,0,1448
+Douglas,Benfica,DEF,1448,0,1448
+Diego Godin,Atlético de Madrid,DEF,1448,0,1448
+Almamy Touré,Monaco,DEF,1448,0,1448
+Alexandru Chipciu,RSC Anderlecht,DEF,1448,0,1448
+Giorgos Merkis,APOEL Nicosia,DEF,1448,0,1448
+Tyrell Malacia,Feyenoord,DEF,1448,0,1448
+Ivan Obradovic,RSC Anderlecht,DEF,1448,0,1448
 Roman Zobnin,Spartak Moscow,DEF,1448,0,1448
 Ansi Agolli,FK Qarabag,DEF,1448,0,1448
-Alexandru Chipciu,RSC Anderlecht,DEF,1448,0,1448
-Juanfran,Atlético de Madrid,DEF,1448,0,1448
-Diego Godin,Atlético de Madrid,DEF,1448,0,1448
-Dedryck Boyata,Celtic,DEF,1448,0,1448
-Ivan Obradovic,RSC Anderlecht,DEF,1448,0,1448
+Faouzi Ghoulam,Napoli,DEF,1448,0,1448
+Carlao,APOEL Nicosia,DEF,1448,0,1448
+Nikola Maksimovic,Napoli,DEF,1448,0,1448
 Marko Suler,Maribor,DEF,1448,0,1448
-Kalidou Koulibaly,Napoli,DEF,1403,44,1447
-Jeremy Toljan,Borussia Dortmund,DEF,1403,42,1445
-Diogo Dalot,FC Porto,DEF,1433,10,1443
+Eric Bailly,Manchester United,DEF,1433,10,1443
 Fábio Coentrao,Sporting Lisbon,DEF,1418,25,1443
-Davit Khocholava,Shakhtar Donetsk,DEF,1433,10,1443
+Ben Davies,Tottenham Hotspur,DEF,1433,10,1443
+Thomas Meunier,Paris Saint-Germain,DEF,1433,10,1443
+Danny Rose,Tottenham Hotspur,DEF,1433,10,1443
 Sebastián Coates,Sporting Lisbon,DEF,1418,25,1443
-Jens Toornstra,Feyenoord,MID,1440,0,1440
+Marc Bartra,Borussia Dortmund,DEF,1433,10,1443
+Diogo Dalot,FC Porto,DEF,1433,10,1443
+Davit Khocholava,Shakhtar Donetsk,DEF,1433,10,1443
 Geoffroy Serey Die,FC Basel,MID,1440,0,1440
-Jeremiah St. Juste,Feyenoord,DEF,1438,0,1438
-Nauzet Pérez,APOEL Nicosia,GK,1438,0,1438
-Bradley Jones,Feyenoord,GK,1438,0,1438
-Domagoj Vida,Beşiktaş,DEF,1428,10,1438
-Boy Waterman,APOEL Nicosia,GK,1438,0,1438
+Jesse Lingard,Manchester United,ATT,1430,10,1440
+Vlad Chiriches,Napoli,MID,1440,0,1440
+Jens Toornstra,Feyenoord,MID,1440,0,1440
+Álvaro Morata,Chelsea,ATT,1429,10,1439
 Tonny Vilhena,Feyenoord,ATT,1438,0,1438
-Dimitrios Nikolaou,Olympiakos,DEF,1438,0,1438
+Nauzet Pérez,APOEL Nicosia,GK,1438,0,1438
+Boy Waterman,APOEL Nicosia,GK,1438,0,1438
 Lukasz Teodorczyk,RSC Anderlecht,ATT,1438,0,1438
-Elvin Yunuszade,FK Qarabag,DEF,1433,0,1433
-Ilya Kutepov,Spartak Moscow,DEF,1433,0,1433
+Bradley Jones,Feyenoord,GK,1438,0,1438
+Dimitrios Nikolaou,Olympiakos,DEF,1438,0,1438
+Domagoj Vida,Beşiktaş,DEF,1428,10,1438
+Jeremiah St. Juste,Feyenoord,DEF,1438,0,1438
+Rodrigo Bentancur,Juventus,MID,1410,25,1435
+Julian Weigl,Borussia Dortmund,MID,1425,10,1435
 Eric Botteghin,Feyenoord,DEF,1433,0,1433
-Salvatore Bocchetti,Spartak Moscow,DEF,1433,0,1433
-Nir Bitton,Celtic,DEF,1433,0,1433
-Sven van Beek,Feyenoord,DEF,1433,0,1433
 Anthony Ralston,Celtic,DEF,1433,0,1433
 Serdar Tasci,Spartak Moscow,DEF,1433,0,1433
-Badavi Hüseynov,FK Qarabag,DEF,1433,0,1433
-Raoul Petretta,FC Basel,DEF,1433,0,1433
-Björn Engels,Olympiakos,DEF,1433,0,1433
-Lucas Hernández,Atlético de Madrid,DEF,1433,0,1433
-Léo Lacroix,FC Basel,DEF,1433,0,1433
-Uros Spajic,RSC Anderlecht,DEF,1433,0,1433
+Salvatore Bocchetti,Spartak Moscow,DEF,1433,0,1433
 Rúben Dias,Benfica,DEF,1433,0,1433
+Nir Bitton,Celtic,DEF,1433,0,1433
+Raúl Albiol,Napoli,DEF,1433,0,1433
+Ilya Kutepov,Spartak Moscow,DEF,1433,0,1433
+Sven van Beek,Feyenoord,DEF,1433,0,1433
+Léo Lacroix,FC Basel,DEF,1433,0,1433
+Björn Engels,Olympiakos,DEF,1433,0,1433
+Badavi Hüseynov,FK Qarabag,DEF,1433,0,1433
+Elvin Yunuszade,FK Qarabag,DEF,1433,0,1433
+Lucas Hernández,Atlético de Madrid,DEF,1433,0,1433
+Raoul Petretta,FC Basel,DEF,1433,0,1433
+Uros Spajic,RSC Anderlecht,DEF,1433,0,1433
 Diogo Figueiras,Olympiakos,MID,1430,0,1430
-Sven Kums,RSC Anderlecht,DEF,1428,0,1428
 Stefan Savic,Atlético de Madrid,DEF,1428,0,1428
-Andreas Samaris,Benfica,MID,1425,0,1425
+Sven Kums,RSC Anderlecht,DEF,1428,0,1428
 Lorenzo Ebecilio,APOEL Nicosia,MID,1425,0,1425
+Christian Maggio,Napoli,MID,1425,0,1425
+Adama Diakhaby,Monaco,MID,1425,0,1425
+Fabinho,Monaco,MID,1425,0,1425
 Blaz Vrhovec,Maribor,MID,1425,0,1425
+Andreas Samaris,Benfica,MID,1425,0,1425
 Roland Sallai,APOEL Nicosia,DEF,1423,0,1423
 Sérgio Oliveira,FC Porto,MID,1410,10,1420
 Andre Andre,FC Porto,MID,1410,10,1420
+Djibril Sidibé,Monaco,DEF,1418,0,1418
+Jorge de Oliveira,Monaco,DEF,1418,0,1418
+Jozo Simunovic,Celtic,DEF,1418,0,1418
 Omar Elabdellaoui,Olympiakos,DEF,1418,0,1418
 Leonárdo Koútris,Olympiakos,DEF,1418,0,1418
-Jozo Simunovic,Celtic,DEF,1418,0,1418
 Rashad Sadiqov,FK Qarabag,DEF,1413,0,1413
+Jeremy Toljan,Borussia Dortmund,DEF,1403,10,1413
 André Almeida,Benfica,DEF,1413,0,1413
 Karim El Ahmadi,Feyenoord,MID,1410,0,1410
 Jakub Rzezniczak,FK Qarabag,DEF,1403,0,1403
+Kalidou Koulibaly,Napoli,DEF,1403,0,1403
 Georgiy Dzhikiya,Spartak Moscow,DEF,1388,0,1388

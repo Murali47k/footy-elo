@@ -1218,7 +1218,8 @@ body {
   background: #0f1422;
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: var(--radius-lg);
-  width: min(840px, calc(100vw - 32px));
+  width: min(1000px, calc(100vw - 32px));
+  max-width: min(1000px, calc(100vw - 32px));
   height: 85vh;
   max-height: 85vh;
   margin: auto;
@@ -1233,7 +1234,7 @@ body {
 
 .math-modal-nav {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 6px;
   padding: 12px 12px;
   background: rgba(15, 20, 31, 0.95);

@@ -14,16 +14,38 @@ from elo.def_elo import BASE_ELO, ELO_CONFIG, get_stat_weight, LEAGUE_POSITION_B
 _ROUND_ORDER = ["winner", "final", "semi", "quarter", "r16"]
 
 
-def _load_team_bonus_for_season(season_str: str) -> dict:
+# Which standings folder feeds the bonus for each kind of competition table
+_BONUS_SOURCE = {
+    "league": "leagues",   # domestic league tables  -> league finish bonus ONLY
+    "europe": "europe",    # UCL / UEL tables        -> knockout round bonus ONLY
+}
+
+# File prefixes of the tables that are European competitions
+_EUROPEAN_PREFIXES = ("cl", "el")
+
+
+def _infer_kind(input_csv: str) -> str:
+    """Infer 'league' or 'europe' from a stats filename like pl_2025_2026.csv / cl.csv."""
+    prefix = os.path.splitext(os.path.basename(input_csv))[0].split("_")[0].lower()
+    return "europe" if prefix in _EUROPEAN_PREFIXES else "league"
+
+
+def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
     """
     Scan standings/ JSON files for a specific season and build a
-    { team_name -> total_bonus } map. Returns empty dict if no data found.
+    { team_name -> bonus } map. Returns empty dict if no data found.
+
+    kind = "league" -> only standings/leagues/ (league finish bonus)
+    kind = "europe" -> only standings/europe/  (UCL/UEL knockout bonus)
     """
+    if kind not in _BONUS_SOURCE:
+        raise ValueError(f"Unknown competition kind '{kind}'. Use 'league' or 'europe'.")
+
     standings_dir = os.path.join(project_root, "standings")
     suffix = season_str.replace("/", "_")
     team_bonus: dict[str, int] = {}
 
-    for sub in ("leagues", "europe"):
+    for sub in (_BONUS_SOURCE[kind],):
         pattern = os.path.join(standings_dir, sub, f"*_{suffix}.json")
         for path in glob.glob(pattern):
             try:
@@ -64,12 +86,15 @@ def _load_team_bonus_for_season(season_str: str) -> dict:
     return team_bonus
 
 
-def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = None):
+def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = None,
+                  kind: str = None):
     """
     Calculate ELO ratings from a stats CSV and write to output_csv.
 
-    Standings bonuses (league finish + UCL/UEL knockout) are applied
-    automatically when standings data exists for the season.
+    The standings bonus is competition-specific and applied automatically when
+    standings data exists for the season:
+      - domestic league tables -> league finish bonus only
+      - UCL / UEL tables       -> UCL/UEL knockout round bonus only
 
     Args:
         input_csv    : path to raw stats CSV (tables/*.csv)
@@ -78,6 +103,9 @@ def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = 
                        If None the function tries to infer it from the filename.
         team_bonus   : optional pre-built { team -> bonus } dict (overrides
                        auto-loading from standings/).  Pass {} to skip bonuses.
+        kind         : 'league' or 'europe'. Decides which bonus is applied.
+                       If None it is inferred from the filename (cl*/el* -> 'europe',
+                       everything else -> 'league').
     """
     print(f"Calculating ELO from {input_csv}...")
 
@@ -131,13 +159,15 @@ def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = 
             else:
                 # Current season files have no suffix (e.g. pl.csv -> 2026/2027)
                 season = "2026/2027"
-        team_bonus = _load_team_bonus_for_season(season)
+        if kind is None:
+            kind = _infer_kind(input_csv)
+        team_bonus = _load_team_bonus_for_season(season, kind)
 
     if team_bonus:
         df["STANDINGS_BONUS"] = df["TeamName"].map(team_bonus).fillna(0).astype(int)
         teams_with_bonus = df.loc[df["STANDINGS_BONUS"] > 0, "TeamName"].unique()
         if len(teams_with_bonus):
-            print(f"  📊 Standings bonus applied to {len(teams_with_bonus)} team(s): "
+            print(f"  📊 {kind or 'custom'} bonus applied to {len(teams_with_bonus)} team(s): "
                   f"{', '.join(sorted(teams_with_bonus))}")
     else:
         df["STANDINGS_BONUS"] = 0
