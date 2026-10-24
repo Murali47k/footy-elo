@@ -4,13 +4,19 @@ Footy ELO - Bulk Recalculate Script
 Recalculates all player ELO ratings from the raw statistics files in tables/
 and writes the updated ratings directly to public/elo_tables/.
 
+Standings bonuses (league finish + UCL/UEL) are applied automatically
+when standings JSON files exist in standings/ for the given season.
+Fetch fresh standings first with: python scraper/fetch_standings.py
+
 Run this script anytime changes are made to the ELO formula in elo/calc.py or def_elo.py.
-No network requests are made; all calculations use local table data.
+No network requests are made (unless --fetch-standings is passed).
 
 Usage:
-    python scripts/recalculate_all_elo.py                  # Recalculate all 55 tables
-    python scripts/recalculate_all_elo.py --league pl      # Only Premier League
-    python scripts/recalculate_all_elo.py --season 2026/27 # Only current season
+    python scripts/recalculate_all_elo.py                        # Recalculate all tables
+    python scripts/recalculate_all_elo.py --league pl            # Only Premier League
+    python scripts/recalculate_all_elo.py --season 2026/27       # Only current season
+    python scripts/recalculate_all_elo.py --fetch-standings      # Fetch standings first
+    python scripts/recalculate_all_elo.py --no-bonus             # Skip standings bonuses
 """
 
 import os
@@ -34,21 +40,23 @@ LEAGUES = [
     {'id': 'europa-league', 'file': 'el', 'name': 'Europa League'},
 ]
 
+# (display_label, file_suffix, season_str_for_bonus_lookup)
 SEASONS = [
-    ('current', None),
-    ('2025/2026', '2025_2026'),
-    ('2024/2025', '2024_2025'),
-    ('2023/2024', '2023_2024'),
-    ('2022/2023', '2022_2023'),
-    ('2021/2022', '2021_2022'),
-    ('2020/2021', '2020_2021'),
-    ('2019/2020', '2019_2020'),
-    ('2018/2019', '2018_2019'),
-    ('2017/2018', '2017_2018'),
-    ('2016/2017', '2016_2017'),
+    ('2026/27 (Current)', None,        '2026/2027'),
+    ('2025/2026',         '2025_2026', '2025/2026'),
+    ('2024/2025',         '2024_2025', '2024/2025'),
+    ('2023/2024',         '2023_2024', '2023/2024'),
+    ('2022/2023',         '2022_2023', '2022/2023'),
+    ('2021/2022',         '2021_2022', '2021/2022'),
+    ('2020/2021',         '2020_2021', '2020/2021'),
+    ('2019/2020',         '2019_2020', '2019/2020'),
+    ('2018/2019',         '2018_2019', '2018/2019'),
+    ('2017/2018',         '2017_2018', '2017/2018'),
+    ('2016/2017',         '2016_2017', '2016/2017'),
 ]
 
-def recalculate_tables(league_filter=None, season_filter=None):
+
+def recalculate_tables(league_filter=None, season_filter=None, no_bonus=False):
     tables_dir = os.path.join(PROJECT_ROOT, "tables")
     public_elo_dir = os.path.join(PROJECT_ROOT, "public/elo_tables")
     os.makedirs(public_elo_dir, exist_ok=True)
@@ -60,7 +68,7 @@ def recalculate_tables(league_filter=None, season_filter=None):
             if league_filter.lower() in (l['id'], l['file'], l['name'].lower())
         ]
         if not leagues_to_process:
-            print(f"Error: Unknown league '{league_filter}'. Valid options: pl, laliga, bundesliga, seriea, ligue1")
+            print(f"Error: Unknown league '{league_filter}'. Valid options: pl, laliga, bundesliga, seriea, ligue1, cl, el")
             return
 
     seasons_to_process = SEASONS
@@ -75,9 +83,10 @@ def recalculate_tables(league_filter=None, season_filter=None):
             print(f"Error: Unknown season '{season_filter}'. Valid examples: current, 2025_2026, 2024-25, 2016/2017")
             return
 
+    bonus_note = " (bonuses DISABLED)" if no_bonus else " (bonuses auto-applied from standings/)"
     total_tasks = len(leagues_to_process) * len(seasons_to_process)
     print(f"\n=======================================================")
-    print(f"  Footy ELO Recalculation Engine")
+    print(f"  Footy ELO Recalculation Engine{bonus_note}")
     print(f"  Target: {len(leagues_to_process)} leagues x {len(seasons_to_process)} seasons = {total_tasks} tables")
     print(f"  Output directory: {public_elo_dir}")
     print(f"=======================================================\n")
@@ -91,17 +100,14 @@ def recalculate_tables(league_filter=None, season_filter=None):
         prefix = league['file']
         league_name = league['name']
 
-        for season_label, season_suffix in seasons_to_process:
+        for display_season, season_suffix, season_str in seasons_to_process:
             task_idx += 1
             if season_suffix is None:
-                # Current season 2026/27
                 raw_filename = f"{prefix}.csv"
                 out_filename = f"{prefix}_elo.csv"
-                display_season = "2026/27 (Current)"
             else:
                 raw_filename = f"{prefix}_{season_suffix}.csv"
                 out_filename = f"{prefix}_elo_{season_suffix}.csv"
-                display_season = season_label
 
             raw_path = os.path.join(tables_dir, raw_filename)
             out_path = os.path.join(public_elo_dir, out_filename)
@@ -112,11 +118,16 @@ def recalculate_tables(league_filter=None, season_filter=None):
                 continue
 
             try:
-                # Supress verbose print during bulk recalculate
-                elo_df = calculate_elo(raw_path, out_path)
+                # Pass {} as team_bonus to skip bonuses; None = auto-load from standings/
+                bonus_arg = {} if no_bonus else None
+                elo_df = calculate_elo(
+                    raw_path, out_path,
+                    season=season_str,
+                    team_bonus=bonus_arg,
+                )
                 player_count = len(elo_df)
                 top_player = elo_df.iloc[0]['ParticipantName'] if len(elo_df) > 0 else 'N/A'
-                top_elo = round(elo_df.iloc[0]['ELO']) if len(elo_df) > 0 else 0
+                top_elo = round(elo_df.iloc[0]['ELO_FINAL']) if len(elo_df) > 0 else 0
                 print(f"[{task_idx:2d}/{total_tasks:2d}] OK: {league_name:<15} ({display_season:<17}) -> {player_count} players (Top: {top_player} {top_elo})")
                 success_count += 1
             except Exception as e:
@@ -130,24 +141,48 @@ def recalculate_tables(league_filter=None, season_filter=None):
         print(f"  Skipped (missing raw stats): {missing_count}")
     print(f"-------------------------------------------------------\n")
 
+
 def main():
     parser = argparse.ArgumentParser(
-        description="Recalculate all Footy ELO ratings from existing tables/ data without scraping"
+        description="Recalculate all Footy ELO ratings (standings bonuses applied automatically)"
     )
     parser.add_argument(
-        '--league',
-        type=str,
-        default=None,
-        help="Optional: Filter by league (pl, laliga, bundesliga, seriea, ligue1)"
+        '--league', type=str, default=None,
+        help="Optional: Filter by league (pl, laliga, bundesliga, seriea, ligue1, cl, el)"
     )
     parser.add_argument(
-        '--season',
-        type=str,
-        default=None,
+        '--season', type=str, default=None,
         help="Optional: Filter by season (e.g. current, 2025_2026, 2020/2021)"
     )
+    parser.add_argument(
+        '--fetch-standings', action='store_true',
+        help="Fetch fresh standings from FotMob before recalculating"
+    )
+    parser.add_argument(
+        '--no-bonus', action='store_true',
+        help="Skip standings bonus application (pure stat-based ELO only)"
+    )
     args = parser.parse_args()
-    recalculate_tables(league_filter=args.league, season_filter=args.season)
+
+    # Optionally fetch standings first
+    if args.fetch_standings:
+        from scraper.fetch_standings import fetch_all_standings
+        # Determine which season to fetch
+        target_season = "2025/2026"
+        if args.season:
+            s = args.season.replace("_", "/")
+            if "/" in s and len(s) >= 9:
+                target_season = s
+        print(f"Fetching standings for {target_season} from FotMob...")
+        fetch_all_standings(target_season)
+
+    recalculate_tables(
+        league_filter=args.league,
+        season_filter=args.season,
+        no_bonus=args.no_bonus,
+    )
+
 
 if __name__ == '__main__':
     main()
+
