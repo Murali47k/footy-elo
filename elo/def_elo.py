@@ -26,9 +26,9 @@ STAT_WEIGHTS = {
         "Red cards": -2.0,
         "Clearances per 90": 1.5,
         "Blocks per 90": 1.5,
-        "Interceptions per 90": 3.0,
+        "Interceptions per 90": 2.5,
         "Successful tackles per 90": 2.0,
-        "Accurate long balls per 90": 0.2,
+        "Accurate long balls per 90": 0.3,
         "Clean sheets": 0.9,
         
     },
@@ -51,10 +51,11 @@ STAT_WEIGHTS = {
         "Fouls committed per 90": -0.9,
         "Yellow cards": -1.5,
         "Red cards": -2.0,
-        "Goals per 90": 1.6,
         "Shots on target per 90": 1.0,
         "Successful dribbles per 90": 1.2,
-        "Big chances missed": -0.8,
+        "Big chances missed": -1.0,
+        "Expected goals (xG)": 0.2,
+        "Expected assist (xA)": 0.2,
     }
 }
 
