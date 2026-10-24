@@ -37,6 +37,14 @@ EUROPEAN_BONUS = {
     "r16":          10,
 }
 
+# EUROPEAN_BONUS = {
+#     "winner":      120,
+#     "final":        70,
+#     "semi":         40,
+#     "quarter":      20,
+#     "r16":          10,
+# }
+
 STAT_WEIGHTS = {
     "GK": {
         "Top scorer": 1.5,
