@@ -30,6 +30,8 @@ LEAGUES = [
     {'id': 'bundesliga', 'file': 'bundesliga', 'name': 'Bundesliga'},
     {'id': 'serie-a', 'file': 'seriea', 'name': 'Serie A'},
     {'id': 'ligue-1', 'file': 'ligue1', 'name': 'Ligue 1'},
+    {'id': 'champions-league', 'file': 'cl', 'name': 'Champions League'},
+    {'id': 'europa-league', 'file': 'el', 'name': 'Europa League'},
 ]
 
 SEASONS = [
