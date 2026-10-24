@@ -5,6 +5,38 @@ ELO_CONFIG = {
     "MIN_ELO": 800,  
 }
 
+# ─────────────────────────────────────────────
+# League finish bonuses (applied per player)
+# Position 1 = Champion (+50), scaled linearly
+# down to Position 10 (+2). Outside top 10: 0.
+# ─────────────────────────────────────────────
+LEAGUE_POSITION_BONUS = {
+    1:  50,   # Champion
+    2:  44,
+    3:  38,
+    4:  32,
+    5:  26,
+    6:  20,
+    7:  16,
+    8:  12,
+    9:   6,
+    10:  2,
+}
+
+# ─────────────────────────────────────────────
+# UCL / UEL knockout round bonuses
+# Applied to every player in the squad that
+# reached that round (cumulative best round).
+# UCL and UEL share the same bonus scale.
+# ─────────────────────────────────────────────
+EUROPEAN_BONUS = {
+    "winner":      100,
+    "final":        75,
+    "semi":         50,
+    "quarter":      25,
+    "r16":          10,
+}
+
 STAT_WEIGHTS = {
     "GK": {
         "Top scorer": 1.5,
