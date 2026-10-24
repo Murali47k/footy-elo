@@ -94,8 +94,8 @@ function EloMathModal({ isOpen, onClose }) {
   if (!isOpen) return null;
 
   return (
-    <div className="modal-overlay" onClick={onClose} role="dialog" aria-modal="true">
-      <div className="modal-content math-modal-content" onClick={(e) => e.stopPropagation()}>
+    <div className="modal-backdrop math-modal-backdrop" onClick={onClose} role="dialog" aria-modal="true">
+      <div className="modal-card math-modal-content" onClick={(e) => e.stopPropagation()}>
         {/* Header */}
         <div className="modal-header">
           <div className="modal-title-block">
