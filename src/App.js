@@ -83,7 +83,7 @@ const parseCSV = (text) => {
 
     const cols = parseCSVRow(row);
     if (cols.length >= 4) {
-      const eloVal = parseFloat(cols[3]);
+      const eloVal = parseFloat(cols[5]);
       if (!isNaN(eloVal)) {
         data.push({
           name: cols[0].trim(),
