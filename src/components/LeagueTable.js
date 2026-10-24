@@ -6,8 +6,6 @@ function LeagueTable({
   data,
   isActive,
   lastUpdated,
-  onSyncLeague,
-  syncState,
   currentSeason,
   seasonLabel
 }) {
@@ -17,13 +15,12 @@ function LeagueTable({
   const [sortBy, setSortBy] = useState('elo-desc');
 
   const isCurrentSeason = currentSeason === 'current' || currentSeason === '2026-27';
-  const isSyncing = syncState?.isSyncing && syncState?.leagueId === league.id;
 
   const formatUpdateDate = (dateStr) => {
     if (!dateStr) return 'Not available';
     try {
       const d = new Date(dateStr);
-      return `${format(d, 'MMMM d, yyyy • h:mm a')} (${formatDistanceToNow(d, { addSuffix: true })})`;
+      return `${format(d, 'MMM d, yyyy • h:mm a')} (${formatDistanceToNow(d, { addSuffix: true })})`;
     } catch {
       return dateStr;
     }
@@ -85,11 +82,10 @@ function LeagueTable({
 
   return (
     <div id={`league-panel-${league.id}`} className="league-content-panel active">
-      {/* Chart Banner with Last Updated timestamp */}
+      {/* Chart Banner with Metadata */}
       <div className="chart-header-card">
         <div className="chart-header-left">
           <div className="chart-title-line">
-            <span className="chart-flag">{league.flag}</span>
             <h2 className="chart-title">{league.name} Player Ratings</h2>
             <span className="season-badge">
               {seasonLabel || (isCurrentSeason ? '2026/27 Current' : currentSeason)}
@@ -97,8 +93,7 @@ function LeagueTable({
           </div>
 
           <div className="chart-last-updated-row">
-            <span className="update-calendar-icon">📅</span>
-            <span className="update-label">Chart Last Updated:</span>
+            <span className="update-label">Last updated:</span>
             <span className="update-timestamp-highlight">
               {formatUpdateDate(lastUpdated)}
             </span>
@@ -109,71 +104,41 @@ function LeagueTable({
             )}
           </div>
         </div>
-
-        <div className="chart-header-right">
-          <button
-            id={`btn-sync-chart-${league.id}`}
-            className={`btn-chart-sync ${isSyncing ? 'loading' : ''}`}
-            onClick={() => onSyncLeague(league.id)}
-            disabled={isSyncing || !isCurrentSeason}
-            title={!isCurrentSeason ? "Sync only available for current season (2026/27)" : `Update ${league.name} data`}
-          >
-            <span className={`sync-spin-icon ${isSyncing ? 'spinning' : ''}`}>
-              {isSyncing ? '🔄' : '⚡'}
-            </span>
-            <span>
-              {isSyncing ? `Updating (${syncState.percent}%)` : 'Sync This League'}
-            </span>
-          </button>
-        </div>
       </div>
 
-      {/* Real-time Inline Progress Bar when syncing this league */}
-      {isSyncing && (
-        <div className="inline-progress-card">
-          <div className="inline-progress-top">
-            <span className="inline-step-text">
-              <strong>Updating {league.name}:</strong> {syncState.message}
-            </span>
-            <span className="inline-percent-badge">{syncState.percent}%</span>
-          </div>
-          <div className="progress-track">
-            <div 
-              className="progress-fill" 
-              style={{ width: `${syncState.percent}%` }}
-            />
-          </div>
-        </div>
-      )}
-
-      {/* Top 3 Podium Cards */}
+      {/* Top 3 Leaders Section */}
       {data.length >= 3 && selectedPosition === 'ALL' && !tableSearch && (
-        <div className="podium-section">
-          <div className="podium-heading">
-            <span>🏆</span> League Leaders Podium
+        <div className="leaders-section">
+          <div className="leaders-heading">
+            <span className="leaders-heading-title">Top Rated Players</span>
+            <span className="leaders-heading-sub">{seasonLabel || currentSeason}</span>
           </div>
-          <div className="podium-grid">
+          <div className="leaders-grid">
             {top3.map((player, idx) => {
-              const medals = ['🥇 1st Place', '🥈 2nd Place', '🥉 3rd Place'];
-              const podiumClasses = ['podium-gold', 'podium-silver', 'podium-bronze'];
+              const rankLabels = ['#1', '#2', '#3'];
+              const leaderClasses = ['rank-first', 'rank-second', 'rank-third'];
               const tier = getTierInfo(player.elo);
 
               return (
-                <div key={idx} className={`podium-card ${podiumClasses[idx]}`}>
-                  <div className="podium-medal">{medals[idx]}</div>
-                  <div className="podium-player-name">{player.name}</div>
-                  <div className="podium-club">{player.club}</div>
-                  <div className="podium-meta">
-                    <span className={`position-badge ${getPositionClass(player.position)}`}>
-                      {player.position}
-                    </span>
+                <div key={idx} className={`leader-card ${leaderClasses[idx]}`}>
+                  <div className="leader-card-header">
+                    <span className="leader-rank-badge">{rankLabels[idx]}</span>
                     <span className={`tier-badge ${tier.className}`}>
                       {tier.label}
                     </span>
                   </div>
-                  <div className="podium-elo-display">
-                    <span className="podium-elo-score">{Math.round(player.elo)}</span>
-                    <span className="podium-elo-unit">ELO</span>
+
+                  <div className="leader-player-name">{player.name}</div>
+                  <div className="leader-club">{player.club}</div>
+
+                  <div className="leader-card-footer">
+                    <span className={`position-badge ${getPositionClass(player.position)}`}>
+                      {player.position}
+                    </span>
+                    <div className="leader-elo-display">
+                      <span className="leader-elo-score">{Math.round(player.elo)}</span>
+                      <span className="leader-elo-unit">ELO</span>
+                    </div>
                   </div>
                 </div>
               );
@@ -187,10 +152,10 @@ function LeagueTable({
         <div className="position-filter-tabs">
           {[
             { id: 'ALL', label: 'All Positions' },
-            { id: 'ATT', label: 'Forward (ATT)' },
-            { id: 'MID', label: 'Midfield (MID)' },
-            { id: 'DEF', label: 'Defense (DEF)' },
-            { id: 'GK', label: 'Goalkeeper (GK)' }
+            { id: 'ATT', label: 'Forward' },
+            { id: 'MID', label: 'Midfield' },
+            { id: 'DEF', label: 'Defense' },
+            { id: 'GK', label: 'Goalkeeper' }
           ].map(tab => (
             <button
               key={tab.id}
@@ -204,7 +169,10 @@ function LeagueTable({
 
         <div className="table-search-and-limits">
           <div className="table-quick-search">
-            <span className="search-inline-icon">🔍</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="search-inline-icon">
+              <circle cx="11" cy="11" r="8" />
+              <path d="m21 21-4.3-4.3" />
+            </svg>
             <input
               type="text"
               placeholder="Filter players or clubs..."
@@ -253,15 +221,14 @@ function LeagueTable({
       <div className="table-responsive-container">
         {data.length === 0 ? (
           <div className="table-empty-state">
-            <span className="empty-icon">⏳</span>
+            <div className="empty-spinner"></div>
             <p>Loading {league.name} player ratings for <strong>{seasonLabel || currentSeason}</strong>...</p>
           </div>
         ) : displayedRows.length === 0 ? (
           <div className="table-empty-state">
-            <span className="empty-icon">🔍</span>
             <p>No players matched your filter criteria.</p>
-            <button 
-              className="btn-reset-filters" 
+            <button
+              className="btn-reset-filters"
               onClick={() => { setSelectedPosition('ALL'); setTableSearch(''); }}
             >
               Reset Filters
@@ -274,54 +241,47 @@ function LeagueTable({
                 <th className="th-rank">#</th>
                 <th className="th-player">Player</th>
                 <th className="th-club">Club</th>
-                <th className="th-pos">Position</th>
-                <th className="th-tier">Rating Tier</th>
+                <th className="th-position">Position</th>
+                <th className="th-tier">Tier</th>
                 <th className="th-elo">ELO Rating</th>
               </tr>
             </thead>
             <tbody>
               {displayedRows.map((player, index) => {
+                const rank = index + 1;
                 const tier = getTierInfo(player.elo);
-                const eloPercentage = Math.min(100, Math.max(10, ((player.elo - 800) / (maxElo - 800)) * 100));
+                const pct = Math.min(100, Math.max(15, ((player.elo - 1400) / (maxElo - 1400)) * 100));
 
                 return (
-                  <tr key={`${player.name}-${player.club}-${index}`} className="table-row-item">
+                  <tr key={`${player.name}-${player.club}-${index}`} className="table-row">
                     <td className="td-rank">
-                      {index === 0 && <span className="rank-badge gold">1</span>}
-                      {index === 1 && <span className="rank-badge silver">2</span>}
-                      {index === 2 && <span className="rank-badge bronze">3</span>}
-                      {index > 2 && <span className="rank-number">{index + 1}</span>}
+                      <span className={`rank-number ${rank <= 3 ? `top-${rank}` : ''}`}>
+                        {rank}
+                      </span>
                     </td>
-
                     <td className="td-player">
-                      <div className="player-cell">
-                        <strong className="player-title">{player.name}</strong>
-                      </div>
+                      <span className="player-name-bold">{player.name}</span>
                     </td>
-
                     <td className="td-club">
-                      <span className="club-tag">{player.club}</span>
+                      <span className="club-name-text">{player.club}</span>
                     </td>
-
-                    <td className="td-pos">
+                    <td className="td-position">
                       <span className={`position-badge ${getPositionClass(player.position)}`}>
                         {player.position}
                       </span>
                     </td>
-
                     <td className="td-tier">
                       <span className={`tier-badge ${tier.className}`}>
                         {tier.label}
                       </span>
                     </td>
-
                     <td className="td-elo">
-                      <div className="elo-bar-cell">
-                        <span className="elo-value">{Math.round(player.elo)}</span>
-                        <div className="elo-mini-bar">
-                          <div 
-                            className="elo-mini-fill" 
-                            style={{ width: `${eloPercentage}%` }}
+                      <div className="elo-cell-content">
+                        <span className="elo-value-num">{Math.round(player.elo)}</span>
+                        <div className="elo-bar-track" title={`ELO: ${Math.round(player.elo)}`}>
+                          <div
+                            className={`elo-bar-fill ${tier.className}`}
+                            style={{ width: `${pct}%` }}
                           />
                         </div>
                       </div>
@@ -334,10 +294,16 @@ function LeagueTable({
         )}
       </div>
 
-      <div className="table-footer-summary">
-        Showing <strong>{displayedRows.length}</strong> of <strong>{filteredData.length}</strong> players
-        {selectedPosition !== 'ALL' && ` in position ${selectedPosition}`}
-      </div>
+      {data.length > 0 && (
+        <div className="table-footer-meta">
+          <span>
+            Showing {displayedRows.length} of {filteredData.length} players ({data.length} total)
+          </span>
+          <span className="rating-scale-hint">
+            Scale: 1700+ World Class • 1600+ Elite • 1500+ Pro • &lt;1500 Solid
+          </span>
+        </div>
+      )}
     </div>
   );
 }

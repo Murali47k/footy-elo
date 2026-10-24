@@ -201,10 +201,10 @@ function App() {
     return () => clearInterval(healthInterval);
   }, [loadAllLeagues, fetchMetadata, checkServerHealth]);
 
-  // When season changes, reload active league immediately
+  // When season changes, reload all leagues for global search
   useEffect(() => {
-    loadLeagueData(activeLeague, currentSeason);
-  }, [activeLeague, currentSeason, loadLeagueData]);
+    loadAllLeagues();
+  }, [currentSeason, loadAllLeagues]);
 
   // Triggered when user wants to sync a league (Current Season 2026/27 only)
   const handleSyncLeague = useCallback((leagueId) => {
@@ -212,7 +212,7 @@ function App() {
     if (!leagueObj) return;
 
     if (currentSeason !== 'current' && currentSeason !== '2026-27') {
-      alert('⚠️ Live syncing is only available for the Current Season (2026/27). Historical seasons are static archives.');
+      alert('Live syncing is only available for Current Season (2026/27). Historical seasons are static snapshots.');
       return;
     }
 
@@ -265,17 +265,17 @@ function App() {
     };
   }, [currentSeason, loadLeagueData, fetchMetadata]);
 
-  // Global search across all loaded leagues (current season only)
-  const handleSearch = (term) => {
+  // Global search across all loaded leagues
+  const handleSearch = useCallback((term) => {
     setSearchTerm(term);
-    if (!term.trim()) {
+    if (!term || !term.trim()) {
       setSearchResult(null);
       return;
     }
 
     const q = term.toLowerCase().trim();
     let bestMatch = null;
-    let foundLeague = null;
+    let foundLeagueObj = null;
 
     for (const league of LEAGUES) {
       const key = `${league.id}:${currentSeason}`;
@@ -283,18 +283,27 @@ function App() {
       const match = players.find(p => p.name.toLowerCase().includes(q));
       if (match) {
         bestMatch = match;
-        foundLeague = league.id;
+        foundLeagueObj = league;
         break;
       }
     }
 
-    if (bestMatch && foundLeague) {
-      setSearchResult({ player: bestMatch, leagueId: foundLeague });
-      setActiveLeague(foundLeague);
+    if (bestMatch && foundLeagueObj) {
+      setSearchResult({
+        success: true,
+        player: bestMatch,
+        leagueId: foundLeagueObj.id,
+        leagueName: foundLeagueObj.name
+      });
+      setActiveLeague(foundLeagueObj.id);
     } else {
-      setSearchResult({ notFound: true, query: term });
+      setSearchResult({
+        success: false,
+        notFound: true,
+        query: term
+      });
     }
-  };
+  }, [currentSeason, leagueData]);
 
   const handleClearSearch = () => {
     setSearchTerm('');
@@ -311,7 +320,6 @@ function App() {
         onLeagueChange={(id) => { setActiveLeague(id); }}
         onOpenSyncModal={() => setIsSyncModalOpen(true)}
         syncState={syncState}
-        onQuickSync={handleSyncLeague}
         serverOnline={serverOnline}
         currentSeason={currentSeason}
       />
@@ -320,6 +328,7 @@ function App() {
         <SearchSection
           searchTerm={searchTerm}
           onSearchChange={handleSearch}
+          onSearch={() => handleSearch(searchTerm)}
           onClearSearch={handleClearSearch}
           searchResult={searchResult}
         />
@@ -328,7 +337,7 @@ function App() {
           <div className="season-selector-bar">
             <div className="season-selector-left">
               <span className="league-indicator-title">
-                {activeLeagueObj.flag} {activeLeagueObj.name}
+                {activeLeagueObj.name}
               </span>
             </div>
 
@@ -356,8 +365,6 @@ function App() {
             data={currentData}
             isActive={true}
             lastUpdated={activeLeagueMeta.lastUpdated}
-            onSyncLeague={handleSyncLeague}
-            syncState={syncState}
             currentSeason={currentSeason}
             seasonLabel={activeSeasonObj.label}
           />
@@ -377,10 +384,10 @@ function App() {
       <footer className="app-footer">
         <div className="footer-content">
           <p className="footer-title">
-            ⚽ <strong>Footy ELO Rating Engine</strong> • Position-Normalized Player Ratings (2016/17 – 2026/27)
+            <strong>Footy ELO Rating Engine</strong> • Position-Normalized Player Ratings (2016/17 – 2026/27)
           </p>
           <p className="footer-sub">
-            Current Active Season: <strong>2026/27</strong> • Europe's Top 5 Leagues • Powered by FotMob Opta statistics.
+            Current Active Season: <strong>2026/27</strong> • Europe's Top 5 Leagues • Powered by FotMob Opta statistics
           </p>
         </div>
       </footer>

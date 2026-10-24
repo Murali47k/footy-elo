@@ -29,13 +29,10 @@ function SyncModal({
       <div className="modal-card" onClick={(e) => e.stopPropagation()}>
         <div className="modal-header">
           <div className="modal-title-group">
-            <span className="modal-icon">⚡</span>
-            <div>
-              <h2 className="modal-title">League Sync Center</h2>
-              <p className="modal-subtitle">
-                Sync live player statistics from FotMob & recompute ELO ratings for Current Season (2026/27)
-              </p>
-            </div>
+            <h2 className="modal-title">League Sync Center</h2>
+            <p className="modal-subtitle">
+              Sync live player statistics from FotMob & recompute ELO ratings for Current Season (2026/27)
+            </p>
           </div>
           <button className="modal-close-btn" onClick={onClose} aria-label="Close modal">
             ✕
@@ -43,15 +40,15 @@ function SyncModal({
         </div>
 
         {!isCurrentSeason && (
-          <div className="modal-alert-warning">
-            ⚠️ Live syncing is only available for the <strong>Current Season (2026/27)</strong>. Historical seasons are static snapshots.
+          <div className="modal-alert-notice">
+            Live syncing is only available for the <strong>Current Season (2026/27)</strong>. Historical seasons are static snapshots.
           </div>
         )}
 
         {syncState?.isSyncing && (
           <div className="live-sync-banner">
             <div className="live-sync-header">
-              <span className="live-sync-spin">🔄</span>
+              <span className="live-sync-spinner"></span>
               <span className="live-sync-title">
                 Syncing {syncState.leagueName || 'League'}...
               </span>
@@ -80,7 +77,6 @@ function SyncModal({
               >
                 <div className="sync-league-info">
                   <div className="sync-league-name-row">
-                    <span className="sync-league-flag">{league.flag}</span>
                     <span className="sync-league-name">{league.name}</span>
                     {leagueMeta.playerCount > 0 && (
                       <span className="sync-player-badge">
@@ -98,49 +94,32 @@ function SyncModal({
 
                 <div className="sync-league-action">
                   <button
-                    id={`btn-sync-${league.id}`}
-                    className={`btn-sync-single ${isThisSyncing ? 'loading' : ''}`}
+                    className={`btn-sync-action ${isThisSyncing ? 'loading' : ''} ${hasError ? 'error' : ''}`}
                     onClick={() => onSyncLeague(league.id)}
                     disabled={syncState?.isSyncing || !isCurrentSeason}
                   >
                     {isThisSyncing ? (
                       <>
-                        <span className="spin-inline">🔄</span> {syncState.percent}%
+                        <span className="button-spinner"></span>
+                        <span>{syncState.percent}%</span>
                       </>
+                    ) : hasError ? (
+                      'Retry'
                     ) : (
-                      <>
-                        <span>⚡</span> Sync League
-                      </>
+                      'Sync'
                     )}
                   </button>
                 </div>
-
-                {isThisSyncing && (
-                  <div className="sync-row-progress-container">
-                    <div className="progress-track mini">
-                      <div 
-                        className="progress-fill" 
-                        style={{ width: `${syncState.percent}%` }}
-                      />
-                    </div>
-                  </div>
-                )}
-
-                {hasError && (
-                  <div className="sync-row-error">
-                    ❌ {syncState.message}
-                  </div>
-                )}
               </div>
             );
           })}
         </div>
 
         <div className="modal-footer">
-          <p className="modal-note">
-            💡 <strong>Why per-league?</strong> Fetching all 5 leagues simultaneously (150+ metrics) causes network timeouts. Syncing per league is fast, reliable, and prevents crashes.
+          <p className="modal-footer-hint">
+            Each sync fetches FotMob per-90 metrics, calculates normalized ELO scores across positions, and refreshes the table instantly.
           </p>
-          <button className="btn-done" onClick={onClose}>
+          <button className="btn-modal-done" onClick={onClose}>
             Close
           </button>
         </div>
