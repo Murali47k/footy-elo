@@ -1,534 +1,534 @@
 ParticipantName,TeamName,Position,ELO,STANDINGS_BONUS,ELO_FINAL
-Mason Greenwood,Marseille,ATT,1766,44,1810
-Ousmane Dembélé,Paris Saint-Germain,ATT,1733,50,1783
+Mason Greenwood,Marseille,ATT,1766,50,1816
+Ousmane Dembélé,Paris Saint-Germain,ATT,1733,66,1799
+Joao Neves,Paris Saint-Germain,MID,1703,66,1769
+Luis Henrique,Marseille,MID,1715,50,1765
+Kang-In Lee,Paris Saint-Germain,MID,1698,66,1764
 Gaëtan Perrin,Auxerre,MID,1760,0,1760
-Luis Henrique,Marseille,MID,1715,44,1759
 Yehvann Diouf,Reims,GK,1757,0,1757
-Joao Neves,Paris Saint-Germain,MID,1703,50,1753
-Lucas Chevalier,Lille,GK,1722,26,1748
-Kang-In Lee,Paris Saint-Germain,MID,1698,50,1748
-Vitinha,Paris Saint-Germain,MID,1689,50,1739
-Fabián Ruiz,Paris Saint-Germain,MID,1670,50,1720
+Vitinha,Paris Saint-Germain,MID,1689,66,1755
+Lucas Chevalier,Lille,GK,1722,24,1746
+Fabián Ruiz,Paris Saint-Germain,MID,1670,66,1736
 Brice Samba,Rennes,GK,1719,0,1719
 Arnaud Kalimuendo-Muinga,Rennes,ATT,1718,0,1718
 Rayan Cherki,Lyon,ATT,1689,20,1709
+Amine Gouiri,Marseille,ATT,1655,50,1705
 Djordje Petrovic,Strasbourg,GK,1686,16,1702
-Amine Gouiri,Marseille,ATT,1655,44,1699
 Lucas Perri,Lyon,GK,1677,20,1697
-Thilo Kehrer,Monaco,DEF,1643,38,1681
-Achraf Hakimi,Paris Saint-Germain,DEF,1624,50,1674
+Achraf Hakimi,Paris Saint-Germain,DEF,1625,66,1691
+Thilo Kehrer,Monaco,DEF,1648,38,1686
 Evann Guessand,Nice,ATT,1636,32,1668
 Dilane Bakwa,Strasbourg,MID,1649,16,1665
 Gaëtan Laborde,Nice,ATT,1632,32,1664
+Pierre-Emile Højbjerg,Marseille,MID,1612,50,1662
 Donovan Léon,Auxerre,GK,1662,0,1662
 Yahia Fofana,Angers,GK,1662,0,1662
 Moses Simon,Nantes,ATT,1657,0,1657
 Marcin Bulka,Nice,GK,1624,32,1656
-Pierre-Emile Højbjerg,Marseille,MID,1612,44,1656
+Bradley Barcola,Paris Saint-Germain,ATT,1589,66,1655
 Denis Zakaria,Monaco,MID,1615,38,1653
 Mika Biereth,Monaco,ATT,1612,38,1650
 Neil El Aynaoui,Lens,MID,1633,12,1645
+Désiré Doué,Paris Saint-Germain,ATT,1578,66,1644
 Lucas Stassin,St Etienne,ATT,1644,0,1644
 Florian Tardieu,St Etienne,MID,1644,0,1644
 Abdoulaye Touré,Le Havre,MID,1641,0,1641
-Bradley Barcola,Paris Saint-Germain,ATT,1589,50,1639
+Jubal,Auxerre,DEF,1634,0,1634
 Jonathan Clauss,Nice,MID,1602,32,1634
-Jubal,Auxerre,DEF,1631,0,1631
+Willian Pacho,Paris Saint-Germain,DEF,1568,66,1634
+Ainsley Maitland-Niles,Lyon,DEF,1611,20,1631
 Eliesse Ben Seghir,Monaco,ATT,1592,38,1630
-Ainsley Maitland-Niles,Lyon,DEF,1610,20,1630
+Marquinhos,Paris Saint-Germain,DEF,1562,66,1628
 Andrey Santos,Strasbourg,MID,1612,16,1628
-Désiré Doué,Paris Saint-Germain,ATT,1578,50,1628
+Caio Henrique,Monaco,DEF,1589,38,1627
 Georges Mikautadze,Lyon,ATT,1606,20,1626
-Caio Henrique,Monaco,DEF,1588,38,1626
 Ali Abdi,Nice,MID,1593,32,1625
-Gabriel Suazo,Toulouse,MID,1618,2,1620
-Jonathan David,Lille,ATT,1593,26,1619
-Willian Pacho,Paris Saint-Germain,DEF,1567,50,1617
-Quentin Merlin,Marseille,MID,1572,44,1616
-Mickael Nade,St Etienne,DEF,1615,0,1615
-Wilfried Singo,Monaco,DEF,1576,38,1614
-Romain Del Castillo,Brest,ATT,1607,6,1613
+Nuno Mendes,Paris Saint-Germain,DEF,1558,66,1624
+Gabriel Suazo,Toulouse,MID,1618,4,1622
+Quentin Merlin,Marseille,MID,1572,50,1622
+Warren Zaire-Emery,Paris Saint-Germain,MID,1552,66,1618
+Jonathan David,Lille,ATT,1593,24,1617
+Wilfried Singo,Monaco,DEF,1579,38,1617
+Charlie Cresswell,Toulouse,DEF,1613,4,1617
+Mickael Nade,St Etienne,DEF,1616,0,1616
+Romain Del Castillo,Brest,ATT,1607,8,1615
+Valentin Rongier,Marseille,MID,1563,50,1613
+Adrien Rabiot,Marseille,ATT,1563,50,1613
 Maghnes Akliouche,Monaco,ATT,1575,38,1613
-Charlie Cresswell,Toulouse,DEF,1610,2,1612
-Valentin Rongier,Marseille,MID,1563,44,1607
-Adrien Rabiot,Marseille,ATT,1563,44,1607
-Youssouf Ndayishimiye,Nice,DEF,1575,32,1607
-Nuno Mendes,Paris Saint-Germain,DEF,1555,50,1605
-Marquinhos,Paris Saint-Germain,DEF,1554,50,1604
-Ulisses Garcia,Marseille,DEF,1559,44,1603
-Warren Zaire-Emery,Paris Saint-Germain,MID,1552,50,1602
+Ulisses Garcia,Marseille,DEF,1559,50,1609
+Senny Mayulu,Paris Saint-Germain,MID,1543,66,1609
+Youssouf Ndayishimiye,Nice,DEF,1577,32,1609
+Malang Sarr,Lens,DEF,1594,12,1606
 Zuriko Davitashvili,St Etienne,ATT,1601,0,1601
-Przemyslaw Frankowski,Lens,DEF,1588,12,1600
+Przemyslaw Frankowski,Lens,DEF,1589,12,1601
+Khvicha Kvaratskhelia,Paris Saint-Germain,ATT,1535,66,1601
 Diego Moreira,Strasbourg,MID,1583,16,1599
-Malang Sarr,Lens,DEF,1586,12,1598
 Tom Louchet,Nice,MID,1565,32,1597
+Amir Murillo,Marseille,DEF,1547,50,1597
 Adrien Thomasson,Lens,MID,1582,12,1594
-Senny Mayulu,Paris Saint-Germain,MID,1543,50,1593
-Amir Murillo,Marseille,DEF,1548,44,1592
-Osame Sahraoui,Lille,ATT,1563,26,1589
-Khvicha Kvaratskhelia,Paris Saint-Germain,ATT,1535,50,1585
-Saidou Sow,Strasbourg,DEF,1568,16,1584
+Osame Sahraoui,Lille,ATT,1563,24,1587
+Sinaly Diomandé,Auxerre,DEF,1586,0,1586
+Joseph Okumu,Reims,DEF,1586,0,1586
+Saidou Sow,Strasbourg,DEF,1570,16,1586
+Gautier Lloris,Le Havre,DEF,1585,0,1585
+Vanderson,Monaco,DEF,1546,38,1584
 Sofiane Diop,Nice,ATT,1552,32,1584
-Sinaly Diomandé,Auxerre,DEF,1583,0,1583
 Philipp Köhn,Monaco,GK,1545,38,1583
-Gautier Lloris,Le Havre,DEF,1582,0,1582
+Florent Hanin,Angers,DEF,1582,0,1582
+Goncalo Ramos,Paris Saint-Germain,ATT,1515,66,1581
 Abakar Sylla,Strasbourg,DEF,1564,16,1580
-Vanderson,Monaco,DEF,1542,38,1580
-Florent Hanin,Angers,DEF,1579,0,1579
+Geoffrey Kondogbia,Marseille,DEF,1530,50,1580
 Habib Diarra,Strasbourg,MID,1563,16,1579
-Joseph Okumu,Reims,DEF,1578,0,1578
-Mahdi Camara,Brest,MID,1569,6,1575
-Jordan Lefort,Angers,DEF,1575,0,1575
-Moise Bombito,Nice,DEF,1542,32,1574
+Jordan Lefort,Angers,DEF,1578,0,1578
+Moise Bombito,Nice,DEF,1546,32,1578
+Mahdi Camara,Brest,MID,1569,8,1577
+Djibril Sidibé,Toulouse,DEF,1570,4,1574
 Tanguy Ndombélé,Nice,MID,1541,32,1573
-Geoffrey Kondogbia,Marseille,DEF,1529,44,1573
+Pol Lirola,Marseille,DEF,1522,50,1572
 Malick Fofana,Lyon,ATT,1552,20,1572
-Djibril Sidibé,Toulouse,DEF,1568,2,1570
+Vincent Sierro,Toulouse,MID,1567,4,1571
 Nemanja Matic,Lyon,MID,1550,20,1570
-Vincent Sierro,Toulouse,MID,1567,2,1569
 Sebastian Nanasi,Strasbourg,ATT,1553,16,1569
-Abdoul Ouattara,Strasbourg,MID,1553,16,1569
+Amine Harit,Marseille,ATT,1519,50,1569
 Emmanuel Biumla,Angers,DEF,1569,0,1569
-Pol Lirola,Marseille,DEF,1524,44,1568
-Badredine Bouanani,Nice,ATT,1535,32,1567
+Abdoul Ouattara,Strasbourg,MID,1553,16,1569
+Geronimo Rulli,Marseille,GK,1519,50,1569
 Abner,Lyon,DEF,1547,20,1567
-Dylan Batubinsika,St Etienne,DEF,1566,0,1566
-Goncalo Ramos,Paris Saint-Germain,ATT,1515,50,1565
+Dylan Batubinsika,St Etienne,DEF,1567,0,1567
+Badredine Bouanani,Nice,ATT,1535,32,1567
+Gabriel Osho,Auxerre,DEF,1567,0,1567
+Abdoulaye N'Diaye,Brest,DEF,1558,8,1566
+Kenny Lala,Brest,DEF,1558,8,1566
+Clinton Mata,Lyon,DEF,1546,20,1566
+Mark McKenzie,Toulouse,DEF,1562,4,1566
 Ismael Kone,Rennes,MID,1565,0,1565
-Clinton Mata,Lyon,DEF,1545,20,1565
-Gabriel Osho,Auxerre,DEF,1564,0,1564
-Melvin Bard,Nice,DEF,1532,32,1564
-Amine Harit,Marseille,ATT,1519,44,1563
-Geronimo Rulli,Marseille,GK,1519,44,1563
+Melvin Bard,Nice,DEF,1533,32,1565
 Matthis Abline,Nantes,ATT,1562,0,1562
-Mark McKenzie,Toulouse,DEF,1560,2,1562
 Baptiste Santamaria,Nice,MID,1529,32,1561
+Moussa Niakhaté,Lyon,DEF,1540,20,1560
 Lamine Camara,Monaco,MID,1522,38,1560
-Bafodé Diakité,Lille,DEF,1533,26,1559
+Bafodé Diakité,Lille,DEF,1536,24,1560
 Hamed Traorè,Auxerre,ATT,1559,0,1559
-Abdoulaye N'Diaye,Brest,DEF,1553,6,1559
-Kenny Lala,Brest,DEF,1553,6,1559
-Moussa Niakhaté,Lyon,DEF,1538,20,1558
+Edimilson Fernandes,Brest,MID,1551,8,1559
 Esteban Lepaul,Angers,ATT,1558,0,1558
-Edimilson Fernandes,Brest,MID,1551,6,1557
 Alexandre Lacazette,Lyon,ATT,1536,20,1556
 Keito Nakamura,Reims,ATT,1556,0,1556
-Edon Zhegrova,Lille,ATT,1529,26,1555
-Azor Matusiwa,Rennes,MID,1554,0,1554
 Léo Pétrot,St Etienne,DEF,1554,0,1554
-Yann Gboho,Toulouse,ATT,1550,2,1552
+Yann Gboho,Toulouse,ATT,1550,4,1554
+Lilian Brassier,Rennes,DEF,1554,0,1554
+Azor Matusiwa,Rennes,MID,1554,0,1554
+Edon Zhegrova,Lille,ATT,1529,24,1553
 Issa Soumaré,Le Havre,ATT,1552,0,1552
 Youssoufa Moukoko,Nice,ATT,1520,32,1552
-Lilian Brassier,Rennes,DEF,1551,0,1551
-Mahamadou Diawara,Le Havre,MID,1549,0,1549
+Brendan Chardonnet,Brest,DEF,1543,8,1551
+Marco Asensio,Paris Saint-Germain,ATT,1484,66,1550
 Tanner Tessmann,Lyon,MID,1529,20,1549
 Corentin Tolisso,Lyon,ATT,1529,20,1549
+Mahamadou Diawara,Le Havre,MID,1549,0,1549
 Mohamed-Ali Cho,Nice,ATT,1517,32,1549
 Becir Omeragic,Montpellier,DEF,1547,0,1547
+Abdoulaye Bamba,Angers,DEF,1547,0,1547
+Mamadou Sarr,Strasbourg,DEF,1531,16,1547
 Folarin Balogun,Monaco,ATT,1509,38,1547
-Adrien Truffert,Rennes,DEF,1547,0,1547
-Abdoulaye Bamba,Angers,DEF,1546,0,1546
-Sergio Akieme,Reims,DEF,1546,0,1546
 Aleksandr Golovin,Monaco,ATT,1508,38,1546
-Gabriel Gudmundsson,Lille,DEF,1520,26,1546
+Adrien Truffert,Rennes,DEF,1546,0,1546
+Lucas Beraldo,Paris Saint-Germain,DEF,1479,66,1545
 Antoine Mendy,Nice,DEF,1513,32,1545
-Mamadou Sarr,Strasbourg,DEF,1529,16,1545
-Christian Mawissa,Monaco,DEF,1507,38,1545
-Brendan Chardonnet,Brest,DEF,1538,6,1544
-Jonas Martin,Brest,MID,1537,6,1543
-Thomas Meunier,Lille,DEF,1516,26,1542
+Sergio Akieme,Reims,DEF,1545,0,1545
+Jonas Martin,Brest,MID,1537,8,1545
+Yoram Zague,Paris Saint-Germain,DEF,1478,66,1544
+Christian Mawissa,Monaco,DEF,1506,38,1544
+Gabriel Gudmundsson,Lille,DEF,1520,24,1544
+Noham Kamara,Paris Saint-Germain,DEF,1478,66,1544
+Presnel Kimpembe,Paris Saint-Germain,DEF,1478,66,1544
+Thomas Meunier,Lille,DEF,1518,24,1542
 Haris Belkebla,Angers,MID,1542,0,1542
 Said Benrahma,Lyon,MID,1521,20,1541
-Timothée Pembélé,Le Havre,DEF,1540,0,1540
 Andy Diouf,Lens,MID,1528,12,1540
+Jonathan Gradit,Lens,DEF,1528,12,1540
 Morgan Sanson,Nice,MID,1507,32,1539
-Hákon Arnar Haraldsson,Lille,ATT,1512,26,1538
-Gideon Mensah,Auxerre,MID,1538,0,1538
+Aissa Mandi,Lille,DEF,1515,24,1539
+Matvey Safonov,Paris Saint-Germain,GK,1473,66,1539
+Timothée Pembélé,Le Havre,DEF,1539,0,1539
 Bahereba Guirassy,Nantes,ATT,1538,0,1538
-Chuba Akpom,Lille,ATT,1511,26,1537
-Jonathan Gradit,Lens,DEF,1524,12,1536
+Gideon Mensah,Auxerre,MID,1538,0,1538
+Keyliane Abdallah,Marseille,ATT,1487,50,1537
+Joshua King,Toulouse,ATT,1533,4,1537
+Hákon Arnar Haraldsson,Lille,ATT,1512,24,1536
+Cedric Kipre,Reims,DEF,1536,0,1536
 Pierre Ekwah,St Etienne,MID,1535,0,1535
-Aissa Mandi,Lille,DEF,1509,26,1535
-Joshua King,Toulouse,ATT,1533,2,1535
-Marco Asensio,Paris Saint-Germain,ATT,1484,50,1534
+Chuba Akpom,Lille,ATT,1511,24,1535
+Nathan Zeze,Nantes,DEF,1535,0,1535
 George Ilenikhena,Monaco,ATT,1496,38,1534
-Cedric Kipre,Reims,DEF,1533,0,1533
+Jonathan Rowe,Marseille,ATT,1484,50,1534
+Yanis Zouaoui,Le Havre,DEF,1533,0,1533
 Ludovic Blas,Rennes,ATT,1532,0,1532
+Guéla Doué,Strasbourg,DEF,1516,16,1532
+Randal Kolo Muani,Paris Saint-Germain,ATT,1466,66,1532
 Assane Dioussé,Auxerre,MID,1531,0,1531
-Nathan Zeze,Nantes,DEF,1531,0,1531
-Keyliane Abdallah,Marseille,ATT,1487,44,1531
-Yanis Zouaoui,Le Havre,DEF,1531,0,1531
-Guéla Doué,Strasbourg,DEF,1515,16,1531
-Yoram Zague,Paris Saint-Germain,DEF,1480,50,1530
-Jeremie Boga,Nice,ATT,1498,32,1530
-Noham Kamara,Paris Saint-Germain,DEF,1480,50,1530
-Presnel Kimpembe,Paris Saint-Germain,DEF,1480,50,1530
 Mathew Ryan,Lens,GK,1518,12,1530
+Jaydee Canvot,Toulouse,DEF,1526,4,1530
 Dennis Appiah,St Etienne,DEF,1530,0,1530
-Nicolás Tagliafico,Lyon,DEF,1509,20,1529
-Lilian Rao-Lisoa,Angers,DEF,1528,0,1528
-Romain Faivre,Brest,ATT,1522,6,1528
-Jonathan Rowe,Marseille,ATT,1484,44,1528
+Romain Faivre,Brest,ATT,1522,8,1530
+Nicolás Tagliafico,Lyon,DEF,1510,20,1530
+Jeremie Boga,Nice,ATT,1498,32,1530
+Axel Tape-Kobrissa,Paris Saint-Germain,DEF,1463,66,1529
+Milan Skriniar,Paris Saint-Germain,DEF,1463,66,1529
+Alexi Koum,Marseille,DEF,1478,50,1528
+Robinio Vaz,Marseille,ATT,1478,50,1528
+Amar Dedic,Marseille,DEF,1478,50,1528
 Himad Abdelli,Angers,ATT,1528,0,1528
-Ayyoub Bouaddi,Lille,MID,1501,26,1527
-Jaydee Canvot,Toulouse,DEF,1525,2,1527
+Neal Maupay,Marseille,ATT,1478,50,1528
 Ernest Nuamah,Lyon,ATT,1507,20,1527
-Kévin Danois,Auxerre,MID,1527,0,1527
 Félix Lemaréchal,Strasbourg,ATT,1511,16,1527
-Younes Lachaab,Lille,Code_3,1500,26,1526
-Saimon Bouabre,Monaco,ATT,1487,38,1525
+Kévin Danois,Auxerre,MID,1527,0,1527
+Lilian Rao-Lisoa,Angers,DEF,1527,0,1527
+Issiaga Sylla,Montpellier,DEF,1526,0,1526
 Moatasem Al Musrati,Monaco,MID,1487,38,1525
-Lucas Beraldo,Paris Saint-Germain,DEF,1475,50,1525
-Issiaga Sylla,Montpellier,DEF,1524,0,1524
-Alexi Koum,Marseille,DEF,1480,44,1524
-Amar Dedic,Marseille,DEF,1480,44,1524
+Saimon Bouabre,Monaco,ATT,1487,38,1525
+Ayyoub Bouaddi,Lille,MID,1501,24,1525
+Younes Lachaab,Lille,Code_3,1500,24,1524
 Junya Ito,Reims,ATT,1524,0,1524
-Matvey Safonov,Paris Saint-Germain,GK,1473,50,1523
-Robinio Vaz,Marseille,ATT,1478,44,1522
-Krepin Diatta,Monaco,DEF,1484,38,1522
-Neal Maupay,Marseille,ATT,1478,44,1522
+Bilal Nadir,Marseille,ATT,1474,50,1524
+Krepin Diatta,Monaco,DEF,1485,38,1523
+Hans Hateboer,Rennes,DEF,1523,0,1523
+Darryl Bakola,Marseille,ATT,1472,50,1522
+Valentin Carboni,Marseille,ATT,1472,50,1522
 Jordan Veretout,Lyon,MID,1502,20,1522
+Enzo Sternal,Marseille,ATT,1472,50,1522
 Antoine Joujou,Le Havre,MID,1521,0,1521
-Mamadou Diakhon,Reims,ATT,1521,0,1521
-Junior Mwanga,Le Havre,MID,1521,0,1521
 Samuel Amo-Ameyaw,Strasbourg,ATT,1505,16,1521
+Junior Mwanga,Le Havre,MID,1521,0,1521
+Mamadou Diakhon,Reims,ATT,1521,0,1521
 Victor Orakpo,Nice,ATT,1488,32,1520
-Hans Hateboer,Rennes,DEF,1520,0,1520
-Billal Brahimi,Nice,ATT,1487,32,1519
+Ibrahim Mbaye,Paris Saint-Germain,ATT,1454,66,1520
+Ibrahim Salah,Brest,ATT,1512,8,1520
 Bernard Nguene,Nice,ATT,1487,32,1519
-Ibrahim Salah,Brest,ATT,1512,6,1518
-Ismail Jakobs,Monaco,DEF,1480,38,1518
-Bilal Nadir,Marseille,ATT,1474,44,1518
+Billal Brahimi,Nice,ATT,1487,32,1519
+Nicolas Pallois,Nantes,DEF,1519,0,1519
 Carlens Arcus,Angers,DEF,1518,0,1518
+Elye Wahi,Marseille,ATT,1468,50,1518
 Lucas Michal,Monaco,ATT,1479,38,1517
-Matias Fernandez-Pardo,Lille,ATT,1490,26,1516
-André Gomes,Lille,MID,1490,26,1516
-Nicolas Pallois,Nantes,DEF,1516,0,1516
-Darryl Bakola,Marseille,ATT,1472,44,1516
+Ismail Jakobs,Monaco,DEF,1478,38,1516
 Takumi Minamino,Monaco,ATT,1478,38,1516
-Randal Kolo Muani,Paris Saint-Germain,ATT,1466,50,1516
-Valentin Carboni,Marseille,ATT,1472,44,1516
-Enzo Sternal,Marseille,ATT,1472,44,1516
+Kamory Doumbia,Brest,ATT,1507,8,1515
 Gift Orban,Lyon,ATT,1495,20,1515
-Milan Skriniar,Paris Saint-Germain,DEF,1465,50,1515
-Axel Tape-Kobrissa,Paris Saint-Germain,DEF,1465,50,1515
+Matias Fernandez-Pardo,Lille,ATT,1490,24,1514
+Miha Zajc,Toulouse,MID,1510,4,1514
+Lucas Hernández,Paris Saint-Germain,DEF,1448,66,1514
+Étienne Youté Kinkoué,Le Havre,DEF,1514,0,1514
+André Gomes,Lille,MID,1490,24,1514
 Farid El Melali,Angers,ATT,1514,0,1514
-Kamory Doumbia,Brest,ATT,1507,6,1513
-Miha Zajc,Toulouse,MID,1510,2,1512
-Jordan Lotomba,Nice,DEF,1480,32,1512
-Yael Nandjou,Nice,DEF,1480,32,1512
-Étienne Youté Kinkoué,Le Havre,DEF,1512,0,1512
-Elye Wahi,Marseille,ATT,1468,44,1512
-Amidou Doumbouya,Nice,DEF,1480,32,1512
-Soungoutou Magassa,Monaco,MID,1473,38,1511
-Paul Joly,Auxerre,MID,1511,0,1511
+Abdallah Sima,Brest,ATT,1505,8,1513
+Luiz Felipe,Marseille,DEF,1463,50,1513
+Clement Akpa,Auxerre,DEF,1512,0,1512
 Goduine Koyalipou,Lens,ATT,1499,12,1511
-Abdallah Sima,Brest,ATT,1505,6,1511
-Zinedine Ferhat,Angers,ATT,1510,0,1510
+Dante,Nice,DEF,1479,32,1511
+Paul Joly,Auxerre,MID,1511,0,1511
+Soungoutou Magassa,Monaco,MID,1473,38,1511
+Jordan Lotomba,Nice,DEF,1478,32,1510
+Shavy Babicka,Toulouse,ATT,1506,4,1510
 Andres Gomez,Rennes,ATT,1510,0,1510
-Mohamed Bayo,Lille,ATT,1484,26,1510
-Luiz Felipe,Marseille,DEF,1465,44,1509
+Zinedine Ferhat,Angers,ATT,1510,0,1510
+Amidou Doumbouya,Nice,DEF,1478,32,1510
+Yael Nandjou,Nice,DEF,1478,32,1510
 Terem Moffi,Nice,ATT,1477,32,1509
-Mohammed Salisu,Monaco,DEF,1470,38,1508
 Thiago Almada,Lyon,ATT,1488,20,1508
-Angel Gomes,Lille,ATT,1482,26,1508
-Clement Akpa,Auxerre,DEF,1508,0,1508
-Dante,Nice,DEF,1476,32,1508
-Shavy Babicka,Toulouse,ATT,1506,2,1508
-Rémy Cabella,Lille,ATT,1482,26,1508
-Ngal Ayel Mukau,Lille,MID,1482,26,1508
-Pablo Rosario,Nice,MID,1476,32,1508
 Irvin Cardona,St Etienne,ATT,1508,0,1508
 Anass Zaroury,Lens,ATT,1496,12,1508
-Kazeem Olaigbe,Rennes,ATT,1507,0,1507
+Saliou Diop,Brest,Code_3,1500,8,1508
+Pablo Rosario,Nice,MID,1476,32,1508
+Mohamed Bayo,Lille,ATT,1484,24,1508
 Alejandro Gomes Rodriguez,Lyon,ATT,1487,20,1507
+Kazeem Olaigbe,Rennes,ATT,1507,0,1507
 Wilfried Zaha,Lyon,ATT,1487,20,1507
-Ousmane Touré,Lille,DEF,1480,26,1506
-Saliou Diop,Brest,Code_3,1500,6,1506
-Justin Bourgault,Brest,DEF,1500,6,1506
+Mohammed Salisu,Monaco,DEF,1468,38,1506
+Massadio Haidara,Brest,DEF,1498,8,1506
+Ngal Ayel Mukau,Lille,MID,1482,24,1506
+Rémy Cabella,Lille,ATT,1482,24,1506
+Angel Gomes,Lille,ATT,1482,24,1506
+Justin Bourgault,Brest,DEF,1498,8,1506
+Ismael Bennacer,Marseille,MID,1456,50,1506
 Ki-Jana Hoever,Auxerre,MID,1505,0,1505
-Mahamadou Nagida,Rennes,DEF,1505,0,1505
-Massadio Haidara,Brest,DEF,1498,6,1504
-Ibrahim Mbaye,Paris Saint-Germain,ATT,1454,50,1504
-Oscar Perea,Strasbourg,ATT,1487,16,1503
-Nordine Kandil,Strasbourg,ATT,1487,16,1503
-Kassoum Ouattara,Monaco,DEF,1465,38,1503
+Gianluigi Donnarumma,Paris Saint-Germain,GK,1438,66,1504
+Duje Caleta-Car,Lyon,DEF,1484,20,1504
+Arnau Tenas,Paris Saint-Germain,GK,1438,66,1504
+Aron Dønnum,Toulouse,MID,1500,4,1504
 Milos Lukovic,Strasbourg,ATT,1487,16,1503
 Angelo Fulgini,Lens,MID,1491,12,1503
+Mahamadou Nagida,Rennes,DEF,1503,0,1503
+Oscar Perea,Strasbourg,ATT,1487,16,1503
+Nordine Kandil,Strasbourg,ATT,1487,16,1503
 André Ayew,Le Havre,ATT,1502,0,1502
-Aron Dønnum,Toulouse,MID,1500,2,1502
+Ousmane Touré,Lille,DEF,1478,24,1502
 Henrik Meister,Rennes,ATT,1502,0,1502
-Duje Caleta-Car,Lyon,DEF,1482,20,1502
-Nabil Bentaleb,Lille,MID,1475,26,1501
-Nhoa Sangui,Reims,DEF,1500,0,1500
-Martin Satriano,Lens,ATT,1488,12,1500
-Douglas Augusto,Nantes,MID,1500,0,1500
-Jibril Othman,St Etienne,Code_3,1500,0,1500
-Ikechukwu Orazi,Reims,Code_3,1500,0,1500
-Teo Barisic,Lyon,DEF,1480,20,1500
-Nicolas Cozza,Nantes,DEF,1500,0,1500
-Ismael Bennacer,Marseille,MID,1456,44,1500
-Lucas Mincarelli Davin,Montpellier,DEF,1500,0,1500
-Yoann Cisse,Auxerre,Code_2,1500,0,1500
+Kassoum Ouattara,Monaco,DEF,1463,38,1501
 Ben Viadere,Auxerre,Code_3,1500,0,1500
-Hamzat Ojediran,Lens,MID,1488,12,1500
-Lucas Hernández,Paris Saint-Germain,DEF,1450,50,1500
+Jibril Othman,St Etienne,Code_3,1500,0,1500
 Enzo Caumont,Angers,Code_2,1500,0,1500
 Sekou Doucoure,Nantes,Code_1,1500,0,1500
-Warmed Omari,Lyon,DEF,1480,20,1500
-Rayan Fofana,Lens,ATT,1487,12,1499
-Jacques Ekomié,Angers,DEF,1499,0,1499
-Kembo Diliwidi,Lens,ATT,1487,12,1499
-Johann Lepenant,Nantes,MID,1499,0,1499
+Douglas Augusto,Nantes,MID,1500,0,1500
+Nhoa Sangui,Reims,DEF,1500,0,1500
+Hamzat Ojediran,Lens,MID,1488,12,1500
+Martin Satriano,Lens,ATT,1488,12,1500
+Yoann Cisse,Auxerre,Code_2,1500,0,1500
+Ikechukwu Orazi,Reims,Code_3,1500,0,1500
 Gabin Capuano,Lens,ATT,1487,12,1499
-Rasmus Nicolaisen,Toulouse,DEF,1495,2,1497
-Ismaël Doukouré,Strasbourg,DEF,1481,16,1497
-Pierre Lees-Melou,Brest,MID,1491,6,1497
+Jacques Ekomié,Angers,DEF,1499,0,1499
+Johann Lepenant,Nantes,MID,1499,0,1499
+Rayan Fofana,Lens,ATT,1487,12,1499
+Pierre Lees-Melou,Brest,MID,1491,8,1499
+Nicolas Cozza,Nantes,DEF,1499,0,1499
+Kembo Diliwidi,Lens,ATT,1487,12,1499
+Nabil Bentaleb,Lille,MID,1475,24,1499
+Warmed Omari,Lyon,DEF,1478,20,1498
+Ismaël Doukouré,Strasbourg,DEF,1482,16,1498
+Lucas Mincarelli Davin,Montpellier,DEF,1498,0,1498
+Teo Barisic,Lyon,DEF,1478,20,1498
+Ludovic Ajorque,Brest,ATT,1489,8,1497
+Rasmus Nicolaisen,Toulouse,DEF,1493,4,1497
 Mamadou Coulibaly,Monaco,MID,1458,38,1496
-Caleb Wiley,Strasbourg,DEF,1480,16,1496
-Eliot Matazo,Monaco,MID,1458,38,1496
-Radoslaw Majecki,Monaco,GK,1458,38,1496
 Josué Casimir,Le Havre,ATT,1496,0,1496
+Ismael Kone,Marseille,MID,1446,50,1496
+Radoslaw Majecki,Monaco,GK,1458,38,1496
+Eliot Matazo,Monaco,MID,1458,38,1496
 Jota,Rennes,ATT,1495,0,1495
-Ludovic Ajorque,Brest,ATT,1489,6,1495
+Meschack Elia,Nantes,ATT,1495,0,1495
 Albert Grønbæk,Rennes,ATT,1495,0,1495
+Axel Camblan,Brest,ATT,1487,8,1495
 Enzo Tchato,Montpellier,DEF,1495,0,1495
 Arnaud Nordin,Montpellier,ATT,1495,0,1495
-Meschack Elia,Nantes,ATT,1495,0,1495
-Jérémy Jacquet,Rennes,DEF,1495,0,1495
+Alexsandro Ribeiro,Lille,DEF,1471,24,1495
+Caleb Wiley,Strasbourg,DEF,1478,16,1494
 Jordan Pefok,Reims,ATT,1494,0,1494
 Jérémy Sebas,Strasbourg,ATT,1478,16,1494
-Axel Camblan,Brest,ATT,1487,6,1493
-Mousa Tamari,Rennes,ATT,1493,0,1493
 Mohamed Meite,Rennes,ATT,1493,0,1493
+Mousa Tamari,Rennes,ATT,1493,0,1493
+Warren Kamanzi,Toulouse,MID,1489,4,1493
 Mathis Amougou,St Etienne,MID,1493,0,1493
+Jérémy Jacquet,Rennes,DEF,1493,0,1493
 Amine Salama,Reims,ATT,1492,0,1492
-Kyllian Antonio,Lens,DEF,1480,12,1492
-Alexsandro Ribeiro,Lille,DEF,1465,26,1491
-Rares Ilie,Nice,MID,1459,32,1491
-Tiago Santos,Lille,DEF,1465,26,1491
+Naatan Skyttä,Toulouse,ATT,1487,4,1491
+Edhy Zuliani,Toulouse,ATT,1487,4,1491
 Pape Diong,Strasbourg,MID,1475,16,1491
-Warren Kamanzi,Toulouse,MID,1489,2,1491
-Issiaga Camara,Nice,MID,1458,32,1490
-Ismael Kone,Marseille,MID,1446,44,1490
+Rares Ilie,Nice,MID,1459,32,1491
 Louis Leroux,Nantes,MID,1490,0,1490
-Christopher Operi,Le Havre,DEF,1490,0,1490
-Edhy Zuliani,Toulouse,ATT,1487,2,1489
-Naatan Skyttä,Toulouse,ATT,1487,2,1489
-Jordan Teze,Monaco,DEF,1450,38,1488
-Arnau Tenas,Paris Saint-Germain,GK,1438,50,1488
+Kyllian Antonio,Lens,DEF,1478,12,1490
+Issiaga Camara,Nice,MID,1458,32,1490
+Christopher Operi,Le Havre,DEF,1488,0,1488
 Hicham Boudaoui,Nice,MID,1456,32,1488
-Ilyes Housni,Le Havre,ATT,1488,0,1488
-Niama Sissoko,Reims,ATT,1488,0,1488
-Gianluigi Donnarumma,Paris Saint-Germain,GK,1438,50,1488
-Bamba Dieng,Angers,ATT,1488,0,1488
 Othmane Maamma,Montpellier,ATT,1488,0,1488
-Prosper Peter,Angers,ATT,1487,0,1487
+Leonardo Balerdi,Marseille,DEF,1438,50,1488
+Ilyes Housni,Le Havre,ATT,1488,0,1488
+Bamba Dieng,Angers,ATT,1488,0,1488
+Niama Sissoko,Reims,ATT,1488,0,1488
+Simon Cara,Montpellier,ATT,1487,0,1487
 Martin Adeline,Reims,ATT,1487,0,1487
 Yanis Issoufou,Montpellier,ATT,1487,0,1487
-Mathéo Bodmer,Le Havre,ATT,1487,0,1487
-Ayman Aiki,St Etienne,ATT,1487,0,1487
-Reda Khadra,Reims,ATT,1487,0,1487
-Simon Cara,Montpellier,ATT,1487,0,1487
+Tiago Santos,Lille,DEF,1463,24,1487
 Axel Gueguin,Montpellier,ATT,1487,0,1487
 Aristide Zossou,Auxerre,ATT,1487,0,1487
+Reda Khadra,Reims,ATT,1487,0,1487
+Mathéo Bodmer,Le Havre,ATT,1487,0,1487
+Prosper Peter,Angers,ATT,1487,0,1487
 Plamedi Nsingi,Nantes,ATT,1487,0,1487
+Ayman Aiki,St Etienne,ATT,1487,0,1487
 Kandet Diawara,Le Havre,ATT,1487,0,1487
+Lassine Sinayoko,Auxerre,ATT,1487,0,1487
 Lois Diony,Angers,ATT,1487,0,1487
 Justin-Noel Kalumba,Angers,ATT,1487,0,1487
-Lassine Sinayoko,Auxerre,ATT,1487,0,1487
 Lanroy Machine,Angers,ATT,1487,0,1487
 Kyogo Furuhashi,Rennes,ATT,1487,0,1487
-Adryelson,Lyon,DEF,1465,20,1485
+Jordan Teze,Monaco,DEF,1448,38,1486
+Jérémy Le Douaron,Brest,ATT,1477,8,1485
 Kelvin Amian,Nantes,DEF,1484,0,1484
+Noah Edjouma,Toulouse,ATT,1480,4,1484
 Florian Aye,Auxerre,ATT,1484,0,1484
-Saidou Sow,Nantes,DEF,1483,0,1483
-Jean-Charles Castelletto,Nantes,DEF,1483,0,1483
-Jérémy Le Douaron,Brest,ATT,1477,6,1483
-Mohamed Abdelmonem,Nice,DEF,1450,32,1482
-Noah Edjouma,Toulouse,ATT,1480,2,1482
-Logan Costa,Toulouse,DEF,1480,2,1482
-Arthur Desmas,Le Havre,GK,1481,0,1481
+Jean-Charles Castelletto,Nantes,DEF,1484,0,1484
+Adryelson,Lyon,DEF,1463,20,1483
+Logan Costa,Toulouse,DEF,1478,4,1482
+Nicolas Pays,Montpellier,ATT,1481,0,1481
 Jeremy Agbonifo,Lens,ATT,1469,12,1481
 Ado Onaiwu,Auxerre,ATT,1481,0,1481
-Nicolas Pays,Montpellier,ATT,1481,0,1481
-Kevin Pedro,St Etienne,DEF,1480,0,1480
-Mitchel Bakker,Lille,ATT,1454,26,1480
-Falaye Sacko,Montpellier,DEF,1480,0,1480
-Fodé Ballo,Le Havre,DEF,1480,0,1480
-Thibault De Smet,Reims,DEF,1480,0,1480
-Cédric Hountondji,Angers,DEF,1480,0,1480
+Derek Cornelius,Marseille,DEF,1431,50,1481
+Arthur Desmas,Le Havre,GK,1481,0,1481
+Saidou Sow,Nantes,DEF,1481,0,1481
+Marcus Regis Coco,Nantes,DEF,1480,0,1480
+Mohamed Abdelmonem,Nice,DEF,1448,32,1480
 Lorenz Assignon,Rennes,MID,1480,0,1480
-Beres Owusu,St Etienne,DEF,1480,0,1480
-Théo Pellenard,Auxerre,DEF,1480,0,1480
-Abdoul Kone,Reims,DEF,1480,0,1480
 Benjamin Old,St Etienne,ATT,1480,0,1480
-Ousmane Camara,Angers,DEF,1480,0,1480
-Malcolm Jeng,Reims,DEF,1480,0,1480
-Marcus Regis Coco,Nantes,DEF,1479,0,1479
-Junior Ndiaye,Montpellier,ATT,1479,0,1479
 Orel Mangala,Lyon,MID,1459,20,1479
-Leonardo Balerdi,Marseille,DEF,1435,44,1479
+Junior Ndiaye,Montpellier,ATT,1479,0,1479
+Ousmane Camara,Angers,DEF,1478,0,1478
+Falaye Sacko,Montpellier,DEF,1478,0,1478
+Mitchel Bakker,Lille,ATT,1454,24,1478
+Fodé Ballo,Le Havre,DEF,1478,0,1478
 Jordan James,Rennes,MID,1478,0,1478
+Théo Pellenard,Auxerre,DEF,1478,0,1478
+Cédric Hountondji,Angers,DEF,1478,0,1478
+Rafik Messali,Toulouse,MID,1474,4,1478
+Abdoul Kone,Reims,DEF,1478,0,1478
+Beres Owusu,St Etienne,DEF,1478,0,1478
 Djylian N'Guessan,St Etienne,ATT,1478,0,1478
-Teddy Teuma,Reims,ATT,1477,0,1477
-Jhoanner Chavez,Lens,MID,1465,12,1477
+Malcolm Jeng,Reims,DEF,1478,0,1478
+Thibault De Smet,Reims,DEF,1478,0,1478
+Kevin Pedro,St Etienne,DEF,1478,0,1478
 Téji Savanier,Montpellier,ATT,1477,0,1477
-Tom Pouilly,Lens,DEF,1465,12,1477
-Sékou Mara,Strasbourg,ATT,1461,16,1477
+Teddy Teuma,Reims,ATT,1477,0,1477
+Niklas Schmidt,Toulouse,MID,1473,4,1477
+Jhoanner Chavez,Lens,MID,1465,12,1477
 Andy Logbo,Le Havre,ATT,1477,0,1477
-Hafiz Ibrahim,Reims,ATT,1476,0,1476
-Pedro Chirivella,Nantes,MID,1476,0,1476
-Deiver Machado,Lens,MID,1464,12,1476
-Rafik Messali,Toulouse,MID,1474,2,1476
+Modibo Sagnan,Montpellier,DEF,1477,0,1477
+Sékou Mara,Strasbourg,ATT,1461,16,1477
 Aimen Moueffek,St Etienne,MID,1476,0,1476
-Niklas Schmidt,Toulouse,MID,1473,2,1475
+Pedro Chirivella,Nantes,MID,1476,0,1476
+Hafiz Ibrahim,Reims,ATT,1476,0,1476
+Deiver Machado,Lens,MID,1464,12,1476
 Thelonius Bair,Auxerre,ATT,1475,0,1475
+Tom Pouilly,Lens,DEF,1463,12,1475
 Ibrahim Sissoko,St Etienne,ATT,1475,0,1475
-Lasso Coulibaly,Auxerre,MID,1474,0,1474
 Yassin Belkhdim,Angers,MID,1474,0,1474
-Derek Cornelius,Marseille,DEF,1430,44,1474
+Lasso Coulibaly,Auxerre,MID,1474,0,1474
 Benjamin Bourigeaud,Rennes,MID,1473,0,1473
+Valentin Barco,Strasbourg,MID,1457,16,1473
 David Da Costa,Lens,ATT,1461,12,1473
 Florent Mollet,Nantes,ATT,1473,0,1473
 Ignatius Ganago,Nantes,ATT,1473,0,1473
-Valentin Barco,Strasbourg,MID,1457,16,1473
-Modibo Sagnan,Montpellier,DEF,1473,0,1473
-Francis Coquelin,Nantes,MID,1472,0,1472
 Glen Kamara,Rennes,MID,1472,0,1472
+Francis Coquelin,Nantes,MID,1472,0,1472
+Mathias Pereira Lage,Brest,ATT,1463,8,1471
+Soumaila Coulibaly,Brest,DEF,1463,8,1471
+Bradley Locko,Brest,DEF,1463,8,1471
 Ahmed Hassan Koka,Le Havre,ATT,1471,0,1471
-Bradley Locko,Brest,DEF,1465,6,1471
-Soumaila Coulibaly,Brest,DEF,1465,6,1471
-Akor Adams,Montpellier,ATT,1470,0,1470
 Ange Martial Tia,Reims,ATT,1470,0,1470
+Akor Adams,Montpellier,ATT,1470,0,1470
 Sidiki Cherif,Angers,ATT,1469,0,1469
-Mathias Pereira Lage,Brest,ATT,1463,6,1469
-Joris Chotard,Montpellier,MID,1468,0,1468
+Loic Nego,Le Havre,DEF,1469,0,1469
 Baptiste Santamaria,Rennes,MID,1468,0,1468
-Amadou Koné,Reims,MID,1468,0,1468
 Tino Kadewere,Nantes,ATT,1468,0,1468
-Maxence Caqueret,Lyon,MID,1447,20,1467
-Aurelio Buta,Reims,DEF,1467,0,1467
-Loic Nego,Le Havre,DEF,1467,0,1467
+Amadou Koné,Reims,MID,1468,0,1468
+Joris Chotard,Montpellier,MID,1468,0,1468
 Sorba Thomas,Nantes,ATT,1467,0,1467
+Aurelio Buta,Reims,DEF,1467,0,1467
+Marco Bizot,Brest,GK,1459,8,1467
+Maxence Caqueret,Lyon,MID,1447,20,1467
+Hamidou Makalou,Brest,MID,1458,8,1466
+Hiang'a Mbock,Brest,MID,1458,8,1466
+Denis Genreau,Toulouse,MID,1462,4,1466
 Benjamin Bouchouari,St Etienne,MID,1466,0,1466
-Jean-Philippe Gbamin,Nantes,DEF,1465,0,1465
-Hiroki Sekine,Reims,DEF,1465,0,1465
-Marco Bizot,Brest,GK,1459,6,1465
 Mostafa Mohamed,Nantes,ATT,1465,0,1465
+Hugo Magnetti,Brest,MID,1457,8,1465
 Elisha Owusu,Auxerre,MID,1465,0,1465
-Denis Genreau,Toulouse,MID,1462,2,1464
-Hamidou Makalou,Brest,MID,1458,6,1464
 Oussama Targhalline,Le Havre,MID,1464,0,1464
-Hiang'a Mbock,Brest,MID,1458,6,1464
-Hugo Magnetti,Brest,MID,1457,6,1463
 Paul Akouokou,Lyon,MID,1443,20,1463
+Jean-Philippe Gbamin,Nantes,DEF,1463,0,1463
+Hiroki Sekine,Reims,DEF,1463,0,1463
 Dehmaine Tabibou,Nantes,MID,1463,0,1463
-Juma Bah,Lens,DEF,1450,12,1462
 Daler Kuzyaev,Le Havre,MID,1462,0,1462
-Ismaily,Lille,DEF,1435,26,1461
 Anthony Lopes,Nantes,GK,1461,0,1461
 Gautier Larsonneur,St Etienne,GK,1461,0,1461
-Steve Mandanda,Rennes,GK,1460,0,1460
+Juma Bah,Lens,DEF,1448,12,1460
 Steve Ngoura,Le Havre,ATT,1460,0,1460
-Samuel Grandsir,Le Havre,MID,1460,0,1460
-Arouna Sangante,Le Havre,DEF,1460,0,1460
+Steve Mandanda,Rennes,GK,1460,0,1460
 Fabien Centonze,Nantes,MID,1460,0,1460
-Fredrik Oppegård,Auxerre,MID,1459,0,1459
+Samuel Grandsir,Le Havre,MID,1460,0,1460
 John Patrick,Reims,MID,1459,0,1459
 Mohamed Daramy,Reims,MID,1459,0,1459
-Karol Fila,Strasbourg,MID,1443,16,1459
 Wilfried Ndollo Bille,Montpellier,MID,1459,0,1459
-Naouirou Ahamada,Rennes,MID,1458,0,1458
+Fredrik Oppegård,Auxerre,MID,1459,0,1459
+Karol Fila,Strasbourg,MID,1443,16,1459
 Marius Courcoul,Angers,MID,1458,0,1458
+Naouirou Ahamada,Rennes,MID,1458,0,1458
 Gabriel Barès,Montpellier,MID,1458,0,1458
 Igor Miladinovic,St Etienne,MID,1458,0,1458
 Mohamed Bamba,Reims,MID,1458,0,1458
 Alois Confais,Le Havre,MID,1458,0,1458
+Arouna Sangante,Le Havre,DEF,1458,0,1458
+Ismaily,Lille,DEF,1433,24,1457
 Amine Gouiri,Rennes,ATT,1457,0,1457
-Luck Zogbe,Brest,DEF,1450,6,1456
-Julien Le Cardinal,Brest,DEF,1450,6,1456
-Jordan Amavi,Brest,DEF,1450,6,1456
-Théo Sainte-Luce,Montpellier,DEF,1455,0,1455
-Han-Noah Massengo,Auxerre,MID,1455,0,1455
-Saël Kumbedi,Lyon,DEF,1435,20,1455
+Julien Le Cardinal,Brest,DEF,1448,8,1456
+Jordan Amavi,Brest,DEF,1448,8,1456
+Luck Zogbe,Brest,DEF,1448,8,1456
 Wesley Said,Lens,ATT,1443,12,1455
+Han-Noah Massengo,Auxerre,MID,1455,0,1455
 Ibrahima Wadji,St Etienne,ATT,1454,0,1454
-Ibrahima Niane,Angers,ATT,1454,0,1454
 Rassoul Ndiaye,Le Havre,ATT,1454,0,1454
 Ruben Aguilar,Lens,MID,1442,12,1454
-Umit Akdag,Toulouse,DEF,1450,2,1452
+Ibrahima Niane,Angers,ATT,1454,0,1454
+Saël Kumbedi,Lyon,DEF,1433,20,1453
+Théo Sainte-Luce,Montpellier,DEF,1453,0,1453
+Umit Akdag,Toulouse,DEF,1448,4,1452
 Mousa Tamari,Montpellier,ATT,1451,0,1451
 Nampalys Mendy,Lens,MID,1439,12,1451
-Marvin Senaya,Strasbourg,DEF,1435,16,1451
-Jean-Kevin Duverne,Nantes,DEF,1450,0,1450
-Marwann N'Zuzi,St Etienne,DEF,1450,0,1450
-Anthony Rouault,Rennes,DEF,1450,0,1450
-Pierre Cornud,St Etienne,DEF,1450,0,1450
-Benjamin André,Lille,MID,1424,26,1450
-Yunis Abdelhamid,St Etienne,DEF,1450,0,1450
-Nikola Maksimovic,Montpellier,DEF,1450,0,1450
-Christopher Wooh,Rennes,DEF,1448,0,1448
-Rémy Descamps,Lyon,GK,1428,20,1448
-Guillaume Restes,Toulouse,GK,1446,2,1448
+Guillaume Restes,Toulouse,GK,1446,4,1450
+Christopher Wooh,Rennes,DEF,1449,0,1449
+Marvin Senaya,Strasbourg,DEF,1433,16,1449
+Yunis Abdelhamid,St Etienne,DEF,1448,0,1448
+Nikola Maksimovic,Montpellier,DEF,1448,0,1448
 Jean-Eudes Aholou,Angers,MID,1448,0,1448
-Kevin Danso,Lens,DEF,1435,12,1447
+Marwann N'Zuzi,St Etienne,DEF,1448,0,1448
+Benjamin André,Lille,MID,1424,24,1448
+Jean-Kevin Duverne,Nantes,DEF,1448,0,1448
+Pierre Cornud,St Etienne,DEF,1448,0,1448
+Rémy Descamps,Lyon,GK,1428,20,1448
+Anthony Rouault,Rennes,DEF,1448,0,1448
+Kjetil Haug,Toulouse,GK,1443,4,1447
 Khalil Fayad,Montpellier,MID,1447,0,1447
 Seko Fofana,Rennes,MID,1446,0,1446
 Emmanuel Sabbi,Le Havre,ATT,1446,0,1446
-Kjetil Haug,Toulouse,GK,1443,2,1445
-Mikayil Faye,Rennes,DEF,1445,0,1445
 Jim Allevinah,Angers,ATT,1445,0,1445
-Gabriel Moscardo,Reims,MID,1444,0,1444
+Kevin Danso,Lens,DEF,1433,12,1445
 Eduard Sobol,Strasbourg,MID,1428,16,1444
-Alban Lafont,Nantes,GK,1443,0,1443
-Ethan Mbappé,Lille,ATT,1417,26,1443
-Eros Maddy,Auxerre,MID,1443,0,1443
-Ange Loic N'Gatta,Auxerre,MID,1443,0,1443
-Zinédine Ould Khaled,Angers,MID,1443,0,1443
+Gabriel Moscardo,Reims,MID,1444,0,1444
+Mikayil Faye,Rennes,DEF,1443,0,1443
 Théo De Percin,Auxerre,GK,1443,0,1443
+Alban Lafont,Nantes,GK,1443,0,1443
+Eros Maddy,Auxerre,MID,1443,0,1443
+Zinédine Ould Khaled,Angers,MID,1443,0,1443
 Patrik Carlgren,Nantes,GK,1443,0,1443
+Ange Loic N'Gatta,Auxerre,MID,1443,0,1443
 Augustine Boakye,St Etienne,ATT,1443,0,1443
 Rudy Matondo,Auxerre,MID,1443,0,1443
-Abdukodir Khusanov,Lens,DEF,1430,12,1442
-Jordan Ferri,Montpellier,MID,1442,0,1442
 Mory Gbane,Reims,MID,1442,0,1442
+Jordan Ferri,Montpellier,MID,1442,0,1442
+Ethan Mbappé,Lille,ATT,1417,24,1441
 Louis Mouton,St Etienne,ATT,1441,0,1441
+Mama Baldé,Brest,ATT,1432,8,1440
+Abdukodir Khusanov,Lens,DEF,1428,12,1440
 Rémy Lascary,Lens,ATT,1427,12,1439
 Zabi Gueu,Reims,MID,1438,0,1438
-Mama Baldé,Brest,ATT,1432,6,1438
 Karl-Johan Johnsson,Strasbourg,GK,1421,16,1437
-Yoann Salmier,Le Havre,DEF,1435,0,1435
-Yael Mouanga,Montpellier,DEF,1435,0,1435
-Emmanuel Agbadou,Reims,DEF,1435,0,1435
-Grégoire Coudert,Brest,GK,1428,6,1434
+Grégoire Coudert,Brest,GK,1428,8,1436
 Emanuel Emegha,Strasbourg,ATT,1418,16,1434
+Yael Mouanga,Montpellier,DEF,1433,0,1433
+Yoann Salmier,Le Havre,DEF,1433,0,1433
+Emmanuel Agbadou,Reims,DEF,1433,0,1433
+Álex Dominguez,Toulouse,GK,1428,4,1432
+Cristian Casseres Jr.,Toulouse,MID,1428,4,1432
 Breel Embolo,Monaco,ATT,1394,38,1432
-Andrew Omobamidele,Strasbourg,DEF,1415,16,1431
 Rayan Raveloson,Auxerre,MID,1431,0,1431
 Wahbi Khazri,Montpellier,ATT,1430,0,1430
-Maxime Bernauer,St Etienne,DEF,1430,0,1430
-Cristian Casseres Jr.,Toulouse,MID,1428,2,1430
-Bamo Meité,Montpellier,DEF,1430,0,1430
-Álex Dominguez,Toulouse,GK,1428,2,1430
-Yaya Fofana,Reims,MID,1429,0,1429
-Valentin Atangana Edoa,Reims,MID,1429,0,1429
 Lamine Fomba,St Etienne,MID,1429,0,1429
-Theo Chennahi,Montpellier,MID,1428,0,1428
-Gauthier Gallon,Rennes,GK,1428,0,1428
-Dimitry Bertaud,Montpellier,GK,1428,0,1428
+Valentin Atangana Edoa,Reims,MID,1429,0,1429
+Andrew Omobamidele,Strasbourg,DEF,1413,16,1429
+Yaya Fofana,Reims,MID,1429,0,1429
+Bamo Meité,Montpellier,DEF,1428,0,1428
 Tanguy Coulibaly,Montpellier,ATT,1428,0,1428
-Andy Delort,Montpellier,ATT,1426,0,1426
+Theo Chennahi,Montpellier,MID,1428,0,1428
+Maxime Bernauer,St Etienne,DEF,1428,0,1428
+Dimitry Bertaud,Montpellier,GK,1428,0,1428
+Gauthier Gallon,Rennes,GK,1428,0,1428
 Yassine Kechta,Le Havre,ATT,1426,0,1426
-Leo Østigard,Rennes,DEF,1425,0,1425
+Andy Delort,Montpellier,ATT,1426,0,1426
 Marshall Munetsi,Reims,ATT,1423,0,1423
+Leo Østigard,Rennes,DEF,1423,0,1423
 Melvin Zinga,Angers,GK,1421,0,1421
-Yvann Macon,St Etienne,DEF,1420,0,1420
-Alidu Seidu,Rennes,DEF,1420,0,1420
+Zakaria Aboukhlal,Toulouse,ATT,1415,4,1419
 Djaoui Cisse,Rennes,MID,1418,0,1418
 Florian Sotoca,Lens,ATT,1406,12,1418
-Zakaria Aboukhlal,Toulouse,ATT,1415,2,1417
-Frank Magri,Toulouse,ATT,1414,2,1416
+Alidu Seidu,Rennes,DEF,1418,0,1418
+Frank Magri,Toulouse,ATT,1414,4,1418
+Yvann Macon,St Etienne,DEF,1418,0,1418
 Mathieu Gorgelin,Le Havre,GK,1413,0,1413
 Birama Touré,Montpellier,MID,1413,0,1413
 M'Bala Nzola,Lens,ATT,1399,12,1411
@@ -537,8 +537,8 @@ Stefan Dzodic,Montpellier,MID,1408,0,1408
 Oumar Diakité,Reims,ATT,1407,0,1407
 Mathieu Cafaro,St Etienne,ATT,1403,0,1403
 Pierrick Capelle,Angers,MID,1402,0,1402
-Kiki Kouyaté,Montpellier,DEF,1400,0,1400
+Kiki Kouyaté,Montpellier,DEF,1398,0,1398
 Benjamin Lecomte,Montpellier,GK,1391,0,1391
 Brice Samba,Lens,GK,1368,12,1380
 Rabby Nzingoula,Montpellier,MID,1374,0,1374
-Facundo Medina,Lens,DEF,1344,12,1356
+Facundo Medina,Lens,DEF,1348,12,1360

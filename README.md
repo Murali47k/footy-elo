@@ -66,16 +66,16 @@ Team success is rewarded on top of individual performance. Every player in a squ
 
 | Final Position | Bonus |
 |:--|--:|
-| 1st (Champion) | +50 |
-| 2nd | +44 |
+| 1st (Champion) | +66 |
+| 2nd | +50 |
 | 3rd | +38 |
 | 4th | +32 |
-| 5th | +26 |
+| 5th | +24 |
 | 6th | +20 |
 | 7th | +16 |
 | 8th | +12 |
-| 9th | +6 |
-| 10th | +2 |
+| 9th | +8 |
+| 10th | +4 |
 | 11th or lower | 0 |
 
 ### UCL / UEL Knockout Bonus — Champions League & Europa League tables only
@@ -84,10 +84,10 @@ The Champions League and Europa League share the same scale.
 
 | Furthest Round Reached | Bonus |
 |:--|--:|
-| Winner | +100 |
-| Finalist | +75 |
-| Semi-final | +50 |
-| Quarter-final | +25 |
+| Winner | +130 |
+| Finalist | +70 |
+| Semi-final | +38 |
+| Quarter-final | +20 |
 | Round of 16 | +10 |
 
 ### Rules

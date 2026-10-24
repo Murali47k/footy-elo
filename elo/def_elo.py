@@ -11,16 +11,16 @@ ELO_CONFIG = {
 # down to Position 10 (+2). Outside top 10: 0.
 # ─────────────────────────────────────────────
 LEAGUE_POSITION_BONUS = {
-    1:  50,   # Champion
-    2:  44,
+    1:  66,   # Champion
+    2:  50,
     3:  38,
     4:  32,
-    5:  26,
+    5:  24,
     6:  20,
     7:  16,
     8:  12,
-    9:   6,
-    10:  2,
+    9:   8,
+    10:  4,
 }
 
 # ─────────────────────────────────────────────
@@ -29,21 +29,14 @@ LEAGUE_POSITION_BONUS = {
 # reached that round (cumulative best round).
 # UCL and UEL share the same bonus scale.
 # ─────────────────────────────────────────────
+
 EUROPEAN_BONUS = {
-    "winner":      100,
-    "final":        75,
-    "semi":         50,
-    "quarter":      25,
+    "winner":      130,
+    "final":        70,
+    "semi":         38,
+    "quarter":      20,
     "r16":          10,
 }
-
-# EUROPEAN_BONUS = {
-#     "winner":      120,
-#     "final":        70,
-#     "semi":         40,
-#     "quarter":      20,
-#     "r16":          10,
-# }
 
 STAT_WEIGHTS = {
     "GK": {
@@ -67,9 +60,9 @@ STAT_WEIGHTS = {
         "Clearances per 90": 1.5,
         "Blocks per 90": 1.5,
         "Interceptions per 90": 2.0,
-        "Successful tackles per 90": 1.5,
-        "Accurate long balls per 90": 0.3,
-        "Clean sheets": 1.0,
+        "Successful tackles per 90": 1.8,
+        "Accurate long balls per 90": 0.5,
+        "Clean sheets": 1.2,
     },
     "MID": {
         "Top scorer": 1.5,

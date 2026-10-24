@@ -43,13 +43,13 @@ const STAT_WEIGHTS_DATA = {
     description: 'Emphasizes dual-phase defensive solidity: stopping attacks, aerial/ground clearance, and passing out.',
     positive: [
       { stat: 'Interceptions per 90', weight: '+2.0', desc: 'Anticipation and cutting off passing lanes' },
-      { stat: 'Successful tackles per 90', weight: '+1.5', desc: 'Direct 1v1 ground duels won' },
+      { stat: 'Successful tackles per 90', weight: '+1.8', desc: 'Direct 1v1 ground duels won' },
       { stat: 'Clearances per 90', weight: '+1.5', desc: 'Emergency box defending & relieving pressure' },
       { stat: 'Blocks per 90', weight: '+1.5', desc: 'Shot and cross prevention' },
       { stat: 'Top scorer (Goals)', weight: '+2.0', desc: 'Set-piece aerial threat & penalties' },
       { stat: 'Assists', weight: '+1.5', desc: 'Fullback/centerback goal creation' },
-      { stat: 'Clean sheets', weight: '+1.0', desc: 'Team defensive shutout baseline' },
-      { stat: 'Accurate long balls per 90', weight: '+0.3', desc: 'Long-range distribution from the back' },
+      { stat: 'Clean sheets', weight: '+1.2', desc: 'Team defensive shutout baseline' },
+      { stat: 'Accurate long balls per 90', weight: '+0.5', desc: 'Long-range distribution from the back' },
     ],
     negative: [
       { stat: 'Yellow cards', weight: '-1.5', desc: 'Disciplinary deduction' },
@@ -77,24 +77,24 @@ const STAT_WEIGHTS_DATA = {
 };
 
 const LEAGUE_BONUS_DATA = [
-  { finish: '1st (Champion)', bonus: '+50' },
-  { finish: '2nd', bonus: '+44' },
+  { finish: '1st (Champion)', bonus: '+66' },
+  { finish: '2nd', bonus: '+50' },
   { finish: '3rd', bonus: '+38' },
   { finish: '4th', bonus: '+32' },
-  { finish: '5th', bonus: '+26' },
+  { finish: '5th', bonus: '+24' },
   { finish: '6th', bonus: '+20' },
   { finish: '7th', bonus: '+16' },
   { finish: '8th', bonus: '+12' },
-  { finish: '9th', bonus: '+6' },
-  { finish: '10th', bonus: '+2' },
+  { finish: '9th', bonus: '+8' },
+  { finish: '10th', bonus: '+4' },
   { finish: '11th or lower', bonus: '0' },
 ];
 
 const EUROPEAN_BONUS_DATA = [
-  { round: 'Winner', bonus: '+100' },
-  { round: 'Finalist (lost final)', bonus: '+75' },
-  { round: 'Semi-final', bonus: '+50' },
-  { round: 'Quarter-final', bonus: '+25' },
+  { round: 'Winner', bonus: '+130' },
+  { round: 'Finalist (lost final)', bonus: '+70' },
+  { round: 'Semi-final', bonus: '+38' },
+  { round: 'Quarter-final', bonus: '+20' },
   { round: 'Round of 16', bonus: '+10' },
 ];
 
