@@ -76,3 +76,19 @@ python backend/sync_all_leagues.py --league premier-league
 # Sync all leagues sequentially
 python backend/sync_all_leagues.py --league all
 ```
+
+### 4. Recalculate ELO Ratings (Local Table Data)
+
+When modifying the rating algorithm in `elo/calc.py` or position weights in `elo/def_elo.py`, you can instantly recalculate all ELO tables across all 11 seasons and 5 leagues in under 1 second without making any network requests:
+
+```bash
+# Recalculate all 55 tables (5 leagues x 11 seasons)
+python scripts/recalculate_all_elo.py
+
+# Recalculate only a specific league
+python scripts/recalculate_all_elo.py --league pl
+
+# Recalculate only a specific season
+python scripts/recalculate_all_elo.py --season 2026/27
+```
+
