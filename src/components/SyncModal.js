@@ -12,7 +12,7 @@ function SyncModal({
 }) {
   if (!isOpen) return null;
 
-  const isCurrentSeason = currentSeason === 'current';
+  const isCurrentSeason = currentSeason === 'current' || currentSeason === '2026-27';
 
   const formatLastUpdated = (isoString) => {
     if (!isoString) return 'Never updated';
@@ -33,7 +33,7 @@ function SyncModal({
             <div>
               <h2 className="modal-title">League Sync Center</h2>
               <p className="modal-subtitle">
-                Sync live player statistics from FotMob & recompute ELO ratings per league
+                Sync live player statistics from FotMob & recompute ELO ratings for Current Season (2026/27)
               </p>
             </div>
           </div>
@@ -44,7 +44,7 @@ function SyncModal({
 
         {!isCurrentSeason && (
           <div className="modal-alert-warning">
-            ⚠️ Live syncing is only available for the <strong>Current Season</strong>. Historical seasons are static snapshots.
+            ⚠️ Live syncing is only available for the <strong>Current Season (2026/27)</strong>. Historical seasons are static snapshots.
           </div>
         )}
 

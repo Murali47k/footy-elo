@@ -11,7 +11,7 @@ function Header({
   currentSeason
 }) {
   const isSyncingActive = syncState?.isSyncing && syncState?.leagueId === activeLeague;
-  const isCurrent = currentSeason === 'current';
+  const isCurrent = currentSeason === 'current' || currentSeason === '2026-27';
   const activeLeagueObj = leagues.find(l => l.id === activeLeague) || leagues[0];
 
   return (
@@ -38,7 +38,7 @@ function Header({
             className={`btn-header-sync ${isSyncingActive ? 'syncing' : ''}`}
             onClick={() => onQuickSync(activeLeague)}
             disabled={syncState?.isSyncing || !isCurrent || !serverOnline}
-            title={!isCurrent ? "Sync only available for current season" : `Sync ${activeLeagueObj.name}`}
+            title={!isCurrent ? "Sync only available for current season (2026/27)" : `Sync ${activeLeagueObj.name}`}
           >
             <span className={`sync-icon-spin ${isSyncingActive ? 'spinning' : ''}`}>
               {isSyncingActive ? '🔄' : '⚡'}

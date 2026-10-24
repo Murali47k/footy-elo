@@ -15,7 +15,7 @@ A football player rating engine computing normalized ELO ratings across Europe's
   - Position filter tabs (`ATT`, `MID`, `DEF`, `GK`)
   - Rating tiers (*World Class 1700+*, *Elite 1600+*, *Pro 1500+*, *Solid*)
   - Global player scouting search and in-table filtering
-  - Historical (2024/25) and Current (2025/26) season databases
+  - Complete 11-season archive (2016/17 through 2025/26) and Current (2026/27) season databases across Europe's Top 5 Leagues
 
 ---
 

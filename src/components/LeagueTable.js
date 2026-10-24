@@ -8,14 +8,15 @@ function LeagueTable({
   lastUpdated,
   onSyncLeague,
   syncState,
-  currentSeason
+  currentSeason,
+  seasonLabel
 }) {
   const [selectedPosition, setSelectedPosition] = useState('ALL');
   const [tableSearch, setTableSearch] = useState('');
   const [displayLimit, setDisplayLimit] = useState(25);
   const [sortBy, setSortBy] = useState('elo-desc');
 
-  const isCurrentSeason = currentSeason === 'current';
+  const isCurrentSeason = currentSeason === 'current' || currentSeason === '2026-27';
   const isSyncing = syncState?.isSyncing && syncState?.leagueId === league.id;
 
   const formatUpdateDate = (dateStr) => {
@@ -91,7 +92,7 @@ function LeagueTable({
             <span className="chart-flag">{league.flag}</span>
             <h2 className="chart-title">{league.name} Player Ratings</h2>
             <span className="season-badge">
-              {currentSeason === 'current' ? '2025/26 Current' : '2024/25 Historic'}
+              {seasonLabel || (isCurrentSeason ? '2026/27 Current' : currentSeason)}
             </span>
           </div>
 
@@ -115,7 +116,7 @@ function LeagueTable({
             className={`btn-chart-sync ${isSyncing ? 'loading' : ''}`}
             onClick={() => onSyncLeague(league.id)}
             disabled={isSyncing || !isCurrentSeason}
-            title={!isCurrentSeason ? "Sync only available for current season" : `Update ${league.name} data`}
+            title={!isCurrentSeason ? "Sync only available for current season (2026/27)" : `Update ${league.name} data`}
           >
             <span className={`sync-spin-icon ${isSyncing ? 'spinning' : ''}`}>
               {isSyncing ? '🔄' : '⚡'}
@@ -253,7 +254,7 @@ function LeagueTable({
         {data.length === 0 ? (
           <div className="table-empty-state">
             <span className="empty-icon">⏳</span>
-            <p>Loading {league.name} data...</p>
+            <p>Loading {league.name} player ratings for <strong>{seasonLabel || currentSeason}</strong>...</p>
           </div>
         ) : displayedRows.length === 0 ? (
           <div className="table-empty-state">

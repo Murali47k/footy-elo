@@ -5,7 +5,7 @@ import SearchSection from './components/SearchSection';
 import LeagueTable from './components/LeagueTable';
 import SyncModal from './components/SyncModal';
 
-const LEAGUES = [
+export const LEAGUES = [
   { id: 'premier-league', name: 'Premier League', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', filePrefix: 'pl', apiId: '47' },
   { id: 'la-liga', name: 'La Liga', flag: '🇪🇸', filePrefix: 'laliga', apiId: '87' },
   { id: 'bundesliga', name: 'Bundesliga', flag: '🇩🇪', filePrefix: 'bundesliga', apiId: '54' },
@@ -13,27 +13,40 @@ const LEAGUES = [
   { id: 'ligue-1', name: 'Ligue 1', flag: '🇫🇷', filePrefix: 'ligue1', apiId: '53' }
 ];
 
-const LEAGUE_FILES = {
-  'premier-league': {
-    'current': '/elo_tables/pl_elo.csv',
-    '2024-25': '/elo_tables/pl_elo_2024_2025.csv'
-  },
-  'la-liga': {
-    'current': '/elo_tables/laliga_elo.csv',
-    '2024-25': '/elo_tables/laliga_elo_2024_2025.csv'
-  },
-  'bundesliga': {
-    'current': '/elo_tables/bundesliga_elo.csv',
-    '2024-25': '/elo_tables/bundesliga_elo_2024_2025.csv'
-  },
-  'serie-a': {
-    'current': '/elo_tables/seriea_elo.csv',
-    '2024-25': '/elo_tables/seriea_elo_2024_2025.csv'
-  },
-  'ligue-1': {
-    'current': '/elo_tables/ligue1_elo.csv',
-    '2024-25': '/elo_tables/ligue1_elo_2024_2025.csv'
+// All seasons with Player ELO data (from 2016/17 onwards, plus current 2026/27)
+export const AVAILABLE_SEASONS = [
+  { id: 'current', slug: '2026-27', fotmobSeason: '2026/2027', label: '2026/27 (Current Season)', isCurrent: true },
+  { id: '2025-26', slug: '2025-26', fotmobSeason: '2025/2026', label: '2025/26' },
+  { id: '2024-25', slug: '2024-25', fotmobSeason: '2024/2025', label: '2024/25' },
+  { id: '2023-24', slug: '2023-24', fotmobSeason: '2023/2024', label: '2023/24' },
+  { id: '2022-23', slug: '2022-23', fotmobSeason: '2022/2023', label: '2022/23' },
+  { id: '2021-22', slug: '2021-22', fotmobSeason: '2021/2022', label: '2021/22' },
+  { id: '2020-21', slug: '2020-21', fotmobSeason: '2020/2021', label: '2020/21' },
+  { id: '2019-20', slug: '2019-20', fotmobSeason: '2019/2020', label: '2019/20' },
+  { id: '2018-19', slug: '2018-19', fotmobSeason: '2018/2019', label: '2018/19' },
+  { id: '2017-18', slug: '2017-18', fotmobSeason: '2017/2018', label: '2017/18' },
+  { id: '2016-17', slug: '2016-17', fotmobSeason: '2016/2017', label: '2016/17' },
+];
+
+export const getPlayerEloFilePath = (filePrefix, seasonId) => {
+  if (seasonId === 'current' || seasonId === '2026-27') {
+    return `/elo_tables/${filePrefix}_elo.csv`;
   }
+  // Map season slug to the underscore-separated filename
+  const map = {
+    '2025-26': '2025_2026',
+    '2024-25': '2024_2025',
+    '2023-24': '2023_2024',
+    '2022-23': '2022_2023',
+    '2021-22': '2021_2022',
+    '2020-21': '2020_2021',
+    '2019-20': '2019_2020',
+    '2018-19': '2018_2019',
+    '2017-18': '2017_2018',
+    '2016-17': '2016_2017',
+  };
+  const suffix = map[seasonId] || seasonId.replace('-', '_');
+  return `/elo_tables/${filePrefix}_elo_${suffix}.csv`;
 };
 
 const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || 'http://localhost:5000';
@@ -84,6 +97,7 @@ const parseCSV = (text) => {
 function App() {
   const [activeLeague, setActiveLeague] = useState('premier-league');
   const [currentSeason, setCurrentSeason] = useState('current');
+
   const [leagueData, setLeagueData] = useState({});
   const [metadata, setMetadata] = useState({});
   const [serverOnline, setServerOnline] = useState(false);
@@ -101,15 +115,21 @@ function App() {
     message: ''
   });
 
-  const loadLeagueData = useCallback(async (leagueId, season = currentSeason) => {
-    try {
-      const filePath = LEAGUE_FILES[leagueId]?.[season];
-      if (!filePath) return;
+  const activeSeasonObj = AVAILABLE_SEASONS.find(s => s.id === currentSeason) || AVAILABLE_SEASONS[0];
+  const activeLeagueObj = LEAGUES.find(l => l.id === activeLeague) || LEAGUES[0];
+  const activeLeagueMeta = metadata[activeLeague] || {};
 
-      // Add cache buster timestamp query to ensure fresh read after sync
+  // Load player ELO ratings for a specific league + season
+  const loadLeagueData = useCallback(async (leagueId, season = currentSeason) => {
+    const leagueObj = LEAGUES.find(l => l.id === leagueId);
+    if (!leagueObj) return;
+
+    const filePath = getPlayerEloFilePath(leagueObj.filePrefix, season);
+
+    try {
       const response = await fetch(`${filePath}?t=${Date.now()}`);
       if (!response.ok) {
-        throw new Error(`CSV not found for ${leagueId}`);
+        throw new Error(`CSV not found: ${filePath}`);
       }
 
       const text = await response.text();
@@ -118,27 +138,26 @@ function App() {
 
       setLeagueData(prev => ({
         ...prev,
-        [leagueId]: data
+        [`${leagueId}:${season}`]: data
       }));
     } catch (error) {
-      console.warn(`Could not load data for ${leagueId}:`, error);
+      console.warn(`Could not load ELO data for ${leagueId} (${season}):`, error.message);
       setLeagueData(prev => ({
         ...prev,
-        [leagueId]: prev[leagueId] || []
+        [`${leagueId}:${season}`]: []
       }));
     }
   }, [currentSeason]);
 
   const loadAllLeagues = useCallback(() => {
     LEAGUES.forEach(league => {
-      loadLeagueData(league.id);
+      loadLeagueData(league.id, currentSeason);
     });
-  }, [loadLeagueData]);
+  }, [loadLeagueData, currentSeason]);
 
   const fetchMetadata = useCallback(async () => {
-    // First try backend metadata endpoint
     try {
-      const res = await fetch(`${BACKEND_URL}/api/metadata`);
+      const res = await fetch(`${BACKEND_URL}/api/metadata`, { signal: AbortSignal.timeout(3000) });
       if (res.ok) {
         const json = await res.json();
         if (json.success && json.metadata) {
@@ -147,11 +166,10 @@ function App() {
           return;
         }
       }
-    } catch {
-      // Backend unavailable, fallback to public file
+    } catch (e) {
+      // Backend not running
     }
 
-    // Fallback: static sync_meta.json in public folder
     try {
       const res = await fetch(`/elo_tables/sync_meta.json?t=${Date.now()}`);
       if (res.ok) {
@@ -159,86 +177,79 @@ function App() {
         setMetadata(json);
       }
     } catch (e) {
-      console.error('Error fetching fallback metadata:', e);
+      console.warn('Could not read fallback metadata:', e);
     }
+    setServerOnline(false);
   }, []);
 
-  const checkServerStatus = useCallback(async () => {
+  const checkServerHealth = useCallback(async () => {
     try {
-      const res = await fetch(`${BACKEND_URL}/api/status`, { method: 'GET' });
+      const res = await fetch(`${BACKEND_URL}/api/status`, { signal: AbortSignal.timeout(2000) });
       setServerOnline(res.ok);
     } catch {
       setServerOnline(false);
     }
   }, []);
 
+  // Initial load
   useEffect(() => {
     loadAllLeagues();
     fetchMetadata();
-    checkServerStatus();
+    checkServerHealth();
 
-    const interval = setInterval(checkServerStatus, 15000);
-    return () => clearInterval(interval);
-  }, [loadAllLeagues, fetchMetadata, checkServerStatus]);
+    const healthInterval = setInterval(checkServerHealth, 15000);
+    return () => clearInterval(healthInterval);
+  }, [loadAllLeagues, fetchMetadata, checkServerHealth]);
 
-  // Handle per-league sync with real-time SSE progress
-  const handleSyncLeague = (leagueId) => {
+  // When season changes, reload active league immediately
+  useEffect(() => {
+    loadLeagueData(activeLeague, currentSeason);
+  }, [activeLeague, currentSeason, loadLeagueData]);
+
+  // Triggered when user wants to sync a league (Current Season 2026/27 only)
+  const handleSyncLeague = useCallback((leagueId) => {
     const leagueObj = LEAGUES.find(l => l.id === leagueId);
     if (!leagueObj) return;
 
-    if (syncState.isSyncing) {
-      alert("A league synchronization is already in progress. Please wait for it to complete.");
+    if (currentSeason !== 'current' && currentSeason !== '2026-27') {
+      alert('⚠️ Live syncing is only available for the Current Season (2026/27). Historical seasons are static archives.');
       return;
     }
 
     setSyncState({
       isSyncing: true,
-      leagueId,
+      leagueId: leagueId,
       leagueName: leagueObj.name,
-      percent: 2,
+      percent: 5,
       status: 'starting',
-      message: `Connecting to ${leagueObj.name} feed...`
+      message: `Connecting to ${leagueObj.name} data feed (2026/27)...`
     });
 
-    // Connect to Server-Sent Events stream for real-time progress
-    const eventSource = new EventSource(`${BACKEND_URL}/api/sync/stream/${leagueId}`);
+    const eventSource = new EventSource(`${BACKEND_URL}/api/sync/stream/${leagueId}?season=2026/2027`);
 
     eventSource.onmessage = (event) => {
       try {
         const data = JSON.parse(event.data);
-        
+
         setSyncState(prev => ({
           ...prev,
           percent: data.percent ?? prev.percent,
-          status: data.status || prev.status,
-          message: data.message || prev.message
+          status: data.status ?? prev.status,
+          message: data.message ?? prev.message
         }));
 
         if (data.status === 'complete') {
           eventSource.close();
           setTimeout(() => {
-            setSyncState({
-              isSyncing: false,
-              leagueId: null,
-              leagueName: null,
-              percent: 100,
-              status: 'idle',
-              message: ''
-            });
-            // Reload active league data & metadata
-            loadLeagueData(leagueId);
+            loadLeagueData(leagueId, currentSeason);
             fetchMetadata();
+            setSyncState({ isSyncing: false, leagueId: null, leagueName: null, percent: 0, status: 'idle', message: '' });
           }, 1200);
         } else if (data.status === 'error') {
           eventSource.close();
           setTimeout(() => {
-            setSyncState(prev => ({
-              ...prev,
-              isSyncing: false,
-              status: 'error',
-              message: data.message || 'Sync failed'
-            }));
-          }, 3000);
+            setSyncState({ isSyncing: false, leagueId: null, leagueName: null, percent: 0, status: 'idle', message: '' });
+          }, 4000);
         }
       } catch (err) {
         console.error('Error parsing SSE event:', err);
@@ -246,55 +257,42 @@ function App() {
     };
 
     eventSource.onerror = (err) => {
-      console.error('SSE Error:', err);
+      console.warn('SSE stream closed or encountered error:', err);
       eventSource.close();
-      setSyncState({
-        isSyncing: false,
-        leagueId,
-        leagueName: leagueObj.name,
-        percent: 100,
-        status: 'error',
-        message: 'Lost connection to backend server during sync'
-      });
+      loadLeagueData(leagueId, currentSeason);
+      fetchMetadata();
+      setSyncState({ isSyncing: false, leagueId: null, leagueName: null, percent: 0, status: 'idle', message: '' });
     };
-  };
+  }, [currentSeason, loadLeagueData, fetchMetadata]);
 
-  // Search logic
-  const handleSearch = () => {
-    const term = searchTerm.trim().toLowerCase();
-    if (!term) {
+  // Global search across all loaded leagues (current season only)
+  const handleSearch = (term) => {
+    setSearchTerm(term);
+    if (!term.trim()) {
       setSearchResult(null);
       return;
     }
 
-    let foundPlayer = null;
-    let foundLeagueId = null;
-    let foundLeagueRank = null;
+    const q = term.toLowerCase().trim();
+    let bestMatch = null;
+    let foundLeague = null;
 
-    for (const [leagueId, players] of Object.entries(leagueData)) {
-      const matchIndex = players.findIndex(p => p.name.toLowerCase().includes(term));
-      if (matchIndex !== -1) {
-        foundPlayer = players[matchIndex];
-        foundLeagueId = leagueId;
-        foundLeagueRank = matchIndex + 1;
+    for (const league of LEAGUES) {
+      const key = `${league.id}:${currentSeason}`;
+      const players = leagueData[key] || [];
+      const match = players.find(p => p.name.toLowerCase().includes(q));
+      if (match) {
+        bestMatch = match;
+        foundLeague = league.id;
         break;
       }
     }
 
-    if (foundPlayer) {
-      const leagueObj = LEAGUES.find(l => l.id === foundLeagueId) || { name: foundLeagueId, flag: '⚽' };
-      setSearchResult({
-        success: true,
-        player: foundPlayer,
-        leagueName: leagueObj.name,
-        leagueFlag: leagueObj.flag,
-        leagueRank: foundLeagueRank
-      });
+    if (bestMatch && foundLeague) {
+      setSearchResult({ player: bestMatch, leagueId: foundLeague });
+      setActiveLeague(foundLeague);
     } else {
-      setSearchResult({
-        success: false,
-        term: searchTerm
-      });
+      setSearchResult({ notFound: true, query: term });
     }
   };
 
@@ -303,15 +301,14 @@ function App() {
     setSearchResult(null);
   };
 
-  const activeLeagueObj = LEAGUES.find(l => l.id === activeLeague) || LEAGUES[0];
-  const activeLeagueMeta = metadata[activeLeague] || {};
+  const currentData = leagueData[`${activeLeague}:${currentSeason}`] || [];
 
   return (
-    <div className="App">
+    <div className="app-container">
       <Header
         leagues={LEAGUES}
         activeLeague={activeLeague}
-        onLeagueChange={setActiveLeague}
+        onLeagueChange={(id) => { setActiveLeague(id); }}
         onOpenSyncModal={() => setIsSyncModalOpen(true)}
         syncState={syncState}
         onQuickSync={handleSyncLeague}
@@ -319,13 +316,12 @@ function App() {
         currentSeason={currentSeason}
       />
 
-      <main className="main-content-layout">
+      <main className="app-main-content">
         <SearchSection
           searchTerm={searchTerm}
-          onSearchChange={setSearchTerm}
-          onSearch={handleSearch}
-          searchResult={searchResult}
+          onSearchChange={handleSearch}
           onClearSearch={handleClearSearch}
+          searchResult={searchResult}
         />
 
         <div className="main-dashboard-card">
@@ -338,7 +334,7 @@ function App() {
 
             <div className="season-selector-controls">
               <label htmlFor="seasonSelect" className="season-select-label">
-                Season Database:
+                Season:
               </label>
               <select
                 id="seasonSelect"
@@ -346,20 +342,24 @@ function App() {
                 onChange={(e) => setCurrentSeason(e.target.value)}
                 className="season-dropdown"
               >
-                <option value="current">Current Season (2025/26)</option>
-                <option value="2024-25">Historical (2024/25)</option>
+                {AVAILABLE_SEASONS.map(s => (
+                  <option key={s.id} value={s.id}>
+                    {s.label}
+                  </option>
+                ))}
               </select>
             </div>
           </div>
 
           <LeagueTable
             league={activeLeagueObj}
-            data={leagueData[activeLeague] || []}
+            data={currentData}
             isActive={true}
             lastUpdated={activeLeagueMeta.lastUpdated}
             onSyncLeague={handleSyncLeague}
             syncState={syncState}
             currentSeason={currentSeason}
+            seasonLabel={activeSeasonObj.label}
           />
         </div>
       </main>
@@ -377,10 +377,10 @@ function App() {
       <footer className="app-footer">
         <div className="footer-content">
           <p className="footer-title">
-            ⚽ <strong>Footy ELO Rating Engine</strong> • Positional ELO Algorithm with Normalized Stats
+            ⚽ <strong>Footy ELO Rating Engine</strong> • Position-Normalized Player Ratings (2016/17 – 2026/27)
           </p>
           <p className="footer-sub">
-            Powered by live FotMob statistics & position-weighted performance coefficients.
+            Current Active Season: <strong>2026/27</strong> • Europe's Top 5 Leagues • Powered by FotMob Opta statistics.
           </p>
         </div>
       </footer>
