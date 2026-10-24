@@ -7,7 +7,8 @@ function LeagueTable({
   isActive,
   lastUpdated,
   currentSeason,
-  seasonLabel
+  seasonLabel,
+  onOpenMathModal
 }) {
   const [selectedPosition, setSelectedPosition] = useState('ALL');
   const [tableSearch, setTableSearch] = useState('');
@@ -104,6 +105,31 @@ function LeagueTable({
             )}
           </div>
         </div>
+      </div>
+
+      {/* League-Specific Scope Notice */}
+      <div className="league-scope-callout">
+        <div className="scope-callout-icon">📌</div>
+        <div className="scope-callout-content">
+          <span className="scope-callout-title">Competition-Specific Ratings:</span>
+          <span>
+            Stats and ELO scores are calculated exclusively from <strong>{league.name}</strong> fixtures for {seasonLabel || (isCurrentSeason ? '2026/27' : currentSeason)}. Ratings are independent per competition and are not aggregated across domestic leagues or other European tournaments.
+          </span>
+        </div>
+        {onOpenMathModal && (
+          <button
+            type="button"
+            className="btn-table-math-link"
+            onClick={onOpenMathModal}
+            title="View exact ELO formula and positional weights"
+          >
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <rect width="18" height="18" x="3" y="3" rx="2" />
+              <path d="M8 8h8M8 12h8M8 16h4" />
+            </svg>
+            <span>Rating Math</span>
+          </button>
+        )}
       </div>
 
       {/* Top 3 Leaders Section */}
@@ -302,6 +328,15 @@ function LeagueTable({
           <span className="rating-scale-hint">
             Scale: 1700+ World Class • 1600+ Elite • 1500+ Pro • &lt;1500 Solid
           </span>
+          {onOpenMathModal && (
+            <button
+              type="button"
+              className="btn-footer-math-hint"
+              onClick={onOpenMathModal}
+            >
+              How ELO is calculated ➔
+            </button>
+          )}
         </div>
       )}
     </div>

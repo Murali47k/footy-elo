@@ -77,6 +77,7 @@ function SyncModal({
               >
                 <div className="sync-league-info">
                   <div className="sync-league-name-row">
+                    {league.flag && <span className="sync-league-flag" style={{ marginRight: '6px' }}>{league.flag}</span>}
                     <span className="sync-league-name">{league.name}</span>
                     {leagueMeta.playerCount > 0 && (
                       <span className="sync-player-badge">

@@ -5,6 +5,7 @@ function Header({
   activeLeague,
   onLeagueChange,
   onOpenSyncModal,
+  onOpenMathModal,
   syncState,
   serverOnline,
   currentSeason
@@ -32,6 +33,19 @@ function Header({
         </div>
 
         <div className="header-actions">
+          <button
+            id="btn-open-math-modal"
+            className="btn-math-modal"
+            onClick={onOpenMathModal}
+            title="View ELO calculation formula & positional weights"
+          >
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <rect width="18" height="18" x="3" y="3" rx="2" />
+              <path d="M8 8h8M8 12h8M8 16h4" />
+            </svg>
+            <span>Rating Math</span>
+          </button>
+
           <div
             className={`server-status-pill ${serverOnline ? 'online' : 'offline'}`}
             title={serverOnline ? "Backend engine online" : "Using cached local datasets"}
@@ -65,6 +79,7 @@ function Header({
                 className={`league-nav-btn ${isActive ? 'active' : ''}`}
                 onClick={() => onLeagueChange(league.id)}
               >
+                {league.flag && <span className="league-nav-flag">{league.flag}</span>}
                 <span className="league-nav-title">{league.name}</span>
               </button>
             );

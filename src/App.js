@@ -4,13 +4,16 @@ import Header from './components/Header';
 import SearchSection from './components/SearchSection';
 import LeagueTable from './components/LeagueTable';
 import SyncModal from './components/SyncModal';
+import EloMathModal from './components/EloMathModal';
 
 export const LEAGUES = [
   { id: 'premier-league', name: 'Premier League', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', filePrefix: 'pl', apiId: '47' },
   { id: 'la-liga', name: 'La Liga', flag: '🇪🇸', filePrefix: 'laliga', apiId: '87' },
   { id: 'bundesliga', name: 'Bundesliga', flag: '🇩🇪', filePrefix: 'bundesliga', apiId: '54' },
   { id: 'serie-a', name: 'Serie A', flag: '🇮🇹', filePrefix: 'seriea', apiId: '55' },
-  { id: 'ligue-1', name: 'Ligue 1', flag: '🇫🇷', filePrefix: 'ligue1', apiId: '53' }
+  { id: 'ligue-1', name: 'Ligue 1', flag: '🇫🇷', filePrefix: 'ligue1', apiId: '53' },
+  { id: 'champions-league', name: 'Champions League', flag: '⭐', filePrefix: 'cl', apiId: '42' },
+  { id: 'europa-league', name: 'Europa League', flag: '🏆', filePrefix: 'el', apiId: '73' },
 ];
 
 // All seasons with Player ELO data (from 2016/17 onwards, plus current 2026/27)
@@ -104,6 +107,7 @@ function App() {
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResult, setSearchResult] = useState(null);
   const [isSyncModalOpen, setIsSyncModalOpen] = useState(false);
+  const [isMathModalOpen, setIsMathModalOpen] = useState(false);
 
   // Real sync state tracked from backend SSE
   const [syncState, setSyncState] = useState({
@@ -319,6 +323,7 @@ function App() {
         activeLeague={activeLeague}
         onLeagueChange={(id) => { setActiveLeague(id); }}
         onOpenSyncModal={() => setIsSyncModalOpen(true)}
+        onOpenMathModal={() => setIsMathModalOpen(true)}
         syncState={syncState}
         serverOnline={serverOnline}
         currentSeason={currentSeason}
@@ -337,6 +342,7 @@ function App() {
           <div className="season-selector-bar">
             <div className="season-selector-left">
               <span className="league-indicator-title">
+                {activeLeagueObj.flag && <span className="league-title-flag">{activeLeagueObj.flag}</span>}
                 {activeLeagueObj.name}
               </span>
             </div>
@@ -367,6 +373,7 @@ function App() {
             lastUpdated={activeLeagueMeta.lastUpdated}
             currentSeason={currentSeason}
             seasonLabel={activeSeasonObj.label}
+            onOpenMathModal={() => setIsMathModalOpen(true)}
           />
         </div>
       </main>
@@ -381,13 +388,18 @@ function App() {
         currentSeason={currentSeason}
       />
 
+      <EloMathModal
+        isOpen={isMathModalOpen}
+        onClose={() => setIsMathModalOpen(false)}
+      />
+
       <footer className="app-footer">
         <div className="footer-content">
           <p className="footer-title">
             <strong>Footy ELO Rating Engine</strong> • Position-Normalized Player Ratings (2016/17 – 2026/27)
           </p>
           <p className="footer-sub">
-            Current Active Season: <strong>2026/27</strong> • Europe's Top 5 Leagues • Powered by FotMob Opta statistics
+            Europe's Top 5 Leagues, UEFA Champions League & Europa League • Competition-Specific Statistics • Powered by FotMob Opta feeds
           </p>
         </div>
       </footer>
