@@ -4,8 +4,8 @@
     "name": "Premier League",
     "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
     "filePrefix": "pl",
-    "lastUpdated": "2026-10-23T22:24:09.429632",
-    "playerCount": 468,
+    "lastUpdated": "2026-10-24T14:56:28.796859",
+    "playerCount": 467,
     "status": "ready"
   },
   "la-liga": {
@@ -13,7 +13,7 @@
     "name": "La Liga",
     "flag": "\ud83c\uddea\ud83c\uddf8",
     "filePrefix": "laliga",
-    "lastUpdated": "2026-10-24T11:36:08.465923",
+    "lastUpdated": "2026-10-24T14:57:13.224305",
     "playerCount": 494,
     "status": "ready"
   },
@@ -22,8 +22,8 @@
     "name": "Bundesliga",
     "flag": "\ud83c\udde9\ud83c\uddea",
     "filePrefix": "bundesliga",
-    "lastUpdated": "2026-02-05T12:44:15.467947",
-    "playerCount": 460,
+    "lastUpdated": "2026-10-24T14:57:57.868448",
+    "playerCount": 413,
     "status": "ready"
   },
   "serie-a": {
@@ -31,8 +31,8 @@
     "name": "Serie A",
     "flag": "\ud83c\uddee\ud83c\uddf9",
     "filePrefix": "seriea",
-    "lastUpdated": "2026-02-05T12:44:15.476465",
-    "playerCount": 543,
+    "lastUpdated": "2026-10-24T14:58:30.927911",
+    "playerCount": 495,
     "status": "ready"
   },
   "ligue-1": {
@@ -40,8 +40,8 @@
     "name": "Ligue 1",
     "flag": "\ud83c\uddeb\ud83c\uddf7",
     "filePrefix": "ligue1",
-    "lastUpdated": "2026-02-05T12:44:15.471732",
-    "playerCount": 493,
+    "lastUpdated": "2026-10-24T14:59:08.844236",
+    "playerCount": 436,
     "status": "ready"
   },
   "champions-league": {
@@ -50,7 +50,7 @@
     "flag": "\u2b50",
     "apiId": "42",
     "filePrefix": "cl",
-    "lastUpdated": "2026-10-24T14:07:28.356569",
+    "lastUpdated": "2026-10-24T14:59:46.032087",
     "playerCount": 767,
     "status": "ready"
   },
@@ -60,7 +60,7 @@
     "flag": "\ud83c\udfc6",
     "apiId": "73",
     "filePrefix": "el",
-    "lastUpdated": "2026-10-24T14:12:20.825806",
+    "lastUpdated": "2026-10-24T15:00:25.287015",
     "playerCount": 798,
     "status": "ready"
   }

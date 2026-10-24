@@ -1,432 +1,432 @@
 ParticipantName,TeamName,Position,ELO
-Robert Lewandowski,Bayern München,ATT,1727
-Serge Gnabry,TSG 1899 Hoffenheim,ATT,1683
-Daniel Caligiuri,FC Schalke 04,MID,1680
-Naldo,FC Schalke 04,DEF,1669
-Salomon Kalou,Hertha BSC,ATT,1665
-Joshua Kimmich,Bayern München,MID,1658
-Andrej Kramaric,TSG 1899 Hoffenheim,ATT,1658
-James Rodríguez,Bayern München,ATT,1643
+Robert Lewandowski,Bayern München,ATT,1725
+Naldo,FC Schalke 04,DEF,1702
+Daniel Caligiuri,FC Schalke 04,MID,1681
+Serge Gnabry,TSG 1899 Hoffenheim,ATT,1672
+Philipp Max,FC Augsburg,DEF,1665
+Salomon Kalou,Hertha BSC,ATT,1662
+Joshua Kimmich,Bayern München,MID,1662
+Andrej Kramaric,TSG 1899 Hoffenheim,ATT,1656
+Matthias Ginter,Borussia Mönchengladbach,DEF,1649
 Mark Uth,TSG 1899 Hoffenheim,ATT,1642
-Sven Bender,Bayer 04 Leverkusen,DEF,1637
-Maximilian Philipp,Borussia Dortmund,ATT,1636
-Niclas Füllkrug,Hannover 96,ATT,1629
-Leon Bailey,Bayer 04 Leverkusen,ATT,1623
-Matthias Ginter,Borussia Mönchengladbach,DEF,1623
-Dayot Upamecano,RB Leipzig,DEF,1622
-Thiago Alcántara,Bayern München,MID,1620
-Niklas Stark,Hertha BSC,DEF,1615
-Shinji Kagawa,Borussia Dortmund,MID,1613
-Benjamin Pavard,VfB Stuttgart,DEF,1607
-Raffael,Borussia Mönchengladbach,ATT,1607
-Julian Brandt,Bayer 04 Leverkusen,ATT,1607
+James Rodríguez,Bayern München,ATT,1641
+Maximilian Philipp,Borussia Dortmund,ATT,1633
+Sven Bender,Bayer 04 Leverkusen,DEF,1631
+Thiago Alcántara,Bayern München,MID,1627
+Niclas Füllkrug,Hannover 96,ATT,1627
+Dayot Upamecano,RB Leipzig,DEF,1618
+Shinji Kagawa,Borussia Dortmund,MID,1614
+Leon Bailey,Bayer 04 Leverkusen,ATT,1614
+Niklas Stark,Hertha BSC,DEF,1611
 Marius Wolf,Eintracht Frankfurt,MID,1606
-Timo Werner,RB Leipzig,ATT,1606
-Philipp Max,FC Augsburg,DEF,1606
-Waldemar Anton,Hannover 96,DEF,1606
-Daniel Didavi,VfL Wolfsburg,ATT,1604
-Nils Petersen,Sport-Club Freiburg,ATT,1601
-Bruma,RB Leipzig,MID,1600
-Marcin Kaminski,VfB Stuttgart,DEF,1598
-Michael Gregoritsch,FC Augsburg,ATT,1598
-Kingsley Coman,Bayern München,MID,1597
-Jean-Kévin Augustin,RB Leipzig,ATT,1596
-Holger Badstuber,VfB Stuttgart,DEF,1594
+Daniel Didavi,VfL Wolfsburg,ATT,1605
+Timo Werner,RB Leipzig,ATT,1604
+Julian Brandt,Bayer 04 Leverkusen,ATT,1601
+Raffael,Borussia Mönchengladbach,ATT,1601
+Michael Gregoritsch,FC Augsburg,ATT,1599
+Bruma,RB Leipzig,MID,1599
+Nils Petersen,Sport-Club Freiburg,ATT,1598
+Kingsley Coman,Bayern München,MID,1596
+Benjamin Pavard,VfB Stuttgart,DEF,1596
 Ralf Fährmann,FC Schalke 04,GK,1594
-Bernardo,RB Leipzig,DEF,1592
-Niklas Süle,Bayern München,DEF,1591
-Danny da Costa,Eintracht Frankfurt,DEF,1590
-Nuri Sahin,Borussia Dortmund,MID,1590
-Arturo Vidal,Bayern München,MID,1587
+Niklas Süle,Bayern München,DEF,1594
+Waldemar Anton,Hannover 96,DEF,1594
+Nuri Sahin,Borussia Dortmund,MID,1592
+Arturo Vidal,Bayern München,MID,1592
+Jean-Kévin Augustin,RB Leipzig,ATT,1591
+Holger Badstuber,VfB Stuttgart,DEF,1590
+Lars Bender,Bayer 04 Leverkusen,DEF,1588
+Danny da Costa,Eintracht Frankfurt,DEF,1588
+Robin Knoche,VfL Wolfsburg,DEF,1587
 Sébastien Haller,Eintracht Frankfurt,ATT,1587
-Felix Uduokhai,VfL Wolfsburg,DEF,1583
-Max Kruse,SV Werder Bremen,ATT,1583
-Jonathan Tah,Bayer 04 Leverkusen,DEF,1582
-Robin Knoche,VfL Wolfsburg,DEF,1581
+Bernardo,RB Leipzig,DEF,1584
+Marcin Kaminski,VfB Stuttgart,DEF,1583
+Jannik Vestergaard,Borussia Mönchengladbach,DEF,1582
+Jonathan Tah,Bayer 04 Leverkusen,DEF,1581
 Oliver Baumann,TSG 1899 Hoffenheim,GK,1581
-Lars Bender,Bayer 04 Leverkusen,DEF,1580
+Max Kruse,SV Werder Bremen,ATT,1581
 Sven Ulreich,Bayern München,GK,1580
-Jannik Vestergaard,Borussia Mönchengladbach,DEF,1579
+Sebastian Rudy,Bayern München,MID,1578
 Leon Goretzka,FC Schalke 04,MID,1578
-Alfred Finnbogason,FC Augsburg,ATT,1577
-Mats Hummels,Bayern München,DEF,1577
+Javi Martínez,Bayern München,DEF,1577
 Ron-Robert Zieler,VfB Stuttgart,GK,1576
-Sebastian Rudy,Bayern München,MID,1576
-Thilo Kehrer,FC Schalke 04,DEF,1576
-Javi Martínez,Bayern München,DEF,1576
-Marco Russ,Eintracht Frankfurt,DEF,1572
-William,VfL Wolfsburg,DEF,1572
-Martin Hinteregger,FC Augsburg,DEF,1570
-Ömer Toprak,Borussia Dortmund,DEF,1570
+Alfred Finnbogason,FC Augsburg,ATT,1575
+Thilo Kehrer,FC Schalke 04,DEF,1572
 Pablo De Blasis,1. FSV Mainz 05,MID,1570
-Mërgim Mavraj,Hamburger SV,DEF,1569
+Karim Rekik,Hertha BSC,DEF,1570
+Felix Uduokhai,VfL Wolfsburg,DEF,1569
+Marcel Sabitzer,RB Leipzig,MID,1568
+Willi Orbán,RB Leipzig,DEF,1568
+Mats Hummels,Bayern München,DEF,1567
 Alexander Schwolow,Sport-Club Freiburg,GK,1567
-Marcel Sabitzer,RB Leipzig,MID,1567
-Arjen Robben,Bayern München,ATT,1567
-Kevin Volland,Bayer 04 Leverkusen,ATT,1566
-Willi Orbán,RB Leipzig,DEF,1566
-Milos Veljkovic,SV Werder Bremen,DEF,1566
-Dominique Heintz,1. FC Köln,DEF,1565
-Thorgan Hazard,Borussia Mönchengladbach,ATT,1565
+Ömer Toprak,Borussia Dortmund,DEF,1566
+Marco Russ,Eintracht Frankfurt,DEF,1565
+Charles Aránguiz,Bayer 04 Leverkusen,MID,1564
+Kevin Volland,Bayer 04 Leverkusen,ATT,1564
+Arjen Robben,Bayern München,ATT,1563
 Thomas Müller,Bayern München,ATT,1563
-Charles Aránguiz,Bayer 04 Leverkusen,MID,1561
-Peter Pekarík,Hertha BSC,DEF,1560
-Karim Rekik,Hertha BSC,DEF,1560
-Benjamin Henrichs,Bayer 04 Leverkusen,DEF,1559
-Jean-Philippe Gbamin,1. FSV Mainz 05,DEF,1559
+Milos Veljkovic,SV Werder Bremen,DEF,1561
+Jean-Philippe Gbamin,1. FSV Mainz 05,DEF,1561
+Thorgan Hazard,Borussia Mönchengladbach,ATT,1560
 Manuel Gulde,Sport-Club Freiburg,DEF,1557
+Dominique Heintz,1. FC Köln,DEF,1556
 Bernd Leno,Bayer 04 Leverkusen,GK,1556
-Kevin Akpoguma,TSG 1899 Hoffenheim,DEF,1555
-Kai Havertz,Bayer 04 Leverkusen,ATT,1555
+Robin Koch,Sport-Club Freiburg,DEF,1555
 Arne Maier,Hertha BSC,MID,1555
-Stefan Ilsanker,RB Leipzig,DEF,1554
+Jonas Hector,1. FC Köln,DEF,1555
+Peter Pekarík,Hertha BSC,DEF,1554
+Diego Demme,RB Leipzig,MID,1554
 Martin Harnik,Hannover 96,ATT,1554
-Leonardo Bittencourt,1. FC Köln,MID,1553
-Lukasz Piszczek,Borussia Dortmund,DEF,1553
-Fabian Lustenberger,Hertha BSC,DEF,1553
-Diego Demme,RB Leipzig,MID,1552
-Robin Koch,Sport-Club Freiburg,DEF,1552
-Timothy Chandler,Eintracht Frankfurt,MID,1552
+Kai Havertz,Bayer 04 Leverkusen,ATT,1553
+Jeremy Toljan,Borussia Dortmund,DEF,1553
+Timothy Chandler,Eintracht Frankfurt,MID,1553
+Lukasz Piszczek,Borussia Dortmund,DEF,1552
+Mërgim Mavraj,Hamburger SV,DEF,1552
+William,VfL Wolfsburg,DEF,1552
+Leonardo Bittencourt,1. FC Köln,MID,1552
 Iver Fossum,Hannover 96,MID,1551
-Jonas Hector,1. FC Köln,DEF,1550
-Yunus Malli,VfL Wolfsburg,ATT,1549
+Martin Hinteregger,FC Augsburg,DEF,1551
 Yoshinori Muto,1. FSV Mainz 05,ATT,1549
-Christian Pulisic,Borussia Dortmund,ATT,1549
-Jeffrey Gouweleeuw,FC Augsburg,DEF,1549
-Jeremy Toljan,Borussia Dortmund,DEF,1549
 Mitchell Weiser,Hertha BSC,MID,1549
+David Alaba,Bayern München,DEF,1548
 Jirí Pavlenka,SV Werder Bremen,GK,1548
-Oliver Sorg,Hannover 96,DEF,1547
+Daniel Brosinski,1. FSV Mainz 05,ATT,1546
 Milos Jojic,1. FC Köln,MID,1546
+Christian Günter,Sport-Club Freiburg,DEF,1545
+Kevin Akpoguma,TSG 1899 Hoffenheim,DEF,1545
+Jérome Boateng,Bayern München,DEF,1545
 Kevin Kampl,RB Leipzig,MID,1545
-Lukas Klostermann,RB Leipzig,DEF,1545
+Yunus Malli,VfL Wolfsburg,ATT,1544
 Matthew Leckie,Hertha BSC,MID,1544
-Daniel Brosinski,1. FSV Mainz 05,ATT,1544
-Pascal Stenzel,Sport-Club Freiburg,DEF,1543
-Salif Sané,Hannover 96,MID,1542
+Salif Sané,Hannover 96,MID,1544
+Ademola Lookman,RB Leipzig,ATT,1542
+Marco Reus,Borussia Dortmund,ATT,1542
 Naby Keïta,RB Leipzig,MID,1542
+Benjamin Henrichs,Bayer 04 Leverkusen,DEF,1541
 Filip Kostic,Hamburger SV,MID,1541
-Sebastian Langkamp,SV Werder Bremen,DEF,1541
-Abdou Diallo,1. FSV Mainz 05,DEF,1540
+Benjamin Hübner,TSG 1899 Hoffenheim,DEF,1541
 Marwin Hitz,FC Augsburg,GK,1540
-Jérome Boateng,Bayern München,DEF,1539
-Timo Baumgartl,VfB Stuttgart,DEF,1539
-Roman Bürki,Borussia Dortmund,GK,1539
+Vladimír Darida,Hertha BSC,MID,1540
+Stefan Ilsanker,RB Leipzig,DEF,1540
 Koen Casteels,VfL Wolfsburg,GK,1539
-Lewis Holtby,Hamburger SV,MID,1539
-Vladimír Darida,Hertha BSC,MID,1538
-Marco Reus,Borussia Dortmund,ATT,1538
-Ademola Lookman,RB Leipzig,ATT,1538
+Benjamin Stambouli,FC Schalke 04,MID,1539
+Roman Bürki,Borussia Dortmund,GK,1539
+Corentin Tolisso,Bayern München,ATT,1538
 Steven Zuber,TSG 1899 Hoffenheim,MID,1538
-Benjamin Stambouli,FC Schalke 04,MID,1537
-Corentin Tolisso,Bayern München,ATT,1537
+Christian Pulisic,Borussia Dortmund,ATT,1538
 Yannick Gerhardt,VfL Wolfsburg,MID,1537
-Benjamin Hübner,TSG 1899 Hoffenheim,DEF,1536
-Emil Forsberg,RB Leipzig,ATT,1536
-Konrad Laimer,RB Leipzig,DEF,1535
-Christian Günter,Sport-Club Freiburg,DEF,1535
-Douglas Santos,Hamburger SV,DEF,1535
-David Alaba,Bayern München,DEF,1534
-Christoph Kramer,Borussia Mönchengladbach,MID,1533
-Jorge Meré,1. FC Köln,DEF,1531
-Yevheniy Konoplyanka,FC Schalke 04,ATT,1531
-Josuha Guilavogui,VfL Wolfsburg,MID,1531
+Lewis Holtby,Hamburger SV,MID,1537
+Fabian Lustenberger,Hertha BSC,DEF,1536
+Abdou Diallo,1. FSV Mainz 05,DEF,1535
+Lukas Klostermann,RB Leipzig,DEF,1534
+Christoph Kramer,Borussia Mönchengladbach,MID,1534
+Oliver Sorg,Hannover 96,DEF,1533
+Josuha Guilavogui,VfL Wolfsburg,MID,1533
+Fin Bartels,SV Werder Bremen,ATT,1532
+Emil Berggreen,1. FSV Mainz 05,ATT,1532
+Jeffrey Gouweleeuw,FC Augsburg,DEF,1532
+Marvin Plattenhardt,Hertha BSC,DEF,1531
 Maximilian Eggestein,SV Werder Bremen,MID,1531
-Lucas Alario,Bayer 04 Leverkusen,ATT,1531
 Kevin-Prince Boateng,Eintracht Frankfurt,MID,1530
+Nico Elvedi,Borussia Mönchengladbach,DEF,1530
+Pascal Stenzel,Sport-Club Freiburg,DEF,1529
 Theodor Gebre Selassie,SV Werder Bremen,DEF,1529
-Anastasios Donis,VfB Stuttgart,MID,1528
-Fin Bartels,SV Werder Bremen,ATT,1528
-Emiliano Insua,VfB Stuttgart,DEF,1528
-Emil Berggreen,1. FSV Mainz 05,ATT,1528
-Oscar Wendt,Borussia Mönchengladbach,DEF,1527
-Thomas Delaney,SV Werder Bremen,MID,1527
-Erik Thommy,VfB Stuttgart,ATT,1527
-Frederik Sørensen,1. FC Köln,DEF,1526
-Gotoku Sakai,Hamburger SV,DEF,1525
-Kerem Demirbay,TSG 1899 Hoffenheim,MID,1525
-Nico Elvedi,Borussia Mönchengladbach,DEF,1525
-Walace,Hamburger SV,MID,1524
-Per Ciljan Skjelbred,Hertha BSC,MID,1523
-Julian Baumgartlinger,Bayer 04 Leverkusen,MID,1523
-Marcel Schmelzer,Borussia Dortmund,DEF,1523
-Dennis Aogo,VfB Stuttgart,MID,1522
-Bastian Oczipka,FC Schalke 04,DEF,1521
-Andre Hahn,Hamburger SV,MID,1521
-Sandro Wagner,Bayern München,ATT,1521
-Valentino Lazaro,Hertha BSC,MID,1521
-Guido Burgstaller,FC Schalke 04,ATT,1518
-Alexander Esswein,Hertha BSC,ATT,1518
+Yevheniy Konoplyanka,FC Schalke 04,ATT,1529
+Erik Thommy,VfB Stuttgart,ATT,1528
+Jorge Meré,1. FC Köln,DEF,1528
+Thomas Delaney,SV Werder Bremen,MID,1528
+Lucas Alario,Bayer 04 Leverkusen,ATT,1527
+Sebastian Langkamp,SV Werder Bremen,DEF,1527
+Anastasios Donis,VfB Stuttgart,MID,1527
+Emil Forsberg,RB Leipzig,ATT,1526
+Kerem Demirbay,TSG 1899 Hoffenheim,MID,1526
+Per Ciljan Skjelbred,Hertha BSC,MID,1525
+Walace,Hamburger SV,MID,1525
+Konrad Laimer,RB Leipzig,DEF,1525
+Oscar Wendt,Borussia Mönchengladbach,DEF,1525
+Frederik Sørensen,1. FC Köln,DEF,1524
+Dennis Aogo,VfB Stuttgart,MID,1524
+Emiliano Insua,VfB Stuttgart,DEF,1524
+Julian Baumgartlinger,Bayer 04 Leverkusen,MID,1524
+Alexander Esswein,Hertha BSC,ATT,1522
+Sandro Wagner,Bayern München,ATT,1522
+Timo Baumgartl,VfB Stuttgart,DEF,1521
+Douglas Santos,Hamburger SV,DEF,1521
+Andre Hahn,Hamburger SV,MID,1520
+Florian Grillitsch,TSG 1899 Hoffenheim,MID,1520
+Valentino Lazaro,Hertha BSC,MID,1520
+Ádám Szalai,TSG 1899 Hoffenheim,ATT,1518
+Rafinha,Bayern München,DEF,1518
 Yann Sommer,Borussia Mönchengladbach,GK,1518
-Florian Grillitsch,TSG 1899 Hoffenheim,MID,1518
-Rafinha,Bayern München,DEF,1517
 Lukás Hrádecky,Eintracht Frankfurt,GK,1517
-Ádám Szalai,TSG 1899 Hoffenheim,ATT,1517
-Vincenzo Grifo,Borussia Mönchengladbach,ATT,1516
-Jetro Willems,Eintracht Frankfurt,DEF,1516
+Guido Burgstaller,FC Schalke 04,ATT,1517
 Orel Mangala,VfB Stuttgart,MID,1516
-Caglar Söyüncü,Sport-Club Freiburg,DEF,1515
-Mario Götze,Borussia Dortmund,ATT,1515
-Sokratis Papastathopoulos,Borussia Dortmund,DEF,1514
-Berkay Özcan,VfB Stuttgart,ATT,1514
-Josip Brekalo,VfL Wolfsburg,ATT,1514
-Lukas Rupp,TSG 1899 Hoffenheim,ATT,1513
-Panagiotis Retsos,Bayer 04 Leverkusen,DEF,1512
+Panagiotis Retsos,Bayer 04 Leverkusen,DEF,1515
+Mario Götze,Borussia Dortmund,ATT,1514
+Vincenzo Grifo,Borussia Mönchengladbach,ATT,1514
+Nico Schulz,TSG 1899 Hoffenheim,DEF,1512
+Paul Verhaegh,VfL Wolfsburg,DEF,1512
+Marko Pjaca,FC Schalke 04,ATT,1512
 Caiuby,FC Augsburg,MID,1512
-Ihlas Bebou,Hannover 96,ATT,1510
+Lukas Rupp,TSG 1899 Hoffenheim,ATT,1511
 Nadiem Amiri,TSG 1899 Hoffenheim,MID,1510
-Niklas Moisander,SV Werder Bremen,DEF,1510
-Carlos Salcedo,Eintracht Frankfurt,DEF,1510
-Nico Schulz,TSG 1899 Hoffenheim,DEF,1509
+Gotoku Sakai,Hamburger SV,DEF,1510
 Rune Almenning Jarstein,Hertha BSC,GK,1509
+Bastian Oczipka,FC Schalke 04,DEF,1509
+Sokratis Papastathopoulos,Borussia Dortmund,DEF,1509
 Albin Ekdal,Hamburger SV,MID,1509
-Philipp Bargfrede,SV Werder Bremen,MID,1508
-Julian Weigl,Borussia Dortmund,MID,1508
-Marko Pjaca,FC Schalke 04,ATT,1508
+Philipp Bargfrede,SV Werder Bremen,MID,1509
+Julian Weigl,Borussia Dortmund,MID,1509
+Niklas Moisander,SV Werder Bremen,DEF,1508
+Jetro Willems,Eintracht Frankfurt,DEF,1508
 Timo Horn,1. FC Köln,GK,1508
-Giulio Donati,1. FSV Mainz 05,DEF,1507
-Pavel Kaderábek,TSG 1899 Hoffenheim,MID,1507
-Marvin Plattenhardt,Hertha BSC,DEF,1505
-Dennis Diekmeier,Hamburger SV,DEF,1504
-Nabil Bentaleb,FC Schalke 04,MID,1504
-Rick van Drongelen,Hamburger SV,DEF,1504
-Josip Drmic,Borussia Mönchengladbach,ATT,1503
-Jadon Sancho,Borussia Dortmund,ATT,1503
+Giulio Donati,1. FSV Mainz 05,DEF,1508
+Josip Drmic,Borussia Mönchengladbach,ATT,1507
+Marcel Schmelzer,Borussia Dortmund,DEF,1507
+Jadon Sancho,Borussia Dortmund,ATT,1507
+Josip Brekalo,VfL Wolfsburg,ATT,1507
+Jonathas,Hannover 96,ATT,1507
+Dennis Diekmeier,Hamburger SV,DEF,1507
+Berkay Özcan,VfB Stuttgart,ATT,1506
+Pavel Kaderábek,TSG 1899 Hoffenheim,MID,1506
+Caglar Söyüncü,Sport-Club Freiburg,DEF,1503
 Péter Gulácsi,RB Leipzig,GK,1503
-Jonathas,Hannover 96,ATT,1503
-Amine Harit,FC Schalke 04,ATT,1502
-Paul Verhaegh,VfL Wolfsburg,DEF,1501
-Chadrac Akolo,VfB Stuttgart,ATT,1501
-Divock Origi,VfL Wolfsburg,ATT,1501
-Mahmoud Dahoud,Borussia Dortmund,MID,1501
+Mahmoud Dahoud,Borussia Dortmund,MID,1502
+Wendell,Bayer 04 Leverkusen,DEF,1502
+Nabil Bentaleb,FC Schalke 04,MID,1502
 Philipp Tschauner,Hannover 96,GK,1501
-René Adler,1. FSV Mainz 05,Code_0,1500
-Robin Quaison,1. FSV Mainz 05,MID,1500
-Gerrit Holtmann,1. FSV Mainz 05,ATT,1500
-Nigel de Jong,1. FSV Mainz 05,Code_2,1500
-Sejad Salihovic,Hamburger SV,Code_2,1500
-Shawn Parker,FC Augsburg,Code_2,1500
-Stefan Kiessling,Bayer 04 Leverkusen,Code_3,1500
-Julian Schuster,Sport-Club Freiburg,Code_2,1500
 Matthias Lehmann,1. FC Köln,Code_2,1500
-Gojko Kacar,FC Augsburg,Code_2,1500
-Eugen Polanski,TSG 1899 Hoffenheim,Code_2,1500
 Tom Starke,Bayern München,Code_0,1500
+Stefan Kiessling,Bayer 04 Leverkusen,Code_3,1500
+Eugen Polanski,TSG 1899 Hoffenheim,Code_2,1500
 Aaron Hunt,Hamburger SV,ATT,1500
-Franck Ribéry,Bayern München,ATT,1497
-Davie Selke,Hertha BSC,ATT,1496
-Andre Schürrle,Borussia Dortmund,ATT,1495
-Ludwig Augustinsson,SV Werder Bremen,DEF,1495
-Danny Blum,Eintracht Frankfurt,ATT,1493
-Milot Rashica,SV Werder Bremen,ATT,1493
-Charlison Benschop,Hannover 96,ATT,1493
-Pierre-Emerick Aubameyang,Borussia Dortmund,ATT,1493
-Alexander Meier,Eintracht Frankfurt,ATT,1493
-Marcel Risse,1. FC Köln,ATT,1493
-Robin Hack,TSG 1899 Hoffenheim,ATT,1493
-Marco Fabián,Eintracht Frankfurt,ATT,1493
+Carlos Salcedo,Eintracht Frankfurt,DEF,1500
+Shawn Parker,FC Augsburg,Code_2,1500
+Gojko Kacar,FC Augsburg,Code_2,1500
+Ihlas Bebou,Hannover 96,ATT,1500
+René Adler,1. FSV Mainz 05,Code_0,1500
+Sejad Salihovic,Hamburger SV,Code_2,1500
+Julian Schuster,Sport-Club Freiburg,Code_2,1500
+Nigel de Jong,1. FSV Mainz 05,Code_2,1500
+Gerrit Holtmann,1. FSV Mainz 05,ATT,1499
+Robin Quaison,1. FSV Mainz 05,MID,1499
+Chadrac Akolo,VfB Stuttgart,ATT,1498
+Divock Origi,VfL Wolfsburg,ATT,1497
+Robin Hack,TSG 1899 Hoffenheim,ATT,1497
+Marco Fabián,Eintracht Frankfurt,ATT,1497
+Alexander Meier,Eintracht Frankfurt,ATT,1497
+Danny Blum,Eintracht Frankfurt,ATT,1497
+Pierre-Emerick Aubameyang,Borussia Dortmund,ATT,1497
+Charlison Benschop,Hannover 96,ATT,1497
+Marcel Risse,1. FC Köln,ATT,1497
+Milot Rashica,SV Werder Bremen,ATT,1497
+Amine Harit,FC Schalke 04,ATT,1494
+Davie Selke,Hertha BSC,ATT,1493
+Franck Ribéry,Bayern München,ATT,1492
 Suat Serdar,1. FSV Mainz 05,MID,1492
-Wendell,Bayer 04 Leverkusen,DEF,1491
-Matija Nastasic,FC Schalke 04,DEF,1491
-Gian-Luca Waldschmidt,Hamburger SV,ATT,1491
-Yussuf Poulsen,RB Leipzig,ATT,1490
-Daniel Baier,FC Augsburg,MID,1490
-Jonas Hofmann,Borussia Mönchengladbach,ATT,1489
-Luka Jovic,Eintracht Frankfurt,ATT,1489
-Tatsuya Ito,Hamburger SV,ATT,1489
-Zlatko Junuzovic,SV Werder Bremen,ATT,1489
-Marco Höger,1. FC Köln,MID,1487
-Andriy Yarmolenko,Borussia Dortmund,ATT,1485
-Karim Bellarabi,Bayer 04 Leverkusen,ATT,1484
-Stefan Bell,1. FSV Mainz 05,DEF,1484
-Matthias Ostrzolek,Hannover 96,DEF,1484
-Admir Mehmedi,VfL Wolfsburg,ATT,1484
-Michy Batshuayi,Borussia Dortmund,ATT,1483
-Marco Richter,FC Augsburg,ATT,1483
-Joel Pohjanpalo,Bayer 04 Leverkusen,ATT,1483
+Daniel Baier,FC Augsburg,MID,1492
+Rick van Drongelen,Hamburger SV,DEF,1492
+Zlatko Junuzovic,SV Werder Bremen,ATT,1490
+Andre Schürrle,Borussia Dortmund,ATT,1489
+Gian-Luca Waldschmidt,Hamburger SV,ATT,1489
+Ludwig Augustinsson,SV Werder Bremen,DEF,1489
+Marco Höger,1. FC Köln,MID,1488
+Joel Pohjanpalo,Bayer 04 Leverkusen,ATT,1487
+Michy Batshuayi,Borussia Dortmund,ATT,1487
+Marco Richter,FC Augsburg,ATT,1487
+Jonas Hofmann,Borussia Mönchengladbach,ATT,1487
+Yussuf Poulsen,RB Leipzig,ATT,1487
+Admir Mehmedi,VfL Wolfsburg,ATT,1487
+Luka Jovic,Eintracht Frankfurt,ATT,1486
+Tatsuya Ito,Hamburger SV,ATT,1483
+Franck Evina,Bayern München,ATT,1482
+Valentin Stocker,Hertha BSC,ATT,1482
+Chris Führich,1. FC Köln,ATT,1482
+Jacob Bruun Larsen,VfB Stuttgart,ATT,1482
 Christian Mathenia,Hamburger SV,GK,1482
-Daniel Ginczek,VfB Stuttgart,ATT,1480
-Jakub Blaszczykowski,VfL Wolfsburg,MID,1479
-Niklas Dorsch,Bayern München,MID,1479
-Nicolai Müller,Hamburger SV,MID,1479
-Aron Jóhannsson,SV Werder Bremen,MID,1479
-Bartosz Kapustka,Sport-Club Freiburg,MID,1479
+Ibrahima Traore,Borussia Mönchengladbach,ATT,1482
+Fabian Frei,1. FSV Mainz 05,ATT,1482
+Johannes Eggestein,SV Werder Bremen,ATT,1482
+Yoric Ravet,Sport-Club Freiburg,ATT,1482
+Lászlo Bénes,Borussia Mönchengladbach,ATT,1482
+Marc Bartra,Borussia Dortmund,DEF,1481
+Andriy Yarmolenko,Borussia Dortmund,ATT,1481
+Makoto Hasebe,Eintracht Frankfurt,MID,1481
 Felix Klaus,Hannover 96,ATT,1479
-Chris Führich,1. FC Köln,ATT,1478
-Jacob Bruun Larsen,VfB Stuttgart,ATT,1478
-Fabian Frei,1. FSV Mainz 05,ATT,1478
-Daniel Opare,FC Augsburg,DEF,1478
-Lászlo Bénes,Borussia Mönchengladbach,ATT,1478
-Johannes Eggestein,SV Werder Bremen,ATT,1478
-Makoto Hasebe,Eintracht Frankfurt,MID,1478
-Franck Evina,Bayern München,ATT,1478
-Yoric Ravet,Sport-Club Freiburg,ATT,1478
-Ibrahima Traore,Borussia Mönchengladbach,ATT,1478
-Valentin Stocker,Hertha BSC,ATT,1478
-Linton Maina,Hannover 96,MID,1474
-Tobias Strobl,Borussia Mönchengladbach,MID,1474
-Aymen Barkok,Eintracht Frankfurt,ATT,1473
-Claudio Pizarro,1. FC Köln,ATT,1473
-Lucas Höler,Sport-Club Freiburg,ATT,1473
-Jann-Fiete Arp,Hamburger SV,ATT,1472
-Tim Kleindienst,Sport-Club Freiburg,ATT,1471
+Daniel Ginczek,VfB Stuttgart,ATT,1479
+Karim Bellarabi,Bayer 04 Leverkusen,ATT,1478
+Nicolai Müller,Hamburger SV,MID,1477
+Aron Jóhannsson,SV Werder Bremen,MID,1477
+Aymen Barkok,Eintracht Frankfurt,ATT,1477
+Lucas Höler,Sport-Club Freiburg,ATT,1477
+Jakub Blaszczykowski,VfL Wolfsburg,MID,1477
+Bartosz Kapustka,Sport-Club Freiburg,MID,1477
+Niklas Dorsch,Bayern München,MID,1477
+Claudio Pizarro,1. FC Köln,ATT,1477
+Stefan Bell,1. FSV Mainz 05,DEF,1476
+Raphaël Guerreiro,Borussia Dortmund,DEF,1476
+Matija Nastasic,FC Schalke 04,DEF,1475
+Matthias Ostrzolek,Hannover 96,DEF,1474
+Alexander Isak,Borussia Dortmund,ATT,1472
+Anthony Ujah,1. FSV Mainz 05,ATT,1472
+Tim Kleindienst,Sport-Club Freiburg,ATT,1472
+Karim Onisiwo,1. FSV Mainz 05,ATT,1472
+Tobias Strobl,Borussia Mönchengladbach,MID,1472
+Takuma Asano,VfB Stuttgart,ATT,1472
+Victor Osimhen,VfL Wolfsburg,ATT,1472
+Cedric Teuchert,FC Schalke 04,ATT,1472
+Julian Schieber,Hertha BSC,ATT,1472
+Linton Maina,Hannover 96,MID,1472
+Mario Gomez,VfB Stuttgart,ATT,1471
 Weston McKennie,FC Schalke 04,MID,1470
-Mario Gomez,VfB Stuttgart,ATT,1470
-Juan Bernat,Bayern München,MID,1469
-Karim Onisiwo,1. FSV Mainz 05,ATT,1468
-Anthony Ujah,1. FSV Mainz 05,ATT,1468
-Takuma Asano,VfB Stuttgart,ATT,1468
-Julian Schieber,Hertha BSC,ATT,1468
-Alexander Isak,Borussia Dortmund,ATT,1468
-Cedric Teuchert,FC Schalke 04,ATT,1468
-Victor Osimhen,VfL Wolfsburg,ATT,1468
-Levin Mete Öztunali,1. FSV Mainz 05,ATT,1467
-Alexandru Maxim,1. FSV Mainz 05,ATT,1467
+Jann-Fiete Arp,Hamburger SV,ATT,1470
+Christian Clemens,1. FC Köln,ATT,1467
+Noah-Joel Sarenren-Bazee,Hannover 96,ATT,1467
+Palkó Dárdai,Hertha BSC,ATT,1467
+Juan Bernat,Bayern München,MID,1467
+Julio Villalba,Borussia Mönchengladbach,ATT,1467
+Florian Niederlechner,Sport-Club Freiburg,ATT,1467
+Ridle Baku,1. FSV Mainz 05,DEF,1466
+Marcel Halstenberg,RB Leipzig,DEF,1466
+Alexandru Maxim,1. FSV Mainz 05,ATT,1466
 Patrick Herrmann,Borussia Mönchengladbach,ATT,1466
 Salih Özcan,1. FC Köln,MID,1465
-Philipp Ochs,TSG 1899 Hoffenheim,MID,1464
-Sebastian Maier,Hannover 96,MID,1464
 Yuya Osako,1. FC Köln,ATT,1464
-Benno Schmitz,RB Leipzig,MID,1464
-Vincent Sierro,Sport-Club Freiburg,MID,1464
-Felix Passlack,TSG 1899 Hoffenheim,MID,1464
-Dominik Kaiser,RB Leipzig,MID,1464
-Daichi Kamada,Eintracht Frankfurt,MID,1464
-Jonathan de Guzmán,Eintracht Frankfurt,MID,1464
-Christoph Janker,FC Augsburg,MID,1464
-Ishak Belfodil,SV Werder Bremen,ATT,1464
-Noah-Joel Sarenren-Bazee,Hannover 96,ATT,1463
-Julio Villalba,Borussia Mönchengladbach,ATT,1463
-Christian Clemens,1. FC Köln,ATT,1463
-Raphaël Guerreiro,Borussia Dortmund,DEF,1463
-Florian Niederlechner,Sport-Club Freiburg,ATT,1463
-Palkó Dárdai,Hertha BSC,ATT,1463
-Florian Kainz,SV Werder Bremen,ATT,1463
-Kyriakos Papadopoulos,Hamburger SV,DEF,1463
-Marc Bartra,Borussia Dortmund,DEF,1463
-Bakery Jatta,Hamburger SV,MID,1459
-Andreas Beck,VfB Stuttgart,DEF,1459
-Sven Schipplock,Hamburger SV,ATT,1458
-Kenan Kodro,1. FSV Mainz 05,ATT,1458
-Serhou Guirassy,1. FC Köln,ATT,1458
-Kenan Karaman,Hannover 96,ATT,1457
-Ondrej Duda,Hertha BSC,MID,1457
-Florian Kath,Sport-Club Freiburg,DEF,1455
-Jonathan Schmid,FC Augsburg,ATT,1455
+Christoph Janker,FC Augsburg,MID,1462
+Daniel Opare,FC Augsburg,DEF,1462
+Benno Schmitz,RB Leipzig,MID,1462
+Sebastian Maier,Hannover 96,MID,1462
+Jonathan de Guzmán,Eintracht Frankfurt,MID,1462
+Vincent Sierro,Sport-Club Freiburg,MID,1462
+Serhou Guirassy,1. FC Köln,ATT,1462
+Kenan Kodro,1. FSV Mainz 05,ATT,1462
+Felix Passlack,TSG 1899 Hoffenheim,MID,1462
+Philipp Ochs,TSG 1899 Hoffenheim,MID,1462
+Dominik Kaiser,RB Leipzig,MID,1462
+Sven Schipplock,Hamburger SV,ATT,1462
+Daichi Kamada,Eintracht Frankfurt,MID,1462
+Fabian Johnson,Borussia Mönchengladbach,DEF,1461
+Levin Mete Öztunali,1. FSV Mainz 05,ATT,1461
+Florian Kainz,SV Werder Bremen,ATT,1460
+Andreas Beck,VfB Stuttgart,DEF,1458
+Kyriakos Papadopoulos,Hamburger SV,DEF,1458
+Viktor Fischer,1. FSV Mainz 05,ATT,1457
+Danny Latza,1. FSV Mainz 05,MID,1457
+Jonathan Schmid,FC Augsburg,ATT,1457
+Bakery Jatta,Hamburger SV,MID,1457
+Paul-Georges Ntep,VfL Wolfsburg,ATT,1457
+Branimir Hrgota,Eintracht Frankfurt,ATT,1457
+Robert Zulj,TSG 1899 Hoffenheim,ATT,1457
+Mike Frantz,Sport-Club Freiburg,DEF,1456
+Miiko Albornoz,Hannover 96,DEF,1456
+Ondrej Duda,Hertha BSC,MID,1456
+Ishak Belfodil,SV Werder Bremen,ATT,1456
+Tim Handwerker,1. FC Köln,DEF,1456
+Kenan Karaman,Hannover 96,ATT,1456
 Vedad Ibisevic,Hertha BSC,ATT,1455
-Danny Latza,1. FSV Mainz 05,MID,1455
-Ridle Baku,1. FSV Mainz 05,DEF,1453
-Robert Zulj,TSG 1899 Hoffenheim,ATT,1453
-Viktor Fischer,1. FSV Mainz 05,ATT,1453
-David Abraham,Eintracht Frankfurt,ATT,1453
-Fabian Johnson,Borussia Mönchengladbach,DEF,1453
-Lars Stindl,Borussia Mönchengladbach,ATT,1453
-Branimir Hrgota,Eintracht Frankfurt,ATT,1453
-Paul-Georges Ntep,VfL Wolfsburg,ATT,1453
-Michaël Cuisance,Borussia Mönchengladbach,ATT,1452
-Simon Falette,Eintracht Frankfurt,DEF,1452
-Marvin Bakalorz,Hannover 96,MID,1452
-Christian Gentner,VfB Stuttgart,ATT,1452
+David Abraham,Eintracht Frankfurt,ATT,1455
+Christian Gentner,VfB Stuttgart,ATT,1453
+Lars Stindl,Borussia Mönchengladbach,ATT,1452
+Kevin Danso,FC Augsburg,DEF,1451
 Pirmin Schwegler,Hannover 96,MID,1451
-Jérome Gondorf,SV Werder Bremen,MID,1451
+Marvin Bakalorz,Hannover 96,MID,1451
+Jérome Gondorf,SV Werder Bremen,MID,1450
 Janik Haberer,Sport-Club Freiburg,MID,1450
-Ignacio Camacho,VfL Wolfsburg,MID,1449
-Ole Käuper,SV Werder Bremen,MID,1449
-Sebastian Jung,VfL Wolfsburg,MID,1449
-Manuel Schmiedebach,Hannover 96,MID,1449
-Coke,FC Schalke 04,MID,1449
-Jairo Samperio,1. FSV Mainz 05,MID,1449
-Marc Stendera,Eintracht Frankfurt,MID,1449
-Vasilije Janjicic,Hamburger SV,MID,1449
-Mike Frantz,Sport-Club Freiburg,DEF,1448
-Tim Handwerker,1. FC Köln,DEF,1448
-Ante Rebic,Eintracht Frankfurt,ATT,1446
-Sergio Córdova,FC Augsburg,ATT,1445
+Coke,FC Schalke 04,MID,1447
+Ole Käuper,SV Werder Bremen,MID,1447
+Ryan Kent,Sport-Club Freiburg,ATT,1447
+Ignacio Camacho,VfL Wolfsburg,MID,1447
+Florian Kath,Sport-Club Freiburg,DEF,1447
+Konstantin Rausch,1. FC Köln,ATT,1447
+Vasilije Janjicic,Hamburger SV,MID,1447
+Marc Stendera,Eintracht Frankfurt,MID,1447
+Jairo Samperio,1. FSV Mainz 05,MID,1447
+Manuel Schmiedebach,Hannover 96,MID,1447
+Sebastian Jung,VfL Wolfsburg,MID,1447
+Ludovic Lamine Sané,SV Werder Bremen,DEF,1446
 Gelson Fernandes,Eintracht Frankfurt,MID,1445
-Miiko Albornoz,Hannover 96,DEF,1443
-Ja-Cheol Koo,FC Augsburg,ATT,1443
-Ryan Kent,Sport-Club Freiburg,ATT,1443
-Marcel Halstenberg,RB Leipzig,DEF,1443
-Konstantin Rausch,1. FC Köln,ATT,1443
-Mijat Gacinovic,Eintracht Frankfurt,ATT,1441
-Simon Zoller,1. FC Köln,ATT,1441
+Ja-Cheol Koo,FC Augsburg,ATT,1444
+Michaël Cuisance,Borussia Mönchengladbach,ATT,1443
+Sergio Córdova,FC Augsburg,ATT,1443
+Simon Zoller,1. FC Köln,ATT,1442
+Simon Falette,Eintracht Frankfurt,DEF,1441
+Aílton,VfB Stuttgart,DEF,1441
+Sergio Gómez,Borussia Dortmund,DEF,1441
+Taleb Tawatha,Eintracht Frankfurt,DEF,1441
+Dan-Axel Zagadou,Borussia Dortmund,DEF,1441
+Jordan Torunarigha,Hertha BSC,DEF,1441
+Håvard Nordtveit,TSG 1899 Hoffenheim,DEF,1441
+Birk Risa,1. FC Köln,DEF,1441
+Marc-Oliver Kempf,Sport-Club Freiburg,DEF,1441
+Felipe,Hannover 96,DEF,1441
+Marco Friedl,SV Werder Bremen,DEF,1441
+Dominic Maroh,1. FC Köln,DEF,1441
+Jannes-Kilian Horn,1. FC Köln,DEF,1441
+Maximilian Mittelstädt,Hertha BSC,DEF,1441
+Onur Bulut,Sport-Club Freiburg,DEF,1441
+Paul Jaeckel,VfL Wolfsburg,DEF,1441
+Ante Rebic,Eintracht Frankfurt,ATT,1440
 Gonzalo Castro,Borussia Dortmund,ATT,1440
-Kevin Vogt,TSG 1899 Hoffenheim,DEF,1439
-Dominic Maroh,1. FC Köln,DEF,1438
-Sergio Gómez,Borussia Dortmund,DEF,1438
-Kevin Danso,FC Augsburg,DEF,1438
-Maximilian Mittelstädt,Hertha BSC,DEF,1438
-Ludovic Lamine Sané,SV Werder Bremen,DEF,1438
-Håvard Nordtveit,TSG 1899 Hoffenheim,DEF,1438
-Birk Risa,1. FC Köln,DEF,1438
-Onur Bulut,Sport-Club Freiburg,DEF,1438
-Paul Jaeckel,VfL Wolfsburg,DEF,1438
-Felipe,Hannover 96,DEF,1438
-Marco Friedl,SV Werder Bremen,DEF,1438
-Aílton,VfB Stuttgart,DEF,1438
-Jannes-Kilian Horn,1. FC Köln,DEF,1438
-Jhon Córdoba,1. FC Köln,ATT,1438
-Julian Korb,Hannover 96,DEF,1435
-Vincent Koziello,1. FC Köln,MID,1434
-Amir Abrashi,Sport-Club Freiburg,MID,1434
-Matti Steinmann,Hamburger SV,MID,1434
-Marc-Oliver Kempf,Sport-Club Freiburg,DEF,1433
-Izet Hajrovic,SV Werder Bremen,ATT,1433
-Dan-Axel Zagadou,Borussia Dortmund,DEF,1433
-Jordan Torunarigha,Hertha BSC,DEF,1433
-Taleb Tawatha,Eintracht Frankfurt,DEF,1433
-Lukas Klünter,1. FC Köln,DEF,1430
-Breel Embolo,FC Schalke 04,ATT,1430
+Mijat Gacinovic,Eintracht Frankfurt,ATT,1439
+Izet Hajrovic,SV Werder Bremen,ATT,1437
+Jhon Córdoba,1. FC Köln,ATT,1437
+Kevin Vogt,TSG 1899 Hoffenheim,DEF,1437
+Julian Korb,Hannover 96,DEF,1434
+Amir Abrashi,Sport-Club Freiburg,MID,1432
+Matti Steinmann,Hamburger SV,MID,1432
+Vincent Koziello,1. FC Köln,MID,1432
+Raúl Bobadilla,Borussia Mönchengladbach,ATT,1432
+Alexander Hack,1. FSV Mainz 05,DEF,1431
 Manuel Neuer,Bayern München,GK,1429
-Denis Zakaria,Borussia Mönchengladbach,DEF,1428
-Raúl Bobadilla,Borussia Mönchengladbach,ATT,1428
-Marco Terrazzino,Sport-Club Freiburg,ATT,1427
-Bobby Wood,Hamburger SV,ATT,1424
-Genki Haraguchi,Hertha BSC,MID,1424
-Alexander Hack,1. FSV Mainz 05,DEF,1423
-Pablo Insua,FC Schalke 04,DEF,1423
-Ibrahima Konaté,RB Leipzig,DEF,1423
-Reece Oxford,Borussia Mönchengladbach,DEF,1423
-Renato Steffen,VfL Wolfsburg,ATT,1423
-Gian-Luca Itter,VfL Wolfsburg,DEF,1423
-Tin Jedvaj,Bayer 04 Leverkusen,DEF,1423
-Pawel Olkowski,1. FC Köln,DEF,1423
-John Anthony Brooks,VfL Wolfsburg,DEF,1423
-Landry Dimata,VfL Wolfsburg,ATT,1423
-Josip Elez,Hannover 96,DEF,1423
-Neven Subotic,Borussia Dortmund,DEF,1423
-Dominik Kohr,Bayer 04 Leverkusen,DEF,1423
+Marco Terrazzino,Sport-Club Freiburg,ATT,1428
+Renato Steffen,VfL Wolfsburg,ATT,1427
+Timo Hübers,Hannover 96,DEF,1426
+Josip Elez,Hannover 96,DEF,1426
+Tin Jedvaj,Bayer 04 Leverkusen,DEF,1426
+John Anthony Brooks,VfL Wolfsburg,DEF,1426
+Tony Jantschke,Borussia Mönchengladbach,DEF,1426
+Pawel Olkowski,1. FC Köln,DEF,1426
+Reece Oxford,Borussia Mönchengladbach,DEF,1426
+Neven Subotic,Borussia Dortmund,DEF,1426
+Gian-Luca Itter,VfL Wolfsburg,DEF,1426
+Ibrahima Konaté,RB Leipzig,DEF,1426
+Pablo Insua,FC Schalke 04,DEF,1426
+Lukas Klünter,1. FC Köln,DEF,1425
+Landry Dimata,VfL Wolfsburg,ATT,1425
+Bobby Wood,Hamburger SV,ATT,1423
+Breel Embolo,FC Schalke 04,ATT,1423
+Denis Zakaria,Borussia Mönchengladbach,DEF,1423
+Maximilian Arnold,VfL Wolfsburg,MID,1422
+Genki Haraguchi,Hertha BSC,MID,1422
 Rani Khedira,FC Augsburg,MID,1422
 Franco Di Santo,FC Schalke 04,ATT,1421
-Maximilian Arnold,VfL Wolfsburg,MID,1419
-Omar Mascarell,Eintracht Frankfurt,MID,1419
-Alessandro Schöpf,FC Schalke 04,MID,1419
-Raphael Framberger,FC Augsburg,MID,1419
-Tony Jantschke,Borussia Mönchengladbach,DEF,1418
-Timo Hübers,Hannover 96,DEF,1418
-Gideon Jung,Hamburger SV,MID,1416
-Florian Müller,1. FSV Mainz 05,GK,1414
+Gideon Jung,Hamburger SV,MID,1417
+Alessandro Schöpf,FC Schalke 04,MID,1417
+Omar Mascarell,Eintracht Frankfurt,MID,1417
+Raphael Framberger,FC Augsburg,MID,1417
+Dominik Kohr,Bayer 04 Leverkusen,DEF,1415
 Tobias Sippel,Borussia Mönchengladbach,GK,1414
-Dzenis Burnic,VfB Stuttgart,MID,1414
+Florian Müller,1. FSV Mainz 05,GK,1414
+Dzenis Burnic,VfB Stuttgart,MID,1412
+Jeffrey Bruma,VfL Wolfsburg,DEF,1411
+Manuel Akanji,Borussia Dortmund,DEF,1411
+Florian Hübner,Hannover 96,DEF,1411
+Philipp Lienhart,Sport-Club Freiburg,DEF,1411
+Riechedly Bazoer,VfL Wolfsburg,DEF,1411
 Dennis Geiger,TSG 1899 Hoffenheim,MID,1411
-Marcel Heller,FC Augsburg,ATT,1409
-Philipp Lienhart,Sport-Club Freiburg,DEF,1408
-Jeffrey Bruma,VfL Wolfsburg,DEF,1408
-Florian Hübner,Hannover 96,DEF,1408
-Manuel Akanji,Borussia Dortmund,DEF,1408
-Riechedly Bazoer,VfL Wolfsburg,DEF,1408
+Marcel Heller,FC Augsburg,ATT,1410
+Simon Terodde,1. FC Köln,ATT,1407
 Robin Zentner,1. FSV Mainz 05,GK,1407
 Nicolas Höfler,Sport-Club Freiburg,ATT,1406
-Simon Terodde,1. FC Köln,ATT,1405
-Thomas Kraft,Hertha BSC,GK,1399
 Julian Pollersbeck,Hamburger SV,GK,1399
-Stefan Posch,TSG 1899 Hoffenheim,DEF,1393
-Lukas Kübler,Sport-Club Freiburg,DEF,1393
-Marcel Tisserand,VfL Wolfsburg,DEF,1388
-Santiago Ascacíbar,VfB Stuttgart,MID,1386
-Max Meyer,FC Schalke 04,ATT,1385
-Jan Morávek,FC Augsburg,MID,1384
+Thomas Kraft,Hertha BSC,GK,1399
+Lukas Kübler,Sport-Club Freiburg,DEF,1396
+Marcel Tisserand,VfL Wolfsburg,DEF,1396
+Stefan Posch,TSG 1899 Hoffenheim,DEF,1396
+Santiago Ascacíbar,VfB Stuttgart,MID,1387
+Max Meyer,FC Schalke 04,ATT,1386
 Michael Zetterer,SV Werder Bremen,GK,1384
-Robert Bauer,SV Werder Bremen,DEF,1378
-Ermin Bicakcic,TSG 1899 Hoffenheim,DEF,1378
-Leon Balogun,1. FSV Mainz 05,DEF,1358
+Jan Morávek,FC Augsburg,MID,1382
+Ermin Bicakcic,TSG 1899 Hoffenheim,DEF,1381
+Robert Bauer,SV Werder Bremen,DEF,1381
+Leon Balogun,1. FSV Mainz 05,DEF,1361

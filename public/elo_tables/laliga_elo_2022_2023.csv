@@ -1,581 +1,581 @@
 ParticipantName,TeamName,Position,ELO
 Marc-André ter Stegen,Barcelona,GK,1917
-Antoine Griezmann,Atlético de Madrid,ATT,1829
-Toni Kroos,Real Madrid,MID,1696
-Karim Benzema,Real Madrid,ATT,1685
-Pedri,Barcelona,MID,1677
-Robert Lewandowski,Barcelona,ATT,1666
-Marco Asensio,Real Madrid,ATT,1661
-Aleix García,Girona,MID,1659
-Frenkie de Jong,Barcelona,MID,1655
+Antoine Griezmann,Atlético de Madrid,ATT,1825
+Toni Kroos,Real Madrid,MID,1703
+Federico Valverde,Real Madrid,DEF,1693
+Karim Benzema,Real Madrid,ATT,1683
+Pedri,Barcelona,MID,1680
+Robert Lewandowski,Barcelona,ATT,1665
+Aleix García,Girona,MID,1661
+Marco Asensio,Real Madrid,ATT,1657
+Frenkie de Jong,Barcelona,MID,1657
 Alex Remiro,Real Sociedad,GK,1647
-Federico Valverde,Real Madrid,DEF,1646
-Gabriel Veiga,Celta de Vigo,MID,1641
-Joselu,Espanyol,ATT,1635
+Éder Militao,Real Madrid,DEF,1643
+Gabriel Veiga,Celta de Vigo,MID,1640
+Joselu,Espanyol,ATT,1636
 David Soria,Getafe,GK,1633
-Éder Militao,Real Madrid,DEF,1632
 Jan Oblak,Atlético de Madrid,GK,1632
+Juan Miranda,Real Betis,DEF,1632
+Fran García,Rayo Vallecano,DEF,1632
 Thibaut Courtois,Real Madrid,GK,1631
-Samuel Chukwueze,Villarreal,ATT,1631
 Aurélien Tchouaméni,Real Madrid,MID,1629
-Takefusa Kubo,Real Sociedad,ATT,1627
-Borja Iglesias,Real Betis,ATT,1627
-Aridane Hernández,Osasuna,DEF,1624
+Borja Iglesias,Real Betis,ATT,1628
 Enes Ünal,Getafe,ATT,1624
-Fran García,Rayo Vallecano,DEF,1623
-Viktor Tsigankov,Girona,ATT,1623
-Jawad El Yamiq,Real Valladolid,DEF,1622
+Viktor Tsigankov,Girona,ATT,1622
+Takefusa Kubo,Real Sociedad,ATT,1622
 Jeremías Ledesma,Cádiz,GK,1620
-Juan Miranda,Real Betis,DEF,1619
-Lucas Vázquez,Real Madrid,MID,1604
+Samuel Chukwueze,Villarreal,ATT,1619
+Aridane Hernández,Osasuna,DEF,1618
+Jawad El Yamiq,Real Valladolid,DEF,1613
+Dani Parejo,Villarreal,MID,1605
 Sergio Camello,Rayo Vallecano,ATT,1604
-Dani Parejo,Villarreal,MID,1602
-Isi Palazón,Rayo Vallecano,ATT,1602
+Lucas Vázquez,Real Madrid,MID,1604
 Edgar Badia,Elche,GK,1600
-Nicolas Jackson,Villarreal,ATT,1597
+Isi Palazón,Rayo Vallecano,ATT,1598
+Rodrigo De Paul,Atlético de Madrid,MID,1597
 Álex Fernández,Cádiz,MID,1595
-Rodrigo De Paul,Atlético de Madrid,MID,1594
-Sergi Darder,Espanyol,ATT,1593
+Nicolas Jackson,Villarreal,ATT,1593
+Unai López,Rayo Vallecano,MID,1593
 Jordi Masip,Real Valladolid,GK,1592
-Yannick Carrasco,Atlético de Madrid,ATT,1592
-Rodrigo Riquelme,Girona,ATT,1592
-Sergi Roberto,Barcelona,MID,1591
-Enrique Barja,Osasuna,ATT,1591
+Sergi Roberto,Barcelona,MID,1592
+David López,Girona,DEF,1592
 Iago Aspas,Celta de Vigo,ATT,1591
-Aïssa Mandi,Villarreal,DEF,1590
-Unai López,Rayo Vallecano,MID,1589
-Loic Badé,Sevilla,DEF,1587
-Youssouf Sabaly,Real Betis,DEF,1586
-Iván Martin,Girona,MID,1585
-David López,Girona,DEF,1583
-Luka Modric,Real Madrid,MID,1583
+Jules Koundé,Barcelona,DEF,1589
+Sergi Darder,Espanyol,ATT,1587
+Luka Modric,Real Madrid,MID,1586
+Rodrigo Riquelme,Girona,ATT,1584
+Mikel Vesga,Athletic Club,MID,1584
+Iván Martin,Girona,MID,1584
+Yannick Carrasco,Atlético de Madrid,ATT,1584
+Lucas Robertone,Almería,MID,1583
 Rui Silva,Real Betis,GK,1582
-Mikel Vesga,Athletic Club,MID,1582
-Lucas Robertone,Almería,MID,1582
+Ivan Rakitic,Sevilla,MID,1581
 Predrag Rajkovic,Mallorca,GK,1581
-Rodri,Real Betis,ATT,1581
-Ousmane Dembélé,Barcelona,ATT,1579
-Gabriel Paulista,Valencia CF,DEF,1579
+Enrique Barja,Osasuna,ATT,1581
+Brian Oliván,Espanyol,DEF,1581
+Óliver Torres,Sevilla,MID,1580
+Youssouf Sabaly,Real Betis,DEF,1580
+Aïssa Mandi,Villarreal,DEF,1579
 Kiko,Villarreal,MID,1578
-Jules Koundé,Barcelona,DEF,1578
-Lázaro,Almería,ATT,1578
-Óliver Torres,Sevilla,MID,1578
-Ivan Rakitic,Sevilla,MID,1578
+Rodri,Real Betis,ATT,1577
+Mario Hermoso,Atlético de Madrid,DEF,1577
+Loic Badé,Sevilla,DEF,1577
 Mikel Merino,Real Sociedad,MID,1575
-Sergi Gómez,Espanyol,DEF,1575
-El Bilal Touré,Almería,ATT,1572
-Nico González,Valencia CF,MID,1571
-Suso,Sevilla,ATT,1571
-Sergio Escudero,Real Valladolid,DEF,1571
-Joaquin Fernández,Real Valladolid,DEF,1571
-Andreas Christensen,Barcelona,DEF,1570
-Joseph Aidoo,Celta de Vigo,DEF,1569
-Javier Hernández,Girona,DEF,1569
-Ángel Correa,Atlético de Madrid,ATT,1568
+Javier Hernández,Girona,DEF,1574
+Joseph Aidoo,Celta de Vigo,DEF,1574
+El Bilal Touré,Almería,ATT,1573
+José Gayà,Valencia CF,DEF,1572
+Gabriel Paulista,Valencia CF,DEF,1571
+Andreas Christensen,Barcelona,DEF,1571
+Lázaro,Almería,ATT,1571
+Nico González,Valencia CF,MID,1570
+Moi Gómez,Osasuna,MID,1570
+César Montes,Espanyol,DEF,1569
 Paulo Gazzaniga,Girona,GK,1568
-José Gayà,Valencia CF,DEF,1568
-Moi Gómez,Osasuna,MID,1567
+Srdjan Babic,Almería,DEF,1567
 Iván Sánchez,Real Valladolid,MID,1567
-Franco Cervi,Celta de Vigo,MID,1566
+Alejandro Balde,Barcelona,DEF,1566
+Sergi Gómez,Espanyol,DEF,1566
+Franco Cervi,Celta de Vigo,MID,1565
+Ousmane Dembélé,Barcelona,ATT,1565
+Suso,Sevilla,ATT,1564
+Ángel Correa,Atlético de Madrid,ATT,1564
+Joaquin Fernández,Real Valladolid,DEF,1564
 Aitor Fernández,Osasuna,GK,1563
-Antonio Rüdiger,Real Madrid,DEF,1561
-César Montes,Espanyol,DEF,1561
-Eric García,Barcelona,DEF,1560
-Srdjan Babic,Almería,DEF,1560
-Mario Hermoso,Atlético de Madrid,DEF,1560
-Fran Beltrán,Celta de Vigo,MID,1560
-Ramon Terrats,Villarreal,MID,1560
-Reinildo,Atlético de Madrid,DEF,1560
+Fran Beltrán,Celta de Vigo,MID,1562
+Óscar De Marcos,Athletic Club,DEF,1562
+Ramon Terrats,Villarreal,MID,1561
+David Alaba,Real Madrid,DEF,1561
+Antonio Rüdiger,Real Madrid,DEF,1560
 Sergio León,Real Valladolid,ATT,1559
-Juanpe,Girona,DEF,1559
-Joaquin,Real Betis,MID,1558
-Íñigo Lekue,Athletic Club,DEF,1557
-Ansu Fati,Barcelona,ATT,1556
-Toni Lato,Valencia CF,DEF,1556
-Tanguy Nianzou,Sevilla,DEF,1556
-Álvaro Aguado,Real Valladolid,MID,1555
-Vedat Muriqi,Mallorca,ATT,1555
-Iñaki Williams,Athletic Club,ATT,1554
-Carles Pérez,Celta de Vigo,ATT,1554
-Brian Oliván,Espanyol,DEF,1553
-Théo Bongonda,Cádiz,ATT,1552
+Álvaro Aguado,Real Valladolid,MID,1559
+Sergio Escudero,Real Valladolid,DEF,1558
+Vedat Muriqi,Mallorca,ATT,1557
+Joaquin,Real Betis,MID,1557
+Juanpe,Girona,DEF,1556
+Eric García,Barcelona,DEF,1552
+Bernardo,Girona,DEF,1552
+Ansu Fati,Barcelona,ATT,1552
 Gonzalo Melero,Almería,MID,1551
-Nico Williams,Athletic Club,ATT,1551
-Rodrygo,Real Madrid,ATT,1551
-Adrián Embarba,Almería,ATT,1550
-Diego López,Valencia CF,MID,1550
-Marcos Alonso,Barcelona,DEF,1550
-Brais Méndez,Real Sociedad,ATT,1550
-Koke,Atlético de Madrid,MID,1550
-Bernardo,Girona,DEF,1548
-Toni Villa,Girona,MID,1547
-Eray Cömert,Valencia CF,DEF,1546
-Étienne Capoue,Villarreal,MID,1546
-David Alaba,Real Madrid,DEF,1546
-Abdessamad Ezzalzouli,Osasuna,ATT,1545
+Brais Méndez,Real Sociedad,ATT,1551
+Pablo Maffeo,Mallorca,DEF,1551
+Íñigo Lekue,Athletic Club,DEF,1551
+Koke,Atlético de Madrid,MID,1551
+Iñaki Williams,Athletic Club,ATT,1550
+Tanguy Nianzou,Sevilla,DEF,1550
+Diego López,Valencia CF,MID,1549
+Carles Pérez,Celta de Vigo,ATT,1549
+Florian Lejeune,Rayo Vallecano,DEF,1548
+Mouctar Diakhaby,Valencia CF,DEF,1548
+Jordi Alba,Barcelona,DEF,1548
+Toni Lato,Valencia CF,DEF,1547
+Étienne Capoue,Villarreal,MID,1547
+Toni Villa,Girona,MID,1546
+Marcos Alonso,Barcelona,DEF,1546
+Théo Bongonda,Cádiz,ATT,1546
+Hugo Guillamón,Valencia CF,MID,1545
 Geoffrey Kondogbia,Atlético de Madrid,MID,1544
-Iván Fresneda,Real Valladolid,DEF,1543
-Hugo Guillamón,Valencia CF,MID,1542
+Santi Comesaña,Rayo Vallecano,MID,1542
 Gorka Guruzeta,Athletic Club,ATT,1542
-Luiz Felipe,Real Betis,DEF,1541
-Santi Comesaña,Rayo Vallecano,MID,1541
-Mouctar Diakhaby,Valencia CF,DEF,1541
-Stefan Mitrovic,Getafe,DEF,1541
-Kang-In Lee,Mallorca,MID,1540
-Óscar De Marcos,Athletic Club,DEF,1540
-Johan Mojica,Villarreal,DEF,1540
-Pedro Bigas,Elche,DEF,1539
-Dani Ceballos,Real Madrid,MID,1539
-Francisco Portillo,Almería,ATT,1539
-Alejandro Balde,Barcelona,DEF,1539
-Rubén Pena,Osasuna,DEF,1538
-Pacha Espino,Cádiz,DEF,1537
-Juan Foyth,Villarreal,DEF,1537
-Thomas Lemar,Atlético de Madrid,ATT,1537
-Manuel Sánchez,Osasuna,DEF,1537
-Pablo Maffeo,Mallorca,DEF,1535
-André Almeida,Valencia CF,ATT,1534
-Florian Lejeune,Rayo Vallecano,DEF,1534
-Vinícius Júnior,Real Madrid,ATT,1534
-Jordi Alba,Barcelona,DEF,1533
-Carlos Clerc,Elche,DEF,1533
-José Luis Morales,Villarreal,ATT,1532
-José Giménez,Atlético de Madrid,DEF,1532
-Javi Galán,Celta de Vigo,DEF,1532
-Diego Rico,Real Sociedad,DEF,1532
-Aihen Muñoz,Real Sociedad,DEF,1532
-Raphinha,Barcelona,ATT,1531
-Edgar González,Real Betis,DEF,1531
-Nemanja Gudelj,Sevilla,DEF,1531
-Sergio Busquets,Barcelona,MID,1530
-Lucas Olaza,Real Valladolid,DEF,1529
-Samú,Almería,MID,1529
-Chumi,Almería,DEF,1529
-Pepe Reina,Villarreal,GK,1528
+Dani Ceballos,Real Madrid,MID,1541
+Nico Williams,Athletic Club,ATT,1540
+Nemanja Gudelj,Sevilla,DEF,1540
+Rodrygo,Real Madrid,ATT,1539
+Kang-In Lee,Mallorca,MID,1539
+Pacha Espino,Cádiz,DEF,1539
+Reinildo,Atlético de Madrid,DEF,1538
+Adrián Embarba,Almería,ATT,1538
+Francisco Portillo,Almería,ATT,1537
+Nahuel Molina,Atlético de Madrid,DEF,1536
+José Giménez,Atlético de Madrid,DEF,1536
+Manuel Sánchez,Osasuna,DEF,1535
+Eray Cömert,Valencia CF,DEF,1535
+Sergio Busquets,Barcelona,MID,1533
+Stefan Mitrovic,Getafe,DEF,1533
+Thomas Lemar,Atlético de Madrid,ATT,1533
+Samú,Almería,MID,1531
+Abdessamad Ezzalzouli,Osasuna,ATT,1531
+José Luis Morales,Villarreal,ATT,1529
+André Almeida,Valencia CF,ATT,1529
+Iván Fresneda,Real Valladolid,DEF,1528
+Johan Mojica,Villarreal,DEF,1528
 Cyle Larin,Real Valladolid,ATT,1528
-Álvaro Morata,Atlético de Madrid,ATT,1527
-Yeray Álvarez,Athletic Club,DEF,1526
-Sergio Canales,Real Betis,ATT,1526
-Raúl de Tomás,Rayo Vallecano,ATT,1525
-Aitor Ruibal,Real Betis,DEF,1525
-José Copete,Mallorca,DEF,1524
-Yan Couto,Girona,MID,1524
-Fernando Calero,Espanyol,DEF,1523
-Óscar Mingueza,Celta de Vigo,MID,1523
-Raúl Guti,Elche,MID,1521
-Miguel Rodríguez,Celta de Vigo,ATT,1521
-Luis Milla,Getafe,MID,1521
+Pepe Reina,Villarreal,GK,1528
+Rubén Pena,Osasuna,DEF,1527
+Javi Galán,Celta de Vigo,DEF,1527
+Aihen Muñoz,Real Sociedad,DEF,1527
+Luiz Felipe,Real Betis,DEF,1527
+Miguel Rodríguez,Celta de Vigo,ATT,1525
+Sergio Canales,Real Betis,ATT,1525
+Pedro Bigas,Elche,DEF,1525
+Raphinha,Barcelona,ATT,1525
+Álvaro Morata,Atlético de Madrid,ATT,1525
+Álvaro Rodriguez,Real Madrid,ATT,1525
+Lucas Olaza,Real Valladolid,DEF,1524
+Óscar Mingueza,Celta de Vigo,MID,1524
+Yan Couto,Girona,MID,1523
+Luis Milla,Getafe,MID,1523
+Umar Sadiq,Real Sociedad,ATT,1523
+Chumi,Almería,DEF,1522
+Juan Foyth,Villarreal,DEF,1522
+Yeray Álvarez,Athletic Club,DEF,1521
+Pathé Ciss,Rayo Vallecano,MID,1521
 Miguel Gutiérrez,Girona,MID,1521
-Arnaut Danjuma,Villarreal,MID,1520
-Álvaro Rodriguez,Real Madrid,ATT,1520
-Alex Berenguer,Athletic Club,ATT,1520
-Pathé Ciss,Rayo Vallecano,MID,1519
-Martin Braithwaite,Espanyol,ATT,1519
-Nahuel Molina,Atlético de Madrid,DEF,1519
-Oihan Sancet,Athletic Club,ATT,1519
-Umar Sadiq,Real Sociedad,ATT,1518
-Nacho Vidal,Osasuna,DEF,1518
+Carlos Clerc,Elche,DEF,1521
+Raúl Guti,Elche,MID,1520
+Martin Braithwaite,Espanyol,ATT,1520
+Edgar González,Real Betis,DEF,1520
+Raúl de Tomás,Rayo Vallecano,ATT,1519
+Vinícius Júnior,Real Madrid,ATT,1519
+Óscar Rodríguez,Celta de Vigo,MID,1518
+Arnaut Danjuma,Villarreal,MID,1518
+Fernando,Sevilla,MID,1518
+Memphis Depay,Atlético de Madrid,ATT,1518
+Diego Rico,Real Sociedad,DEF,1518
 Pablo Barrios,Atlético de Madrid,MID,1517
 Álvaro Garcia,Rayo Vallecano,ATT,1517
-Óscar Rodríguez,Celta de Vigo,MID,1517
+Alex Berenguer,Athletic Club,ATT,1517
 Gerónimo Rulli,Villarreal,GK,1517
+Carlos Soler,Valencia CF,ATT,1516
 Álvaro Negredo,Cádiz,ATT,1516
-Fernando,Sevilla,MID,1516
-Pablo Ibánez,Osasuna,MID,1515
-Gonzalo Plata,Real Valladolid,ATT,1515
-Andoni Gorosabel,Real Sociedad,DEF,1515
-Raúl Albiol,Villarreal,DEF,1515
 Franck Kessié,Barcelona,MID,1515
-Enzo Roco,Elche,DEF,1514
-Ante Budimir,Osasuna,ATT,1514
-Josan,Elche,ATT,1514
+Jesús Corona,Sevilla,ATT,1515
+Pablo Ibánez,Osasuna,MID,1515
+Luca Koleosho,Espanyol,ATT,1514
+Alexander Isak,Real Sociedad,ATT,1514
+Alfonso Pedraza,Villarreal,DEF,1514
+Jon Moncayola,Osasuna,MID,1514
+Oihan Sancet,Athletic Club,ATT,1514
+Jorge Pascual,Villarreal,ATT,1514
 Dimitri Foulquier,Valencia CF,DEF,1514
-Memphis Depay,Atlético de Madrid,ATT,1514
-Alfonso Pedraza,Villarreal,DEF,1513
-Santiago Bueno,Girona,DEF,1513
-Germán Pezzella,Real Betis,DEF,1512
-Jon Moncayola,Osasuna,MID,1512
-Jesús Corona,Sevilla,ATT,1511
-Rubén Garcia,Osasuna,ATT,1511
-Carlos Soler,Valencia CF,ATT,1511
-Luca Koleosho,Espanyol,ATT,1510
-Unai Núñez,Celta de Vigo,DEF,1510
+Álex Moreno,Real Betis,DEF,1513
+Rubén Garcia,Osasuna,ATT,1513
+Ante Budimir,Osasuna,ATT,1513
+Álex Centelles,Almería,DEF,1513
+Fernando Calero,Espanyol,DEF,1513
+Willian José,Real Betis,ATT,1511
 Manu Trigueros,Villarreal,MID,1510
-Alexander Isak,Real Sociedad,ATT,1510
-Gerard Moreno,Villarreal,ATT,1509
+José Copete,Mallorca,DEF,1510
+Kasper Dolberg,Sevilla,ATT,1509
+William Carvalho,Real Betis,MID,1509
+Manu Vallejo,Girona,ATT,1509
+Josan,Elche,ATT,1509
+Arnau Martínez,Girona,DEF,1509
 Axel Witsel,Atlético de Madrid,MID,1509
-José Carlos Lazo,Espanyol,MID,1509
-Willian José,Real Betis,ATT,1509
-Jorge Pascual,Villarreal,ATT,1509
-David García,Osasuna,DEF,1509
-Javier Guerra,Valencia CF,MID,1508
-Thierry Correia,Valencia CF,DEF,1508
-Samuel Dias Lino,Valencia CF,ATT,1507
-William Carvalho,Real Betis,MID,1507
-Fali,Cádiz,DEF,1507
-Giovani Lo Celso,Villarreal,ATT,1507
-Aimar Oroz,Osasuna,ATT,1507
-Mikel Oyarzabal,Real Sociedad,ATT,1506
-Mohamed-Ali Cho,Real Sociedad,ATT,1505
-Manu Vallejo,Girona,ATT,1505
-Gonzalo Escalante,Cádiz,MID,1505
-Asier Illarramendi,Real Sociedad,MID,1504
-Kasper Dolberg,Sevilla,ATT,1504
-Samu Sáiz,Girona,MID,1503
+Raúl Albiol,Villarreal,DEF,1508
+José Carlos Lazo,Espanyol,MID,1508
+David García,Osasuna,DEF,1507
+Javier Guerra,Valencia CF,MID,1507
+Mikel Oyarzabal,Real Sociedad,ATT,1507
+Gonzalo Plata,Real Valladolid,ATT,1506
+Santiago Bueno,Girona,DEF,1505
+Marcos Llorente,Atlético de Madrid,DEF,1505
+Omar Mascarell,Elche,MID,1505
+Aitor Ruibal,Real Betis,DEF,1504
+Gonzalo Escalante,Cádiz,MID,1504
+Aimar Oroz,Osasuna,ATT,1504
+Asier Illarramendi,Real Sociedad,MID,1503
 Alejandro Pozo,Almería,ATT,1503
-Nemanja Maksimovic,Getafe,MID,1503
-Omar Mascarell,Elche,MID,1503
+Antonio Raíllo,Mallorca,DEF,1503
+Nacho Vidal,Osasuna,DEF,1503
+Álex Collado,Elche,ATT,1503
+Samuel Dias Lino,Valencia CF,ATT,1502
 Yangel Herrera,Girona,MID,1502
+Tino Kadewere,Mallorca,ATT,1502
+Giovani Lo Celso,Villarreal,ATT,1502
+Enzo Roco,Elche,DEF,1502
+Nemanja Maksimovic,Getafe,MID,1502
 Unai Simón,Athletic Club,GK,1502
-Marcos Llorente,Atlético de Madrid,DEF,1502
-Hugo Mallo,Celta de Vigo,DEF,1501
-Rodrigo Ely,Almería,DEF,1500
+Gerard Moreno,Villarreal,ATT,1501
+Samu Sáiz,Girona,MID,1501
+Borja Garcia,Girona,ATT,1501
+Lucas Pérez,Cádiz,ATT,1500
 Roger Martínez,Espanyol,Code_2,1500
-Juanmi,Real Betis,ATT,1499
-Álex Collado,Elche,ATT,1499
-Tino Kadewere,Mallorca,ATT,1498
-Alex Telles,Sevilla,DEF,1498
-Álex Moreno,Real Betis,DEF,1497
-Álex Centelles,Almería,DEF,1497
-Aritz Elustondo,Real Sociedad,DEF,1497
-Fidel Chaves,Elche,ATT,1497
-Borja Garcia,Girona,ATT,1496
+Juan Cruz,Real Betis,ATT,1500
+Andoni Gorosabel,Real Sociedad,DEF,1500
+Jon Magunazelaia,Real Sociedad,ATT,1500
+Pablo Durán,Celta de Vigo,ATT,1499
+José Pozo,Rayo Vallecano,ATT,1499
+Ander Martín,Real Sociedad,ATT,1499
+Adnan Januzaj,Sevilla,ATT,1499
+Sergio Arribas,Real Madrid,ATT,1499
+Asier Villalibre,Athletic Club,ATT,1499
+Junior Lago,Mallorca,ATT,1499
+Óscar Ureña,Girona,ATT,1499
+Pierre-Emerick Aubameyang,Barcelona,ATT,1499
+Ángel Alarcon,Barcelona,ATT,1499
+Pablo Torre,Barcelona,ATT,1499
+Mamady Diarra,Cádiz,ATT,1499
+Manuel Pozo,Real Valladolid,ATT,1499
+Maxi Gómez,Valencia CF,ATT,1499
+Alberto Marí,Valencia CF,ATT,1499
+Fer Niño,Villarreal,ATT,1499
+Álvaro Giménez,Cádiz,ATT,1499
+Adu Ares,Athletic Club,ATT,1499
+Diego Collado,Villarreal,ATT,1499
+Moi Parra,Getafe,ATT,1499
+Roberto Torres,Osasuna,ATT,1499
+Babatunde Akinsola,Real Valladolid,ATT,1499
+Haissem Hassan,Villarreal,ATT,1499
+Javi Llabrés,Mallorca,ATT,1499
+Javier Pastore,Elche,ATT,1499
+Francisco Mwepu,Cádiz,ATT,1499
+Carlos García,Cádiz,DEF,1498
+Rubén Sánchez,Espanyol,DEF,1498
+Pep Chavarría,Rayo Vallecano,DEF,1498
+Fali,Cádiz,DEF,1498
+Rodrigo Ely,Almería,DEF,1497
+Germán Pezzella,Real Betis,DEF,1496
+Alex Telles,Sevilla,DEF,1496
+Juanmi,Real Betis,ATT,1496
 Giorgi Mamardashvili,Valencia CF,GK,1496
-Jon Magunazelaia,Real Sociedad,ATT,1495
-Alberto Marí,Valencia CF,ATT,1495
-Adu Ares,Athletic Club,ATT,1495
-Maxi Gómez,Valencia CF,ATT,1495
-José Pozo,Rayo Vallecano,ATT,1495
-Roberto Torres,Osasuna,ATT,1495
-Pablo Torre,Barcelona,ATT,1495
-Juan Cruz,Real Betis,ATT,1495
-Óscar Ureña,Girona,ATT,1495
-Lucas Pérez,Cádiz,ATT,1495
-Sergio Arribas,Real Madrid,ATT,1495
-Keidi Bare,Espanyol,MID,1495
-Asier Villalibre,Athletic Club,ATT,1495
-Pierre-Emerick Aubameyang,Barcelona,ATT,1494
-Manuel Pozo,Real Valladolid,ATT,1494
-Abdón Prats,Mallorca,ATT,1494
-Ezequiel Ávila,Osasuna,ATT,1494
-Junior Lago,Mallorca,ATT,1494
-Moi Parra,Getafe,ATT,1494
-Haissem Hassan,Villarreal,ATT,1494
-Pablo Durán,Celta de Vigo,ATT,1494
-Babatunde Akinsola,Real Valladolid,ATT,1494
-Francisco Mwepu,Cádiz,ATT,1494
-Fer Niño,Villarreal,ATT,1494
-Javi Llabrés,Mallorca,ATT,1494
-Ander Martín,Real Sociedad,ATT,1494
-Adnan Januzaj,Sevilla,ATT,1494
-Mamady Diarra,Cádiz,ATT,1494
-Jon Morcillo,Athletic Club,MID,1494
-Javier Pastore,Elche,ATT,1494
-Diego Collado,Villarreal,ATT,1494
-Álvaro Giménez,Cádiz,ATT,1494
+Mohamed-Ali Cho,Real Sociedad,ATT,1495
+Youssef En-Nesyri,Sevilla,ATT,1495
 Samuel Castillejo,Valencia CF,MID,1494
-Ángel Alarcon,Barcelona,ATT,1494
-Isaac Carcelén,Cádiz,DEF,1493
-José Antonio de la Rosa,Cádiz,MID,1493
-Youssef En-Nesyri,Sevilla,ATT,1493
-Justin Kluivert,Valencia CF,ATT,1492
-Yuri Berchiche,Athletic Club,DEF,1492
+Unai Núñez,Celta de Vigo,DEF,1494
+Abdón Prats,Mallorca,ATT,1494
+Keidi Bare,Espanyol,MID,1494
+Jon Morcillo,Athletic Club,MID,1493
+Ezequiel Ávila,Osasuna,ATT,1493
+Eden Hazard,Real Madrid,ATT,1492
+José Antonio de la Rosa,Cádiz,MID,1492
 Edu Expósito,Espanyol,ATT,1492
-Robin Le Normand,Real Sociedad,DEF,1492
-Carlos García,Cádiz,DEF,1492
-Omar Alderete,Getafe,DEF,1492
-Valery Fernández,Girona,ATT,1491
+Fidel Chaves,Elche,ATT,1492
+Selim Amallah,Real Valladolid,ATT,1492
+Hugo Mallo,Celta de Vigo,DEF,1491
 Eduardo Camavinga,Real Madrid,MID,1491
-Ander Barrenetxea,Real Sociedad,ATT,1490
+Íñigo Eguaras,Almería,MID,1490
+Ricard Artero,Girona,ATT,1490
+Lamine Yamal,Barcelona,ATT,1490
 Fernando Martínez,Almería,GK,1490
-Darko Brasanac,Osasuna,MID,1489
-Arnau Martínez,Girona,DEF,1489
-Darwin Machís,Real Valladolid,MID,1489
-Martin Valjent,Mallorca,DEF,1488
-Íñigo Eguaras,Almería,MID,1488
-Antonio Raíllo,Mallorca,DEF,1488
-Dyego Sousa,Almería,ATT,1488
-Brian Ocampo,Cádiz,MID,1488
+Omar Alderete,Getafe,DEF,1490
+Awer Mabil,Cádiz,ATT,1489
+Valery Fernández,Girona,ATT,1489
+Sekou Gassama,Real Valladolid,ATT,1489
+Aritz Elustondo,Real Sociedad,DEF,1489
 Jørgen Strand Larsen,Celta de Vigo,ATT,1488
-Eden Hazard,Real Madrid,ATT,1487
-Selim Amallah,Real Valladolid,ATT,1487
-Pol Lirola,Elche,MID,1487
-Unai García,Osasuna,DEF,1487
-Pep Chavarría,Rayo Vallecano,DEF,1487
-Rubén Sánchez,Espanyol,DEF,1487
-Lamine Yamal,Barcelona,ATT,1486
-Luis Hernández,Cádiz,DEF,1486
-Ricard Artero,Girona,ATT,1485
+Darko Brasanac,Osasuna,MID,1488
+Iñigo Martínez,Athletic Club,DEF,1488
+Anuar,Real Valladolid,DEF,1488
+Karim Rekik,Sevilla,DEF,1488
+Reinier,Girona,ATT,1488
+Darwin Machís,Real Valladolid,MID,1488
+Thierry Correia,Valencia CF,DEF,1488
+José Ángel Carmona,Elche,DEF,1487
+Dyego Sousa,Almería,ATT,1487
+Justin Kluivert,Valencia CF,ATT,1486
+Brian Ocampo,Cádiz,MID,1486
+Gerard Gumbau,Elche,MID,1486
 Iván Villar,Celta de Vigo,GK,1485
-Awer Mabil,Cádiz,ATT,1485
-Sekou Gassama,Real Valladolid,ATT,1485
-Juan Narváez,Real Valladolid,MID,1484
-Stefan Savic,Atlético de Madrid,DEF,1484
-Gerard Gumbau,Elche,MID,1484
-Antonio Blanco,Cádiz,MID,1484
-Iker Benito,Osasuna,MID,1484
-Javi Puado,Espanyol,ATT,1484
-Mickaël Malsa,Real Valladolid,MID,1483
-Manu Bueno,Sevilla,MID,1483
-Nabili Touaizi,Espanyol,MID,1483
-José Ángel Carmona,Elche,DEF,1483
-Hugo Sotelo,Celta de Vigo,MID,1483
-Alejandro Alfaro,Elche,MID,1483
-Beñat Turrientes,Real Sociedad,MID,1483
-Casemiro,Real Madrid,MID,1483
-Iker Muñoz,Osasuna,MID,1483
-Aleix Garrido,Barcelona,MID,1483
-Pedro Ortiz,Sevilla,MID,1483
-Reinier,Girona,ATT,1483
-Jon Olasagasti,Real Sociedad,MID,1483
-Diego Méndez,Rayo Vallecano,MID,1483
-Alberto Perea,Cádiz,MID,1483
-Rubén Quintanilla,Mallorca,MID,1483
-Wassim Keddari,Espanyol,DEF,1482
-Sergio Akieme,Almería,DEF,1482
-Álvaro Odriozola,Real Madrid,DEF,1482
-Santiago Arzamendia,Cádiz,DEF,1482
-Anuar,Real Valladolid,DEF,1482
-Matt Doherty,Atlético de Madrid,DEF,1482
-Fran Delgado,Real Betis,DEF,1482
+Pol Lirola,Elche,MID,1485
+Yuri Berchiche,Athletic Club,DEF,1485
+Loren Morón,Real Betis,ATT,1484
+Dani Gómez,Espanyol,ATT,1484
+Williot Swedberg,Celta de Vigo,ATT,1484
+Roberto González,Real Betis,ATT,1484
+Iván Romero,Sevilla,ATT,1484
+Marezi,Almería,ATT,1484
+Álex Sola,Real Sociedad,ATT,1484
+Joel Roca,Girona,ATT,1484
+Carlos Martín,Atlético de Madrid,ATT,1484
+Bebé,Rayo Vallecano,ATT,1484
+Curro Sánchez,Almería,ATT,1484
+Fran Delgado,Real Betis,DEF,1483
+Federico Fernández,Elche,DEF,1483
+Fernando Medrano,Celta de Vigo,DEF,1483
+Mamadou Mbacke,Villarreal,DEF,1483
+Pablo Muñoz,Rayo Vallecano,DEF,1483
+Mikel Balenziaga,Athletic Club,DEF,1483
+Victor Ruiz,Real Betis,DEF,1483
+Wassim Keddari,Espanyol,DEF,1483
+Álvaro Odriozola,Real Madrid,DEF,1483
+Adrià Pedrosa,Espanyol,DEF,1483
+Braian Cufré,Mallorca,DEF,1483
+Franco Russo,Mallorca,DEF,1483
+Matt Doherty,Atlético de Madrid,DEF,1483
+Iker Benito,Osasuna,MID,1483
+Félix Garreta,Real Betis,DEF,1483
+Héctor Bellerín,Barcelona,DEF,1483
+Felipe,Atlético de Madrid,DEF,1483
+Santiago Arzamendia,Cádiz,DEF,1483
+Ronaël Pierre-Gabriel,Espanyol,DEF,1483
+Carlos Domínguez,Celta de Vigo,DEF,1483
+Javi Puado,Espanyol,ATT,1483
+Jesús Vallejo,Real Madrid,DEF,1483
+Kike Salas,Sevilla,DEF,1483
+Cristhian Mosquera,Valencia CF,DEF,1483
+Chadi Riad,Barcelona,DEF,1483
+Ludwig Augustinsson,Mallorca,DEF,1483
+Jorge Meré,Cádiz,DEF,1483
+Josep Gayá,Mallorca,DEF,1483
+Juan Cala,Cádiz,DEF,1483
+Lautaro Blanco,Elche,DEF,1483
+Nabili Touaizi,Espanyol,MID,1482
+Juan Narváez,Real Valladolid,MID,1482
+Jon Olasagasti,Real Sociedad,MID,1482
+Beñat Turrientes,Real Sociedad,MID,1482
+Diego Méndez,Rayo Vallecano,MID,1482
+Rubén Quintanilla,Mallorca,MID,1482
+Mickaël Malsa,Real Valladolid,MID,1482
+Casemiro,Real Madrid,MID,1482
+Pedro Ortiz,Sevilla,MID,1482
+Alberto Perea,Cádiz,MID,1482
+Alejandro Alfaro,Elche,MID,1482
+Iker Muñoz,Osasuna,MID,1482
+Manu Bueno,Sevilla,MID,1482
 Antonio Sánchez,Mallorca,MID,1482
-Mikel Balenziaga,Athletic Club,DEF,1482
-Victor Ruiz,Real Betis,DEF,1482
-Pablo Muñoz,Rayo Vallecano,DEF,1482
-Federico Fernández,Elche,DEF,1482
-Fernando Medrano,Celta de Vigo,DEF,1482
-Felipe,Atlético de Madrid,DEF,1482
-Franco Russo,Mallorca,DEF,1482
-Chadi Riad,Barcelona,DEF,1482
-Juan Cala,Cádiz,DEF,1482
-Jesús Vallejo,Real Madrid,DEF,1482
-Adrià Pedrosa,Espanyol,DEF,1482
-Braian Cufré,Mallorca,DEF,1482
-Josep Gayá,Mallorca,DEF,1482
-Ludwig Augustinsson,Mallorca,DEF,1482
-Jorge Meré,Cádiz,DEF,1482
-Félix Garreta,Real Betis,DEF,1482
-Carlos Domínguez,Celta de Vigo,DEF,1482
-Héctor Bellerín,Barcelona,DEF,1482
-Mamadou Mbacke,Villarreal,DEF,1482
-Cristhian Mosquera,Valencia CF,DEF,1482
-Iñigo Martínez,Athletic Club,DEF,1482
+Antonio Blanco,Cádiz,MID,1482
+Hugo Sotelo,Celta de Vigo,MID,1482
+Unai García,Osasuna,DEF,1482
+Robin Le Normand,Real Sociedad,DEF,1482
+Aleix Garrido,Barcelona,MID,1482
 Nacho,Real Madrid,DEF,1481
-Iker Muniain,Athletic Club,ATT,1481
-Pere Milla,Elche,ATT,1481
-Daniel Vivian,Athletic Club,DEF,1481
-Álex Sola,Real Sociedad,ATT,1480
-Augusto Solari,Celta de Vigo,MID,1480
-Ayoze Pérez,Real Betis,ATT,1480
-Joel Roca,Girona,ATT,1480
-Borja Mayoral,Getafe,ATT,1480
-Curro Sánchez,Almería,ATT,1480
-Roberto González,Real Betis,ATT,1480
-Bebé,Rayo Vallecano,ATT,1480
-Dani Gómez,Espanyol,ATT,1479
-Iván Romero,Sevilla,ATT,1479
+Isaac Carcelén,Cádiz,DEF,1481
+Dani García,Athletic Club,MID,1480
+Pere Milla,Elche,ATT,1480
+Sergio Akieme,Almería,DEF,1480
+Domingos Duarte,Getafe,DEF,1479
+Borja Mayoral,Getafe,ATT,1479
 Stole Dimitrievski,Rayo Vallecano,GK,1479
-Javi Sánchez,Real Valladolid,DEF,1479
-Loren Morón,Real Betis,ATT,1479
-Williot Swedberg,Celta de Vigo,ATT,1479
-Marezi,Almería,ATT,1479
-Carlos Martín,Atlético de Madrid,ATT,1479
-Dani García,Athletic Club,MID,1479
-Domingos Duarte,Getafe,DEF,1478
-Ronaël Pierre-Gabriel,Espanyol,DEF,1477
-Francis Coquelin,Villarreal,MID,1477
-Karim Rekik,Sevilla,DEF,1477
-Daniel Carvajal,Real Madrid,DEF,1476
-Damián Suárez,Getafe,DEF,1475
+Augusto Solari,Celta de Vigo,MID,1479
+Luis Hernández,Cádiz,DEF,1478
+Martin Valjent,Mallorca,DEF,1478
+Juanmi Latasa,Getafe,ATT,1477
+Ander Barrenetxea,Real Sociedad,ATT,1476
+Édinson Cavani,Valencia CF,ATT,1476
+Rafa Mir,Sevilla,ATT,1476
+Daniel Carvajal,Real Madrid,DEF,1475
+Andrés Martin,Rayo Vallecano,ATT,1475
+Francis Coquelin,Villarreal,MID,1475
 Raúl García,Athletic Club,ATT,1475
-Saúl,Atlético de Madrid,MID,1474
-Juanmi Latasa,Getafe,ATT,1473
-Édinson Cavani,Valencia CF,ATT,1473
-Papu Gómez,Sevilla,ATT,1473
-Rafa Mir,Sevilla,ATT,1472
-Andriy Lunin,Real Madrid,GK,1472
-Alberto Moreno,Villarreal,DEF,1472
-Kike Salas,Sevilla,DEF,1472
-Marko Dmitrovic,Sevilla,GK,1472
-Lautaro Blanco,Elche,DEF,1472
+Iker Muniain,Athletic Club,ATT,1474
+Jon Karrikaburu,Real Sociedad,ATT,1474
+Saúl,Atlético de Madrid,MID,1473
+Haris Seferovic,Celta de Vigo,ATT,1473
 Fernando Pacheco,Espanyol,GK,1472
-Helibelton Palacios,Elche,DEF,1471
-Luiz Henrique,Real Betis,ATT,1471
-Andrés Martin,Rayo Vallecano,ATT,1471
+Marko Dmitrovic,Sevilla,GK,1472
+Daniel Vivian,Athletic Club,DEF,1472
+Andriy Lunin,Real Madrid,GK,1472
+Nicolás Fernández,Elche,ATT,1472
 Sergi Guardiola,Cádiz,ATT,1471
-Lucas Ocampos,Sevilla,ATT,1470
-Jon Karrikaburu,Real Sociedad,ATT,1470
-José Gragera,Espanyol,MID,1470
-Jaime Seoane,Getafe,MID,1470
-Haris Seferovic,Celta de Vigo,ATT,1469
-Ronald Araujo,Barcelona,DEF,1469
-Leandro Cabrera,Espanyol,DEF,1469
-Oier Zarraga,Athletic Club,MID,1469
-Carlos Álvarez,Sevilla,MID,1468
-Pol Lozano,Espanyol,MID,1468
-Luis Suárez,Almería,ATT,1468
-Omar El Hilali,Espanyol,DEF,1467
-Joao Félix,Atlético de Madrid,ATT,1467
-Ander Capa,Athletic Club,DEF,1467
-Zouhair Feddal,Real Valladolid,DEF,1467
-Munir El Haddadi,Getafe,ATT,1467
-Diego Moreno,Osasuna,DEF,1467
-Diego Hormigo,Sevilla,DEF,1467
-Cenk Özkacar,Valencia CF,DEF,1467
-Esteban Ariel Saveljich,Rayo Vallecano,DEF,1467
-Raúl Parra,Cádiz,DEF,1467
-Jesus Vázquez,Valencia CF,DEF,1467
-Jorge Cuenca,Villarreal,DEF,1467
-Mario Hernández,Rayo Vallecano,DEF,1467
-Pau Torres,Villarreal,DEF,1467
-Mariano Díaz,Real Madrid,ATT,1467
-Dennis Hadzikadunic,Mallorca,DEF,1467
-Alexander Callens,Girona,DEF,1467
-Nicolás Fernández,Elche,ATT,1467
-David Torres,Real Valladolid,DEF,1467
-Martín Montoya,Real Betis,DEF,1467
+Ronald Araujo,Barcelona,DEF,1471
+Mariano Díaz,Real Madrid,ATT,1471
+Joao Félix,Atlético de Madrid,ATT,1471
+Damián Suárez,Getafe,DEF,1471
+Papu Gómez,Sevilla,ATT,1470
+Ayoze Pérez,Real Betis,ATT,1470
+Javi Sánchez,Real Valladolid,DEF,1469
+José Gragera,Espanyol,MID,1469
+Fran Pérez,Valencia CF,ATT,1469
+Shon Weissman,Real Valladolid,ATT,1469
+Stefan Savic,Atlético de Madrid,DEF,1469
+Cenk Özkacar,Valencia CF,DEF,1468
+Jorge Cuenca,Villarreal,DEF,1468
+Jon Pacheco,Real Sociedad,DEF,1468
+Omar El Hilali,Espanyol,DEF,1468
+Alexander Callens,Girona,DEF,1468
+Jesus Vázquez,Valencia CF,DEF,1468
+Oier Zarraga,Athletic Club,MID,1468
+Raúl Parra,Cádiz,DEF,1468
+Jaime Seoane,Getafe,MID,1468
+Houboulang Mendes,Almería,DEF,1468
+Zouhair Feddal,Real Valladolid,DEF,1468
+David Torres,Real Valladolid,DEF,1468
+Dennis Hadzikadunic,Mallorca,DEF,1468
+Diego Hormigo,Sevilla,DEF,1468
+Diego Moreno,Osasuna,DEF,1468
+Ferland Mendy,Real Madrid,DEF,1468
+Esteban Ariel Saveljich,Rayo Vallecano,DEF,1468
+Luis Pérez,Real Valladolid,DEF,1468
+Ander Capa,Athletic Club,DEF,1468
+Mario Hernández,Rayo Vallecano,DEF,1468
+Martín Montoya,Real Betis,DEF,1468
+Monchu,Real Valladolid,MID,1467
+Carlos Álvarez,Sevilla,MID,1467
+Pablo Marín,Real Sociedad,ATT,1467
+Pol Lozano,Espanyol,MID,1467
+Guido Rodríguez,Real Betis,MID,1466
+Munir El Haddadi,Getafe,ATT,1466
+Bryan Gil,Sevilla,ATT,1466
 Gavi,Barcelona,MID,1466
-Guido Rodríguez,Real Betis,MID,1465
-Shon Weissman,Real Valladolid,ATT,1465
-Ángel Algobia,Getafe,MID,1464
-Fran Pérez,Valencia CF,ATT,1464
-Monchu,Real Valladolid,MID,1464
-Tomás Alarcon,Cádiz,MID,1464
-Mario Suárez,Rayo Vallecano,MID,1463
-Jorge Herrando,Osasuna,DEF,1462
-Jon Pacheco,Real Sociedad,DEF,1462
-Luis Pérez,Real Valladolid,DEF,1462
-Houboulang Mendes,Almería,DEF,1462
-Ferland Mendy,Real Madrid,DEF,1462
-Lisandro Magallán,Elche,DEF,1462
-Denis Suárez,Espanyol,MID,1462
-Pablo Marín,Real Sociedad,ATT,1462
+Ángel Algobia,Getafe,MID,1465
+Quina,Elche,ATT,1465
+Pau Torres,Villarreal,DEF,1465
+Luis Suárez,Almería,ATT,1465
+Lucas Ocampos,Sevilla,ATT,1464
+Ángel Rodriguez,Mallorca,ATT,1464
+Lisandro Magallán,Elche,DEF,1463
+Gonzalo Verdú,Elche,DEF,1463
+Robert Navarro,Real Sociedad,ATT,1463
+Marcos Acuña,Sevilla,DEF,1463
+Jorge Herrando,Osasuna,DEF,1463
+Nabil Fekir,Real Betis,ATT,1463
+Gonzalo Montiel,Sevilla,DEF,1462
+Mario Suárez,Rayo Vallecano,MID,1462
+Cristhian Stuani,Girona,ATT,1462
+Tomás Alarcon,Cádiz,MID,1462
+Alberto Moreno,Villarreal,DEF,1462
 David Silva,Real Sociedad,ATT,1462
-Bryan Gil,Sevilla,ATT,1461
-Quina,Elche,ATT,1461
-Iván Balliu,Rayo Vallecano,DEF,1461
-Tete Morente,Elche,ATT,1461
-Gaston Álvarez,Getafe,DEF,1461
-Ángel Rodriguez,Mallorca,ATT,1460
-Cristhian Stuani,Girona,ATT,1460
-Álex Baena,Villarreal,MID,1459
-Nico Melamed,Espanyol,ATT,1459
-Gonzalo Montiel,Sevilla,DEF,1459
-Nabil Fekir,Real Betis,ATT,1459
-Gonçalo Paciência,Celta de Vigo,ATT,1459
-Robert Navarro,Real Sociedad,ATT,1458
-Alexander Sørloth,Real Sociedad,ATT,1458
+Christopher Ramos,Cádiz,ATT,1461
+Leandro Cabrera,Espanyol,DEF,1460
+Denis Suárez,Espanyol,MID,1460
+Luiz Henrique,Real Betis,ATT,1460
+Álex Baena,Villarreal,MID,1460
+Joan Jordán,Sevilla,MID,1459
+Helibelton Palacios,Elche,DEF,1459
+Matija Nastasic,Mallorca,DEF,1458
+Victor Chust,Cádiz,DEF,1458
 César de la Hoz,Almería,MID,1458
-Dani Rodríguez,Mallorca,ATT,1458
+Salvi Sánchez,Rayo Vallecano,ATT,1458
+Gonçalo Paciência,Celta de Vigo,ATT,1458
+Tete Morente,Elche,ATT,1458
 Julen Agirrezabala,Athletic Club,GK,1457
+Óscar Plano,Real Valladolid,ATT,1457
 Claudio Bravo,Real Betis,GK,1457
-Gonzalo Verdú,Elche,DEF,1457
-Christopher Ramos,Cádiz,ATT,1457
-Salvi Sánchez,Rayo Vallecano,ATT,1457
-Óscar Plano,Real Valladolid,ATT,1456
-Joan Jordán,Sevilla,MID,1456
-Unai Vencedor,Athletic Club,MID,1455
-Luca de la Torre,Celta de Vigo,MID,1455
-Marcos Acuña,Sevilla,DEF,1455
-Ander Guevara,Real Sociedad,MID,1455
-Arnau Puigmal,Almería,ATT,1454
-Youba Diarra,Cádiz,MID,1454
+Gaston Álvarez,Getafe,DEF,1457
+Marcos André,Valencia CF,ATT,1457
+Dani Rodríguez,Mallorca,ATT,1456
+Alexander Sørloth,Real Sociedad,ATT,1456
+Renato Tapia,Celta de Vigo,MID,1456
+Kenedy,Real Valladolid,ATT,1456
+Nico Melamed,Espanyol,ATT,1455
+Luca de la Torre,Celta de Vigo,MID,1454
+Unai Vencedor,Athletic Club,MID,1454
 Yassine Bounou,Sevilla,GK,1454
-Marcos André,Valencia CF,ATT,1453
-Renato Tapia,Celta de Vigo,MID,1453
-Marcão,Sevilla,DEF,1452
-Kevin Vázquez,Celta de Vigo,DEF,1452
-Abner,Real Betis,DEF,1452
-Mamadou Mbaye,Cádiz,DEF,1452
-Abdul Mumin,Rayo Vallecano,DEF,1452
-Victor Chust,Cádiz,DEF,1452
-Matija Nastasic,Mallorca,DEF,1452
-Oriol Romeu,Girona,MID,1451
-Igor Zubeldia,Real Sociedad,DEF,1451
-Kenedy,Real Valladolid,ATT,1451
+Abdul Mumin,Rayo Vallecano,DEF,1453
+Lucas Rosa,Real Valladolid,DEF,1453
+Kevin Vázquez,Celta de Vigo,DEF,1453
+Ander Guevara,Real Sociedad,MID,1453
+Youba Diarra,Cádiz,MID,1453
+Mamadou Mbaye,Cádiz,DEF,1453
+Marcão,Sevilla,DEF,1453
+Abner,Real Betis,DEF,1453
+Oriol Romeu,Girona,MID,1452
+Matheus Cunha,Atlético de Madrid,ATT,1452
+Igor Zubeldia,Real Sociedad,DEF,1452
+Iván Balliu,Rayo Vallecano,DEF,1452
+Arnau Puigmal,Almería,ATT,1451
 Léo Baptistão,Almería,ATT,1450
-Ferran Torres,Barcelona,ATT,1450
-Juan Cruz,Osasuna,DEF,1449
-Pape Cheikh,Elche,MID,1448
-Matheus Cunha,Atlético de Madrid,ATT,1448
-Kike Pérez,Real Valladolid,MID,1447
-Jordan Amavi,Getafe,DEF,1447
-Sergio Reguilón,Atlético de Madrid,DEF,1447
-Lucas Rosa,Real Valladolid,DEF,1447
-Pape Gueye,Sevilla,MID,1445
-Iddrisu Baba,Mallorca,MID,1444
-Rubén Alcaraz,Cádiz,MID,1444
-Álvaro Fernández,Espanyol,GK,1442
+Kike Pérez,Real Valladolid,MID,1449
+Jordan Amavi,Getafe,DEF,1448
+Sergio Reguilón,Atlético de Madrid,DEF,1448
+Isco,Sevilla,ATT,1447
+Rubén Alcaraz,Cádiz,MID,1447
+Pape Cheikh,Elche,MID,1447
+Iddrisu Baba,Mallorca,MID,1445
+Pape Gueye,Sevilla,MID,1444
+Ferran Torres,Barcelona,ATT,1443
+Ilaix Moriba,Valencia CF,MID,1443
 David Gil,Cádiz,GK,1442
-Thomas Delaney,Sevilla,MID,1442
+Juan Cruz,Osasuna,DEF,1442
+Álvaro Fernández,Espanyol,GK,1442
 Sergio Asenjo,Real Valladolid,GK,1442
 Leo Román,Mallorca,GK,1442
-Isco,Sevilla,ATT,1442
-Ilaix Moriba,Valencia CF,MID,1442
-Randy Nteka,Elche,ATT,1441
-Óscar Trejo,Rayo Vallecano,ATT,1440
-Largie Ramazani,Almería,ATT,1440
-Paul Akouokou,Real Betis,MID,1439
+Thomas Delaney,Sevilla,MID,1440
+Roque Mesa,Real Valladolid,MID,1439
+Alejandro Catena,Rayo Vallecano,DEF,1439
+Giovanni González,Mallorca,DEF,1438
+Joseba Zaldúa,Cádiz,DEF,1438
+Aitor Paredes,Athletic Club,DEF,1438
+Randy Nteka,Elche,ATT,1438
 Vini Souza,Espanyol,MID,1437
-Aitor Paredes,Athletic Club,DEF,1437
-Mauro Arambarri,Getafe,MID,1437
-Manu Morlanes,Mallorca,MID,1436
-Lucas Boyé,Elche,ATT,1436
-Roque Mesa,Real Valladolid,MID,1436
-Martín Zubimendi,Real Sociedad,MID,1435
-Alejandro Catena,Rayo Vallecano,DEF,1435
+Paul Akouokou,Real Betis,MID,1437
+Martín Zubimendi,Real Sociedad,MID,1436
+Mauro Arambarri,Getafe,MID,1435
+Manu Morlanes,Mallorca,MID,1435
+Jaime Mata,Getafe,ATT,1434
+Fabrizio Angileri,Getafe,DEF,1433
+Largie Ramazani,Almería,ATT,1433
+Jesús Navas,Sevilla,ATT,1433
+Óscar Trejo,Rayo Vallecano,ATT,1432
 Lucas Torró,Osasuna,MID,1432
-Joseba Zaldúa,Cádiz,DEF,1432
-Fabrizio Angileri,Getafe,DEF,1432
-Jesús Navas,Sevilla,ATT,1431
-Ezequiel Ponce,Elche,ATT,1430
-Jaime Mata,Getafe,ATT,1429
-Álvaro Aceves,Real Valladolid,GK,1427
-Giovanni González,Mallorca,DEF,1427
-Filip Jörgensen,Villarreal,GK,1427
-Joan García,Espanyol,GK,1427
+Ezequiel Ponce,Elche,ATT,1432
+Axel Werner,Elche,GK,1427
 Dominik Greif,Mallorca,GK,1427
 Diego Mariño,Almería,GK,1427
 Diego Lopez,Rayo Vallecano,GK,1427
-Iñaki Peña,Barcelona,GK,1427
+Filip Jörgensen,Villarreal,GK,1427
+Álvaro Aceves,Real Valladolid,GK,1427
 Juan Carlos,Girona,GK,1427
-Axel Werner,Elche,GK,1427
-Amath Ndiaye,Mallorca,ATT,1424
-José Mari,Cádiz,MID,1424
+Joan García,Espanyol,GK,1427
+Iñaki Peña,Barcelona,GK,1427
+Lucas Boyé,Elche,ATT,1425
+Radamel Falcao,Rayo Vallecano,ATT,1423
 Clément Grenier,Mallorca,MID,1423
-Yéremi Pino,Villarreal,ATT,1421
+Amath Ndiaye,Mallorca,ATT,1423
+José Mari,Cádiz,MID,1422
 Sergio Herrera,Osasuna,GK,1420
-Ander Herrera,Athletic Club,MID,1420
-Radamel Falcao,Rayo Vallecano,ATT,1420
 Juan Iglesias,Getafe,MID,1419
-John Donald,Elche,DEF,1417
-Gerard Piqué,Barcelona,DEF,1417
-Valentín Castellanos,Girona,ATT,1414
-Djené,Getafe,DEF,1413
-Kike García,Osasuna,ATT,1413
-Andrés Guardado,Real Betis,ATT,1413
+Ander Herrera,Athletic Club,MID,1418
+John Donald,Elche,DEF,1418
+Gerard Piqué,Barcelona,DEF,1418
+Andrés Guardado,Real Betis,ATT,1416
+Yéremi Pino,Villarreal,ATT,1416
+Valentín Castellanos,Girona,ATT,1415
 Arnau Tenas,Barcelona,GK,1412
-Gonzalo Villar,Getafe,MID,1410
+Kike García,Osasuna,ATT,1411
+Gonzalo Villar,Getafe,MID,1409
+Kaiky,Almería,DEF,1408
+Diego González,Elche,DEF,1408
 Portu,Getafe,ATT,1408
-Diego González,Elche,DEF,1407
-Rodrigo Andrés Battaglia,Mallorca,DEF,1407
-Kaiky,Almería,DEF,1407
+Rodrigo Andrés Battaglia,Mallorca,DEF,1408
 Benjamin Lecomte,Espanyol,GK,1407
-Anthony Lozano,Cádiz,ATT,1402
+Djené,Getafe,DEF,1406
+Anthony Lozano,Cádiz,ATT,1401
 Agustín Marchesín,Celta de Vigo,GK,1401
-Roger Martí,Cádiz,ATT,1396
+Roger Martí,Cádiz,ATT,1397
 Carles Aleñá,Getafe,MID,1395
-Jaume Costa,Mallorca,DEF,1394
-Érik Lamela,Sevilla,ATT,1392
-Óscar Valentín,Rayo Vallecano,MID,1390
 Ivo Grbic,Atlético de Madrid,GK,1390
-Carlos Fernández,Real Sociedad,ATT,1382
-Hugo Duro,Valencia CF,ATT,1381
-Íñigo Ruíz de Galarreta,Mallorca,MID,1380
-Aleix Vidal,Espanyol,ATT,1377
+Óscar Valentín,Rayo Vallecano,MID,1390
+Jaume Costa,Mallorca,DEF,1388
+Érik Lamela,Sevilla,ATT,1388
+Hugo Duro,Valencia CF,ATT,1384
+Íñigo Ruíz de Galarreta,Mallorca,MID,1381
+Aleix Vidal,Espanyol,ATT,1379
+Carlos Fernández,Real Sociedad,ATT,1376
 Yunus Musah,Valencia CF,MID,1375
-Martin Hongla,Real Valladolid,MID,1370
-Rubén Sobrino,Cádiz,ATT,1349
-Iván Alejo,Cádiz,DEF,1348
-Óscar Gil,Espanyol,MID,1334
+Martin Hongla,Real Valladolid,MID,1368
+Rubén Sobrino,Cádiz,ATT,1347
+Iván Alejo,Cádiz,DEF,1342
+Óscar Gil,Espanyol,MID,1333
 Federico San Emeterio,Cádiz,MID,1315
