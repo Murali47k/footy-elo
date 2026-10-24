@@ -78,12 +78,15 @@ def get_position(pos_list):
 
     return f'Code_{pos_code}'
 
-def fetch_stat_catalog(league_id):
+def fetch_stat_catalog(league_id, season=None):
     """
-    Fetch the player stats catalog from FotMob pageProps for a league.
+    Fetch the player stats catalog from FotMob pageProps for a league and season.
     Returns a dict mapping stat title -> direct JSON URL.
     """
+    import urllib.parse
     url = f"https://www.fotmob.com/api/leagues/{league_id}"
+    if season:
+        url += f"?season={urllib.parse.quote(season)}"
     res = requests.get(url, headers=HEADERS, timeout=12)
     res.raise_for_status()
 
@@ -105,16 +108,16 @@ def fetch_stat_catalog(league_id):
 
     return stat_map
 
-def fetch_league_stats(league_id, season="2025/2026", output_path=None, progress_callback=None):
+def fetch_league_stats(league_id, season="2026/2027", output_path=None, progress_callback=None):
     """
     Fetch all relevant stats for a league and optionally save to CSV.
     Supports real-time progress callbacks: progress_callback(current, total, stat_name, message)
     """
-    print(f"Fetching stats catalog for league {league_id}...")
+    print(f"Fetching stats catalog for league {league_id} (season: {season})...")
     if progress_callback:
-        progress_callback(0, len(STATS), "Initializing", "Connecting to FotMob data feed...")
+        progress_callback(0, len(STATS), "Initializing", f"Connecting to FotMob data feed ({season})...")
 
-    stat_map = fetch_stat_catalog(league_id)
+    stat_map = fetch_stat_catalog(league_id, season=season)
     all_data = []
     total_stats = len(STATS)
 
