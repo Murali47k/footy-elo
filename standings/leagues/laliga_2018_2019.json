@@ -1,0 +1,86 @@
+{
+  "season": "2018/2019",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Barcelona"
+    },
+    {
+      "position": 2,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 3,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 4,
+      "team": "Valencia"
+    },
+    {
+      "position": 5,
+      "team": "Getafe"
+    },
+    {
+      "position": 6,
+      "team": "Sevilla"
+    },
+    {
+      "position": 7,
+      "team": "Espanyol"
+    },
+    {
+      "position": 8,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 9,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 10,
+      "team": "Real Betis"
+    },
+    {
+      "position": 11,
+      "team": "Deportivo Alavés"
+    },
+    {
+      "position": 12,
+      "team": "Eibar"
+    },
+    {
+      "position": 13,
+      "team": "Leganés"
+    },
+    {
+      "position": 14,
+      "team": "Villarreal"
+    },
+    {
+      "position": 15,
+      "team": "Levante"
+    },
+    {
+      "position": 16,
+      "team": "Real Valladolid"
+    },
+    {
+      "position": 17,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 18,
+      "team": "Girona"
+    },
+    {
+      "position": 19,
+      "team": "SD Huesca"
+    },
+    {
+      "position": 20,
+      "team": "Rayo Vallecano"
+    }
+  ]
+}

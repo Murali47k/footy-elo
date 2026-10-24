@@ -1,0 +1,18 @@
+{
+  "season": "2019/2020",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Sevilla",
+    "final": "Internazionale",
+    "semi": [
+      "Manchester United",
+      "Shakhtar Donetsk"
+    ],
+    "quarter": [
+      "Wolverhampton Wanderers",
+      "FC København",
+      "Bayer 04 Leverkusen",
+      "Basel"
+    ]
+  }
+}

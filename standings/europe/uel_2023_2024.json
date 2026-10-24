@@ -1,0 +1,28 @@
+{
+  "season": "2023/2024",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Atalanta",
+    "final": "Bayer 04 Leverkusen",
+    "semi": [
+      "Marseille",
+      "Roma"
+    ],
+    "quarter": [
+      "Benfica",
+      "Liverpool",
+      "Milan",
+      "West Ham United"
+    ],
+    "r16": [
+      "Rangers",
+      "Villarreal",
+      "Sparta Prague",
+      "Sporting Lisbon",
+      "Slavia Prague",
+      "Brighton and Hove Albion",
+      "Qarabag FK",
+      "Sport-Club Freiburg"
+    ]
+  }
+}

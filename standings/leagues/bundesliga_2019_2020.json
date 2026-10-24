@@ -1,0 +1,78 @@
+{
+  "season": "2019/2020",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 3,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 4,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 5,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 6,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 7,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 8,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 9,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 10,
+      "team": "Hertha BSC"
+    },
+    {
+      "position": 11,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 12,
+      "team": "Schalke 04"
+    },
+    {
+      "position": 13,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 14,
+      "team": "1. FC Köln"
+    },
+    {
+      "position": 15,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 16,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 17,
+      "team": "Fortuna Düsseldorf"
+    },
+    {
+      "position": 18,
+      "team": "SC Paderborn 07"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2018/2019",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Chelsea",
+    "final": "Arsenal",
+    "semi": [
+      "Eintracht Frankfurt",
+      "Valencia"
+    ],
+    "quarter": [
+      "Benfica",
+      "Slavia Prague",
+      "Napoli",
+      "Villarreal"
+    ],
+    "r16": [
+      "Dinamo Zagreb",
+      "Internazionale",
+      "Sevilla",
+      "Dynamo Kyiv",
+      "Rennes",
+      "Salzburg",
+      "Zenit St. Petersburg",
+      "FC Krasnodar"
+    ]
+  }
+}

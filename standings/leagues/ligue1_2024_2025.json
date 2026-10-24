@@ -1,0 +1,78 @@
+{
+  "season": "2024/2025",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 2,
+      "team": "Marseille"
+    },
+    {
+      "position": 3,
+      "team": "Monaco"
+    },
+    {
+      "position": 4,
+      "team": "Nice"
+    },
+    {
+      "position": 5,
+      "team": "Lille"
+    },
+    {
+      "position": 6,
+      "team": "Lyon"
+    },
+    {
+      "position": 7,
+      "team": "Strasbourg"
+    },
+    {
+      "position": 8,
+      "team": "Lens"
+    },
+    {
+      "position": 9,
+      "team": "Brest"
+    },
+    {
+      "position": 10,
+      "team": "Toulouse"
+    },
+    {
+      "position": 11,
+      "team": "Auxerre"
+    },
+    {
+      "position": 12,
+      "team": "Rennes"
+    },
+    {
+      "position": 13,
+      "team": "Nantes"
+    },
+    {
+      "position": 14,
+      "team": "Angers"
+    },
+    {
+      "position": 15,
+      "team": "Le Havre"
+    },
+    {
+      "position": 16,
+      "team": "Reims"
+    },
+    {
+      "position": 17,
+      "team": "Saint-Étienne"
+    },
+    {
+      "position": 18,
+      "team": "Montpellier"
+    }
+  ]
+}

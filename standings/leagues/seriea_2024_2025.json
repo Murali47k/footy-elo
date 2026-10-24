@@ -1,0 +1,86 @@
+{
+  "season": "2024/2025",
+  "league": "Serie A",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Napoli"
+    },
+    {
+      "position": 2,
+      "team": "Internazionale"
+    },
+    {
+      "position": 3,
+      "team": "Atalanta"
+    },
+    {
+      "position": 4,
+      "team": "Juventus"
+    },
+    {
+      "position": 5,
+      "team": "Roma"
+    },
+    {
+      "position": 6,
+      "team": "Fiorentina"
+    },
+    {
+      "position": 7,
+      "team": "Lazio"
+    },
+    {
+      "position": 8,
+      "team": "Milan"
+    },
+    {
+      "position": 9,
+      "team": "Bologna"
+    },
+    {
+      "position": 10,
+      "team": "Como"
+    },
+    {
+      "position": 11,
+      "team": "Torino"
+    },
+    {
+      "position": 12,
+      "team": "Udinese"
+    },
+    {
+      "position": 13,
+      "team": "Genoa"
+    },
+    {
+      "position": 14,
+      "team": "Verona"
+    },
+    {
+      "position": 15,
+      "team": "Cagliari"
+    },
+    {
+      "position": 16,
+      "team": "Parma"
+    },
+    {
+      "position": 17,
+      "team": "Lecce"
+    },
+    {
+      "position": 18,
+      "team": "Empoli"
+    },
+    {
+      "position": 19,
+      "team": "Venezia"
+    },
+    {
+      "position": 20,
+      "team": "Monza"
+    }
+  ]
+}

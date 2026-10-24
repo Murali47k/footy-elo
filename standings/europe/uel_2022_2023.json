@@ -1,0 +1,28 @@
+{
+  "season": "2022/2023",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Sevilla",
+    "final": "Roma",
+    "semi": [
+      "Juventus",
+      "Bayer 04 Leverkusen"
+    ],
+    "quarter": [
+      "Sporting Lisbon",
+      "Manchester United",
+      "Feyenoord",
+      "Union St.Gilloise"
+    ],
+    "r16": [
+      "Sport-Club Freiburg",
+      "Arsenal",
+      "Real Betis",
+      "Fenerbahçe",
+      "Shakhtar Donetsk",
+      "Real Sociedad",
+      "Ferencvaros",
+      "1. FC Union Berlin"
+    ]
+  }
+}

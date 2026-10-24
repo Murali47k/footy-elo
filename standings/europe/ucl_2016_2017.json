@@ -1,0 +1,28 @@
+{
+  "season": "2016/2017",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Real Madrid",
+    "final": "Juventus",
+    "semi": [
+      "Monaco",
+      "Atletico Madrid"
+    ],
+    "quarter": [
+      "Borussia Dortmund",
+      "Barcelona",
+      "Bayern München",
+      "Leicester City"
+    ],
+    "r16": [
+      "Benfica",
+      "Manchester City",
+      "FC Porto",
+      "Paris Saint-Germain",
+      "Arsenal",
+      "Napoli",
+      "Bayer 04 Leverkusen",
+      "Sevilla"
+    ]
+  }
+}

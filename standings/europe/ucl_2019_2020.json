@@ -1,0 +1,28 @@
+{
+  "season": "2019/2020",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Bayern München",
+    "final": "Paris Saint-Germain",
+    "semi": [
+      "RB Leipzig",
+      "Lyon"
+    ],
+    "quarter": [
+      "Atletico Madrid",
+      "Atalanta",
+      "Manchester City",
+      "Barcelona"
+    ],
+    "r16": [
+      "Tottenham Hotspur",
+      "Liverpool",
+      "Valencia",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Juventus",
+      "Napoli",
+      "Chelsea"
+    ]
+  }
+}

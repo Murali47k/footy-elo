@@ -1,0 +1,86 @@
+{
+  "season": "2019/2020",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Liverpool"
+    },
+    {
+      "position": 2,
+      "team": "Manchester City"
+    },
+    {
+      "position": 3,
+      "team": "Manchester United"
+    },
+    {
+      "position": 4,
+      "team": "Chelsea"
+    },
+    {
+      "position": 5,
+      "team": "Leicester City"
+    },
+    {
+      "position": 6,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 7,
+      "team": "Wolverhampton Wanderers"
+    },
+    {
+      "position": 8,
+      "team": "Arsenal"
+    },
+    {
+      "position": 9,
+      "team": "Sheffield United"
+    },
+    {
+      "position": 10,
+      "team": "Burnley"
+    },
+    {
+      "position": 11,
+      "team": "Southampton"
+    },
+    {
+      "position": 12,
+      "team": "Everton"
+    },
+    {
+      "position": 13,
+      "team": "Newcastle United"
+    },
+    {
+      "position": 14,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 15,
+      "team": "Brighton and Hove Albion"
+    },
+    {
+      "position": 16,
+      "team": "West Ham United"
+    },
+    {
+      "position": 17,
+      "team": "Aston Villa"
+    },
+    {
+      "position": 18,
+      "team": "Bournemouth"
+    },
+    {
+      "position": 19,
+      "team": "Watford"
+    },
+    {
+      "position": 20,
+      "team": "Norwich City"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2025/2026",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Aston Villa",
+    "final": "Sport-Club Freiburg",
+    "semi": [
+      "Braga",
+      "Nottingham Forest"
+    ],
+    "quarter": [
+      "Real Betis",
+      "Celta de Vigo",
+      "FC Porto",
+      "Bologna"
+    ],
+    "r16": [
+      "Ferencváros",
+      "Panathinaikos",
+      "Genk",
+      "Lyon",
+      "VfB Stuttgart",
+      "FC Midtjylland",
+      "Roma",
+      "Lille"
+    ]
+  }
+}

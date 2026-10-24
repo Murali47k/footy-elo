@@ -1,0 +1,28 @@
+{
+  "season": "2024/2025",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Paris Saint-Germain",
+    "final": "Internazionale",
+    "semi": [
+      "Arsenal",
+      "Barcelona"
+    ],
+    "quarter": [
+      "Real Madrid",
+      "Aston Villa",
+      "Borussia Dortmund",
+      "Bayern München"
+    ],
+    "r16": [
+      "PSV Eindhoven",
+      "Atlético Madrid",
+      "Liverpool",
+      "Club Brugge",
+      "Benfica",
+      "Lille",
+      "Bayer 04 Leverkusen",
+      "Feyenoord"
+    ]
+  }
+}

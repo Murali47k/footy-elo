@@ -1,0 +1,28 @@
+{
+  "season": "2020/2021",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Chelsea",
+    "final": "Manchester City",
+    "semi": [
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    "quarter": [
+      "Bayern München",
+      "Borussia Dortmund",
+      "Liverpool",
+      "FC Porto"
+    ],
+    "r16": [
+      "Lazio",
+      "Barcelona",
+      "Borussia M'Gladbach",
+      "Sevilla",
+      "Atalanta",
+      "RB Leipzig",
+      "Juventus",
+      "Atletico Madrid"
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "season": "2016/2017",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Chelsea"
+    },
+    {
+      "position": 2,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 3,
+      "team": "Manchester City"
+    },
+    {
+      "position": 4,
+      "team": "Liverpool"
+    },
+    {
+      "position": 5,
+      "team": "Arsenal"
+    },
+    {
+      "position": 6,
+      "team": "Manchester United"
+    },
+    {
+      "position": 7,
+      "team": "Everton"
+    },
+    {
+      "position": 8,
+      "team": "Southampton"
+    },
+    {
+      "position": 9,
+      "team": "Bournemouth"
+    },
+    {
+      "position": 10,
+      "team": "West Bromwich Albion"
+    },
+    {
+      "position": 11,
+      "team": "West Ham United"
+    },
+    {
+      "position": 12,
+      "team": "Leicester City"
+    },
+    {
+      "position": 13,
+      "team": "Stoke City"
+    },
+    {
+      "position": 14,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 15,
+      "team": "Swansea City"
+    },
+    {
+      "position": 16,
+      "team": "Burnley"
+    },
+    {
+      "position": 17,
+      "team": "Watford"
+    },
+    {
+      "position": 18,
+      "team": "Hull City"
+    },
+    {
+      "position": 19,
+      "team": "Middlesbrough"
+    },
+    {
+      "position": 20,
+      "team": "Sunderland"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "season": "2019/2020",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 2,
+      "team": "Barcelona"
+    },
+    {
+      "position": 3,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 4,
+      "team": "Sevilla"
+    },
+    {
+      "position": 5,
+      "team": "Villarreal"
+    },
+    {
+      "position": 6,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 7,
+      "team": "Granada"
+    },
+    {
+      "position": 8,
+      "team": "Getafe"
+    },
+    {
+      "position": 9,
+      "team": "Valencia"
+    },
+    {
+      "position": 10,
+      "team": "Osasuna"
+    },
+    {
+      "position": 11,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 12,
+      "team": "Levante"
+    },
+    {
+      "position": 13,
+      "team": "Real Valladolid"
+    },
+    {
+      "position": 14,
+      "team": "Eibar"
+    },
+    {
+      "position": 15,
+      "team": "Real Betis"
+    },
+    {
+      "position": 16,
+      "team": "Deportivo Alavés"
+    },
+    {
+      "position": 17,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 18,
+      "team": "Leganés"
+    },
+    {
+      "position": 19,
+      "team": "Mallorca"
+    },
+    {
+      "position": 20,
+      "team": "Espanyol"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2022/2023",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Manchester City",
+    "final": "Internazionale",
+    "semi": [
+      "Real Madrid",
+      "Milan"
+    ],
+    "quarter": [
+      "Chelsea",
+      "Bayern München",
+      "Napoli",
+      "Benfica"
+    ],
+    "r16": [
+      "Liverpool",
+      "Borussia Dortmund",
+      "RB Leipzig",
+      "Paris Saint-Germain",
+      "Tottenham Hotspur",
+      "Eintracht Frankfurt",
+      "Club Brugge",
+      "FC Porto"
+    ]
+  }
+}

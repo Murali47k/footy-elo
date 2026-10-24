@@ -1,0 +1,86 @@
+{
+  "season": "2016/2017",
+  "league": "Serie A",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Juventus"
+    },
+    {
+      "position": 2,
+      "team": "Roma"
+    },
+    {
+      "position": 3,
+      "team": "Napoli"
+    },
+    {
+      "position": 4,
+      "team": "Atalanta"
+    },
+    {
+      "position": 5,
+      "team": "Lazio"
+    },
+    {
+      "position": 6,
+      "team": "Milan"
+    },
+    {
+      "position": 7,
+      "team": "Internazionale"
+    },
+    {
+      "position": 8,
+      "team": "Fiorentina"
+    },
+    {
+      "position": 9,
+      "team": "Torino"
+    },
+    {
+      "position": 10,
+      "team": "Sampdoria"
+    },
+    {
+      "position": 11,
+      "team": "Cagliari"
+    },
+    {
+      "position": 12,
+      "team": "Sassuolo"
+    },
+    {
+      "position": 13,
+      "team": "Udinese"
+    },
+    {
+      "position": 14,
+      "team": "Chievo Verona"
+    },
+    {
+      "position": 15,
+      "team": "Bologna"
+    },
+    {
+      "position": 16,
+      "team": "Genoa"
+    },
+    {
+      "position": 17,
+      "team": "Crotone"
+    },
+    {
+      "position": 18,
+      "team": "Empoli"
+    },
+    {
+      "position": 19,
+      "team": "Palermo"
+    },
+    {
+      "position": 20,
+      "team": "Pescara"
+    }
+  ]
+}

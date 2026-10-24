@@ -1,0 +1,86 @@
+{
+  "season": "2020/2021",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Lille"
+    },
+    {
+      "position": 2,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 3,
+      "team": "Monaco"
+    },
+    {
+      "position": 4,
+      "team": "Lyon"
+    },
+    {
+      "position": 5,
+      "team": "Marseille"
+    },
+    {
+      "position": 6,
+      "team": "Rennes"
+    },
+    {
+      "position": 7,
+      "team": "Lens"
+    },
+    {
+      "position": 8,
+      "team": "Montpellier"
+    },
+    {
+      "position": 9,
+      "team": "Nice"
+    },
+    {
+      "position": 10,
+      "team": "Metz"
+    },
+    {
+      "position": 11,
+      "team": "Saint-Étienne"
+    },
+    {
+      "position": 12,
+      "team": "Bordeaux"
+    },
+    {
+      "position": 13,
+      "team": "Angers"
+    },
+    {
+      "position": 14,
+      "team": "Reims"
+    },
+    {
+      "position": 15,
+      "team": "Strasbourg"
+    },
+    {
+      "position": 16,
+      "team": "Lorient"
+    },
+    {
+      "position": 17,
+      "team": "Brest"
+    },
+    {
+      "position": 18,
+      "team": "Nantes"
+    },
+    {
+      "position": 19,
+      "team": "Nîmes"
+    },
+    {
+      "position": 20,
+      "team": "Dijon"
+    }
+  ]
+}

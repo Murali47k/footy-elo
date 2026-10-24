@@ -1,0 +1,28 @@
+{
+  "season": "2023/2024",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Real Madrid",
+    "final": "Borussia Dortmund",
+    "semi": [
+      "Paris Saint-Germain",
+      "Bayern München"
+    ],
+    "quarter": [
+      "Atletico Madrid",
+      "Barcelona",
+      "Arsenal",
+      "Manchester City"
+    ],
+    "r16": [
+      "Internazionale",
+      "PSV Eindhoven",
+      "Real Sociedad",
+      "SSC Napoli",
+      "FC Porto",
+      "Lazio",
+      "RB Leipzig",
+      "FC København"
+    ]
+  }
+}

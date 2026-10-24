@@ -1,0 +1,86 @@
+{
+  "season": "2020/2021",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 2,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 3,
+      "team": "Barcelona"
+    },
+    {
+      "position": 4,
+      "team": "Sevilla"
+    },
+    {
+      "position": 5,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 6,
+      "team": "Real Betis"
+    },
+    {
+      "position": 7,
+      "team": "Villarreal"
+    },
+    {
+      "position": 8,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 9,
+      "team": "Granada"
+    },
+    {
+      "position": 10,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 11,
+      "team": "Osasuna"
+    },
+    {
+      "position": 12,
+      "team": "Cádiz"
+    },
+    {
+      "position": 13,
+      "team": "Valencia"
+    },
+    {
+      "position": 14,
+      "team": "Levante"
+    },
+    {
+      "position": 15,
+      "team": "Getafe"
+    },
+    {
+      "position": 16,
+      "team": "Deportivo Alavés"
+    },
+    {
+      "position": 17,
+      "team": "Elche"
+    },
+    {
+      "position": 18,
+      "team": "SD Huesca"
+    },
+    {
+      "position": 19,
+      "team": "Real Valladolid"
+    },
+    {
+      "position": 20,
+      "team": "Eibar"
+    }
+  ]
+}

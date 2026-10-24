@@ -1,0 +1,86 @@
+{
+  "season": "2025/2026",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Arsenal"
+    },
+    {
+      "position": 2,
+      "team": "Manchester City"
+    },
+    {
+      "position": 3,
+      "team": "Manchester United"
+    },
+    {
+      "position": 4,
+      "team": "Aston Villa"
+    },
+    {
+      "position": 5,
+      "team": "Liverpool"
+    },
+    {
+      "position": 6,
+      "team": "Bournemouth"
+    },
+    {
+      "position": 7,
+      "team": "Sunderland"
+    },
+    {
+      "position": 8,
+      "team": "Brighton and Hove Albion"
+    },
+    {
+      "position": 9,
+      "team": "Brentford"
+    },
+    {
+      "position": 10,
+      "team": "Chelsea"
+    },
+    {
+      "position": 11,
+      "team": "Fulham"
+    },
+    {
+      "position": 12,
+      "team": "Newcastle United"
+    },
+    {
+      "position": 13,
+      "team": "Everton"
+    },
+    {
+      "position": 14,
+      "team": "Leeds United"
+    },
+    {
+      "position": 15,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 16,
+      "team": "Nottingham Forest"
+    },
+    {
+      "position": 17,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 18,
+      "team": "West Ham United"
+    },
+    {
+      "position": 19,
+      "team": "Burnley"
+    },
+    {
+      "position": 20,
+      "team": "Wolverhampton Wanderers"
+    }
+  ]
+}

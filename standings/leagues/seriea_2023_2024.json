@@ -1,0 +1,86 @@
+{
+  "season": "2023/2024",
+  "league": "Serie A",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Internazionale"
+    },
+    {
+      "position": 2,
+      "team": "Milan"
+    },
+    {
+      "position": 3,
+      "team": "Juventus"
+    },
+    {
+      "position": 4,
+      "team": "Atalanta"
+    },
+    {
+      "position": 5,
+      "team": "Bologna"
+    },
+    {
+      "position": 6,
+      "team": "Roma"
+    },
+    {
+      "position": 7,
+      "team": "Lazio"
+    },
+    {
+      "position": 8,
+      "team": "Fiorentina"
+    },
+    {
+      "position": 9,
+      "team": "Torino"
+    },
+    {
+      "position": 10,
+      "team": "Napoli"
+    },
+    {
+      "position": 11,
+      "team": "Genoa"
+    },
+    {
+      "position": 12,
+      "team": "Monza"
+    },
+    {
+      "position": 13,
+      "team": "Verona"
+    },
+    {
+      "position": 14,
+      "team": "Lecce"
+    },
+    {
+      "position": 15,
+      "team": "Udinese"
+    },
+    {
+      "position": 16,
+      "team": "Cagliari"
+    },
+    {
+      "position": 17,
+      "team": "Empoli"
+    },
+    {
+      "position": 18,
+      "team": "Frosinone"
+    },
+    {
+      "position": 19,
+      "team": "Sassuolo"
+    },
+    {
+      "position": 20,
+      "team": "Salernitana"
+    }
+  ]
+}

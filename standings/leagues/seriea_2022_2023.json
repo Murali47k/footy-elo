@@ -1,0 +1,86 @@
+{
+  "season": "2022/2023",
+  "league": "Serie A",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Napoli"
+    },
+    {
+      "position": 2,
+      "team": "Lazio"
+    },
+    {
+      "position": 3,
+      "team": "Internazionale"
+    },
+    {
+      "position": 4,
+      "team": "Milan"
+    },
+    {
+      "position": 5,
+      "team": "Atalanta"
+    },
+    {
+      "position": 6,
+      "team": "Roma"
+    },
+    {
+      "position": 7,
+      "team": "Juventus"
+    },
+    {
+      "position": 8,
+      "team": "Fiorentina"
+    },
+    {
+      "position": 9,
+      "team": "Bologna"
+    },
+    {
+      "position": 10,
+      "team": "Torino"
+    },
+    {
+      "position": 11,
+      "team": "Monza"
+    },
+    {
+      "position": 12,
+      "team": "Udinese"
+    },
+    {
+      "position": 13,
+      "team": "Sassuolo"
+    },
+    {
+      "position": 14,
+      "team": "Empoli"
+    },
+    {
+      "position": 15,
+      "team": "Salernitana"
+    },
+    {
+      "position": 16,
+      "team": "Lecce"
+    },
+    {
+      "position": 17,
+      "team": "Verona"
+    },
+    {
+      "position": 18,
+      "team": "Spezia"
+    },
+    {
+      "position": 19,
+      "team": "Cremonese"
+    },
+    {
+      "position": 20,
+      "team": "Sampdoria"
+    }
+  ]
+}

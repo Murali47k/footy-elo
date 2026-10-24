@@ -1,0 +1,86 @@
+{
+  "season": "2024/2025",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Barcelona"
+    },
+    {
+      "position": 2,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 3,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 4,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 5,
+      "team": "Villarreal"
+    },
+    {
+      "position": 6,
+      "team": "Real Betis"
+    },
+    {
+      "position": 7,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 8,
+      "team": "Rayo Vallecano"
+    },
+    {
+      "position": 9,
+      "team": "Osasuna"
+    },
+    {
+      "position": 10,
+      "team": "Mallorca"
+    },
+    {
+      "position": 11,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 12,
+      "team": "Valencia"
+    },
+    {
+      "position": 13,
+      "team": "Getafe"
+    },
+    {
+      "position": 14,
+      "team": "Espanyol"
+    },
+    {
+      "position": 15,
+      "team": "Deportivo Alavés"
+    },
+    {
+      "position": 16,
+      "team": "Girona"
+    },
+    {
+      "position": 17,
+      "team": "Sevilla"
+    },
+    {
+      "position": 18,
+      "team": "Leganés"
+    },
+    {
+      "position": 19,
+      "team": "Las Palmas"
+    },
+    {
+      "position": 20,
+      "team": "Real Valladolid"
+    }
+  ]
+}

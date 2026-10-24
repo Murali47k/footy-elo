@@ -1,0 +1,78 @@
+{
+  "season": "2023/2024",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 2,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 3,
+      "team": "Bayern München"
+    },
+    {
+      "position": 4,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 5,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 6,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 7,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 8,
+      "team": "FC Heidenheim"
+    },
+    {
+      "position": 9,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 10,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 11,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 12,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 13,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 14,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 15,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 16,
+      "team": "Bochum"
+    },
+    {
+      "position": 17,
+      "team": "1. FC Köln"
+    },
+    {
+      "position": 18,
+      "team": "Darmstadt"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2018/2019",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Liverpool",
+    "final": "Tottenham Hotspur",
+    "semi": [
+      "Ajax",
+      "Barcelona"
+    ],
+    "quarter": [
+      "Manchester City",
+      "Juventus",
+      "Manchester United",
+      "FC Porto"
+    ],
+    "r16": [
+      "Borussia Dortmund",
+      "Schalke 04",
+      "Real Madrid",
+      "Atletico Madrid",
+      "Paris Saint-Germain",
+      "Lyon",
+      "Bayern München",
+      "Roma"
+    ]
+  }
+}

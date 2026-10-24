@@ -1,0 +1,86 @@
+{
+  "season": "2018/2019",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Manchester City"
+    },
+    {
+      "position": 2,
+      "team": "Liverpool"
+    },
+    {
+      "position": 3,
+      "team": "Chelsea"
+    },
+    {
+      "position": 4,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 5,
+      "team": "Arsenal"
+    },
+    {
+      "position": 6,
+      "team": "Manchester United"
+    },
+    {
+      "position": 7,
+      "team": "Wolverhampton Wanderers"
+    },
+    {
+      "position": 8,
+      "team": "Everton"
+    },
+    {
+      "position": 9,
+      "team": "Leicester City"
+    },
+    {
+      "position": 10,
+      "team": "West Ham United"
+    },
+    {
+      "position": 11,
+      "team": "Watford"
+    },
+    {
+      "position": 12,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 13,
+      "team": "Newcastle United"
+    },
+    {
+      "position": 14,
+      "team": "Bournemouth"
+    },
+    {
+      "position": 15,
+      "team": "Burnley"
+    },
+    {
+      "position": 16,
+      "team": "Southampton"
+    },
+    {
+      "position": 17,
+      "team": "Brighton and Hove Albion"
+    },
+    {
+      "position": 18,
+      "team": "Cardiff City"
+    },
+    {
+      "position": 19,
+      "team": "Fulham"
+    },
+    {
+      "position": 20,
+      "team": "Huddersfield Town"
+    }
+  ]
+}

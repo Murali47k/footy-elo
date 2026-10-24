@@ -1,0 +1,86 @@
+{
+  "season": "2020/2021",
+  "league": "Serie A",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Internazionale"
+    },
+    {
+      "position": 2,
+      "team": "Milan"
+    },
+    {
+      "position": 3,
+      "team": "Atalanta"
+    },
+    {
+      "position": 4,
+      "team": "Juventus"
+    },
+    {
+      "position": 5,
+      "team": "Napoli"
+    },
+    {
+      "position": 6,
+      "team": "Lazio"
+    },
+    {
+      "position": 7,
+      "team": "Roma"
+    },
+    {
+      "position": 8,
+      "team": "Sassuolo"
+    },
+    {
+      "position": 9,
+      "team": "Sampdoria"
+    },
+    {
+      "position": 10,
+      "team": "Verona"
+    },
+    {
+      "position": 11,
+      "team": "Genoa"
+    },
+    {
+      "position": 12,
+      "team": "Bologna"
+    },
+    {
+      "position": 13,
+      "team": "Fiorentina"
+    },
+    {
+      "position": 14,
+      "team": "Udinese"
+    },
+    {
+      "position": 15,
+      "team": "Spezia"
+    },
+    {
+      "position": 16,
+      "team": "Cagliari"
+    },
+    {
+      "position": 17,
+      "team": "Torino"
+    },
+    {
+      "position": 18,
+      "team": "Benevento"
+    },
+    {
+      "position": 19,
+      "team": "Crotone"
+    },
+    {
+      "position": 20,
+      "team": "Parma"
+    }
+  ]
+}

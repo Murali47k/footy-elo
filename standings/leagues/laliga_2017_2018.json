@@ -1,0 +1,86 @@
+{
+  "season": "2017/2018",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Barcelona"
+    },
+    {
+      "position": 2,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 3,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 4,
+      "team": "Valencia"
+    },
+    {
+      "position": 5,
+      "team": "Villarreal"
+    },
+    {
+      "position": 6,
+      "team": "Real Betis"
+    },
+    {
+      "position": 7,
+      "team": "Sevilla"
+    },
+    {
+      "position": 8,
+      "team": "Getafe"
+    },
+    {
+      "position": 9,
+      "team": "Eibar"
+    },
+    {
+      "position": 10,
+      "team": "Girona"
+    },
+    {
+      "position": 11,
+      "team": "Espanyol"
+    },
+    {
+      "position": 12,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 13,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 14,
+      "team": "Deportivo Alavés"
+    },
+    {
+      "position": 15,
+      "team": "Levante"
+    },
+    {
+      "position": 16,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 17,
+      "team": "Leganés"
+    },
+    {
+      "position": 18,
+      "team": "Deportivo A Coruña"
+    },
+    {
+      "position": 19,
+      "team": "Las Palmas"
+    },
+    {
+      "position": 20,
+      "team": "Málaga"
+    }
+  ]
+}

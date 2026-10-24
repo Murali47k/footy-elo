@@ -1,0 +1,86 @@
+{
+  "season": "2021/2022",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Manchester City"
+    },
+    {
+      "position": 2,
+      "team": "Liverpool"
+    },
+    {
+      "position": 3,
+      "team": "Chelsea"
+    },
+    {
+      "position": 4,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 5,
+      "team": "Arsenal"
+    },
+    {
+      "position": 6,
+      "team": "Manchester United"
+    },
+    {
+      "position": 7,
+      "team": "West Ham United"
+    },
+    {
+      "position": 8,
+      "team": "Leicester City"
+    },
+    {
+      "position": 9,
+      "team": "Brighton and Hove Albion"
+    },
+    {
+      "position": 10,
+      "team": "Wolverhampton Wanderers"
+    },
+    {
+      "position": 11,
+      "team": "Newcastle United"
+    },
+    {
+      "position": 12,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 13,
+      "team": "Brentford"
+    },
+    {
+      "position": 14,
+      "team": "Aston Villa"
+    },
+    {
+      "position": 15,
+      "team": "Southampton"
+    },
+    {
+      "position": 16,
+      "team": "Everton"
+    },
+    {
+      "position": 17,
+      "team": "Leeds United"
+    },
+    {
+      "position": 18,
+      "team": "Burnley"
+    },
+    {
+      "position": 19,
+      "team": "Watford"
+    },
+    {
+      "position": 20,
+      "team": "Norwich City"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "season": "2021/2022",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 3,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 4,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 5,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 6,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 7,
+      "team": "1. FC Köln"
+    },
+    {
+      "position": 8,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 9,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 10,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 11,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 12,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 13,
+      "team": "Bochum"
+    },
+    {
+      "position": 14,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 15,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 16,
+      "team": "Hertha BSC"
+    },
+    {
+      "position": 17,
+      "team": "Arminia Bielefeld"
+    },
+    {
+      "position": 18,
+      "team": "Greuther Fürth"
+    }
+  ]
+}

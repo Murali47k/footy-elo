@@ -1,0 +1,28 @@
+{
+  "season": "2024/2025",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Tottenham Hotspur",
+    "final": "Manchester United",
+    "semi": [
+      "Bodø/Glimt",
+      "Athletic Club"
+    ],
+    "quarter": [
+      "Eintracht Frankfurt",
+      "Lazio",
+      "Rangers",
+      "Lyon"
+    ],
+    "r16": [
+      "AZ Alkmaar",
+      "Ajax",
+      "Olympiakos",
+      "Viktoria Plzeň",
+      "Fenerbahçe",
+      "Roma",
+      "FCSB",
+      "Real Sociedad"
+    ]
+  }
+}

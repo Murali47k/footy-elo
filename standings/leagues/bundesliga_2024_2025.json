@@ -1,0 +1,78 @@
+{
+  "season": "2024/2025",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 3,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 4,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 5,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 6,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 7,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 8,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 9,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 10,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 11,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 12,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 13,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 14,
+      "team": "St. Pauli"
+    },
+    {
+      "position": 15,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 16,
+      "team": "FC Heidenheim"
+    },
+    {
+      "position": 17,
+      "team": "Holstein Kiel"
+    },
+    {
+      "position": 18,
+      "team": "Bochum"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "season": "2021/2022",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Eintracht Frankfurt",
+    "final": "Rangers",
+    "semi": [
+      "West Ham United",
+      "RB Leipzig"
+    ],
+    "quarter": [
+      "Lyon",
+      "Barcelona",
+      "Atalanta",
+      "Braga"
+    ],
+    "r16": [
+      "Sevilla",
+      "FC Porto",
+      "Real Betis",
+      "Galatasaray",
+      "Bayer 04 Leverkusen",
+      "Monaco",
+      "FK Crvena Zvezda"
+    ]
+  }
+}

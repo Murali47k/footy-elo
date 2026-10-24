@@ -1,0 +1,28 @@
+{
+  "season": "2020/2021",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Villarreal",
+    "final": "Manchester United",
+    "semi": [
+      "Arsenal",
+      "Roma"
+    ],
+    "quarter": [
+      "Dinamo Zagreb",
+      "Slavia Prague",
+      "Granada",
+      "Ajax"
+    ],
+    "r16": [
+      "Tottenham Hotspur",
+      "Dynamo Kyiv",
+      "Olympiakos",
+      "Rangers",
+      "Molde",
+      "Milan",
+      "Young Boys",
+      "Shakhtar Donetsk"
+    ]
+  }
+}

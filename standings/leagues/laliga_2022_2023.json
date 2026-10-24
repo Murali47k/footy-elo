@@ -1,0 +1,86 @@
+{
+  "season": "2022/2023",
+  "league": "La Liga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Barcelona"
+    },
+    {
+      "position": 2,
+      "team": "Real Madrid"
+    },
+    {
+      "position": 3,
+      "team": "Atlético Madrid"
+    },
+    {
+      "position": 4,
+      "team": "Real Sociedad"
+    },
+    {
+      "position": 5,
+      "team": "Villarreal"
+    },
+    {
+      "position": 6,
+      "team": "Real Betis"
+    },
+    {
+      "position": 7,
+      "team": "Osasuna"
+    },
+    {
+      "position": 8,
+      "team": "Athletic Club"
+    },
+    {
+      "position": 9,
+      "team": "Mallorca"
+    },
+    {
+      "position": 10,
+      "team": "Girona"
+    },
+    {
+      "position": 11,
+      "team": "Rayo Vallecano"
+    },
+    {
+      "position": 12,
+      "team": "Sevilla"
+    },
+    {
+      "position": 13,
+      "team": "Celta de Vigo"
+    },
+    {
+      "position": 14,
+      "team": "Cádiz"
+    },
+    {
+      "position": 15,
+      "team": "Getafe"
+    },
+    {
+      "position": 16,
+      "team": "Valencia"
+    },
+    {
+      "position": 17,
+      "team": "Almería"
+    },
+    {
+      "position": 18,
+      "team": "Real Valladolid"
+    },
+    {
+      "position": 19,
+      "team": "Espanyol"
+    },
+    {
+      "position": 20,
+      "team": "Elche"
+    }
+  ]
+}

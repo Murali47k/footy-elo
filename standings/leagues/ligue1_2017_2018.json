@@ -1,0 +1,86 @@
+{
+  "season": "2017/2018",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 2,
+      "team": "Monaco"
+    },
+    {
+      "position": 3,
+      "team": "Lyon"
+    },
+    {
+      "position": 4,
+      "team": "Marseille"
+    },
+    {
+      "position": 5,
+      "team": "Rennes"
+    },
+    {
+      "position": 6,
+      "team": "Bordeaux"
+    },
+    {
+      "position": 7,
+      "team": "Saint-Étienne"
+    },
+    {
+      "position": 8,
+      "team": "Nice"
+    },
+    {
+      "position": 9,
+      "team": "Nantes"
+    },
+    {
+      "position": 10,
+      "team": "Montpellier"
+    },
+    {
+      "position": 11,
+      "team": "Dijon"
+    },
+    {
+      "position": 12,
+      "team": "Guingamp"
+    },
+    {
+      "position": 13,
+      "team": "Amiens"
+    },
+    {
+      "position": 14,
+      "team": "Angers"
+    },
+    {
+      "position": 15,
+      "team": "Strasbourg"
+    },
+    {
+      "position": 16,
+      "team": "Caen"
+    },
+    {
+      "position": 17,
+      "team": "Lille"
+    },
+    {
+      "position": 18,
+      "team": "Toulouse"
+    },
+    {
+      "position": 19,
+      "team": "Troyes"
+    },
+    {
+      "position": 20,
+      "team": "Metz"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2017/2018",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Atletico Madrid",
+    "final": "Marseille",
+    "semi": [
+      "Salzburg",
+      "Arsenal"
+    ],
+    "quarter": [
+      "RB Leipzig",
+      "Lazio",
+      "CSKA Moscow",
+      "Sporting Lisbon"
+    ],
+    "r16": [
+      "Zenit St. Petersburg",
+      "Athletic Club",
+      "Dynamo Kyiv",
+      "Borussia Dortmund",
+      "Milan",
+      "Lyon",
+      "Lokomotiv Moscow",
+      "Viktoria Plzen"
+    ]
+  }
+}

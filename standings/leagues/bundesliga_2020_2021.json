@@ -1,0 +1,78 @@
+{
+  "season": "2020/2021",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 3,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 4,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 5,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 6,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 7,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 8,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 9,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 10,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 11,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 12,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 13,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 14,
+      "team": "Hertha BSC"
+    },
+    {
+      "position": 15,
+      "team": "Arminia Bielefeld"
+    },
+    {
+      "position": 16,
+      "team": "1. FC Köln"
+    },
+    {
+      "position": 17,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 18,
+      "team": "Schalke 04"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "season": "2025/2026",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Paris Saint-Germain",
+    "final": "Arsenal",
+    "semi": [
+      "Bayern München",
+      "Atlético Madrid"
+    ],
+    "quarter": [
+      "Liverpool",
+      "Real Madrid",
+      "Barcelona",
+      "Sporting Lisbon"
+    ],
+    "r16": [
+      "Chelsea",
+      "Galatasaray",
+      "Manchester City",
+      "Atalanta",
+      "Newcastle United",
+      "Tottenham Hotspur",
+      "Bodø/Glimt",
+      "Bayer 04 Leverkusen"
+    ]
+  }
+}

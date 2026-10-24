@@ -1,0 +1,28 @@
+{
+  "season": "2021/2022",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Real Madrid",
+    "final": "Liverpool",
+    "semi": [
+      "Villarreal",
+      "Manchester City"
+    ],
+    "quarter": [
+      "Benfica",
+      "Bayern München",
+      "Atletico Madrid",
+      "Chelsea"
+    ],
+    "r16": [
+      "Ajax",
+      "Internazionale",
+      "Juventus",
+      "Salzburg",
+      "Sporting Lisbon",
+      "Manchester United",
+      "Lille",
+      "Paris Saint-Germain"
+    ]
+  }
+}

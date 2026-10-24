@@ -1,0 +1,86 @@
+{
+  "season": "2021/2022",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 2,
+      "team": "Marseille"
+    },
+    {
+      "position": 3,
+      "team": "Monaco"
+    },
+    {
+      "position": 4,
+      "team": "Rennes"
+    },
+    {
+      "position": 5,
+      "team": "Nice"
+    },
+    {
+      "position": 6,
+      "team": "Strasbourg"
+    },
+    {
+      "position": 7,
+      "team": "Lens"
+    },
+    {
+      "position": 8,
+      "team": "Lyon"
+    },
+    {
+      "position": 9,
+      "team": "Nantes"
+    },
+    {
+      "position": 10,
+      "team": "Lille"
+    },
+    {
+      "position": 11,
+      "team": "Brest"
+    },
+    {
+      "position": 12,
+      "team": "Reims"
+    },
+    {
+      "position": 13,
+      "team": "Montpellier"
+    },
+    {
+      "position": 14,
+      "team": "Angers"
+    },
+    {
+      "position": 15,
+      "team": "Troyes"
+    },
+    {
+      "position": 16,
+      "team": "Lorient"
+    },
+    {
+      "position": 17,
+      "team": "Clermont Foot"
+    },
+    {
+      "position": 18,
+      "team": "Saint-Étienne"
+    },
+    {
+      "position": 19,
+      "team": "Metz"
+    },
+    {
+      "position": 20,
+      "team": "Bordeaux"
+    }
+  ]
+}

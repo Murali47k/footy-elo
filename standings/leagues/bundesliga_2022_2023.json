@@ -1,0 +1,78 @@
+{
+  "season": "2022/2023",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 3,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 4,
+      "team": "1. FC Union Berlin"
+    },
+    {
+      "position": 5,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 6,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 7,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 8,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 9,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 10,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 11,
+      "team": "1. FC Köln"
+    },
+    {
+      "position": 12,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 13,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 14,
+      "team": "Bochum"
+    },
+    {
+      "position": 15,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 16,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 17,
+      "team": "Schalke 04"
+    },
+    {
+      "position": 18,
+      "team": "Hertha BSC"
+    }
+  ]
+}

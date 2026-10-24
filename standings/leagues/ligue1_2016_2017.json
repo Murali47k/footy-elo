@@ -1,0 +1,86 @@
+{
+  "season": "2016/2017",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Monaco"
+    },
+    {
+      "position": 2,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 3,
+      "team": "Nice"
+    },
+    {
+      "position": 4,
+      "team": "Lyon"
+    },
+    {
+      "position": 5,
+      "team": "Marseille"
+    },
+    {
+      "position": 6,
+      "team": "Bordeaux"
+    },
+    {
+      "position": 7,
+      "team": "Nantes"
+    },
+    {
+      "position": 8,
+      "team": "Saint-Étienne"
+    },
+    {
+      "position": 9,
+      "team": "Rennes"
+    },
+    {
+      "position": 10,
+      "team": "Guingamp"
+    },
+    {
+      "position": 11,
+      "team": "Lille"
+    },
+    {
+      "position": 12,
+      "team": "Angers"
+    },
+    {
+      "position": 13,
+      "team": "Toulouse"
+    },
+    {
+      "position": 14,
+      "team": "Metz"
+    },
+    {
+      "position": 15,
+      "team": "Montpellier"
+    },
+    {
+      "position": 16,
+      "team": "Dijon"
+    },
+    {
+      "position": 17,
+      "team": "Caen"
+    },
+    {
+      "position": 18,
+      "team": "Lorient"
+    },
+    {
+      "position": 19,
+      "team": "Nancy"
+    },
+    {
+      "position": 20,
+      "team": "SC Bastia"
+    }
+  ]
+}

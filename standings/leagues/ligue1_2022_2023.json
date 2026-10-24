@@ -1,0 +1,86 @@
+{
+  "season": "2022/2023",
+  "league": "Ligue 1",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Paris Saint-Germain"
+    },
+    {
+      "position": 2,
+      "team": "Lens"
+    },
+    {
+      "position": 3,
+      "team": "Marseille"
+    },
+    {
+      "position": 4,
+      "team": "Rennes"
+    },
+    {
+      "position": 5,
+      "team": "Lille"
+    },
+    {
+      "position": 6,
+      "team": "Monaco"
+    },
+    {
+      "position": 7,
+      "team": "Lyon"
+    },
+    {
+      "position": 8,
+      "team": "Clermont Foot"
+    },
+    {
+      "position": 9,
+      "team": "Nice"
+    },
+    {
+      "position": 10,
+      "team": "Lorient"
+    },
+    {
+      "position": 11,
+      "team": "Reims"
+    },
+    {
+      "position": 12,
+      "team": "Montpellier"
+    },
+    {
+      "position": 13,
+      "team": "Toulouse"
+    },
+    {
+      "position": 14,
+      "team": "Brest"
+    },
+    {
+      "position": 15,
+      "team": "Strasbourg"
+    },
+    {
+      "position": 16,
+      "team": "Nantes"
+    },
+    {
+      "position": 17,
+      "team": "Auxerre"
+    },
+    {
+      "position": 18,
+      "team": "AC Ajaccio"
+    },
+    {
+      "position": 19,
+      "team": "Troyes"
+    },
+    {
+      "position": 20,
+      "team": "Angers"
+    }
+  ]
+}

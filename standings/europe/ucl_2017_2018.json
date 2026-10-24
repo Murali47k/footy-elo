@@ -1,0 +1,28 @@
+{
+  "season": "2017/2018",
+  "competition": "Champions League",
+  "results": {
+    "winner": "Real Madrid",
+    "final": "Liverpool",
+    "semi": [
+      "Bayern München",
+      "Roma"
+    ],
+    "quarter": [
+      "Sevilla",
+      "Juventus",
+      "Manchester City",
+      "Barcelona"
+    ],
+    "r16": [
+      "Manchester United",
+      "Beşiktaş",
+      "Tottenham Hotspur",
+      "Paris Saint-Germain",
+      "FC Porto",
+      "Basel",
+      "Chelsea",
+      "Shakhtar Donetsk"
+    ]
+  }
+}

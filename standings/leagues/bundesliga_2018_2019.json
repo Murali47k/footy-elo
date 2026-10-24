@@ -1,0 +1,78 @@
+{
+  "season": "2018/2019",
+  "league": "Bundesliga",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Bayern München"
+    },
+    {
+      "position": 2,
+      "team": "Borussia Dortmund"
+    },
+    {
+      "position": 3,
+      "team": "RB Leipzig"
+    },
+    {
+      "position": 4,
+      "team": "Bayer 04 Leverkusen"
+    },
+    {
+      "position": 5,
+      "team": "Borussia Mönchengladbach"
+    },
+    {
+      "position": 6,
+      "team": "Wolfsburg"
+    },
+    {
+      "position": 7,
+      "team": "Eintracht Frankfurt"
+    },
+    {
+      "position": 8,
+      "team": "SV Werder Bremen"
+    },
+    {
+      "position": 9,
+      "team": "TSG 1899 Hoffenheim"
+    },
+    {
+      "position": 10,
+      "team": "Fortuna Düsseldorf"
+    },
+    {
+      "position": 11,
+      "team": "Hertha BSC"
+    },
+    {
+      "position": 12,
+      "team": "1. FSV Mainz 05"
+    },
+    {
+      "position": 13,
+      "team": "Sport-Club Freiburg"
+    },
+    {
+      "position": 14,
+      "team": "Schalke 04"
+    },
+    {
+      "position": 15,
+      "team": "FC Augsburg"
+    },
+    {
+      "position": 16,
+      "team": "VfB Stuttgart"
+    },
+    {
+      "position": 17,
+      "team": "Hannover 96"
+    },
+    {
+      "position": 18,
+      "team": "1. FC Nürnberg"
+    }
+  ]
+}

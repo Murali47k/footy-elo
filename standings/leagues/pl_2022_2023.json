@@ -1,0 +1,86 @@
+{
+  "season": "2022/2023",
+  "league": "Premier League",
+  "standings": [
+    {
+      "position": 1,
+      "team": "Manchester City"
+    },
+    {
+      "position": 2,
+      "team": "Arsenal"
+    },
+    {
+      "position": 3,
+      "team": "Manchester United"
+    },
+    {
+      "position": 4,
+      "team": "Newcastle United"
+    },
+    {
+      "position": 5,
+      "team": "Liverpool"
+    },
+    {
+      "position": 6,
+      "team": "Brighton and Hove Albion"
+    },
+    {
+      "position": 7,
+      "team": "Aston Villa"
+    },
+    {
+      "position": 8,
+      "team": "Tottenham Hotspur"
+    },
+    {
+      "position": 9,
+      "team": "Brentford"
+    },
+    {
+      "position": 10,
+      "team": "Fulham"
+    },
+    {
+      "position": 11,
+      "team": "Crystal Palace"
+    },
+    {
+      "position": 12,
+      "team": "Chelsea"
+    },
+    {
+      "position": 13,
+      "team": "Wolverhampton Wanderers"
+    },
+    {
+      "position": 14,
+      "team": "West Ham United"
+    },
+    {
+      "position": 15,
+      "team": "Bournemouth"
+    },
+    {
+      "position": 16,
+      "team": "Nottingham Forest"
+    },
+    {
+      "position": 17,
+      "team": "Everton"
+    },
+    {
+      "position": 18,
+      "team": "Leicester City"
+    },
+    {
+      "position": 19,
+      "team": "Leeds United"
+    },
+    {
+      "position": 20,
+      "team": "Southampton"
+    }
+  ]
+}

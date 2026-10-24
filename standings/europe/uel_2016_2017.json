@@ -1,0 +1,28 @@
+{
+  "season": "2016/2017",
+  "competition": "Europa League",
+  "results": {
+    "winner": "Manchester United",
+    "final": "Ajax",
+    "semi": [
+      "Lyon",
+      "Celta de Vigo"
+    ],
+    "quarter": [
+      "Schalke 04",
+      "Beşiktaş",
+      "Genk",
+      "RSC Anderlecht"
+    ],
+    "r16": [
+      "FC København",
+      "Borussia Mönchengladbach",
+      "Roma",
+      "Olympiakos",
+      "FC Krasnodar",
+      "Gent",
+      "APOEL Nicosia",
+      "FC Rostov"
+    ]
+  }
+}
