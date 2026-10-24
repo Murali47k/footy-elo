@@ -78,7 +78,7 @@ STAT_WEIGHTS = {
     },
     "ATT": {
         "Top scorer": 1.5,
-        "Assists": 1.0,
+        "Assists": 0.8,
         "Fouls committed per 90": -0.9,
         "Yellow cards": -1.5,
         "Red cards": -2.0,

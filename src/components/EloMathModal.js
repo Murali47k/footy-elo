@@ -7,7 +7,7 @@ const STAT_WEIGHTS_DATA = {
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+1.5', desc: 'Primary output metric for attackers' },
       { stat: 'Successful dribbles per 90', weight: '+0.7', desc: 'Take-on success & ball carrying under pressure' },
-      { stat: 'Assists', weight: '+1.0', desc: 'Direct goal creation' },
+      { stat: 'Assists', weight: '+0.8', desc: 'Direct goal creation' },
       { stat: 'Shots on target per 90', weight: '+0.8', desc: 'Target testing & offensive threat volume' },
       { stat: 'Expected goals (xG)', weight: '+0.2', desc: 'Quality of chances arrived at' },
       { stat: 'Expected assist (xA)', weight: '+0.2', desc: 'Shot-creating pass quality' },
