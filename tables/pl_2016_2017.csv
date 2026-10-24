@@ -1,481 +1,481 @@
 ParticipantName,TeamName,Position,Accurate long balls per 90,Accurate passes per 90,Assists,Big chances created,Big chances missed,Blocks per 90,Chances created,Clean sheets,Clearances per 90,Fouls committed per 90,Goals conceded per 90,Goals per 90,Interceptions per 90,Penalties conceded,Penalties won,Possession won final 3rd per 90,Red cards,Save percentage,Saves per 90,Shots on target per 90,Successful dribbles per 90,Successful tackles per 90,Top scorer,Yellow cards
-Aaron Cresswell,West Ham United,DEF,2.4,24.3,2.0,4.0,1.0,0.3,17.0,,2.6,0.5,,,1.1,,,0.1,1.0,,,0.1,0.4,0.9,,2.0
-Aaron Lennon,Everton,MID,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,
-Aaron Ramsey,Arsenal,ATT,1.9,59.5,4.0,7.0,2.0,0.2,23.0,,1.0,1.1,,0.07,0.8,,,0.7,,,,0.9,1.5,1.5,1.0,3.0
-Abdoulaye Doucouré,Watford,MID,1.6,48.0,,,1.0,0.3,12.0,,1.5,0.8,,0.07,1.4,,,0.7,,,,0.5,0.9,1.1,1.0,4.0
-Abel Hernández,Hull City,ATT,0.1,11.5,3.0,1.0,2.0,,13.0,,0.2,1.2,,0.25,0.2,,,0.4,,,,1.1,0.1,0.4,4.0,
-Adam Clayton,Middlesbrough,MID,3.6,40.6,2.0,1.0,,0.7,20.0,,1.3,1.7,,,2.1,,,0.1,,,,0.1,0.6,2.5,,10.0
+Aaron Cresswell,West Ham United,LWB,2.4,24.3,2.0,4.0,1.0,0.3,17.0,,2.6,0.5,,,1.1,,,0.1,1.0,,,0.1,0.4,0.9,,2.0
+Aaron Lennon,Everton,LM,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,
+Aaron Ramsey,Arsenal,CAM,1.9,59.5,4.0,7.0,2.0,0.2,23.0,,1.0,1.1,,0.07,0.8,,,0.7,,,,0.9,1.5,1.5,1.0,3.0
+Abdoulaye Doucouré,Watford,CDM,1.6,48.0,,,1.0,0.3,12.0,,1.5,0.8,,0.07,1.4,,,0.7,,,,0.5,0.9,1.1,1.0,4.0
+Abel Hernández,Hull City,CF,0.1,11.5,3.0,1.0,2.0,,13.0,,0.2,1.2,,0.25,0.2,,,0.4,,,,1.1,0.1,0.4,4.0,
+Adam Clayton,Middlesbrough,CDM,3.6,40.6,2.0,1.0,,0.7,20.0,,1.3,1.7,,,2.1,,,0.1,,,,0.1,0.6,2.5,,10.0
 Adam Federici,Bournemouth,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,1.0
-Adam Forshaw,Middlesbrough,MID,3.3,39.8,1.0,3.0,2.0,0.1,28.0,,0.7,1.1,,,1.2,,1.0,0.2,,,,0.2,0.7,2.1,,4.0
-Adam Lallana,Liverpool,MID,1.1,45.5,7.0,4.0,2.0,0.1,42.0,,0.8,0.7,,0.31,0.8,,,0.7,,,,0.8,1.3,2.0,8.0,3.0
-Adam Smith,Bournemouth,DEF,1.1,35.8,5.0,8.0,1.0,0.4,30.0,,2.0,1.3,,0.03,1.6,2.0,,0.5,,,,0.2,1.0,2.5,1.0,6.0
-Adama Diomande,Hull City,ATT,0.5,19.4,,,2.0,0.2,13.0,,0.5,1.5,,0.15,0.5,,,0.5,,,,0.5,1.7,1.9,2.0,1.0
-Adama Traoré,Middlesbrough,ATT,0.7,15.1,1.0,1.0,1.0,0.1,18.0,,0.3,1.2,,,0.4,,,0.5,,,,0.1,8.0,1.8,,1.0
-Ademola Lookman,Everton,ATT,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,
-Adlene Guédioura,Middlesbrough,MID,,,1.0,1.0,,,8.0,,,,,,,,,,,,,,,,,2.0
-Adnan Januzaj,Sunderland,ATT,0.8,13.9,3.0,1.0,,0.1,34.0,,1.0,1.4,,,0.5,,,0.4,1.0,,,0.4,3.1,0.9,,3.0
-Adrian Mariappa,Watford,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Adam Forshaw,Middlesbrough,CDM,3.3,39.8,1.0,3.0,2.0,0.1,28.0,,0.7,1.1,,,1.2,,1.0,0.2,,,,0.2,0.7,2.1,,4.0
+Adam Lallana,Liverpool,CM,1.1,45.5,7.0,4.0,2.0,0.1,42.0,,0.8,0.7,,0.31,0.8,,,0.7,,,,0.8,1.3,2.0,8.0,3.0
+Adam Smith,Bournemouth,RWB,1.1,35.8,5.0,8.0,1.0,0.4,30.0,,2.0,1.3,,0.03,1.6,2.0,,0.5,,,,0.2,1.0,2.5,1.0,6.0
+Adama Diomande,Hull City,ST,0.5,19.4,,,2.0,0.2,13.0,,0.5,1.5,,0.15,0.5,,,0.5,,,,0.5,1.7,1.9,2.0,1.0
+Adama Traoré,Middlesbrough,RW,0.7,15.1,1.0,1.0,1.0,0.1,18.0,,0.3,1.2,,,0.4,,,0.5,,,,0.1,8.0,1.8,,1.0
+Ademola Lookman,Everton,LAM,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,
+Adlene Guédioura,Middlesbrough,CDM,,,1.0,1.0,,,8.0,,,,,,,,,,,,,,,,,2.0
+Adnan Januzaj,Sunderland,CF,0.8,13.9,3.0,1.0,,0.1,34.0,,1.0,1.4,,,0.5,,,0.4,1.0,,,0.4,3.1,0.9,,3.0
+Adrian Mariappa,Watford,LB,,,,,,,1.0,,,,,,,,,,,,,,,,,
 Adrián,West Ham United,GK,,,,,,,1.0,6.0,,,,,,,,,,,,,,,,1.0
-Ahmed El Mohamady,Hull City,DEF,2.5,37.7,2.0,2.0,,0.3,26.0,,3.1,0.8,,,1.7,1.0,,0.1,1.0,,,0.1,0.4,1.5,,3.0
-Ahmed Musa,Leicester City,ATT,0.6,17.5,,2.0,1.0,,7.0,,0.2,1.6,,0.24,1.1,,,0.7,,,,0.7,1.7,1.6,2.0,1.0
-Albert Adomah,Middlesbrough,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Alberto Moreno,Liverpool,DEF,,,1.0,,,,5.0,,,,,,,1.0,,,,,,,,,,1.0
-Aleix García,Manchester City,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Aleksandar Kolarov,Manchester City,DEF,4.3,55.8,1.0,1.0,,0.4,15.0,,5.4,1.2,,0.04,1.6,,,0.2,,,,0.4,0.8,1.6,1.0,6.0
-Alex Iwobi,Arsenal,MID,1.2,48.3,3.0,2.0,2.0,0.2,26.0,,0.2,0.4,,0.18,0.5,,,1.0,,,,0.7,1.7,1.2,3.0,1.0
-Alex Oxlade-Chamberlain,Arsenal,MID,2.2,36.7,7.0,9.0,3.0,0.1,32.0,,1.3,1.7,,0.12,0.7,,,0.7,,,,0.5,3.5,2.1,2.0,1.0
-Alexis Sánchez,Arsenal,ATT,2.1,33.8,10.0,10.0,8.0,0.0,78.0,,0.1,1.4,,0.67,0.7,,1.0,0.9,,,,1.4,3.0,1.5,24.0,6.0
-Alfie Mawson,Swansea City,DEF,6.0,37.4,,1.0,1.0,1.0,4.0,,6.2,0.4,,0.15,1.1,1.0,,,,,,0.2,0.7,1.0,4.0,1.0
-Alfred N'Diaye,Hull City,MID,,,,,2.0,,4.0,,,,,,,1.0,,,,,,,,,1.0,7.0
-Allan Nyom,West Bromwich Albion,DEF,1.4,17.7,2.0,1.0,,0.3,10.0,,3.3,1.7,,,2.0,1.0,,0.1,,,,0.0,1.0,2.5,,8.0
-Ander Herrera,Manchester United,MID,4.2,66.8,6.0,5.0,1.0,0.3,36.0,,1.8,1.7,,0.04,3.0,,,0.8,1.0,,,0.2,1.1,3.1,1.0,5.0
-Andre Gray,Burnley,ATT,0.2,10.6,3.0,2.0,6.0,0.0,20.0,,0.0,0.7,,0.36,0.2,,,0.8,,,,0.8,0.9,0.4,9.0,2.0
-Andrea Ranocchia,Hull City,DEF,,,2.0,1.0,1.0,,3.0,,,,,,,,,,,,,,,,2.0,2.0
-Andrew Eleftheriou,Watford,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Andrew Robertson,Hull City,DEF,2.6,30.8,2.0,1.0,,0.5,19.0,,2.4,0.6,,0.03,1.8,2.0,,0.2,,,,0.0,0.9,1.8,1.0,5.0
-Andrew Surman,Bournemouth,MID,5.3,57.0,1.0,,,0.2,11.0,,1.7,0.9,,,2.1,,,0.2,1.0,,,0.1,0.6,0.8,,1.0
-Andros Townsend,Crystal Palace,ATT,0.6,18.4,4.0,8.0,2.0,0.1,51.0,,0.6,0.6,,0.11,1.5,,1.0,0.6,,,,0.5,2.4,2.7,3.0,4.0
-André Ayew,West Ham United,ATT,0.5,21.3,3.0,3.0,4.0,,15.0,,0.6,0.9,,0.38,0.6,,,0.4,,,,0.8,0.8,1.1,6.0,1.0
-Andy Carroll,West Ham United,ATT,,,1.0,3.0,1.0,,14.0,,,,,,,,,,,,,,,,7.0,3.0
-Andy King,Leicester City,MID,2.1,31.8,,,,0.7,6.0,,1.9,1.1,,0.06,1.7,,,0.3,,,,0.4,0.2,2.4,1.0,4.0
-Angelo Ogbonna,West Ham United,DEF,2.6,33.5,,,,0.7,6.0,,4.7,0.7,,,1.9,1.0,,0.1,,,,0.1,0.2,1.4,,2.0
-Anthony Martial,Manchester United,ATT,0.8,28.5,6.0,7.0,1.0,0.1,25.0,,0.5,1.5,,0.23,0.5,,,0.7,,,,1.0,2.5,1.0,4.0,2.0
-Antonio Barragan,Middlesbrough,DEF,2.5,33.6,,1.0,,0.5,9.0,,2.5,1.1,,,2.4,,,0.0,,,,,0.7,3.0,,5.0
-Antonio Valencia,Manchester United,ATT,1.8,42.6,3.0,3.0,1.0,0.3,31.0,,2.0,1.2,,0.04,1.5,,,0.4,,,,0.1,1.3,2.4,1.0,5.0
-Arouna Koné,Everton,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Arthur Masuaku,West Ham United,DEF,,,1.0,1.0,,,7.0,,,,,,,1.0,,,,,,,,,,1.0
+Ahmed El Mohamady,Hull City,RWB,2.5,37.7,2.0,2.0,,0.3,26.0,,3.1,0.8,,,1.7,1.0,,0.1,1.0,,,0.1,0.4,1.5,,3.0
+Ahmed Musa,Leicester City,LW,0.6,17.5,,2.0,1.0,,7.0,,0.2,1.6,,0.24,1.1,,,0.7,,,,0.7,1.7,1.6,2.0,1.0
+Albert Adomah,Middlesbrough,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Alberto Moreno,Liverpool,LWB,,,1.0,,,,5.0,,,,,,,1.0,,,,,,,,,,1.0
+Aleix García,Manchester City,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Aleksandar Kolarov,Manchester City,LB,4.3,55.8,1.0,1.0,,0.4,15.0,,5.4,1.2,,0.04,1.6,,,0.2,,,,0.4,0.8,1.6,1.0,6.0
+Alex Iwobi,Arsenal,CDM,1.2,48.3,3.0,2.0,2.0,0.2,26.0,,0.2,0.4,,0.18,0.5,,,1.0,,,,0.7,1.7,1.2,3.0,1.0
+Alex Oxlade-Chamberlain,Arsenal,CDM,2.2,36.7,7.0,9.0,3.0,0.1,32.0,,1.3,1.7,,0.12,0.7,,,0.7,,,,0.5,3.5,2.1,2.0,1.0
+Alexis Sánchez,Arsenal,CF,2.1,33.8,10.0,10.0,8.0,0.0,78.0,,0.1,1.4,,0.67,0.7,,1.0,0.9,,,,1.4,3.0,1.5,24.0,6.0
+Alfie Mawson,Swansea City,CB,6.0,37.4,,1.0,1.0,1.0,4.0,,6.2,0.4,,0.15,1.1,1.0,,,,,,0.2,0.7,1.0,4.0,1.0
+Alfred N'Diaye,Hull City,CM,,,,,2.0,,4.0,,,,,,,1.0,,,,,,,,,1.0,7.0
+Allan Nyom,West Bromwich Albion,RWB,1.4,17.7,2.0,1.0,,0.3,10.0,,3.3,1.7,,,2.0,1.0,,0.1,,,,0.0,1.0,2.5,,8.0
+Ander Herrera,Manchester United,CDM,4.2,66.8,6.0,5.0,1.0,0.3,36.0,,1.8,1.7,,0.04,3.0,,,0.8,1.0,,,0.2,1.1,3.1,1.0,5.0
+Andre Gray,Burnley,ST,0.2,10.6,3.0,2.0,6.0,0.0,20.0,,0.0,0.7,,0.36,0.2,,,0.8,,,,0.8,0.9,0.4,9.0,2.0
+Andrea Ranocchia,Hull City,CB,,,2.0,1.0,1.0,,3.0,,,,,,,,,,,,,,,,2.0,2.0
+Andrew Eleftheriou,Watford,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Andrew Robertson,Hull City,LWB,2.6,30.8,2.0,1.0,,0.5,19.0,,2.4,0.6,,0.03,1.8,2.0,,0.2,,,,0.0,0.9,1.8,1.0,5.0
+Andrew Surman,Bournemouth,CM,5.3,57.0,1.0,,,0.2,11.0,,1.7,0.9,,,2.1,,,0.2,1.0,,,0.1,0.6,0.8,,1.0
+Andros Townsend,Crystal Palace,RW,0.6,18.4,4.0,8.0,2.0,0.1,51.0,,0.6,0.6,,0.11,1.5,,1.0,0.6,,,,0.5,2.4,2.7,3.0,4.0
+André Ayew,West Ham United,CF,0.5,21.3,3.0,3.0,4.0,,15.0,,0.6,0.9,,0.38,0.6,,,0.4,,,,0.8,0.8,1.1,6.0,1.0
+Andy Carroll,West Ham United,ST,,,1.0,3.0,1.0,,14.0,,,,,,,,,,,,,,,,7.0,3.0
+Andy King,Leicester City,CDM,2.1,31.8,,,,0.7,6.0,,1.9,1.1,,0.06,1.7,,,0.3,,,,0.4,0.2,2.4,1.0,4.0
+Angelo Ogbonna,West Ham United,CB,2.6,33.5,,,,0.7,6.0,,4.7,0.7,,,1.9,1.0,,0.1,,,,0.1,0.2,1.4,,2.0
+Anthony Martial,Manchester United,LW,0.8,28.5,6.0,7.0,1.0,0.1,25.0,,0.5,1.5,,0.23,0.5,,,0.7,,,,1.0,2.5,1.0,4.0,2.0
+Antonio Barragan,Middlesbrough,RB,2.5,33.6,,1.0,,0.5,9.0,,2.5,1.1,,,2.4,,,0.0,,,,,0.7,3.0,,5.0
+Antonio Valencia,Manchester United,RW,1.8,42.6,3.0,3.0,1.0,0.3,31.0,,2.0,1.2,,0.04,1.5,,,0.4,,,,0.1,1.3,2.4,1.0,5.0
+Arouna Koné,Everton,ST,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Arthur Masuaku,West Ham United,LWB,,,1.0,1.0,,,7.0,,,,,,,1.0,,,,,,,,,,1.0
 Artur Boruc,Bournemouth,GK,,14.0,,,,,1.0,9.0,0.7,,1.8,,0.0,,,,,64.4,3.3,,0.0,,,2.0
-Ashley Barnes,Burnley,ATT,0.5,12.5,2.0,3.0,2.0,0.4,21.0,,1.3,2.7,,0.3,0.2,,1.0,0.3,1.0,,,1.0,0.3,1.1,6.0,6.0
-Ashley Fletcher,West Ham United,ATT,,,,,1.0,,4.0,,,,,,,,,,,,,,,,,2.0
-Ashley Westwood,Burnley,MID,,,,,,,5.0,,,,,,,,,,,,,,,,,3.0
-Ashley Williams,Everton,DEF,4.7,40.2,3.0,1.0,1.0,0.8,10.0,,7.8,1.1,,0.03,1.6,1.0,1.0,0.0,1.0,,,0.2,0.1,1.5,1.0,7.0
-Ashley Young,Manchester United,DEF,,,1.0,1.0,,,11.0,,,,,,,,,,,,,,,,,2.0
-Axel Tuanzebe,Manchester United,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Bacary Sagna,Manchester City,DEF,,,1.0,1.0,,,8.0,,,,,,,,,,,,,,,,,2.0
-Bakary Sako,Crystal Palace,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Baye Oumar Niasse,Hull City,ATT,,,1.0,1.0,2.0,,10.0,,,,,,,,,,1.0,,,,,,4.0,3.0
-Ben Chilwell,Leicester City,DEF,,,,1.0,,,2.0,,,,,,,,,,,,,,,,1.0,2.0
-Ben Davies,Tottenham Hotspur,DEF,2.3,43.3,3.0,4.0,,0.4,29.0,,3.8,0.7,,0.05,0.6,,,0.1,,,,0.2,0.4,2.0,1.0,1.0
+Ashley Barnes,Burnley,ST,0.5,12.5,2.0,3.0,2.0,0.4,21.0,,1.3,2.7,,0.3,0.2,,1.0,0.3,1.0,,,1.0,0.3,1.1,6.0,6.0
+Ashley Fletcher,West Ham United,CF,,,,,1.0,,4.0,,,,,,,,,,,,,,,,,2.0
+Ashley Westwood,Burnley,CM,,,,,,,5.0,,,,,,,,,,,,,,,,,3.0
+Ashley Williams,Everton,CB,4.7,40.2,3.0,1.0,1.0,0.8,10.0,,7.8,1.1,,0.03,1.6,1.0,1.0,0.0,1.0,,,0.2,0.1,1.5,1.0,7.0
+Ashley Young,Manchester United,RWB,,,1.0,1.0,,,11.0,,,,,,,,,,,,,,,,,2.0
+Axel Tuanzebe,Manchester United,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Bacary Sagna,Manchester City,RWB,,,1.0,1.0,,,8.0,,,,,,,,,,,,,,,,,2.0
+Bakary Sako,Crystal Palace,ST,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Baye Oumar Niasse,Hull City,ST,,,1.0,1.0,2.0,,10.0,,,,,,,,,,1.0,,,,,,4.0,3.0
+Ben Chilwell,Leicester City,LWB,,,,1.0,,,2.0,,,,,,,,,,,,,,,,1.0,2.0
+Ben Davies,Tottenham Hotspur,CB,2.3,43.3,3.0,4.0,,0.4,29.0,,3.8,0.7,,0.05,0.6,,,0.1,,,,0.2,0.4,2.0,1.0,1.0
 Ben Foster,West Bromwich Albion,GK,,11.8,,,,,2.0,6.0,0.6,,1.3,,0.0,,,,,69.5,3.1,,0.0,,,2.0
-Ben Gibson,Middlesbrough,DEF,3.9,37.4,1.0,1.0,,0.8,3.0,,6.1,0.5,,0.03,1.5,,,,,,,0.2,0.4,0.8,1.0,4.0
-Ben Mee,Burnley,DEF,4.2,25.0,,1.0,,1.4,6.0,,8.6,0.7,,0.03,2.2,2.0,1.0,,,,,0.2,0.0,1.4,1.0,5.0
-Ben Watson,Watford,MID,,,,,,,,,,,,,,,,,1.0,,,,,,,
-Benik Afobe,Bournemouth,ATT,0.2,14.5,3.0,2.0,13.0,0.1,23.0,,1.2,1.3,,0.37,0.3,,,0.5,,,,1.1,0.5,0.6,6.0,1.0
-Bernardo,Middlesbrough,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
-Billy Jones,Sunderland,DEF,1.3,19.3,,2.0,2.0,0.6,29.0,,3.7,1.0,,0.04,1.8,,,0.1,,,,0.2,0.4,2.2,1.0,8.0
-Bojan Krkic,Stoke City,ATT,,,,,1.0,,4.0,,,,,,,,1.0,,,,,,,,3.0,1.0
-Borja Bastón,Swansea City,ATT,,,,,3.0,,5.0,,,,,,,,,,,,,,,,1.0,
+Ben Gibson,Middlesbrough,CB,3.9,37.4,1.0,1.0,,0.8,3.0,,6.1,0.5,,0.03,1.5,,,,,,,0.2,0.4,0.8,1.0,4.0
+Ben Mee,Burnley,CB,4.2,25.0,,1.0,,1.4,6.0,,8.6,0.7,,0.03,2.2,2.0,1.0,,,,,0.2,0.0,1.4,1.0,5.0
+Ben Watson,Watford,CM,,,,,,,,,,,,,,,,,1.0,,,,,,,
+Benik Afobe,Bournemouth,CF,0.2,14.5,3.0,2.0,13.0,0.1,23.0,,1.2,1.3,,0.37,0.3,,,0.5,,,,1.1,0.5,0.6,6.0,1.0
+Bernardo,Middlesbrough,CB,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
+Billy Jones,Sunderland,RWB,1.3,19.3,,2.0,2.0,0.6,29.0,,3.7,1.0,,0.04,1.8,,,0.1,,,,0.2,0.4,2.2,1.0,8.0
+Bojan Krkic,Stoke City,LW,,,,,1.0,,4.0,,,,,,,,1.0,,,,,,,,3.0,1.0
+Borja Bastón,Swansea City,CF,,,,,3.0,,5.0,,,,,,,,,,,,,,,,1.0,
 Brad Guzan,Middlesbrough,GK,,,,,,,,3.0,,,,,,1.0,,,,,,,,,,
-Brad Smith,Bournemouth,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Branislav Ivanovic,Chelsea,DEF,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
-Brendan Galloway,West Bromwich Albion,DEF,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,
-Bruno Martins Indi,Stoke City,DEF,2.0,27.7,,,1.0,0.6,2.0,,5.8,0.7,,0.03,1.7,,,0.0,,,,0.2,0.2,1.7,1.0,5.0
-Bryan Oviedo,Sunderland,DEF,,,,1.0,,,10.0,,,,,,,,,,,,,,,,,4.0
-Callum Wilson,Bournemouth,ATT,0.1,9.2,,,2.0,0.2,8.0,,0.1,2.0,,0.4,0.3,,2.0,0.5,,,,0.8,0.5,0.4,6.0,
-Calum Chambers,Middlesbrough,DEF,3.5,35.0,1.0,1.0,,1.0,6.0,,6.9,0.9,,0.08,2.1,1.0,,0.1,,,,0.1,0.4,2.0,2.0,4.0
-Cesc Fàbregas,Chelsea,MID,6.6,76.0,12.0,11.0,,0.1,62.0,,1.1,1.6,,0.34,1.1,,,0.7,,,,0.6,0.8,2.0,5.0,8.0
-Charlie Adam,Stoke City,MID,5.8,36.0,3.0,3.0,1.0,0.4,29.0,,1.4,2.5,,0.06,1.3,,,0.1,,,,0.7,0.7,1.1,1.0,7.0
-Charlie Austin,Southampton,ATT,,,1.0,2.0,3.0,,8.0,,,,,,,,,,,,,,,,6.0,1.0
-Charlie Daniels,Bournemouth,DEF,1.8,38.8,3.0,3.0,,0.4,29.0,,2.0,0.4,,0.12,1.5,1.0,1.0,0.1,,,,0.2,0.9,1.7,4.0,1.0
-Cheikhou Kouyaté,West Ham United,DEF,1.4,29.5,,,,0.2,9.0,,3.4,1.5,,0.03,2.6,1.0,,0.2,,,,0.1,0.9,2.5,1.0,3.0
-Chris Brunt,West Bromwich Albion,MID,3.3,24.2,4.0,6.0,,0.1,40.0,,2.0,0.6,,0.11,1.2,,,0.4,,,,0.4,0.6,1.3,3.0,5.0
-Chris Smalling,Manchester United,DEF,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,1.0,
-Christian Benteke,Crystal Palace,ATT,0.5,15.7,2.0,1.0,12.0,0.0,32.0,,1.3,2.3,,0.43,0.2,,3.0,0.2,,,,1.1,0.8,0.3,15.0,10.0
-Christian Eriksen,Tottenham Hotspur,ATT,3.0,45.1,15.0,16.0,3.0,,112.0,,0.6,0.6,,0.23,0.6,,,0.6,,,,1.3,0.8,1.3,8.0,
-Christian Fuchs,Leicester City,DEF,2.8,27.1,4.0,4.0,1.0,0.4,38.0,,3.8,0.8,,0.06,2.1,,,0.2,,,,0.2,0.4,2.8,2.0,10.0
-Christian Kabasele,Watford,DEF,,,,,,,3.0,,,,,,,,,,,,,,,,2.0,1.0
-Chung-Yong Lee,Crystal Palace,ATT,,,1.0,2.0,,,7.0,,,,,,,,,,,,,,,,,
+Brad Smith,Bournemouth,LM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Branislav Ivanovic,Chelsea,CB,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
+Brendan Galloway,West Bromwich Albion,LWB,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,
+Bruno Martins Indi,Stoke City,CB,2.0,27.7,,,1.0,0.6,2.0,,5.8,0.7,,0.03,1.7,,,0.0,,,,0.2,0.2,1.7,1.0,5.0
+Bryan Oviedo,Sunderland,LWB,,,,1.0,,,10.0,,,,,,,,,,,,,,,,,4.0
+Callum Wilson,Bournemouth,ST,0.1,9.2,,,2.0,0.2,8.0,,0.1,2.0,,0.4,0.3,,2.0,0.5,,,,0.8,0.5,0.4,6.0,
+Calum Chambers,Middlesbrough,CB,3.5,35.0,1.0,1.0,,1.0,6.0,,6.9,0.9,,0.08,2.1,1.0,,0.1,,,,0.1,0.4,2.0,2.0,4.0
+Cesc Fàbregas,Chelsea,CM,6.6,76.0,12.0,11.0,,0.1,62.0,,1.1,1.6,,0.34,1.1,,,0.7,,,,0.6,0.8,2.0,5.0,8.0
+Charlie Adam,Stoke City,CDM,5.8,36.0,3.0,3.0,1.0,0.4,29.0,,1.4,2.5,,0.06,1.3,,,0.1,,,,0.7,0.7,1.1,1.0,7.0
+Charlie Austin,Southampton,LW,,,1.0,2.0,3.0,,8.0,,,,,,,,,,,,,,,,6.0,1.0
+Charlie Daniels,Bournemouth,LWB,1.8,38.8,3.0,3.0,,0.4,29.0,,2.0,0.4,,0.12,1.5,1.0,1.0,0.1,,,,0.2,0.9,1.7,4.0,1.0
+Cheikhou Kouyaté,West Ham United,LB,1.4,29.5,,,,0.2,9.0,,3.4,1.5,,0.03,2.6,1.0,,0.2,,,,0.1,0.9,2.5,1.0,3.0
+Chris Brunt,West Bromwich Albion,CM,3.3,24.2,4.0,6.0,,0.1,40.0,,2.0,0.6,,0.11,1.2,,,0.4,,,,0.4,0.6,1.3,3.0,5.0
+Chris Smalling,Manchester United,CB,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,1.0,
+Christian Benteke,Crystal Palace,CF,0.5,15.7,2.0,1.0,12.0,0.0,32.0,,1.3,2.3,,0.43,0.2,,3.0,0.2,,,,1.1,0.8,0.3,15.0,10.0
+Christian Eriksen,Tottenham Hotspur,CAM,3.0,45.1,15.0,16.0,3.0,,112.0,,0.6,0.6,,0.23,0.6,,,0.6,,,,1.3,0.8,1.3,8.0,
+Christian Fuchs,Leicester City,LWB,2.8,27.1,4.0,4.0,1.0,0.4,38.0,,3.8,0.8,,0.06,2.1,,,0.2,,,,0.2,0.4,2.8,2.0,10.0
+Christian Kabasele,Watford,CB,,,,,,,3.0,,,,,,,,,,,,,,,,2.0,1.0
+Chung-Yong Lee,Crystal Palace,RW,,,1.0,2.0,,,7.0,,,,,,,,,,,,,,,,,
 Claudio Bravo,Manchester City,GK,,22.0,,,,,,5.0,0.8,,1.2,,,,,,,55.9,1.5,,0.1,,,
-Claudio Yacob,West Bromwich Albion,MID,1.9,28.6,,,1.0,0.7,6.0,,2.1,1.5,,,2.0,,,0.1,,,,,0.1,3.5,,9.0
-Connor Wickham,Crystal Palace,ATT,,,,,1.0,,,,,,,,,,,,,,,,,,2.0,1.0
-Craig Cathcart,Watford,DEF,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
-Craig Dawson,West Bromwich Albion,DEF,2.0,17.6,,,1.0,0.8,21.0,,4.0,1.5,,0.11,1.6,,,0.1,,,,0.2,0.3,1.6,4.0,10.0
-Craig Gardner,West Bromwich Albion,MID,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,1.0
-Cristhian Stuani,Middlesbrough,ATT,0.7,17.2,,1.0,2.0,0.2,7.0,,0.9,1.4,,0.26,0.7,,,0.3,,,,0.7,0.8,2.3,4.0,4.0
-Cuco Martina,Southampton,DEF,,,,,,,5.0,,,,,,,,,,,,,,,,,
-Curtis Davies,Hull City,DEF,1.4,29.9,2.0,1.0,1.0,1.5,2.0,,6.8,0.5,,,3.8,1.0,,,,,,0.1,0.2,1.7,,4.0
-Cédric Soares,Southampton,MID,2.8,33.2,3.0,4.0,,0.3,39.0,,2.5,0.8,,,1.2,,,0.1,,,,0.2,0.4,3.0,,7.0
-César Azpilicueta,Chelsea,DEF,3.1,56.4,4.0,1.0,,0.2,22.0,,3.0,0.7,,0.03,1.9,,1.0,0.2,,,,0.2,0.3,2.2,1.0,4.0
-Daley Blind,Manchester United,DEF,3.2,43.9,2.0,3.0,,0.4,27.0,,5.3,0.7,,0.05,2.2,,,0.0,,,,0.1,0.3,2.2,1.0,2.0
-Damien Delaney,Crystal Palace,MID,4.8,28.4,2.0,3.0,,0.9,6.0,,6.2,1.2,,,1.6,1.0,,0.0,,,,0.0,,1.1,,8.0
-Dan Gosling,Bournemouth,MID,3.0,46.3,,1.0,,0.3,10.0,,1.1,1.7,,0.13,2.0,,,0.7,,,,0.3,1.0,3.4,2.0,6.0
-Daniel Amartey,Leicester City,MID,2.1,34.4,1.0,,,0.4,15.0,,1.6,1.6,,0.05,1.4,,,0.3,,,,0.3,0.1,2.2,1.0,3.0
-Daniel Ayala,Middlesbrough,DEF,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,3.0
-Daniel Sturridge,Liverpool,ATT,1.5,24.1,1.0,2.0,3.0,0.1,14.0,,,0.6,,0.35,0.2,,1.0,0.6,,,,2.5,2.0,,3.0,1.0
-Danny Drinkwater,Leicester City,MID,3.9,49.3,1.0,1.0,,0.4,15.0,,1.9,1.7,,0.04,1.4,,,0.5,,,,0.1,0.8,3.1,1.0,6.0
-Danny Rose,Tottenham Hotspur,DEF,,,2.0,1.0,,,26.0,,,,,,,,,,,,,,,,2.0,8.0
-Danny Simpson,Leicester City,DEF,1.9,22.6,2.0,1.0,,0.3,11.0,,3.9,1.1,,,2.0,1.0,,0.1,,,,,0.2,1.5,,12.0
-Danny Welbeck,Arsenal,ATT,,,2.0,2.0,5.0,,5.0,,,,,,,,,,,,,,,,2.0,
-Darren Fletcher,West Bromwich Albion,ATT,2.8,26.1,3.0,3.0,1.0,0.1,24.0,,1.0,0.6,,0.06,1.2,,,0.2,,,,0.2,0.8,1.2,2.0,
+Claudio Yacob,West Bromwich Albion,CDM,1.9,28.6,,,1.0,0.7,6.0,,2.1,1.5,,,2.0,,,0.1,,,,,0.1,3.5,,9.0
+Connor Wickham,Crystal Palace,CF,,,,,1.0,,,,,,,,,,,,,,,,,,2.0,1.0
+Craig Cathcart,Watford,LB,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
+Craig Dawson,West Bromwich Albion,LB,2.0,17.6,,,1.0,0.8,21.0,,4.0,1.5,,0.11,1.6,,,0.1,,,,0.2,0.3,1.6,4.0,10.0
+Craig Gardner,West Bromwich Albion,CDM,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,1.0
+Cristhian Stuani,Middlesbrough,ST,0.7,17.2,,1.0,2.0,0.2,7.0,,0.9,1.4,,0.26,0.7,,,0.3,,,,0.7,0.8,2.3,4.0,4.0
+Cuco Martina,Southampton,RWB,,,,,,,5.0,,,,,,,,,,,,,,,,,
+Curtis Davies,Hull City,CB,1.4,29.9,2.0,1.0,1.0,1.5,2.0,,6.8,0.5,,,3.8,1.0,,,,,,0.1,0.2,1.7,,4.0
+Cédric Soares,Southampton,RM,2.8,33.2,3.0,4.0,,0.3,39.0,,2.5,0.8,,,1.2,,,0.1,,,,0.2,0.4,3.0,,7.0
+César Azpilicueta,Chelsea,RB,3.1,56.4,4.0,1.0,,0.2,22.0,,3.0,0.7,,0.03,1.9,,1.0,0.2,,,,0.2,0.3,2.2,1.0,4.0
+Daley Blind,Manchester United,CB,3.2,43.9,2.0,3.0,,0.4,27.0,,5.3,0.7,,0.05,2.2,,,0.0,,,,0.1,0.3,2.2,1.0,2.0
+Damien Delaney,Crystal Palace,CAM,4.8,28.4,2.0,3.0,,0.9,6.0,,6.2,1.2,,,1.6,1.0,,0.0,,,,0.0,,1.1,,8.0
+Dan Gosling,Bournemouth,CDM,3.0,46.3,,1.0,,0.3,10.0,,1.1,1.7,,0.13,2.0,,,0.7,,,,0.3,1.0,3.4,2.0,6.0
+Daniel Amartey,Leicester City,CDM,2.1,34.4,1.0,,,0.4,15.0,,1.6,1.6,,0.05,1.4,,,0.3,,,,0.3,0.1,2.2,1.0,3.0
+Daniel Ayala,Middlesbrough,CB,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,3.0
+Daniel Sturridge,Liverpool,CF,1.5,24.1,1.0,2.0,3.0,0.1,14.0,,,0.6,,0.35,0.2,,1.0,0.6,,,,2.5,2.0,,3.0,1.0
+Danny Drinkwater,Leicester City,CDM,3.9,49.3,1.0,1.0,,0.4,15.0,,1.9,1.7,,0.04,1.4,,,0.5,,,,0.1,0.8,3.1,1.0,6.0
+Danny Rose,Tottenham Hotspur,LWB,,,2.0,1.0,,,26.0,,,,,,,,,,,,,,,,2.0,8.0
+Danny Simpson,Leicester City,RWB,1.9,22.6,2.0,1.0,,0.3,11.0,,3.9,1.1,,,2.0,1.0,,0.1,,,,,0.2,1.5,,12.0
+Danny Welbeck,Arsenal,ST,,,2.0,2.0,5.0,,5.0,,,,,,,,,,,,,,,,2.0,
+Darren Fletcher,West Bromwich Albion,RAM,2.8,26.1,3.0,3.0,1.0,0.1,24.0,,1.0,0.6,,0.06,1.2,,,0.2,,,,0.2,0.8,1.2,2.0,
 Darren Randolph,West Ham United,GK,,14.4,,,,,,4.0,0.6,,1.8,,0.0,,,,,62.1,2.9,,0.0,,,1.0
-Darron Gibson,Sunderland,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,4.0
-Daryl Janmaat,Watford,DEF,2.4,24.9,1.0,2.0,1.0,0.2,13.0,,1.8,0.9,,0.11,1.1,,,0.2,,,,0.4,0.9,2.5,2.0,2.0
-David Jones,Burnley,MID,,,,,,,,,,,,,,,,,,,,,,,,1.0
-David Luiz,Chelsea,DEF,4.8,40.0,,3.0,,0.4,10.0,,5.1,0.9,,0.03,1.9,,,0.0,,,,0.3,0.4,1.3,1.0,6.0
-David Meyler,Hull City,MID,2.2,38.9,,1.0,,0.2,6.0,,1.9,0.8,,0.09,1.9,,,0.3,,,,0.3,0.3,2.5,1.0,2.0
-David Silva,Manchester City,ATT,1.6,58.9,7.0,11.0,4.0,0.1,82.0,,0.7,0.9,,0.13,0.5,,1.0,0.6,,,,0.6,1.5,1.4,4.0,6.0
+Darron Gibson,Sunderland,CM,,,,,,,2.0,,,,,,,,,,,,,,,,,4.0
+Daryl Janmaat,Watford,RWB,2.4,24.9,1.0,2.0,1.0,0.2,13.0,,1.8,0.9,,0.11,1.1,,,0.2,,,,0.4,0.9,2.5,2.0,2.0
+David Jones,Burnley,CDM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+David Luiz,Chelsea,CB,4.8,40.0,,3.0,,0.4,10.0,,5.1,0.9,,0.03,1.9,,,0.0,,,,0.3,0.4,1.3,1.0,6.0
+David Meyler,Hull City,CDM,2.2,38.9,,1.0,,0.2,6.0,,1.9,0.8,,0.09,1.9,,,0.3,,,,0.3,0.3,2.5,1.0,2.0
+David Silva,Manchester City,RAM,1.6,58.9,7.0,11.0,4.0,0.1,82.0,,0.7,0.9,,0.13,0.5,,1.0,0.6,,,,0.6,1.5,1.4,4.0,6.0
 David de Gea,Manchester United,GK,,14.5,,,,,,14.0,0.3,,0.8,,,,,,,71.8,2.1,,,,,2.0
-Dean Marney,Burnley,MID,3.6,29.8,2.0,1.0,,0.8,5.0,,1.3,1.8,,0.05,1.4,,,0.1,,,,0.2,0.2,1.8,1.0,7.0
-Dejan Lovren,Liverpool,DEF,4.9,61.0,1.0,,,0.6,8.0,,6.1,0.9,,0.07,1.6,,,0.0,,,,0.2,0.0,1.4,2.0,6.0
-Dele Alli,Tottenham Hotspur,ATT,1.8,31.8,7.0,5.0,11.0,0.0,52.0,,0.5,1.5,,0.53,0.3,,4.0,0.7,,,,1.3,1.4,1.5,18.0,4.0
-Demarai Gray,Leicester City,ATT,1.2,21.2,3.0,3.0,,0.1,17.0,,0.9,1.0,,0.09,0.7,,1.0,0.4,,,,0.7,3.1,1.6,1.0,2.0
-Demetri Mitchell,Manchester United,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Diafra Sakho,West Ham United,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Diego Costa,Chelsea,ATT,0.8,22.7,7.0,5.0,12.0,0.1,42.0,,1.1,1.3,,0.58,0.2,,1.0,0.5,,,,1.2,1.6,0.5,20.0,10.0
-Dieumerci Mbokani,Hull City,ATT,,,1.0,,2.0,,8.0,,,,,,,,1.0,,,,,,,,,
-Dimitri Payet,West Ham United,MID,,,6.0,5.0,2.0,,74.0,,,,,,,,1.0,,,,,,,,2.0,2.0
-Dion Pereira,Watford,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Divock Origi,Liverpool,ATT,0.7,18.4,3.0,2.0,4.0,0.1,16.0,,0.1,1.4,,0.43,0.2,,,0.6,,,,0.9,1.2,0.7,7.0,
-Dominic Calvert-Lewin,Everton,ATT,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,1.0
-Donald Love,Sunderland,DEF,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
-Duncan Watmore,Sunderland,ATT,,,2.0,2.0,,,11.0,,,,,,,,1.0,,,,,,,,,1.0
-Dusan Tadic,Southampton,ATT,0.9,31.2,5.0,6.0,6.0,0.1,66.0,,0.4,1.1,,0.11,0.6,1.0,,0.6,,,,0.8,1.1,0.7,3.0,4.0
-Eden Hazard,Chelsea,ATT,3.4,44.2,5.0,4.0,8.0,,89.0,,0.1,0.6,,0.48,0.8,,1.0,1.1,,,,1.0,4.3,0.5,16.0,3.0
-Edimilson Fernandes,West Ham United,MID,2.1,37.3,,,,0.2,6.0,,0.9,1.5,,,1.7,,,0.1,,,,0.4,0.9,2.0,,4.0
+Dean Marney,Burnley,CDM,3.6,29.8,2.0,1.0,,0.8,5.0,,1.3,1.8,,0.05,1.4,,,0.1,,,,0.2,0.2,1.8,1.0,7.0
+Dejan Lovren,Liverpool,CB,4.9,61.0,1.0,,,0.6,8.0,,6.1,0.9,,0.07,1.6,,,0.0,,,,0.2,0.0,1.4,2.0,6.0
+Dele Alli,Tottenham Hotspur,CAM,1.8,31.8,7.0,5.0,11.0,0.0,52.0,,0.5,1.5,,0.53,0.3,,4.0,0.7,,,,1.3,1.4,1.5,18.0,4.0
+Demarai Gray,Leicester City,LW,1.2,21.2,3.0,3.0,,0.1,17.0,,0.9,1.0,,0.09,0.7,,1.0,0.4,,,,0.7,3.1,1.6,1.0,2.0
+Demetri Mitchell,Manchester United,RW,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Diafra Sakho,West Ham United,ST,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Diego Costa,Chelsea,CF,0.8,22.7,7.0,5.0,12.0,0.1,42.0,,1.1,1.3,,0.58,0.2,,1.0,0.5,,,,1.2,1.6,0.5,20.0,10.0
+Dieumerci Mbokani,Hull City,ST,,,1.0,,2.0,,8.0,,,,,,,,1.0,,,,,,,,,
+Dimitri Payet,West Ham United,CAM,,,6.0,5.0,2.0,,74.0,,,,,,,,1.0,,,,,,,,2.0,2.0
+Dion Pereira,Watford,RAM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Divock Origi,Liverpool,RW,0.7,18.4,3.0,2.0,4.0,0.1,16.0,,0.1,1.4,,0.43,0.2,,,0.6,,,,0.9,1.2,0.7,7.0,
+Dominic Calvert-Lewin,Everton,CF,,,,,1.0,,,,,,,,,,,,,,,,,,1.0,1.0
+Donald Love,Sunderland,RB,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
+Duncan Watmore,Sunderland,CAM,,,2.0,2.0,,,11.0,,,,,,,,1.0,,,,,,,,,1.0
+Dusan Tadic,Southampton,CAM,0.9,31.2,5.0,6.0,6.0,0.1,66.0,,0.4,1.1,,0.11,0.6,1.0,,0.6,,,,0.8,1.1,0.7,3.0,4.0
+Eden Hazard,Chelsea,LW,3.4,44.2,5.0,4.0,8.0,,89.0,,0.1,0.6,,0.48,0.8,,1.0,1.1,,,,1.0,4.3,0.5,16.0,3.0
+Edimilson Fernandes,West Ham United,CM,2.1,37.3,,,,0.2,6.0,,0.9,1.5,,,1.7,,,0.1,,,,0.4,0.9,2.0,,4.0
 Eldin Jakupovic,Hull City,GK,,13.4,,,,,,5.0,0.9,,1.6,,0.0,,,,,67.3,3.4,,0.0,,,
 Emiliano Martínez,Arsenal,GK,,,,,,,,1.0,,,,,,1.0,,,,,,,,,,
-Emilio Nsue,Middlesbrough,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Emre Can,Liverpool,DEF,4.0,51.4,2.0,2.0,2.0,0.1,33.0,,1.9,2.7,,0.19,1.2,,,0.5,,,,0.4,0.8,2.5,5.0,6.0
-Enner Valencia,Everton,ATT,1.1,17.8,1.0,1.0,3.0,0.1,7.0,,1.2,2.5,,0.29,1.1,,1.0,0.9,,,,1.2,1.9,1.6,3.0,1.0
-Eric Bailly,Manchester United,DEF,2.6,32.7,,,1.0,0.7,1.0,,5.3,1.2,,,2.6,1.0,,0.1,,,,0.0,0.6,2.6,,4.0
-Eric Dier,Tottenham Hotspur,DEF,5.5,50.8,,,1.0,0.5,14.0,,4.1,0.7,,0.06,1.0,,,0.1,,,,0.2,0.1,1.4,2.0,6.0
-Erik Pieters,Stoke City,DEF,1.7,28.8,1.0,1.0,1.0,0.6,18.0,,2.9,1.7,,,1.5,,,0.1,,,,,0.4,3.0,,4.0
-Evandro Goebel,Hull City,MID,,,,1.0,,,11.0,,,,,,,,,,,,,,,,,1.0
-Ezekiel Fryers,Crystal Palace,DEF,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,
-Fabian Delph,Manchester City,MID,,,,1.0,,,2.0,,,,,,,,,,,,,,,,1.0,1.0
-Fabio,Middlesbrough,DEF,1.2,24.5,,,,0.3,16.0,,3.2,1.4,,,1.7,,,0.2,,,,0.1,0.9,3.1,,8.0
-Fabio Borini,Sunderland,ATT,1.2,19.3,,,2.0,0.1,15.0,,1.4,1.4,,0.1,1.2,,,0.5,,,,0.7,0.9,1.0,2.0,5.0
-Federico Fernández,Swansea City,DEF,3.7,34.3,2.0,1.0,2.0,0.7,3.0,,6.7,1.0,,,1.9,1.0,,,,,,0.1,0.1,1.6,,7.0
-Fernandinho,Manchester City,MID,3.5,61.7,1.0,2.0,4.0,0.2,33.0,,1.8,1.6,,0.07,2.0,2.0,,0.6,2.0,,,0.4,1.0,2.6,2.0,4.0
-Fernando,Manchester City,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,3.0
-Fernando Llorente,Swansea City,ATT,0.7,21.9,1.0,2.0,5.0,0.1,26.0,,1.3,1.9,,0.55,0.1,,,0.4,,,,1.0,0.3,0.7,15.0,2.0
-Filip Lesniak,Tottenham Hotspur,MID,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
-Fraizer Campbell,Crystal Palace,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Francis Coquelin,Arsenal,MID,1.7,52.2,,,1.0,0.4,15.0,,1.6,1.7,,,2.6,1.0,,1.1,,,,0.2,0.9,3.6,,5.0
+Emilio Nsue,Middlesbrough,ST,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Emre Can,Liverpool,CB,4.0,51.4,2.0,2.0,2.0,0.1,33.0,,1.9,2.7,,0.19,1.2,,,0.5,,,,0.4,0.8,2.5,5.0,6.0
+Enner Valencia,Everton,ST,1.1,17.8,1.0,1.0,3.0,0.1,7.0,,1.2,2.5,,0.29,1.1,,1.0,0.9,,,,1.2,1.9,1.6,3.0,1.0
+Eric Bailly,Manchester United,CB,2.6,32.7,,,1.0,0.7,1.0,,5.3,1.2,,,2.6,1.0,,0.1,,,,0.0,0.6,2.6,,4.0
+Eric Dier,Tottenham Hotspur,CB,5.5,50.8,,,1.0,0.5,14.0,,4.1,0.7,,0.06,1.0,,,0.1,,,,0.2,0.1,1.4,2.0,6.0
+Erik Pieters,Stoke City,CB,1.7,28.8,1.0,1.0,1.0,0.6,18.0,,2.9,1.7,,,1.5,,,0.1,,,,,0.4,3.0,,4.0
+Evandro Goebel,Hull City,CAM,,,,1.0,,,11.0,,,,,,,,,,,,,,,,,1.0
+Ezekiel Fryers,Crystal Palace,LWB,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,
+Fabian Delph,Manchester City,CM,,,,1.0,,,2.0,,,,,,,,,,,,,,,,1.0,1.0
+Fabio,Middlesbrough,LWB,1.2,24.5,,,,0.3,16.0,,3.2,1.4,,,1.7,,,0.2,,,,0.1,0.9,3.1,,8.0
+Fabio Borini,Sunderland,LW,1.2,19.3,,,2.0,0.1,15.0,,1.4,1.4,,0.1,1.2,,,0.5,,,,0.7,0.9,1.0,2.0,5.0
+Federico Fernández,Swansea City,CB,3.7,34.3,2.0,1.0,2.0,0.7,3.0,,6.7,1.0,,,1.9,1.0,,,,,,0.1,0.1,1.6,,7.0
+Fernandinho,Manchester City,CM,3.5,61.7,1.0,2.0,4.0,0.2,33.0,,1.8,1.6,,0.07,2.0,2.0,,0.6,2.0,,,0.4,1.0,2.6,2.0,4.0
+Fernando,Manchester City,CDM,,,,,,,3.0,,,,,,,,,,,,,,,,,3.0
+Fernando Llorente,Swansea City,ST,0.7,21.9,1.0,2.0,5.0,0.1,26.0,,1.3,1.9,,0.55,0.1,,,0.4,,,,1.0,0.3,0.7,15.0,2.0
+Filip Lesniak,Tottenham Hotspur,CDM,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
+Fraizer Campbell,Crystal Palace,CF,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Francis Coquelin,Arsenal,CM,1.7,52.2,,,1.0,0.4,15.0,,1.6,1.7,,,2.6,1.0,,1.1,,,,0.2,0.9,3.6,,5.0
 Fraser Forster,Southampton,GK,,11.0,,1.0,,,1.0,14.0,0.5,,1.3,,,,,,,61.3,2.0,,0.0,,,3.0
-Gabriel Jesus,Manchester City,ATT,,,4.0,3.0,3.0,,10.0,,,,,,,,,,,,,,,,7.0,2.0
-Gabriel Paulista,Arsenal,DEF,1.4,45.1,,,1.0,0.5,4.0,,5.0,1.2,,,1.8,1.0,,,,,,0.1,0.5,1.5,,6.0
-Gareth Barry,Everton,MID,4.3,46.5,1.0,1.0,,0.9,28.0,,2.3,2.0,,0.09,1.5,,,0.3,,,,0.3,0.5,3.0,2.0,10.0
-Gareth McAuley,West Bromwich Albion,DEF,3.0,13.9,1.0,,1.0,0.9,5.0,,6.4,0.8,,0.17,2.0,1.0,,0.0,,,,0.2,0.5,1.5,6.0,5.0
-Gary Cahill,Chelsea,DEF,3.1,44.6,,,,0.5,5.0,,4.3,0.9,,0.16,1.3,1.0,,0.1,,,,0.3,0.1,1.4,6.0,5.0
-Gastón Ramírez,Middlesbrough,MID,1.7,27.5,3.0,2.0,2.0,0.1,31.0,,0.6,2.1,,0.12,0.9,,,1.2,1.0,,,0.5,2.8,2.7,2.0,8.0
-Gaël Clichy,Manchester City,MID,1.9,52.5,,1.0,,0.1,16.0,,3.4,0.5,,0.04,2.2,2.0,,0.3,,,,0.0,0.4,1.9,1.0,2.0
-Geoff Cameron,Stoke City,DEF,2.5,32.4,1.0,1.0,1.0,0.8,10.0,,2.4,0.9,,,1.8,,,0.1,,,,0.3,1.4,2.7,,1.0
-George Boyd,Burnley,DEF,0.4,12.7,1.0,3.0,,0.2,16.0,,1.1,1.0,,0.06,1.1,,,0.3,,,,0.2,0.6,2.7,2.0,3.0
-George Friend,Middlesbrough,DEF,2.1,27.6,2.0,1.0,,0.5,11.0,,3.4,1.3,,,2.6,,,0.1,,,,0.0,1.7,2.8,,4.0
-George Honeyman,Sunderland,ATT,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
-Georginio Wijnaldum,Liverpool,ATT,1.8,42.9,9.0,7.0,1.0,0.1,43.0,,0.9,0.7,,0.18,0.8,,,0.5,,,,0.6,0.9,1.4,6.0,2.0
-Gerard Deulofeu,Everton,ATT,,,,,1.0,,10.0,,,,,,,,,,,,,,,,,1.0
-Giannelli Imbula,Stoke City,MID,,,,,,,5.0,,,,,,,,,,,,,,,,,1.0
-Glen Johnson,Stoke City,Code_1,2.7,26.8,,3.0,1.0,0.5,11.0,,2.9,0.6,,,1.7,,,0.1,,,,0.2,1.2,2.3,,1.0
-Glenn Whelan,Stoke City,MID,4.4,47.1,1.0,1.0,,0.8,21.0,,1.7,0.7,,,1.5,,,0.2,,,,0.0,0.4,1.8,,5.0
-Granit Xhaka,Arsenal,MID,6.6,74.4,2.0,3.0,,0.2,35.0,,1.2,1.3,,0.07,1.4,2.0,,0.5,2.0,,,0.3,0.7,2.8,2.0,5.0
-Grant Leadbitter,Middlesbrough,MID,,,,,,,9.0,,,,,,,,,,,,,,,,1.0,1.0
-Gylfi Sigurdsson,Swansea City,MID,0.9,21.7,13.0,16.0,2.0,0.1,80.0,,0.6,0.5,,0.24,0.9,,2.0,0.6,,,,1.4,0.9,1.2,9.0,2.0
-Gökhan Töre,West Ham United,ATT,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,
-Hal Robson-Kanu,West Bromwich Albion,ATT,0.3,17.0,2.0,1.0,2.0,,9.0,,1.1,3.7,,0.4,0.5,,,0.5,,,,0.8,1.1,0.7,3.0,3.0
-Harry Arter,Bournemouth,MID,5.1,53.7,4.0,2.0,2.0,0.4,31.0,,0.9,1.0,,0.03,1.5,,,0.5,1.0,,,0.3,0.8,2.5,1.0,11.0
-Harry Kane,Tottenham Hotspur,ATT,0.7,15.2,7.0,7.0,11.0,,41.0,,0.7,0.8,,1.03,0.1,,1.0,0.7,,,,2.1,1.4,0.8,29.0,3.0
-Harry Maguire,Hull City,DEF,4.0,35.1,2.0,1.0,2.0,1.1,11.0,,5.5,0.9,,0.08,2.5,1.0,,0.2,,,,0.4,1.1,2.1,2.0,5.0
-Harry Winks,Tottenham Hotspur,MID,4.9,62.3,1.0,1.0,,0.4,8.0,,1.1,1.9,,0.19,0.9,,,0.6,,,,0.4,2.1,1.9,1.0,1.0
-Henrikh Mkhitaryan,Manchester United,MID,2.1,43.4,1.0,6.0,2.0,,29.0,,0.8,1.3,,0.27,1.5,,,0.7,,,,1.1,1.9,1.5,4.0,1.0
-Heung-Min Son,Tottenham Hotspur,ATT,0.8,27.4,6.0,5.0,5.0,0.0,43.0,,0.3,0.4,,0.61,0.3,,2.0,0.7,,,,1.4,1.9,0.8,14.0,2.0
+Gabriel Jesus,Manchester City,CF,,,4.0,3.0,3.0,,10.0,,,,,,,,,,,,,,,,7.0,2.0
+Gabriel Paulista,Arsenal,CB,1.4,45.1,,,1.0,0.5,4.0,,5.0,1.2,,,1.8,1.0,,,,,,0.1,0.5,1.5,,6.0
+Gareth Barry,Everton,CM,4.3,46.5,1.0,1.0,,0.9,28.0,,2.3,2.0,,0.09,1.5,,,0.3,,,,0.3,0.5,3.0,2.0,10.0
+Gareth McAuley,West Bromwich Albion,CB,3.0,13.9,1.0,,1.0,0.9,5.0,,6.4,0.8,,0.17,2.0,1.0,,0.0,,,,0.2,0.5,1.5,6.0,5.0
+Gary Cahill,Chelsea,CB,3.1,44.6,,,,0.5,5.0,,4.3,0.9,,0.16,1.3,1.0,,0.1,,,,0.3,0.1,1.4,6.0,5.0
+Gastón Ramírez,Middlesbrough,CM,1.7,27.5,3.0,2.0,2.0,0.1,31.0,,0.6,2.1,,0.12,0.9,,,1.2,1.0,,,0.5,2.8,2.7,2.0,8.0
+Gaël Clichy,Manchester City,CDM,1.9,52.5,,1.0,,0.1,16.0,,3.4,0.5,,0.04,2.2,2.0,,0.3,,,,0.0,0.4,1.9,1.0,2.0
+Geoff Cameron,Stoke City,CB,2.5,32.4,1.0,1.0,1.0,0.8,10.0,,2.4,0.9,,,1.8,,,0.1,,,,0.3,1.4,2.7,,1.0
+George Boyd,Burnley,RB,0.4,12.7,1.0,3.0,,0.2,16.0,,1.1,1.0,,0.06,1.1,,,0.3,,,,0.2,0.6,2.7,2.0,3.0
+George Friend,Middlesbrough,LB,2.1,27.6,2.0,1.0,,0.5,11.0,,3.4,1.3,,,2.6,,,0.1,,,,0.0,1.7,2.8,,4.0
+George Honeyman,Sunderland,LAM,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
+Georginio Wijnaldum,Liverpool,CF,1.8,42.9,9.0,7.0,1.0,0.1,43.0,,0.9,0.7,,0.18,0.8,,,0.5,,,,0.6,0.9,1.4,6.0,2.0
+Gerard Deulofeu,Everton,CF,,,,,1.0,,10.0,,,,,,,,,,,,,,,,,1.0
+Giannelli Imbula,Stoke City,CDM,,,,,,,5.0,,,,,,,,,,,,,,,,,1.0
+Glen Johnson,Stoke City,GK,2.7,26.8,,3.0,1.0,0.5,11.0,,2.9,0.6,,,1.7,,,0.1,,,,0.2,1.2,2.3,,1.0
+Glenn Whelan,Stoke City,CM,4.4,47.1,1.0,1.0,,0.8,21.0,,1.7,0.7,,,1.5,,,0.2,,,,0.0,0.4,1.8,,5.0
+Granit Xhaka,Arsenal,CDM,6.6,74.4,2.0,3.0,,0.2,35.0,,1.2,1.3,,0.07,1.4,2.0,,0.5,2.0,,,0.3,0.7,2.8,2.0,5.0
+Grant Leadbitter,Middlesbrough,CDM,,,,,,,9.0,,,,,,,,,,,,,,,,1.0,1.0
+Gylfi Sigurdsson,Swansea City,CDM,0.9,21.7,13.0,16.0,2.0,0.1,80.0,,0.6,0.5,,0.24,0.9,,2.0,0.6,,,,1.4,0.9,1.2,9.0,2.0
+Gökhan Töre,West Ham United,ST,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,
+Hal Robson-Kanu,West Bromwich Albion,ST,0.3,17.0,2.0,1.0,2.0,,9.0,,1.1,3.7,,0.4,0.5,,,0.5,,,,0.8,1.1,0.7,3.0,3.0
+Harry Arter,Bournemouth,CDM,5.1,53.7,4.0,2.0,2.0,0.4,31.0,,0.9,1.0,,0.03,1.5,,,0.5,1.0,,,0.3,0.8,2.5,1.0,11.0
+Harry Kane,Tottenham Hotspur,ST,0.7,15.2,7.0,7.0,11.0,,41.0,,0.7,0.8,,1.03,0.1,,1.0,0.7,,,,2.1,1.4,0.8,29.0,3.0
+Harry Maguire,Hull City,CB,4.0,35.1,2.0,1.0,2.0,1.1,11.0,,5.5,0.9,,0.08,2.5,1.0,,0.2,,,,0.4,1.1,2.1,2.0,5.0
+Harry Winks,Tottenham Hotspur,CDM,4.9,62.3,1.0,1.0,,0.4,8.0,,1.1,1.9,,0.19,0.9,,,0.6,,,,0.4,2.1,1.9,1.0,1.0
+Henrikh Mkhitaryan,Manchester United,CAM,2.1,43.4,1.0,6.0,2.0,,29.0,,0.8,1.3,,0.27,1.5,,,0.7,,,,1.1,1.9,1.5,4.0,1.0
+Heung-Min Son,Tottenham Hotspur,ST,0.8,27.4,6.0,5.0,5.0,0.0,43.0,,0.3,0.4,,0.61,0.3,,2.0,0.7,,,,1.4,1.9,0.8,14.0,2.0
 Heurelho Gomes,Watford,GK,,13.6,,,,,1.0,6.0,1.6,0.0,1.7,,0.1,1.0,,,,64.2,3.1,,0.0,,,1.0
 Hugo Lloris,Tottenham Hotspur,GK,,23.0,,,,,2.0,15.0,0.8,,0.7,,0.0,,,,,76.5,2.3,,,,,
-Håvard Nordtveit,West Ham United,DEF,,,1.0,1.0,,,4.0,,,,,,,1.0,,,,,,,,,,2.0
-Héctor Bellerín,Arsenal,DEF,0.8,42.5,4.0,3.0,1.0,0.3,28.0,,1.6,0.7,,0.04,1.3,,,0.4,,,,0.2,1.6,0.9,1.0,4.0
-Ibrahim Afellay,Stoke City,MID,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,
-Ibrahim Didier Ndong,Sunderland,MID,2.0,30.0,,1.0,1.0,0.3,16.0,,1.3,1.3,,0.04,1.8,1.0,1.0,0.5,,,,0.2,0.8,2.9,1.0,5.0
-Idrissa Gana Gueye,Everton,MID,3.2,54.5,1.0,2.0,2.0,0.3,25.0,,1.3,1.7,,0.03,2.7,,1.0,0.4,,,,0.2,0.9,4.6,1.0,11.0
-Ilkay Gündogan,Manchester City,MID,,,1.0,1.0,,,12.0,,,,,,,,,,,,,,,,3.0,
-Isaac Success,Watford,ATT,0.7,16.4,1.0,,3.0,0.4,5.0,,1.6,2.1,,0.18,1.2,,,0.5,,,,1.2,3.7,2.9,1.0,2.0
-Islam Slimani,Leicester City,ATT,0.7,21.0,4.0,2.0,7.0,0.2,17.0,,0.2,1.9,,0.49,0.2,,,0.6,,,,0.9,0.7,0.8,7.0,1.0
+Håvard Nordtveit,West Ham United,CB,,,1.0,1.0,,,4.0,,,,,,,1.0,,,,,,,,,,2.0
+Héctor Bellerín,Arsenal,RWB,0.8,42.5,4.0,3.0,1.0,0.3,28.0,,1.6,0.7,,0.04,1.3,,,0.4,,,,0.2,1.6,0.9,1.0,4.0
+Ibrahim Afellay,Stoke City,CAM,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,
+Ibrahim Didier Ndong,Sunderland,CAM,2.0,30.0,,1.0,1.0,0.3,16.0,,1.3,1.3,,0.04,1.8,1.0,1.0,0.5,,,,0.2,0.8,2.9,1.0,5.0
+Idrissa Gana Gueye,Everton,CDM,3.2,54.5,1.0,2.0,2.0,0.3,25.0,,1.3,1.7,,0.03,2.7,,1.0,0.4,,,,0.2,0.9,4.6,1.0,11.0
+Ilkay Gündogan,Manchester City,CDM,,,1.0,1.0,,,12.0,,,,,,,,,,,,,,,,3.0,
+Isaac Success,Watford,ST,0.7,16.4,1.0,,3.0,0.4,5.0,,1.6,2.1,,0.18,1.2,,,0.5,,,,1.2,3.7,2.9,1.0,2.0
+Islam Slimani,Leicester City,CF,0.7,21.0,4.0,2.0,7.0,0.2,17.0,,0.2,1.9,,0.49,0.2,,,0.6,,,,0.9,0.7,0.8,7.0,1.0
 Jack Butland,Stoke City,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Jack Cork,Swansea City,DEF,3.0,43.3,,1.0,2.0,0.3,14.0,,1.9,1.0,,,2.3,,,0.3,,,,0.2,0.9,2.4,,7.0
-Jack Rodwell,Sunderland,DEF,1.6,26.9,1.0,1.0,1.0,0.5,8.0,,3.0,1.4,,,1.1,,,0.1,,,,0.3,0.5,2.3,,4.0
-Jack Stephens,Southampton,DEF,,,1.0,1.0,,,4.0,,,,,,,1.0,,,,,,,,,,1.0
-Jack Wilshere,Bournemouth,MID,2.9,41.2,2.0,4.0,2.0,0.3,34.0,,0.5,1.0,,,0.6,,,0.4,,,,0.5,2.7,1.2,,4.0
-Jake Livermore,West Bromwich Albion,MID,3.5,39.7,1.0,2.0,,0.8,20.0,,1.8,1.0,,0.03,1.5,1.0,,0.1,1.0,,,0.2,0.7,2.4,1.0,5.0
-James Collins,West Ham United,DEF,2.7,24.8,,,,1.0,4.0,,7.8,0.4,,0.11,2.1,,,,,,,0.2,0.1,1.1,2.0,3.0
-James McArthur,Crystal Palace,MID,1.9,29.9,3.0,3.0,,0.3,16.0,,1.0,1.8,,0.22,1.2,,,0.5,,,,0.3,0.8,2.7,5.0,5.0
-James McCarthy,Everton,MID,,,1.0,,,,5.0,,,,,,,,,,,,,,,,1.0,2.0
-James McClean,West Bromwich Albion,MID,0.3,15.3,2.0,3.0,,0.2,19.0,,1.1,1.9,,0.06,1.0,,,0.2,,,,0.8,1.4,3.4,1.0,9.0
-James Milner,Liverpool,MID,3.7,49.2,3.0,3.0,2.0,0.1,57.0,,2.8,1.1,,0.2,1.3,1.0,,0.2,,,,0.5,0.9,2.7,7.0,5.0
-James Morrison,West Bromwich Albion,MID,2.1,31.9,2.0,1.0,2.0,0.2,23.0,,0.6,1.0,,0.26,1.2,,,0.5,,,,0.4,0.8,1.3,5.0,3.0
-James Tarkowski,Burnley,DEF,3.9,28.7,,,1.0,1.1,4.0,,6.2,1.6,,,1.8,,,0.3,,,,,0.5,3.1,,1.0
-James Tomkins,Crystal Palace,DEF,3.5,25.5,,,3.0,0.6,2.0,,5.4,0.5,,0.14,1.7,,,0.0,,,,0.2,0.1,1.3,3.0,4.0
-James Ward-Prowse,Southampton,MID,1.1,38.4,4.0,,4.0,0.1,43.0,,1.5,1.3,,0.19,0.9,,,0.5,,,,0.8,0.3,1.4,4.0,4.0
-Jamie Vardy,Leicester City,ATT,0.3,10.6,5.0,6.0,6.0,,31.0,,0.3,0.8,,0.42,0.3,,1.0,0.4,1.0,,,0.8,0.5,0.5,13.0,2.0
-Jan Kirchhoff,Sunderland,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Jan Vertonghen,Tottenham Hotspur,DEF,5.2,54.4,,,,0.7,7.0,,6.6,0.7,,,1.3,,,,,,,0.1,0.8,1.3,,5.0
-Jarrod Bowen,Hull City,ATT,,,,,1.0,,,,,,,,,,,,,,,,,,,
-Jason Denayer,Sunderland,DEF,2.0,22.5,,,,0.9,2.0,,3.7,0.8,,,1.6,1.0,,0.0,,,,0.1,0.2,1.7,,2.0
-Jason Puncheon,Crystal Palace,ATT,2.3,34.7,5.0,5.0,,0.2,60.0,,1.0,1.8,,,1.1,,,0.6,,,,0.3,1.1,2.1,,9.0
-Javier Manquillo,Sunderland,DEF,0.6,20.7,,,,0.3,4.0,,3.1,0.9,,0.06,1.5,,,0.1,,,,0.1,0.9,2.0,1.0,2.0
-Jay Fulton,Swansea City,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
-Jay Rodriguez,Southampton,ATT,0.4,16.0,2.0,,4.0,0.1,7.0,,1.5,1.5,,0.51,0.2,,,0.6,,,,1.5,0.6,0.6,5.0,
-Jeff Hendrick,Burnley,MID,2.2,26.1,1.0,,1.0,0.4,13.0,,1.0,1.5,,0.07,1.3,,,0.5,1.0,,,0.2,0.8,1.1,2.0,6.0
-Jefferson Montero,Swansea City,MID,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,
-Jeffrey Schlupp,Crystal Palace,DEF,2.1,20.0,,,,0.3,6.0,,3.9,0.3,,,2.1,,1.0,0.2,,,,,1.2,2.8,,
-Jeremain Lens,Sunderland,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Jermain Defoe,Sunderland,ATT,0.2,9.8,2.0,,7.0,0.1,20.0,,0.1,0.7,,0.41,0.1,,1.0,0.3,,,,0.8,0.7,0.5,15.0,1.0
-Jerome Sinclair,Watford,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Jesse Lingard,Manchester United,ATT,1.1,42.0,2.0,4.0,4.0,0.1,29.0,,0.5,1.7,,0.07,0.9,,,0.2,,,,0.9,1.4,1.1,1.0,3.0
-Jesús Navas,Manchester City,ATT,2.3,41.4,,3.0,,0.1,20.0,,1.1,0.5,,,1.9,,,1.0,,,,0.2,1.3,1.6,,2.0
-Joe Allen,Stoke City,MID,1.4,32.0,2.0,7.0,3.0,0.2,28.0,,1.0,0.8,,0.18,1.9,,1.0,0.6,,,,0.6,1.1,2.7,6.0,9.0
-Joe Ledley,Crystal Palace,MID,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
-Joel Matip,Liverpool,DEF,3.4,54.2,,,2.0,0.4,10.0,,5.4,0.5,,0.04,1.7,1.0,,0.1,,,,0.1,0.4,1.7,1.0,3.0
+Jack Cork,Swansea City,CB,3.0,43.3,,1.0,2.0,0.3,14.0,,1.9,1.0,,,2.3,,,0.3,,,,0.2,0.9,2.4,,7.0
+Jack Rodwell,Sunderland,CB,1.6,26.9,1.0,1.0,1.0,0.5,8.0,,3.0,1.4,,,1.1,,,0.1,,,,0.3,0.5,2.3,,4.0
+Jack Stephens,Southampton,CB,,,1.0,1.0,,,4.0,,,,,,,1.0,,,,,,,,,,1.0
+Jack Wilshere,Bournemouth,CDM,2.9,41.2,2.0,4.0,2.0,0.3,34.0,,0.5,1.0,,,0.6,,,0.4,,,,0.5,2.7,1.2,,4.0
+Jake Livermore,West Bromwich Albion,CDM,3.5,39.7,1.0,2.0,,0.8,20.0,,1.8,1.0,,0.03,1.5,1.0,,0.1,1.0,,,0.2,0.7,2.4,1.0,5.0
+James Collins,West Ham United,CB,2.7,24.8,,,,1.0,4.0,,7.8,0.4,,0.11,2.1,,,,,,,0.2,0.1,1.1,2.0,3.0
+James McArthur,Crystal Palace,CM,1.9,29.9,3.0,3.0,,0.3,16.0,,1.0,1.8,,0.22,1.2,,,0.5,,,,0.3,0.8,2.7,5.0,5.0
+James McCarthy,Everton,CM,,,1.0,,,,5.0,,,,,,,,,,,,,,,,1.0,2.0
+James McClean,West Bromwich Albion,LM,0.3,15.3,2.0,3.0,,0.2,19.0,,1.1,1.9,,0.06,1.0,,,0.2,,,,0.8,1.4,3.4,1.0,9.0
+James Milner,Liverpool,CDM,3.7,49.2,3.0,3.0,2.0,0.1,57.0,,2.8,1.1,,0.2,1.3,1.0,,0.2,,,,0.5,0.9,2.7,7.0,5.0
+James Morrison,West Bromwich Albion,CAM,2.1,31.9,2.0,1.0,2.0,0.2,23.0,,0.6,1.0,,0.26,1.2,,,0.5,,,,0.4,0.8,1.3,5.0,3.0
+James Tarkowski,Burnley,CB,3.9,28.7,,,1.0,1.1,4.0,,6.2,1.6,,,1.8,,,0.3,,,,,0.5,3.1,,1.0
+James Tomkins,Crystal Palace,CB,3.5,25.5,,,3.0,0.6,2.0,,5.4,0.5,,0.14,1.7,,,0.0,,,,0.2,0.1,1.3,3.0,4.0
+James Ward-Prowse,Southampton,CDM,1.1,38.4,4.0,,4.0,0.1,43.0,,1.5,1.3,,0.19,0.9,,,0.5,,,,0.8,0.3,1.4,4.0,4.0
+Jamie Vardy,Leicester City,CF,0.3,10.6,5.0,6.0,6.0,,31.0,,0.3,0.8,,0.42,0.3,,1.0,0.4,1.0,,,0.8,0.5,0.5,13.0,2.0
+Jan Kirchhoff,Sunderland,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Jan Vertonghen,Tottenham Hotspur,CB,5.2,54.4,,,,0.7,7.0,,6.6,0.7,,,1.3,,,,,,,0.1,0.8,1.3,,5.0
+Jarrod Bowen,Hull City,RW,,,,,1.0,,,,,,,,,,,,,,,,,,,
+Jason Denayer,Sunderland,CB,2.0,22.5,,,,0.9,2.0,,3.7,0.8,,,1.6,1.0,,0.0,,,,0.1,0.2,1.7,,2.0
+Jason Puncheon,Crystal Palace,LW,2.3,34.7,5.0,5.0,,0.2,60.0,,1.0,1.8,,,1.1,,,0.6,,,,0.3,1.1,2.1,,9.0
+Javier Manquillo,Sunderland,RB,0.6,20.7,,,,0.3,4.0,,3.1,0.9,,0.06,1.5,,,0.1,,,,0.1,0.9,2.0,1.0,2.0
+Jay Fulton,Swansea City,CDM,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
+Jay Rodriguez,Southampton,CAM,0.4,16.0,2.0,,4.0,0.1,7.0,,1.5,1.5,,0.51,0.2,,,0.6,,,,1.5,0.6,0.6,5.0,
+Jeff Hendrick,Burnley,CDM,2.2,26.1,1.0,,1.0,0.4,13.0,,1.0,1.5,,0.07,1.3,,,0.5,1.0,,,0.2,0.8,1.1,2.0,6.0
+Jefferson Montero,Swansea City,LM,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,
+Jeffrey Schlupp,Crystal Palace,LWB,2.1,20.0,,,,0.3,6.0,,3.9,0.3,,,2.1,,1.0,0.2,,,,,1.2,2.8,,
+Jeremain Lens,Sunderland,RW,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Jermain Defoe,Sunderland,CF,0.2,9.8,2.0,,7.0,0.1,20.0,,0.1,0.7,,0.41,0.1,,1.0,0.3,,,,0.8,0.7,0.5,15.0,1.0
+Jerome Sinclair,Watford,LW,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Jesse Lingard,Manchester United,CF,1.1,42.0,2.0,4.0,4.0,0.1,29.0,,0.5,1.7,,0.07,0.9,,,0.2,,,,0.9,1.4,1.1,1.0,3.0
+Jesús Navas,Manchester City,RW,2.3,41.4,,3.0,,0.1,20.0,,1.1,0.5,,,1.9,,,1.0,,,,0.2,1.3,1.6,,2.0
+Joe Allen,Stoke City,CDM,1.4,32.0,2.0,7.0,3.0,0.2,28.0,,1.0,0.8,,0.18,1.9,,1.0,0.6,,,,0.6,1.1,2.7,6.0,9.0
+Joe Ledley,Crystal Palace,CAM,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
+Joel Matip,Liverpool,CB,3.4,54.2,,,2.0,0.4,10.0,,5.4,0.5,,0.04,1.7,1.0,,0.1,,,,0.1,0.4,1.7,1.0,3.0
 Joel Pereira,Manchester United,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
 Joel Robles,Everton,GK,,15.0,1.0,,,,1.0,10.0,0.8,0.1,1.0,,,1.0,,,,73.0,2.8,,0.1,0.1,,2.0
-Joel Ward,Crystal Palace,DEF,2.4,25.1,1.0,2.0,1.0,0.3,11.0,,3.4,1.0,,,1.6,,,0.1,,,,0.1,0.5,2.3,,7.0
-Joey Barton,Burnley,Code_2,,,,1.0,,,9.0,,,,,,,,,,,,,,,,1.0,4.0
-John O'Shea,Sunderland,DEF,2.3,21.8,1.0,1.0,,0.7,1.0,,6.1,0.7,,,1.6,,,,,,,0.1,,1.2,,5.0
-John Stones,Manchester City,DEF,2.7,60.1,,,3.0,0.6,4.0,,4.8,0.4,,,1.7,,,0.1,,,,0.1,0.9,1.1,,1.0
-John Terry,Chelsea,DEF,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
-Jon Flanagan,Burnley,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
-Jonas Olsson,West Bromwich Albion,DEF,,,,,,,,,,,,,,,,,,,,,,,,3.0
-Jonathan Calleri,West Ham United,ATT,,,,,4.0,,7.0,,,,,,,,,,,,,,,,1.0,
-Jonathan Leko,West Bromwich Albion,ATT,,,1.0,,,,2.0,,,,,,,,,,,,,,,,,
-Jonathan Walters,Stoke City,ATT,0.3,13.1,2.0,1.0,4.0,0.3,12.0,,1.7,0.9,,0.28,0.3,,1.0,0.2,,,,0.8,0.6,0.6,4.0,1.0
-Jonny Evans,West Bromwich Albion,DEF,2.7,25.8,1.0,,1.0,0.6,8.0,,4.8,1.1,,0.07,2.5,,,0.1,,,,0.2,0.8,1.4,2.0,8.0
-Jordan Ayew,Swansea City,ATT,,,3.0,2.0,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
-Jordan Henderson,Liverpool,MID,7.0,75.1,4.0,3.0,,0.1,32.0,,1.5,1.2,,0.04,1.7,,,0.5,,,,0.2,0.2,3.7,1.0,8.0
+Joel Ward,Crystal Palace,RWB,2.4,25.1,1.0,2.0,1.0,0.3,11.0,,3.4,1.0,,,1.6,,,0.1,,,,0.1,0.5,2.3,,7.0
+Joey Barton,Burnley,CB,,,,1.0,,,9.0,,,,,,,,,,,,,,,,1.0,4.0
+John O'Shea,Sunderland,CB,2.3,21.8,1.0,1.0,,0.7,1.0,,6.1,0.7,,,1.6,,,,,,,0.1,,1.2,,5.0
+John Stones,Manchester City,CB,2.7,60.1,,,3.0,0.6,4.0,,4.8,0.4,,,1.7,,,0.1,,,,0.1,0.9,1.1,,1.0
+John Terry,Chelsea,CB,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
+Jon Flanagan,Burnley,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
+Jonas Olsson,West Bromwich Albion,CB,,,,,,,,,,,,,,,,,,,,,,,,3.0
+Jonathan Calleri,West Ham United,CF,,,,,4.0,,7.0,,,,,,,,,,,,,,,,1.0,
+Jonathan Leko,West Bromwich Albion,CF,,,1.0,,,,2.0,,,,,,,,,,,,,,,,,
+Jonathan Walters,Stoke City,ST,0.3,13.1,2.0,1.0,4.0,0.3,12.0,,1.7,0.9,,0.28,0.3,,1.0,0.2,,,,0.8,0.6,0.6,4.0,1.0
+Jonny Evans,West Bromwich Albion,CB,2.7,25.8,1.0,,1.0,0.6,8.0,,4.8,1.1,,0.07,2.5,,,0.1,,,,0.2,0.8,1.4,2.0,8.0
+Jordan Ayew,Swansea City,ST,,,3.0,2.0,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
+Jordan Henderson,Liverpool,CDM,7.0,75.1,4.0,3.0,,0.1,32.0,,1.5,1.2,,0.04,1.7,,,0.5,,,,0.2,0.2,3.7,1.0,8.0
 Jordan Pickford,Sunderland,GK,,15.2,,2.0,,,4.0,4.0,1.2,,1.7,,0.1,,,,,73.0,4.7,,,,,
-Jordan Rhodes,Middlesbrough,ATT,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
-Jordi Amat,Swansea City,DEF,,,,,2.0,,2.0,,,,,,,2.0,,,,,,,,,,5.0
-Jordon Ibe,Bournemouth,ATT,0.3,26.6,,,,0.2,18.0,,0.3,0.6,,,0.8,,,0.6,,,,0.1,3.4,1.0,,
-Jordon Mutch,Crystal Palace,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Jordy Clasie,Southampton,MID,,,1.0,,,,5.0,,,,,,,1.0,,,,,,,,,1.0,3.0
-Jose Holebas,Watford,DEF,1.4,26.8,4.0,3.0,,0.3,36.0,,3.1,1.3,,0.06,1.7,,,0.6,,,,0.2,1.3,1.9,2.0,14.0
-Josh Harrop,Manchester United,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Josh Sims,Southampton,MID,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,
-Josh Tymon,Hull City,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Joshua King,Bournemouth,ATT,0.4,18.8,2.0,3.0,4.0,0.2,30.0,,1.3,1.9,,0.53,0.6,,,0.8,,,,1.0,2.5,1.6,16.0,1.0
-José Fonte,West Ham United,DEF,3.3,41.2,,,,0.7,9.0,,5.3,0.9,,,2.3,4.0,,0.0,,,,0.1,0.2,1.5,,4.0
-José Salomon Rondon,West Bromwich Albion,ATT,0.7,14.9,2.0,4.0,8.0,0.1,26.0,,1.2,1.3,,0.25,0.2,,,0.6,,,,0.8,0.8,0.5,8.0,2.0
-Juan Camilo Zuñiga,Watford,Code_1,2.1,32.1,,,,,5.0,,2.1,0.6,,0.11,2.0,,1.0,0.1,,,,0.1,0.3,2.1,1.0,1.0
-Juan Mata,Manchester United,ATT,2.4,49.1,3.0,4.0,5.0,,45.0,,0.4,0.6,,0.33,0.7,,,0.8,,,,1.2,0.8,1.2,6.0,3.0
-Julien Ngoy,Stoke City,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Junior Stanislas,Bournemouth,ATT,1.3,29.9,5.0,6.0,1.0,0.2,22.0,,0.9,0.5,,0.43,0.5,,,0.6,,,,1.1,0.7,0.9,7.0,1.0
-Jérémy Pied,Southampton,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Jóhann Gudmundsson,Burnley,ATT,1.4,18.7,2.0,1.0,,0.4,15.0,,1.5,0.4,,0.09,1.5,1.0,,0.6,,,,0.7,0.5,1.8,1.0,1.0
-Kamil Grosicki,Hull City,ATT,,,3.0,6.0,1.0,,23.0,,,,,,,,,,,,,,,,,1.0
+Jordan Rhodes,Middlesbrough,CF,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
+Jordi Amat,Swansea City,CB,,,,,2.0,,2.0,,,,,,,2.0,,,,,,,,,,5.0
+Jordon Ibe,Bournemouth,RW,0.3,26.6,,,,0.2,18.0,,0.3,0.6,,,0.8,,,0.6,,,,0.1,3.4,1.0,,
+Jordon Mutch,Crystal Palace,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Jordy Clasie,Southampton,CM,,,1.0,,,,5.0,,,,,,,1.0,,,,,,,,,1.0,3.0
+Jose Holebas,Watford,LB,1.4,26.8,4.0,3.0,,0.3,36.0,,3.1,1.3,,0.06,1.7,,,0.6,,,,0.2,1.3,1.9,2.0,14.0
+Josh Harrop,Manchester United,RAM,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Josh Sims,Southampton,RM,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,
+Josh Tymon,Hull City,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Joshua King,Bournemouth,CF,0.4,18.8,2.0,3.0,4.0,0.2,30.0,,1.3,1.9,,0.53,0.6,,,0.8,,,,1.0,2.5,1.6,16.0,1.0
+José Fonte,West Ham United,CB,3.3,41.2,,,,0.7,9.0,,5.3,0.9,,,2.3,4.0,,0.0,,,,0.1,0.2,1.5,,4.0
+José Salomon Rondon,West Bromwich Albion,ST,0.7,14.9,2.0,4.0,8.0,0.1,26.0,,1.2,1.3,,0.25,0.2,,,0.6,,,,0.8,0.8,0.5,8.0,2.0
+Juan Camilo Zuñiga,Watford,GK,2.1,32.1,,,,,5.0,,2.1,0.6,,0.11,2.0,,1.0,0.1,,,,0.1,0.3,2.1,1.0,1.0
+Juan Mata,Manchester United,CAM,2.4,49.1,3.0,4.0,5.0,,45.0,,0.4,0.6,,0.33,0.7,,,0.8,,,,1.2,0.8,1.2,6.0,3.0
+Julien Ngoy,Stoke City,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Junior Stanislas,Bournemouth,CAM,1.3,29.9,5.0,6.0,1.0,0.2,22.0,,0.9,0.5,,0.43,0.5,,,0.6,,,,1.1,0.7,0.9,7.0,1.0
+Jérémy Pied,Southampton,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Jóhann Gudmundsson,Burnley,CAM,1.4,18.7,2.0,1.0,,0.4,15.0,,1.5,0.4,,0.09,1.5,1.0,,0.6,,,,0.7,0.5,1.8,1.0,1.0
+Kamil Grosicki,Hull City,LW,,,3.0,6.0,1.0,,23.0,,,,,,,,,,,,,,,,,1.0
 Kasper Schmeichel,Leicester City,GK,,11.9,,,,,,8.0,0.8,,1.6,,0.0,,,,,70.6,3.8,,0.1,0.1,,1.0
-Kelechi Iheanacho,Manchester City,ATT,0.7,25.1,3.0,3.0,3.0,,13.0,,0.2,1.4,,0.68,,,,0.9,,,,1.2,1.4,1.0,4.0,
-Kenedy,Chelsea,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Kevin De Bruyne,Manchester City,ATT,2.6,46.1,18.0,24.0,3.0,0.0,103.0,,0.2,1.2,,0.19,0.7,,1.0,0.8,,,,0.7,1.6,1.6,6.0,4.0
-Kevin Mirallas,Everton,ATT,1.7,25.8,6.0,4.0,2.0,,43.0,,0.5,1.2,,0.17,0.3,,,0.4,,,,1.0,2.1,0.8,4.0,2.0
-Kevin Wimmer,Tottenham Hotspur,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,3.0
-Kieran Gibbs,Arsenal,DEF,,,1.0,,,,10.0,,,,,,,,,,,,,,,,,3.0
-Kieran Trippier,Tottenham Hotspur,DEF,,,5.0,5.0,,,14.0,,,,,,,,,,,,,,,,,1.0
-Kurt Zouma,Chelsea,DEF,,,1.0,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Kyle Naughton,Swansea City,DEF,2.9,35.6,,1.0,,0.5,22.0,,3.5,0.8,,0.03,1.4,1.0,,0.2,,,,0.2,0.9,2.5,1.0,5.0
-Kyle Walker,Tottenham Hotspur,DEF,3.7,38.9,5.0,4.0,,0.2,39.0,,2.7,1.2,,,1.3,,,0.1,,,,0.2,1.2,2.4,,8.0
-Lamine Koné,Sunderland,DEF,1.8,19.1,,1.0,2.0,0.8,2.0,,6.5,0.5,,0.04,1.6,,,,,,,0.1,0.5,1.1,1.0,4.0
-Laurent Koscielny,Arsenal,DEF,2.4,46.7,,,,0.7,3.0,,6.1,0.6,,0.06,2.9,1.0,1.0,,1.0,,,0.1,0.1,1.5,2.0,4.0
-Lazar Markovic,Hull City,ATT,,,,,1.0,,8.0,,,,,,,,,,,,,,,,2.0,4.0
-Lee Cattermole,Sunderland,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,4.0
+Kelechi Iheanacho,Manchester City,CF,0.7,25.1,3.0,3.0,3.0,,13.0,,0.2,1.4,,0.68,,,,0.9,,,,1.2,1.4,1.0,4.0,
+Kenedy,Chelsea,RW,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Kevin De Bruyne,Manchester City,CAM,2.6,46.1,18.0,24.0,3.0,0.0,103.0,,0.2,1.2,,0.19,0.7,,1.0,0.8,,,,0.7,1.6,1.6,6.0,4.0
+Kevin Mirallas,Everton,CAM,1.7,25.8,6.0,4.0,2.0,,43.0,,0.5,1.2,,0.17,0.3,,,0.4,,,,1.0,2.1,0.8,4.0,2.0
+Kevin Wimmer,Tottenham Hotspur,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,3.0
+Kieran Gibbs,Arsenal,LWB,,,1.0,,,,10.0,,,,,,,,,,,,,,,,,3.0
+Kieran Trippier,Tottenham Hotspur,RWB,,,5.0,5.0,,,14.0,,,,,,,,,,,,,,,,,1.0
+Kurt Zouma,Chelsea,CB,,,1.0,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Kyle Naughton,Swansea City,CB,2.9,35.6,,1.0,,0.5,22.0,,3.5,0.8,,0.03,1.4,1.0,,0.2,,,,0.2,0.9,2.5,1.0,5.0
+Kyle Walker,Tottenham Hotspur,RWB,3.7,38.9,5.0,4.0,,0.2,39.0,,2.7,1.2,,,1.3,,,0.1,,,,0.2,1.2,2.4,,8.0
+Lamine Koné,Sunderland,CB,1.8,19.1,,1.0,2.0,0.8,2.0,,6.5,0.5,,0.04,1.6,,,,,,,0.1,0.5,1.1,1.0,4.0
+Laurent Koscielny,Arsenal,CB,2.4,46.7,,,,0.7,3.0,,6.1,0.6,,0.06,2.9,1.0,1.0,,1.0,,,0.1,0.1,1.5,2.0,4.0
+Lazar Markovic,Hull City,RW,,,,,1.0,,8.0,,,,,,,,,,,,,,,,2.0,4.0
+Lee Cattermole,Sunderland,CM,,,,,,,2.0,,,,,,,,,,,,,,,,,4.0
 Lee Grant,Stoke City,GK,,18.1,,,,,,9.0,1.2,,1.2,,,,,,,72.8,3.3,,,,,1.0
-Leighton Baines,Everton,MID,2.4,34.0,3.0,1.0,1.0,0.2,46.0,,2.0,1.1,,0.06,1.4,,,0.2,,,,0.2,0.4,2.0,2.0,4.0
-Leon Britton,Swansea City,Code_2,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
-Leonardo Ulloa,Leicester City,ATT,,,,,2.0,,2.0,,,,,,,,,,,,,,,,1.0,
-Leroy Fer,Swansea City,MID,3.6,37.8,2.0,1.0,1.0,0.3,18.0,,1.8,1.8,,0.22,0.9,,,0.4,,,,0.4,1.5,2.1,6.0,9.0
-Leroy Sané,Manchester City,ATT,0.4,28.3,3.0,7.0,6.0,0.1,35.0,,0.3,0.7,,0.25,0.9,,2.0,1.1,,,,0.7,2.7,1.8,5.0,4.0
-Lewis Cook,Bournemouth,MID,,,2.0,1.0,,,6.0,,,,,,,,,,,,,,,,,1.0
-Lewis Grabban,Bournemouth,ATT,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
-Loic Rémy,Crystal Palace,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Leighton Baines,Everton,LM,2.4,34.0,3.0,1.0,1.0,0.2,46.0,,2.0,1.1,,0.06,1.4,,,0.2,,,,0.2,0.4,2.0,2.0,4.0
+Leon Britton,Swansea City,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
+Leonardo Ulloa,Leicester City,ST,,,,,2.0,,2.0,,,,,,,,,,,,,,,,1.0,
+Leroy Fer,Swansea City,CDM,3.6,37.8,2.0,1.0,1.0,0.3,18.0,,1.8,1.8,,0.22,0.9,,,0.4,,,,0.4,1.5,2.1,6.0,9.0
+Leroy Sané,Manchester City,RW,0.4,28.3,3.0,7.0,6.0,0.1,35.0,,0.3,0.7,,0.25,0.9,,2.0,1.1,,,,0.7,2.7,1.8,5.0,4.0
+Lewis Cook,Bournemouth,CDM,,,2.0,1.0,,,6.0,,,,,,,,,,,,,,,,,1.0
+Lewis Grabban,Bournemouth,CF,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
+Loic Rémy,Crystal Palace,ST,,,,,,,2.0,,,,,,,,,,,,,,,,,
 Loris Karius,Liverpool,GK,,,,,,,,3.0,,,,,,,,,,,,,,,,
-Lucas Leiva,Liverpool,MID,4.9,60.4,3.0,1.0,1.0,0.3,6.0,,4.6,1.5,,,2.9,,,,,,,0.1,0.2,3.0,,4.0
-Lucas Pérez,Arsenal,ATT,,,,,1.0,,7.0,,,,,,,,,,,,,,,,1.0,
-Luciano Narsingh,Swansea City,ATT,,,3.0,1.0,,,8.0,,,,,,,,,,,,,,,,,
-Luis Hernández,Leicester City,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,,1.0
-Luka Milivojevic,Crystal Palace,MID,,,,1.0,,,5.0,,,,,,,,,,,,,,,,2.0,4.0
+Lucas Leiva,Liverpool,CM,4.9,60.4,3.0,1.0,1.0,0.3,6.0,,4.6,1.5,,,2.9,,,,,,,0.1,0.2,3.0,,4.0
+Lucas Pérez,Arsenal,CF,,,,,1.0,,7.0,,,,,,,,,,,,,,,,1.0,
+Luciano Narsingh,Swansea City,RW,,,3.0,1.0,,,8.0,,,,,,,,,,,,,,,,,
+Luis Hernández,Leicester City,CB,,,,,,,4.0,,,,,,,,,,,,,,,,,1.0
+Luka Milivojevic,Crystal Palace,CDM,,,,1.0,,,5.0,,,,,,,,,,,,,,,,2.0,4.0
 Lukasz Fabianski,Swansea City,GK,,14.9,,,,,,8.0,0.5,0.0,1.9,,0.0,1.0,,,,62.9,3.2,,,0.1,,1.0
-Luke Shaw,Manchester United,DEF,,,1.0,1.0,,,10.0,,,,,,,,1.0,,,,,,,,,1.0
-Lynden Gooch,Sunderland,MID,,,,,,,4.0,,,,,,,,,,,,,,,,,3.0
-Lys Mousset,Bournemouth,ATT,,,,,2.0,,3.0,,,,,,,,,,,,,,,,,
-M'Baye Niang,Watford,ATT,,,2.0,4.0,,,9.0,,,,,,,,,,,,,,,,2.0,2.0
+Luke Shaw,Manchester United,LB,,,1.0,1.0,,,10.0,,,,,,,,1.0,,,,,,,,,1.0
+Lynden Gooch,Sunderland,RM,,,,,,,4.0,,,,,,,,,,,,,,,,,3.0
+Lys Mousset,Bournemouth,ST,,,,,2.0,,3.0,,,,,,,,,,,,,,,,,
+M'Baye Niang,Watford,ST,,,2.0,4.0,,,9.0,,,,,,,,,,,,,,,,2.0,2.0
 Maarten Stekelenburg,Everton,GK,,13.5,,,,,,3.0,0.9,,1.3,,,,,,,63.6,2.2,,0.1,,,2.0
-Mamadou Sakho,Crystal Palace,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Mame Biram Diouf,Stoke City,ATT,0.7,15.2,2.0,3.0,3.0,0.2,10.0,,2.4,1.8,,0.07,1.2,,,0.3,,,,0.3,1.0,2.3,1.0,3.0
-Manolo Gabbiadini,Southampton,ATT,,,,,4.0,,6.0,,,,,,,,,,,,,,,,4.0,1.0
-Manuel Lanzini,West Ham United,ATT,1.5,45.8,2.0,5.0,1.0,0.0,57.0,,0.3,0.7,,0.27,1.5,,,0.9,,,,0.7,2.9,1.4,8.0,9.0
-Marc Albrighton,Leicester City,ATT,2.1,20.7,6.0,7.0,1.0,0.1,47.0,,1.0,0.8,,0.07,1.3,,,0.9,,,,0.3,1.7,1.9,2.0,5.0
-Marc Pugh,Bournemouth,ATT,1.0,27.3,2.0,2.0,2.0,0.1,19.0,,1.4,0.5,,0.14,0.8,,2.0,0.5,,,,0.4,2.1,1.5,2.0,1.0
-Marc Wilson,West Bromwich Albion,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
-Marcos Alonso,Chelsea,DEF,1.7,32.5,3.0,4.0,2.0,0.2,24.0,,2.4,0.8,,0.2,1.5,,,0.3,,,,0.5,0.7,1.9,6.0,2.0
-Marcos Rojo,Manchester United,DEF,3.6,44.3,,,,0.3,5.0,,7.8,1.3,,0.05,1.8,,,0.1,,,,0.2,0.5,1.6,1.0,5.0
-Marcus Rashford,Manchester United,ATT,0.4,22.6,1.0,3.0,4.0,,21.0,,0.3,0.8,,0.26,0.6,,1.0,0.5,,,,0.9,2.1,0.8,5.0,3.0
-Mark Noble,West Ham United,MID,4.7,46.5,,1.0,1.0,0.2,24.0,,0.3,1.0,,0.11,1.4,,,0.3,,,,0.3,0.6,1.9,3.0,10.0
-Marko Arnautovic,Stoke City,ATT,0.7,21.4,5.0,8.0,12.0,0.1,51.0,,0.7,1.4,,0.2,0.8,,,0.6,1.0,,,0.6,2.0,1.1,6.0,9.0
-Marko Grujic,Liverpool,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Markus Henriksen,Hull City,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,1.0
-Marouane Fellaini,Manchester United,ATT,1.4,51.2,,,2.0,0.3,18.0,,2.8,2.3,,0.06,1.6,2.0,,0.5,1.0,,,0.4,0.8,3.2,1.0,9.0
-Marten de Roon,Middlesbrough,MID,2.3,33.9,,1.0,1.0,0.3,11.0,,2.0,2.1,,0.13,1.4,2.0,,0.2,,,,0.2,0.2,2.4,4.0,8.0
-Martin Kelly,Crystal Palace,DEF,2.0,18.4,2.0,,,0.7,8.0,,5.5,0.8,,,1.1,,,,,,,,0.1,1.9,,4.0
-Martin Olsson,Swansea City,DEF,,,,,,,7.0,,,,,,,,,,,,,,,,2.0,2.0
-Mason Holgate,Everton,DEF,,,1.0,3.0,,,9.0,,,,,,,,,,,,,,,,,2.0
-Mathieu Flamini,Crystal Palace,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Matt Targett,Southampton,DEF,,,,,,,5.0,,,,,,,,,,,,,,,,,
-Matteo Darmian,Manchester United,MID,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,3.0
-Matthew Lowton,Burnley,MID,3.2,20.1,2.0,2.0,1.0,0.8,30.0,,4.6,0.9,,,1.8,1.0,,0.2,,,,0.1,0.7,2.8,,9.0
-Matthew Pennington,Everton,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Matthew Phillips,West Bromwich Albion,ATT,0.6,13.4,8.0,8.0,2.0,0.1,34.0,,1.0,0.5,,0.16,0.8,,,0.5,,,,0.4,2.2,0.9,4.0,2.0
-Mauro Zarate,Watford,ATT,,,,,,,4.0,,,,,,,,1.0,,,,,,,,,
-Max-Alain Gradel,Bournemouth,ATT,,,,,,,,,,,,,,,,,,,,,,,,3.0
-Maya Yoshida,Southampton,DEF,1.9,42.0,,,1.0,0.6,4.0,,6.3,0.8,,0.04,2.1,1.0,2.0,0.1,,,,0.3,,1.3,1.0,2.0
-Memphis Depay,Manchester United,ATT,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Mesut Özil,Arsenal,ATT,1.8,57.8,9.0,9.0,4.0,0.0,100.0,,0.3,0.4,,0.25,0.5,,,0.7,,,,0.6,1.0,0.8,8.0,2.0
-Michael Carrick,Manchester United,Code_2,4.4,63.3,,,,0.4,12.0,,2.1,0.3,,,2.3,,,0.1,,,,,0.4,1.5,,2.0
-Michael Dawson,Hull City,DEF,2.7,27.9,,,,1.7,4.0,,6.8,0.7,,0.16,1.6,1.0,,,,,,0.4,0.2,0.8,3.0,4.0
-Michael Keane,Burnley,DEF,3.6,23.4,1.0,1.0,,1.2,8.0,,7.1,0.4,,0.06,1.8,1.0,,,,,,0.2,0.1,0.8,2.0,4.0
-Michail Antonio,West Ham United,ATT,1.1,17.1,3.0,3.0,7.0,0.1,31.0,,1.4,1.1,,0.33,1.0,1.0,1.0,0.5,1.0,,,0.8,2.7,1.2,9.0,4.0
+Mamadou Sakho,Crystal Palace,CB,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Mame Biram Diouf,Stoke City,ST,0.7,15.2,2.0,3.0,3.0,0.2,10.0,,2.4,1.8,,0.07,1.2,,,0.3,,,,0.3,1.0,2.3,1.0,3.0
+Manolo Gabbiadini,Southampton,LAM,,,,,4.0,,6.0,,,,,,,,,,,,,,,,4.0,1.0
+Manuel Lanzini,West Ham United,CAM,1.5,45.8,2.0,5.0,1.0,0.0,57.0,,0.3,0.7,,0.27,1.5,,,0.9,,,,0.7,2.9,1.4,8.0,9.0
+Marc Albrighton,Leicester City,RW,2.1,20.7,6.0,7.0,1.0,0.1,47.0,,1.0,0.8,,0.07,1.3,,,0.9,,,,0.3,1.7,1.9,2.0,5.0
+Marc Pugh,Bournemouth,CAM,1.0,27.3,2.0,2.0,2.0,0.1,19.0,,1.4,0.5,,0.14,0.8,,2.0,0.5,,,,0.4,2.1,1.5,2.0,1.0
+Marc Wilson,West Bromwich Albion,RB,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
+Marcos Alonso,Chelsea,LB,1.7,32.5,3.0,4.0,2.0,0.2,24.0,,2.4,0.8,,0.2,1.5,,,0.3,,,,0.5,0.7,1.9,6.0,2.0
+Marcos Rojo,Manchester United,CB,3.6,44.3,,,,0.3,5.0,,7.8,1.3,,0.05,1.8,,,0.1,,,,0.2,0.5,1.6,1.0,5.0
+Marcus Rashford,Manchester United,LW,0.4,22.6,1.0,3.0,4.0,,21.0,,0.3,0.8,,0.26,0.6,,1.0,0.5,,,,0.9,2.1,0.8,5.0,3.0
+Mark Noble,West Ham United,CDM,4.7,46.5,,1.0,1.0,0.2,24.0,,0.3,1.0,,0.11,1.4,,,0.3,,,,0.3,0.6,1.9,3.0,10.0
+Marko Arnautovic,Stoke City,ST,0.7,21.4,5.0,8.0,12.0,0.1,51.0,,0.7,1.4,,0.2,0.8,,,0.6,1.0,,,0.6,2.0,1.1,6.0,9.0
+Marko Grujic,Liverpool,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Markus Henriksen,Hull City,CM,,,,,,,3.0,,,,,,,,,,,,,,,,,1.0
+Marouane Fellaini,Manchester United,CF,1.4,51.2,,,2.0,0.3,18.0,,2.8,2.3,,0.06,1.6,2.0,,0.5,1.0,,,0.4,0.8,3.2,1.0,9.0
+Marten de Roon,Middlesbrough,CDM,2.3,33.9,,1.0,1.0,0.3,11.0,,2.0,2.1,,0.13,1.4,2.0,,0.2,,,,0.2,0.2,2.4,4.0,8.0
+Martin Kelly,Crystal Palace,RB,2.0,18.4,2.0,,,0.7,8.0,,5.5,0.8,,,1.1,,,,,,,,0.1,1.9,,4.0
+Martin Olsson,Swansea City,LWB,,,,,,,7.0,,,,,,,,,,,,,,,,2.0,2.0
+Mason Holgate,Everton,CB,,,1.0,3.0,,,9.0,,,,,,,,,,,,,,,,,2.0
+Mathieu Flamini,Crystal Palace,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Matt Targett,Southampton,LWB,,,,,,,5.0,,,,,,,,,,,,,,,,,
+Matteo Darmian,Manchester United,RM,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,3.0
+Matthew Lowton,Burnley,RWB,3.2,20.1,2.0,2.0,1.0,0.8,30.0,,4.6,0.9,,,1.8,1.0,,0.2,,,,0.1,0.7,2.8,,9.0
+Matthew Pennington,Everton,RB,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Matthew Phillips,West Bromwich Albion,CF,0.6,13.4,8.0,8.0,2.0,0.1,34.0,,1.0,0.5,,0.16,0.8,,,0.5,,,,0.4,2.2,0.9,4.0,2.0
+Mauro Zarate,Watford,CAM,,,,,,,4.0,,,,,,,,1.0,,,,,,,,,
+Max-Alain Gradel,Bournemouth,LW,,,,,,,,,,,,,,,,,,,,,,,,3.0
+Maya Yoshida,Southampton,CB,1.9,42.0,,,1.0,0.6,4.0,,6.3,0.8,,0.04,2.1,1.0,2.0,0.1,,,,0.3,,1.3,1.0,2.0
+Memphis Depay,Manchester United,CF,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Mesut Özil,Arsenal,RAM,1.8,57.8,9.0,9.0,4.0,0.0,100.0,,0.3,0.4,,0.25,0.5,,,0.7,,,,0.6,1.0,0.8,8.0,2.0
+Michael Carrick,Manchester United,CB,4.4,63.3,,,,0.4,12.0,,2.1,0.3,,,2.3,,,0.1,,,,,0.4,1.5,,2.0
+Michael Dawson,Hull City,RB,2.7,27.9,,,,1.7,4.0,,6.8,0.7,,0.16,1.6,1.0,,,,,,0.4,0.2,0.8,3.0,4.0
+Michael Keane,Burnley,CB,3.6,23.4,1.0,1.0,,1.2,8.0,,7.1,0.4,,0.06,1.8,1.0,,,,,,0.2,0.1,0.8,2.0,4.0
+Michail Antonio,West Ham United,ST,1.1,17.1,3.0,3.0,7.0,0.1,31.0,,1.4,1.1,,0.33,1.0,1.0,1.0,0.5,1.0,,,0.8,2.7,1.2,9.0,4.0
 Michel Vorm,Tottenham Hotspur,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Michy Batshuayi,Chelsea,ATT,1.9,25.2,1.0,,2.0,,1.0,,0.4,3.4,,1.88,0.8,,,1.1,,,,3.0,1.1,0.8,5.0,
-Miguel Britos,Watford,DEF,3.7,27.8,2.0,2.0,2.0,0.7,7.0,,5.5,1.4,,0.04,1.9,1.0,,0.1,2.0,,,0.2,0.2,1.3,1.0,6.0
-Mike van der Hoorn,Swansea City,DEF,,,,,2.0,,,,,,,,,1.0,,,,,,,,,1.0,1.0
-Mile Jedinak,Crystal Palace,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Modou Barrow,Swansea City,MID,,,2.0,3.0,1.0,,21.0,,,,,,,,,,,,,,,,,1.0
-Mohamed Elneny,Arsenal,MID,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,1.0
-Morgan Schneiderlin,Everton,DEF,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,2.0
-Mousa Dembélé,Tottenham Hotspur,MID,2.5,59.3,1.0,,,0.2,25.0,,0.9,2.0,,0.04,1.1,,1.0,0.6,,,,0.1,3.4,2.8,1.0,5.0
-Moussa Sissoko,Tottenham Hotspur,MID,1.0,36.9,2.0,,,0.1,21.0,,1.0,2.1,,,0.7,,,0.8,,,,0.3,2.0,1.4,,3.0
-Muniesa,Stoke City,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,1.0,2.0
-N'Golo Kanté,Chelsea,MID,3.9,54.0,1.0,2.0,2.0,0.1,22.0,,1.1,1.5,,0.03,2.4,,,0.6,,,,0.2,1.0,3.6,1.0,9.0
-Nacer Chadli,West Bromwich Albion,ATT,1.0,22.3,5.0,6.0,4.0,0.1,33.0,,0.4,0.7,,0.21,0.9,,,0.3,,,,0.8,0.8,1.2,5.0,2.0
-Nacho Monreal,Arsenal,DEF,1.1,42.8,2.0,3.0,2.0,0.3,12.0,,2.5,0.9,,,2.5,1.0,,0.3,,,,0.1,0.4,2.6,,5.0
-Nampalys Mendy,Leicester City,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Nathan Aké,Chelsea,DEF,,,1.0,2.0,1.0,,4.0,,,,,,,,,,,,,,,,3.0,1.0
-Nathan Dyer,Swansea City,ATT,,,1.0,,,,3.0,,,,,,,,,,,,,,,,,
-Nathan Redmond,Southampton,ATT,1.7,29.1,1.0,6.0,1.0,0.1,57.0,,0.3,1.2,,0.22,0.5,1.0,,0.6,1.0,,,0.9,2.2,1.2,7.0,2.0
-Nathaniel Chalobah,Chelsea,MID,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
-Nathaniel Clyne,Liverpool,MID,1.2,40.5,2.0,5.0,1.0,0.1,45.0,,1.2,0.4,,,1.2,,,0.2,,,,0.1,0.6,2.2,,
-Neil Taylor,Swansea City,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Nemanja Matic,Chelsea,MID,4.7,54.6,7.0,4.0,,0.3,26.0,,1.5,1.1,,0.03,1.7,,,0.5,,,,0.2,1.0,1.7,1.0,4.0
-Nicolás Otamendi,Manchester City,DEF,2.8,59.6,1.0,2.0,,0.5,6.0,,6.4,1.0,,0.03,2.9,,1.0,0.2,,,,0.1,0.4,2.4,1.0,9.0
-Nolito,Manchester City,MID,1.0,37.0,2.0,2.0,3.0,,13.0,,0.5,2.1,,0.46,0.7,,,0.7,1.0,,,1.4,1.2,1.7,4.0,3.0
-Nordin Amrabat,Watford,ATT,1.4,21.8,3.0,4.0,,0.1,30.0,,0.4,2.0,,,1.0,1.0,,0.2,,,,0.3,2.6,1.9,,4.0
-Odion Ighalo,Watford,ATT,,,1.0,,4.0,,11.0,,,,,,,,,,,,,,,,1.0,1.0
-Oli McBurnie,Swansea City,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Olivier Giroud,Arsenal,ATT,0.3,19.9,3.0,2.0,3.0,0.3,17.0,,1.3,1.6,,0.9,0.6,,1.0,0.4,,,,1.5,0.2,1.1,12.0,2.0
-Omar Elabdellaoui,Hull City,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Oriol Romeu,Southampton,MID,3.0,51.1,,1.0,,0.4,17.0,,1.9,1.9,,0.03,2.6,,,0.1,,,,0.2,0.8,3.4,1.0,11.0
-Oscar,Chelsea,ATT,,,1.0,1.0,,,15.0,,,,,,,,,,,,,,,,,1.0
-Pablo Zabaleta,Manchester City,DEF,1.4,40.4,1.0,,,,11.0,,3.3,1.2,,0.08,2.0,,,0.3,,,,0.2,0.7,3.5,1.0,2.0
-Paddy McNair,Sunderland,DEF,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Pape N'Diaye Souaré,Crystal Palace,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Papy Djilobodji,Sunderland,DEF,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,4.0
-Patrick Bamford,Middlesbrough,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,1.0
-Patrick van Aanholt,Crystal Palace,DEF,2.1,28.6,1.0,1.0,,0.3,36.0,,2.0,0.5,,0.18,2.1,1.0,,0.2,,,,0.5,1.3,1.5,5.0,3.0
-Paul Pogba,Manchester United,ATT,5.6,63.9,4.0,7.0,5.0,0.1,57.0,,1.4,2.1,,0.17,1.1,1.0,,0.7,,,,1.1,2.5,1.8,5.0,7.0
-Pedro,Chelsea,ATT,1.4,32.8,9.0,5.0,2.0,0.0,42.0,,0.5,1.4,,0.38,0.9,,1.0,0.8,,,,0.7,2.3,2.0,9.0,6.0
-Pedro Obiang,West Ham United,MID,3.5,37.8,1.0,1.0,,0.4,6.0,,1.5,1.4,,0.05,1.6,,,0.4,,,,0.1,1.1,3.2,1.0,7.0
-Peter Crouch,Stoke City,ATT,0.5,19.8,2.0,5.0,5.0,0.3,17.0,,1.8,1.8,,0.47,0.2,,,0.6,,,,1.1,0.5,0.3,7.0,3.0
+Michy Batshuayi,Chelsea,ST,1.9,25.2,1.0,,2.0,,1.0,,0.4,3.4,,1.88,0.8,,,1.1,,,,3.0,1.1,0.8,5.0,
+Miguel Britos,Watford,CB,3.7,27.8,2.0,2.0,2.0,0.7,7.0,,5.5,1.4,,0.04,1.9,1.0,,0.1,2.0,,,0.2,0.2,1.3,1.0,6.0
+Mike van der Hoorn,Swansea City,CB,,,,,2.0,,,,,,,,,1.0,,,,,,,,,1.0,1.0
+Mile Jedinak,Crystal Palace,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Modou Barrow,Swansea City,LM,,,2.0,3.0,1.0,,21.0,,,,,,,,,,,,,,,,,1.0
+Mohamed Elneny,Arsenal,CDM,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,1.0
+Morgan Schneiderlin,Everton,CB,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,2.0
+Mousa Dembélé,Tottenham Hotspur,CM,2.5,59.3,1.0,,,0.2,25.0,,0.9,2.0,,0.04,1.1,,1.0,0.6,,,,0.1,3.4,2.8,1.0,5.0
+Moussa Sissoko,Tottenham Hotspur,CM,1.0,36.9,2.0,,,0.1,21.0,,1.0,2.1,,,0.7,,,0.8,,,,0.3,2.0,1.4,,3.0
+Muniesa,Stoke City,CB,,,,,,,4.0,,,,,,,,,,,,,,,,1.0,2.0
+N'Golo Kanté,Chelsea,CDM,3.9,54.0,1.0,2.0,2.0,0.1,22.0,,1.1,1.5,,0.03,2.4,,,0.6,,,,0.2,1.0,3.6,1.0,9.0
+Nacer Chadli,West Bromwich Albion,LW,1.0,22.3,5.0,6.0,4.0,0.1,33.0,,0.4,0.7,,0.21,0.9,,,0.3,,,,0.8,0.8,1.2,5.0,2.0
+Nacho Monreal,Arsenal,LWB,1.1,42.8,2.0,3.0,2.0,0.3,12.0,,2.5,0.9,,,2.5,1.0,,0.3,,,,0.1,0.4,2.6,,5.0
+Nampalys Mendy,Leicester City,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Nathan Aké,Chelsea,CB,,,1.0,2.0,1.0,,4.0,,,,,,,,,,,,,,,,3.0,1.0
+Nathan Dyer,Swansea City,CAM,,,1.0,,,,3.0,,,,,,,,,,,,,,,,,
+Nathan Redmond,Southampton,LAM,1.7,29.1,1.0,6.0,1.0,0.1,57.0,,0.3,1.2,,0.22,0.5,1.0,,0.6,1.0,,,0.9,2.2,1.2,7.0,2.0
+Nathaniel Chalobah,Chelsea,CDM,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
+Nathaniel Clyne,Liverpool,RM,1.2,40.5,2.0,5.0,1.0,0.1,45.0,,1.2,0.4,,,1.2,,,0.2,,,,0.1,0.6,2.2,,
+Neil Taylor,Swansea City,LWB,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Nemanja Matic,Chelsea,CM,4.7,54.6,7.0,4.0,,0.3,26.0,,1.5,1.1,,0.03,1.7,,,0.5,,,,0.2,1.0,1.7,1.0,4.0
+Nicolás Otamendi,Manchester City,CB,2.8,59.6,1.0,2.0,,0.5,6.0,,6.4,1.0,,0.03,2.9,,1.0,0.2,,,,0.1,0.4,2.4,1.0,9.0
+Nolito,Manchester City,LM,1.0,37.0,2.0,2.0,3.0,,13.0,,0.5,2.1,,0.46,0.7,,,0.7,1.0,,,1.4,1.2,1.7,4.0,3.0
+Nordin Amrabat,Watford,RW,1.4,21.8,3.0,4.0,,0.1,30.0,,0.4,2.0,,,1.0,1.0,,0.2,,,,0.3,2.6,1.9,,4.0
+Odion Ighalo,Watford,CF,,,1.0,,4.0,,11.0,,,,,,,,,,,,,,,,1.0,1.0
+Oli McBurnie,Swansea City,ST,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Olivier Giroud,Arsenal,ST,0.3,19.9,3.0,2.0,3.0,0.3,17.0,,1.3,1.6,,0.9,0.6,,1.0,0.4,,,,1.5,0.2,1.1,12.0,2.0
+Omar Elabdellaoui,Hull City,RWB,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Oriol Romeu,Southampton,CDM,3.0,51.1,,1.0,,0.4,17.0,,1.9,1.9,,0.03,2.6,,,0.1,,,,0.2,0.8,3.4,1.0,11.0
+Oscar,Chelsea,LW,,,1.0,1.0,,,15.0,,,,,,,,,,,,,,,,,1.0
+Pablo Zabaleta,Manchester City,RWB,1.4,40.4,1.0,,,,11.0,,3.3,1.2,,0.08,2.0,,,0.3,,,,0.2,0.7,3.5,1.0,2.0
+Paddy McNair,Sunderland,CB,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Pape N'Diaye Souaré,Crystal Palace,LWB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Papy Djilobodji,Sunderland,CB,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,4.0
+Patrick Bamford,Middlesbrough,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,1.0
+Patrick van Aanholt,Crystal Palace,LWB,2.1,28.6,1.0,1.0,,0.3,36.0,,2.0,0.5,,0.18,2.1,1.0,,0.2,,,,0.5,1.3,1.5,5.0,3.0
+Paul Pogba,Manchester United,LAM,5.6,63.9,4.0,7.0,5.0,0.1,57.0,,1.4,2.1,,0.17,1.1,1.0,,0.7,,,,1.1,2.5,1.8,5.0,7.0
+Pedro,Chelsea,LW,1.4,32.8,9.0,5.0,2.0,0.0,42.0,,0.5,1.4,,0.38,0.9,,1.0,0.8,,,,0.7,2.3,2.0,9.0,6.0
+Pedro Obiang,West Ham United,CDM,3.5,37.8,1.0,1.0,,0.4,6.0,,1.5,1.4,,0.05,1.6,,,0.4,,,,0.1,1.1,3.2,1.0,7.0
+Peter Crouch,Stoke City,CF,0.5,19.8,2.0,5.0,5.0,0.3,17.0,,1.8,1.8,,0.47,0.2,,,0.6,,,,1.1,0.5,0.3,7.0,3.0
 Petr Cech,Arsenal,GK,,13.7,,,,,,12.0,0.5,0.1,1.1,,0.0,2.0,,,,75.7,3.3,,0.1,,,2.0
-Phil Bardsley,Stoke City,MID,,,,2.0,,,9.0,,,,,,,1.0,,,1.0,,,,,,,4.0
-Phil Jagielka,Everton,DEF,5.8,40.3,2.0,1.0,,1.0,5.0,,7.9,0.5,,0.12,1.6,3.0,,,1.0,,,0.2,0.1,1.7,3.0,4.0
-Phil Jones,Manchester United,DEF,,,,1.0,,,2.0,,,,,,,1.0,,,,,,,,,,2.0
-Philipp Wollscheid,Stoke City,Code_1,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Philippe Coutinho,Liverpool,ATT,2.9,47.1,7.0,7.0,4.0,,65.0,,0.2,0.7,,0.52,0.7,,,0.8,,,,1.5,2.8,1.4,13.0,2.0
-Pierre-Emile Højbjerg,Southampton,MID,3.3,61.2,,,1.0,0.3,16.0,,1.6,1.3,,,2.3,,,1.0,,,,0.3,1.0,3.0,,2.0
-Ragnar Klavan,Liverpool,DEF,3.2,53.0,,,,0.6,3.0,,5.8,1.0,,,0.9,1.0,,,,,,0.1,0.4,1.6,,3.0
-Raheem Sterling,Manchester City,ATT,0.3,29.7,6.0,6.0,4.0,0.0,46.0,,0.1,1.3,,0.25,0.6,1.0,3.0,0.9,,,,0.8,2.8,0.9,7.0,7.0
-Ramadan Sobhi,Stoke City,ATT,,,1.0,2.0,1.0,,9.0,,,,,,,,,,,,,,,,,2.0
-Ramiro Funes Mori,Everton,DEF,5.2,36.9,1.0,2.0,1.0,0.5,4.0,,6.3,0.6,,,1.8,,,0.1,,,,0.1,0.4,1.5,,
-Rickie Lambert,West Bromwich Albion,Code_3,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Riyad Mahrez,Leicester City,ATT,1.6,26.2,3.0,10.0,5.0,0.1,51.0,,0.4,0.8,,0.19,0.9,,1.0,0.6,,,,0.9,2.5,1.1,6.0,4.0
-Rob Holding,Arsenal,DEF,,,,,1.0,,3.0,,,,,,,1.0,,,,,,,,,,3.0
-Robert Brady,Burnley,ATT,,,2.0,2.0,,,17.0,,,,,,,,,,,,,,,,1.0,1.0
-Robert Huth,Leicester City,Code_1,1.0,15.4,2.0,3.0,1.0,1.1,6.0,,6.5,1.4,,0.06,1.3,1.0,,0.0,,,,0.3,,0.9,2.0,9.0
-Robert Snodgrass,West Ham United,ATT,1.2,29.3,5.0,4.0,1.0,0.1,62.0,,0.7,1.6,,0.25,0.5,2.0,1.0,0.4,,,,0.7,0.9,1.3,7.0,2.0
-Roberto Firmino,Liverpool,ATT,0.9,36.0,7.0,10.0,8.0,0.1,77.0,,0.4,1.5,,0.32,0.8,,3.0,0.9,,,,1.3,2.0,1.7,11.0,5.0
-Roberto Pereyra,Watford,MID,,,2.0,3.0,2.0,,15.0,,,,,,,,,,1.0,,,,,,2.0,2.0
-Romelu Lukaku,Everton,ATT,0.5,17.4,6.0,8.0,7.0,0.1,47.0,,0.7,0.9,,0.69,,,,0.6,,,,1.5,1.7,0.2,25.0,3.0
+Phil Bardsley,Stoke City,RWB,,,,2.0,,,9.0,,,,,,,1.0,,,1.0,,,,,,,4.0
+Phil Jagielka,Everton,CB,5.8,40.3,2.0,1.0,,1.0,5.0,,7.9,0.5,,0.12,1.6,3.0,,,1.0,,,0.2,0.1,1.7,3.0,4.0
+Phil Jones,Manchester United,CB,,,,1.0,,,2.0,,,,,,,1.0,,,,,,,,,,2.0
+Philipp Wollscheid,Stoke City,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Philippe Coutinho,Liverpool,CAM,2.9,47.1,7.0,7.0,4.0,,65.0,,0.2,0.7,,0.52,0.7,,,0.8,,,,1.5,2.8,1.4,13.0,2.0
+Pierre-Emile Højbjerg,Southampton,CDM,3.3,61.2,,,1.0,0.3,16.0,,1.6,1.3,,,2.3,,,1.0,,,,0.3,1.0,3.0,,2.0
+Ragnar Klavan,Liverpool,CB,3.2,53.0,,,,0.6,3.0,,5.8,1.0,,,0.9,1.0,,,,,,0.1,0.4,1.6,,3.0
+Raheem Sterling,Manchester City,LW,0.3,29.7,6.0,6.0,4.0,0.0,46.0,,0.1,1.3,,0.25,0.6,1.0,3.0,0.9,,,,0.8,2.8,0.9,7.0,7.0
+Ramadan Sobhi,Stoke City,CAM,,,1.0,2.0,1.0,,9.0,,,,,,,,,,,,,,,,,2.0
+Ramiro Funes Mori,Everton,CB,5.2,36.9,1.0,2.0,1.0,0.5,4.0,,6.3,0.6,,,1.8,,,0.1,,,,0.1,0.4,1.5,,
+Rickie Lambert,West Bromwich Albion,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Riyad Mahrez,Leicester City,RW,1.6,26.2,3.0,10.0,5.0,0.1,51.0,,0.4,0.8,,0.19,0.9,,1.0,0.6,,,,0.9,2.5,1.1,6.0,4.0
+Rob Holding,Arsenal,CB,,,,,1.0,,3.0,,,,,,,1.0,,,,,,,,,,3.0
+Robert Brady,Burnley,LAM,,,2.0,2.0,,,17.0,,,,,,,,,,,,,,,,1.0,1.0
+Robert Huth,Leicester City,GK,1.0,15.4,2.0,3.0,1.0,1.1,6.0,,6.5,1.4,,0.06,1.3,1.0,,0.0,,,,0.3,,0.9,2.0,9.0
+Robert Snodgrass,West Ham United,CAM,1.2,29.3,5.0,4.0,1.0,0.1,62.0,,0.7,1.6,,0.25,0.5,2.0,1.0,0.4,,,,0.7,0.9,1.3,7.0,2.0
+Roberto Firmino,Liverpool,CAM,0.9,36.0,7.0,10.0,8.0,0.1,77.0,,0.4,1.5,,0.32,0.8,,3.0,0.9,,,,1.3,2.0,1.7,11.0,5.0
+Roberto Pereyra,Watford,CDM,,,2.0,3.0,2.0,,15.0,,,,,,,,,,1.0,,,,,,2.0,2.0
+Romelu Lukaku,Everton,CF,0.5,17.4,6.0,8.0,7.0,0.1,47.0,,0.7,0.9,,0.69,,,,0.6,,,,1.5,1.7,0.2,25.0,3.0
 Ron-Robert Zieler,Leicester City,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Ross Barkley,Everton,ATT,3.4,42.2,8.0,9.0,4.0,0.2,84.0,,1.1,1.5,,0.15,0.3,,,0.4,,,,0.9,1.9,0.9,5.0,5.0
-Rudy Gestede,Middlesbrough,ATT,,,,1.0,1.0,,11.0,,,,,,,,,,,,,,,,1.0,3.0
-Ryan Bertrand,Southampton,DEF,1.3,39.2,4.0,3.0,,0.4,28.0,,1.7,0.9,,0.07,1.6,1.0,,0.4,,,,0.2,0.5,1.3,2.0,3.0
-Ryan Fraser,Bournemouth,ATT,0.9,26.9,5.0,5.0,,0.1,32.0,,0.7,0.9,,0.15,0.5,,5.0,0.3,,,,0.6,1.0,0.8,3.0,3.0
-Ryan Mason,Hull City,Code_3,,,,,,,8.0,,,,,,,,,,,,,,,,1.0,4.0
-Ryan Shawcross,Stoke City,DEF,2.7,20.3,1.0,,,0.9,5.0,,6.1,1.0,,0.03,1.7,1.0,1.0,0.0,,,,0.2,0.3,1.3,1.0,6.0
-Sadio Mané,Liverpool,MID,0.9,31.8,5.0,4.0,3.0,,44.0,,0.4,1.3,,0.52,0.3,1.0,1.0,0.9,,,,1.0,2.7,0.9,13.0,4.0
-Saido Berahino,Stoke City,ATT,,,,2.0,4.0,,5.0,,,,,,,,,,,,,,,,,1.0
-Sam Byram,West Ham United,DEF,,,1.0,1.0,,,7.0,,,,,,,,,,1.0,,,,,,,5.0
-Sam Clucas,Hull City,MID,2.5,36.2,1.0,2.0,1.0,0.3,15.0,,1.7,0.6,,0.08,1.5,1.0,,0.5,1.0,,,0.2,0.8,2.6,3.0,9.0
-Sam Field,West Bromwich Albion,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
-Sam McQueen,Southampton,MID,,,,1.0,,,2.0,,,,,,,,1.0,,,,,,,,,
-Sam Vokes,Burnley,ATT,0.3,13.3,3.0,2.0,3.0,0.4,16.0,,1.3,1.1,,0.44,0.2,,1.0,0.5,,,,1.0,0.3,0.3,10.0,
-Samir Nasri,Manchester City,MID,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Santi Cazorla,Arsenal,ATT,,,2.0,1.0,,,10.0,,,,,,,,,,,,,,,,2.0,2.0
-Scott Arfield,Burnley,ATT,1.0,18.3,,1.0,2.0,0.3,34.0,,1.2,1.6,,0.04,1.4,,1.0,0.3,,,,0.3,0.6,1.5,1.0,3.0
-Scott Dann,Crystal Palace,DEF,3.3,23.3,1.0,1.0,,1.0,6.0,,4.9,0.7,,0.15,1.7,1.0,,0.1,,,,0.5,0.1,0.9,3.0,2.0
-Scott McTominay,Manchester United,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Sebastian Larsson,Sunderland,MID,3.1,31.4,1.0,2.0,,0.6,23.0,,2.0,1.8,,,0.7,1.0,,0.3,1.0,,,0.2,0.2,2.3,,4.0
-Sebastian Prödl,Watford,DEF,3.6,26.5,1.0,1.0,,1.0,10.0,,5.7,1.4,,0.03,1.7,1.0,1.0,0.0,1.0,,,0.2,0.1,1.2,1.0,10.0
-Sergio Agüero,Manchester City,ATT,0.6,23.8,3.0,6.0,13.0,0.0,31.0,,0.0,0.9,,0.75,0.1,,1.0,0.6,1.0,,,2.0,2.9,0.7,20.0,4.0
+Ross Barkley,Everton,CAM,3.4,42.2,8.0,9.0,4.0,0.2,84.0,,1.1,1.5,,0.15,0.3,,,0.4,,,,0.9,1.9,0.9,5.0,5.0
+Rudy Gestede,Middlesbrough,ST,,,,1.0,1.0,,11.0,,,,,,,,,,,,,,,,1.0,3.0
+Ryan Bertrand,Southampton,LWB,1.3,39.2,4.0,3.0,,0.4,28.0,,1.7,0.9,,0.07,1.6,1.0,,0.4,,,,0.2,0.5,1.3,2.0,3.0
+Ryan Fraser,Bournemouth,LW,0.9,26.9,5.0,5.0,,0.1,32.0,,0.7,0.9,,0.15,0.5,,5.0,0.3,,,,0.6,1.0,0.8,3.0,3.0
+Ryan Mason,Hull City,CM,,,,,,,8.0,,,,,,,,,,,,,,,,1.0,4.0
+Ryan Shawcross,Stoke City,CB,2.7,20.3,1.0,,,0.9,5.0,,6.1,1.0,,0.03,1.7,1.0,1.0,0.0,,,,0.2,0.3,1.3,1.0,6.0
+Sadio Mané,Liverpool,LM,0.9,31.8,5.0,4.0,3.0,,44.0,,0.4,1.3,,0.52,0.3,1.0,1.0,0.9,,,,1.0,2.7,0.9,13.0,4.0
+Saido Berahino,Stoke City,CF,,,,2.0,4.0,,5.0,,,,,,,,,,,,,,,,,1.0
+Sam Byram,West Ham United,LWB,,,1.0,1.0,,,7.0,,,,,,,,,,1.0,,,,,,,5.0
+Sam Clucas,Hull City,LM,2.5,36.2,1.0,2.0,1.0,0.3,15.0,,1.7,0.6,,0.08,1.5,1.0,,0.5,1.0,,,0.2,0.8,2.6,3.0,9.0
+Sam Field,West Bromwich Albion,CDM,,,,,,,3.0,,,,,,,,,,,,,,,,,2.0
+Sam McQueen,Southampton,CM,,,,1.0,,,2.0,,,,,,,,1.0,,,,,,,,,
+Sam Vokes,Burnley,CF,0.3,13.3,3.0,2.0,3.0,0.4,16.0,,1.3,1.1,,0.44,0.2,,1.0,0.5,,,,1.0,0.3,0.3,10.0,
+Samir Nasri,Manchester City,RM,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Santi Cazorla,Arsenal,CAM,,,2.0,1.0,,,10.0,,,,,,,,,,,,,,,,2.0,2.0
+Scott Arfield,Burnley,CAM,1.0,18.3,,1.0,2.0,0.3,34.0,,1.2,1.6,,0.04,1.4,,1.0,0.3,,,,0.3,0.6,1.5,1.0,3.0
+Scott Dann,Crystal Palace,CB,3.3,23.3,1.0,1.0,,1.0,6.0,,4.9,0.7,,0.15,1.7,1.0,,0.1,,,,0.5,0.1,0.9,3.0,2.0
+Scott McTominay,Manchester United,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Sebastian Larsson,Sunderland,CDM,3.1,31.4,1.0,2.0,,0.6,23.0,,2.0,1.8,,,0.7,1.0,,0.3,1.0,,,0.2,0.2,2.3,,4.0
+Sebastian Prödl,Watford,CB,3.6,26.5,1.0,1.0,,1.0,10.0,,5.7,1.4,,0.03,1.7,1.0,1.0,0.0,1.0,,,0.2,0.1,1.2,1.0,10.0
+Sergio Agüero,Manchester City,CF,0.6,23.8,3.0,6.0,13.0,0.0,31.0,,0.0,0.9,,0.75,0.1,,1.0,0.6,1.0,,,2.0,2.9,0.7,20.0,4.0
 Sergio Romero,Manchester United,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Shane Long,Southampton,ATT,0.1,15.4,1.0,2.0,7.0,0.3,14.0,,1.0,2.0,,0.22,0.4,,2.0,0.8,,,,1.1,0.4,0.9,3.0,2.0
-Shaun Maloney,Hull City,Code_2,,,2.0,1.0,,,4.0,,,,,,,,,,,,,,,,1.0,
-Shay Given,Stoke City,Code_0,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Shinji Okazaki,Leicester City,ATT,0.7,18.8,1.0,1.0,2.0,0.1,14.0,,0.3,1.6,,0.17,0.7,,1.0,0.5,,,,0.5,0.7,1.7,3.0,1.0
-Shkodran Mustafi,Arsenal,DEF,2.1,51.2,2.0,1.0,1.0,0.2,9.0,,4.9,1.4,,0.08,2.5,,,0.1,,,,0.2,0.6,2.2,2.0,11.0
-Simon Francis,Bournemouth,DEF,4.4,40.4,1.0,2.0,,0.6,19.0,,6.6,0.8,,,1.6,2.0,,0.1,1.0,,,,0.5,1.9,,4.0
+Shane Long,Southampton,ST,0.1,15.4,1.0,2.0,7.0,0.3,14.0,,1.0,2.0,,0.22,0.4,,2.0,0.8,,,,1.1,0.4,0.9,3.0,2.0
+Shaun Maloney,Hull City,CB,,,2.0,1.0,,,4.0,,,,,,,,,,,,,,,,1.0,
+Shay Given,Stoke City,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Shinji Okazaki,Leicester City,ST,0.7,18.8,1.0,1.0,2.0,0.1,14.0,,0.3,1.6,,0.17,0.7,,1.0,0.5,,,,0.5,0.7,1.7,3.0,1.0
+Shkodran Mustafi,Arsenal,CB,2.1,51.2,2.0,1.0,1.0,0.2,9.0,,4.9,1.4,,0.08,2.5,,,0.1,,,,0.2,0.6,2.2,2.0,11.0
+Simon Francis,Bournemouth,CB,4.4,40.4,1.0,2.0,,0.6,19.0,,6.6,0.8,,,1.6,2.0,,0.1,1.0,,,,0.5,1.9,,4.0
 Simon Mignolet,Liverpool,GK,,17.7,,,,,,9.0,1.0,,1.1,,0.0,,,,,63.9,1.9,,0.1,,,
-Simone Zaza,West Ham United,ATT,,,,,,,8.0,,,,,,,,,,,,,,,,,2.0
-Sofiane Boufal,Southampton,ATT,1.4,31.9,,3.0,,0.1,23.0,,0.2,2.0,,0.08,0.4,,,0.9,,,,0.6,6.0,3.1,1.0,5.0
-Sofiane Féghouli,West Ham United,MID,2.3,23.4,3.0,2.0,,0.1,19.0,,0.7,1.0,,0.26,1.2,1.0,,0.6,1.0,,,0.6,1.5,1.6,3.0,1.0
-Stefano Okaka Chuka,Watford,ATT,0.7,14.5,,2.0,1.0,0.1,14.0,,0.9,2.8,,0.38,0.1,,,0.9,,,,1.1,2.2,1.1,4.0,5.0
-Stephen Kingsley,Swansea City,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Stephen Ward,Burnley,DEF,3.1,21.6,1.0,3.0,,0.4,21.0,,4.0,1.0,,0.03,2.1,,,0.2,,,,0.0,0.4,1.9,1.0,5.0
-Steve Cook,Bournemouth,DEF,4.4,37.0,,1.0,1.0,1.0,3.0,,8.9,0.4,,0.05,2.0,,,,,,,0.2,0.5,1.2,2.0,5.0
-Steven Davis,Southampton,MID,3.9,50.3,3.0,2.0,2.0,0.4,32.0,,1.4,0.6,,,0.8,1.0,,0.8,,,,0.2,0.7,1.8,,3.0
-Steven Defour,Burnley,MID,3.8,34.9,3.0,,1.0,0.3,23.0,,0.8,1.2,,0.08,2.7,,,0.3,,,,0.5,1.1,1.6,1.0,1.0
-Steven Pienaar,Sunderland,Code_2,,,,,1.0,,7.0,,,,,,,,,,1.0,,,,,,,5.0
-Stewart Downing,Middlesbrough,MID,3.2,31.2,3.0,2.0,1.0,,29.0,,1.2,0.4,,0.04,1.3,,,0.3,,,,0.2,0.3,1.1,1.0,1.0
-Sung-Yueng Ki,Swansea City,MID,3.6,42.9,1.0,,,0.2,12.0,,1.3,1.3,,,1.5,,,0.4,,,,0.1,0.5,1.7,,3.0
-Séamus Coleman,Everton,MID,2.0,27.9,3.0,6.0,,0.7,17.0,,2.6,0.7,,0.16,1.1,,,0.3,,,,0.3,1.2,2.1,4.0,3.0
-Theo Walcott,Arsenal,ATT,0.3,18.9,2.0,3.0,6.0,0.0,13.0,,0.6,0.7,,0.47,0.6,,1.0,0.7,,,,1.4,1.9,1.7,10.0,1.0
+Simone Zaza,West Ham United,CF,,,,,,,8.0,,,,,,,,,,,,,,,,,2.0
+Sofiane Boufal,Southampton,CAM,1.4,31.9,,3.0,,0.1,23.0,,0.2,2.0,,0.08,0.4,,,0.9,,,,0.6,6.0,3.1,1.0,5.0
+Sofiane Féghouli,West Ham United,CDM,2.3,23.4,3.0,2.0,,0.1,19.0,,0.7,1.0,,0.26,1.2,1.0,,0.6,1.0,,,0.6,1.5,1.6,3.0,1.0
+Stefano Okaka Chuka,Watford,CF,0.7,14.5,,2.0,1.0,0.1,14.0,,0.9,2.8,,0.38,0.1,,,0.9,,,,1.1,2.2,1.1,4.0,5.0
+Stephen Kingsley,Swansea City,LWB,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Stephen Ward,Burnley,CB,3.1,21.6,1.0,3.0,,0.4,21.0,,4.0,1.0,,0.03,2.1,,,0.2,,,,0.0,0.4,1.9,1.0,5.0
+Steve Cook,Bournemouth,CB,4.4,37.0,,1.0,1.0,1.0,3.0,,8.9,0.4,,0.05,2.0,,,,,,,0.2,0.5,1.2,2.0,5.0
+Steven Davis,Southampton,CDM,3.9,50.3,3.0,2.0,2.0,0.4,32.0,,1.4,0.6,,,0.8,1.0,,0.8,,,,0.2,0.7,1.8,,3.0
+Steven Defour,Burnley,CM,3.8,34.9,3.0,,1.0,0.3,23.0,,0.8,1.2,,0.08,2.7,,,0.3,,,,0.5,1.1,1.6,1.0,1.0
+Steven Pienaar,Sunderland,CB,,,,,1.0,,7.0,,,,,,,,,,1.0,,,,,,,5.0
+Stewart Downing,Middlesbrough,CDM,3.2,31.2,3.0,2.0,1.0,,29.0,,1.2,0.4,,0.04,1.3,,,0.3,,,,0.2,0.3,1.1,1.0,1.0
+Sung-Yueng Ki,Swansea City,CDM,3.6,42.9,1.0,,,0.2,12.0,,1.3,1.3,,,1.5,,,0.4,,,,0.1,0.5,1.7,,3.0
+Séamus Coleman,Everton,RM,2.0,27.9,3.0,6.0,,0.7,17.0,,2.6,0.7,,0.16,1.1,,,0.3,,,,0.3,1.2,2.1,4.0,3.0
+Theo Walcott,Arsenal,RW,0.3,18.9,2.0,3.0,6.0,0.0,13.0,,0.6,0.7,,0.47,0.6,,1.0,0.7,,,,1.4,1.9,1.7,10.0,1.0
 Thibaut Courtois,Chelsea,GK,,14.6,,,,,,16.0,0.6,0.0,0.8,,,1.0,,,,70.8,1.9,,,,,1.0
-Toby Alderweireld,Tottenham Hotspur,DEF,7.3,43.8,,,1.0,0.7,6.0,,5.4,0.3,,0.03,0.9,,,0.0,,,,0.3,0.1,1.4,1.0,1.0
-Tom Carroll,Swansea City,MID,,,2.0,1.0,,,16.0,,,,,,,,,,,,,,,,1.0,1.0
-Tom Cleverley,Watford,ATT,2.0,34.8,2.0,2.0,1.0,0.3,28.0,,1.0,1.1,,,1.5,,,0.4,,,,0.2,0.4,2.1,,4.0
-Tom Davies,Everton,MID,1.9,37.8,3.0,3.0,1.0,0.3,13.0,,0.6,1.5,,0.12,1.0,,,0.3,,,,0.3,0.9,2.1,2.0,4.0
+Toby Alderweireld,Tottenham Hotspur,CB,7.3,43.8,,,1.0,0.7,6.0,,5.4,0.3,,0.03,0.9,,,0.0,,,,0.3,0.1,1.4,1.0,1.0
+Tom Carroll,Swansea City,CDM,,,2.0,1.0,,,16.0,,,,,,,,,,,,,,,,1.0,1.0
+Tom Cleverley,Watford,CAM,2.0,34.8,2.0,2.0,1.0,0.3,28.0,,1.0,1.1,,,1.5,,,0.4,,,,0.2,0.4,2.1,,4.0
+Tom Davies,Everton,CDM,1.9,37.8,3.0,3.0,1.0,0.3,13.0,,0.6,1.5,,0.12,1.0,,,0.3,,,,0.3,0.9,2.1,2.0,4.0
 Tom Heaton,Burnley,GK,,13.2,,,,,3.0,10.0,0.4,,1.4,,0.0,,,,,74.6,4.0,,,,,1.0
-Tom Huddlestone,Hull City,DEF,5.7,45.2,,1.0,,0.5,19.0,,3.0,1.5,,0.04,2.2,2.0,,0.2,1.0,,,0.3,0.3,1.5,1.0,5.0
-Trent Alexander-Arnold,Liverpool,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Troy Deeney,Watford,ATT,0.5,15.1,4.0,2.0,7.0,0.1,40.0,,1.5,1.3,,0.31,0.4,,,0.4,,,,0.6,0.4,0.6,10.0,7.0
-Tyrone Mings,Bournemouth,DEF,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Valon Behrami,Watford,MID,1.2,25.9,,1.0,,0.5,5.0,,0.8,1.3,,,1.5,,,0.3,,,,,0.3,3.2,,7.0
-Victor Anichebe,Sunderland,Code_3,,,,,1.0,,11.0,,,,,,,,1.0,,,,,,,,3.0,2.0
-Victor Moses,Chelsea,MID,1.0,28.9,2.0,4.0,1.0,0.3,28.0,,1.6,1.0,,0.11,1.5,,,0.4,,,,0.5,1.9,1.7,3.0,4.0
-Victor Wanyama,Tottenham Hotspur,MID,3.5,51.5,1.0,2.0,3.0,0.3,32.0,,1.9,2.0,,0.12,1.2,,,0.4,,,,0.4,1.5,2.7,4.0,10.0
-Viktor Fischer,Middlesbrough,ATT,,,3.0,3.0,,,7.0,,,,,,,,,,,,,,,,,
-Vincent Janssen,Tottenham Hotspur,ATT,0.5,19.4,2.0,2.0,5.0,,16.0,,0.2,3.4,,0.22,0.2,1.0,1.0,0.6,,,,1.5,0.5,1.6,2.0,
-Vincent Kompany,Manchester City,DEF,,,,1.0,,,2.0,,,,,,,,,,,,,,,,3.0,5.0
-Virgil van Dijk,Southampton,DEF,4.7,40.0,,1.0,,0.7,6.0,,6.2,0.9,,0.05,2.6,,,,1.0,,,0.2,0.4,1.9,1.0,3.0
+Tom Huddlestone,Hull City,CB,5.7,45.2,,1.0,,0.5,19.0,,3.0,1.5,,0.04,2.2,2.0,,0.2,1.0,,,0.3,0.3,1.5,1.0,5.0
+Trent Alexander-Arnold,Liverpool,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Troy Deeney,Watford,CF,0.5,15.1,4.0,2.0,7.0,0.1,40.0,,1.5,1.3,,0.31,0.4,,,0.4,,,,0.6,0.4,0.6,10.0,7.0
+Tyrone Mings,Bournemouth,CB,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Valon Behrami,Watford,CM,1.2,25.9,,1.0,,0.5,5.0,,0.8,1.3,,,1.5,,,0.3,,,,,0.3,3.2,,7.0
+Victor Anichebe,Sunderland,CM,,,,,1.0,,11.0,,,,,,,,1.0,,,,,,,,3.0,2.0
+Victor Moses,Chelsea,RM,1.0,28.9,2.0,4.0,1.0,0.3,28.0,,1.6,1.0,,0.11,1.5,,,0.4,,,,0.5,1.9,1.7,3.0,4.0
+Victor Wanyama,Tottenham Hotspur,CM,3.5,51.5,1.0,2.0,3.0,0.3,32.0,,1.9,2.0,,0.12,1.2,,,0.4,,,,0.4,1.5,2.7,4.0,10.0
+Viktor Fischer,Middlesbrough,CF,,,3.0,3.0,,,7.0,,,,,,,,,,,,,,,,,
+Vincent Janssen,Tottenham Hotspur,CF,0.5,19.4,2.0,2.0,5.0,,16.0,,0.2,3.4,,0.22,0.2,1.0,1.0,0.6,,,,1.5,0.5,1.6,2.0,
+Vincent Kompany,Manchester City,CB,,,,1.0,,,2.0,,,,,,,,,,,,,,,,3.0,5.0
+Virgil van Dijk,Southampton,CB,4.7,40.0,,1.0,,0.7,6.0,,6.2,0.9,,0.05,2.6,,,,1.0,,,0.2,0.4,1.9,1.0,3.0
 Vito Mannone,Sunderland,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Víctor Valdés,Middlesbrough,Code_0,,16.9,,,,,,8.0,1.0,,1.3,,0.1,,,,,69.0,2.9,,,0.0,,1.0
-Wahbi Khazri,Sunderland,ATT,3.1,26.2,,2.0,1.0,,21.0,,0.2,2.1,,0.11,1.0,,,0.9,,,,1.1,1.4,1.1,1.0,6.0
+Víctor Valdés,Middlesbrough,GK,,16.9,,,,,,8.0,1.0,,1.3,,0.1,,,,,69.0,2.9,,,0.0,,1.0
+Wahbi Khazri,Sunderland,CF,3.1,26.2,,2.0,1.0,,21.0,,0.2,2.1,,0.11,1.0,,,0.9,,,,1.1,1.4,1.1,1.0,6.0
 Wayne Hennessey,Crystal Palace,GK,,13.2,,,,,3.0,7.0,0.4,,1.6,,,,,,,64.3,2.9,,,,,1.0
-Wayne Rooney,Manchester United,MID,3.6,38.4,5.0,5.0,6.0,0.2,36.0,,0.6,1.3,,0.29,1.0,,,0.5,,,,1.1,0.8,1.2,5.0,8.0
-Wayne Routledge,Swansea City,ATT,1.0,16.9,1.0,3.0,4.0,,25.0,,0.9,1.3,,0.14,0.7,,,0.6,,,,0.4,1.2,1.0,3.0,1.0
-Wes Morgan,Leicester City,DEF,1.2,16.3,,,2.0,0.9,4.0,,4.9,0.7,,0.04,1.9,1.0,1.0,0.0,,,,0.1,0.1,1.0,1.0,3.0
-Wilfred Ndidi,Leicester City,MID,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,2.0,
+Wayne Rooney,Manchester United,CDM,3.6,38.4,5.0,5.0,6.0,0.2,36.0,,0.6,1.3,,0.29,1.0,,,0.5,,,,1.1,0.8,1.2,5.0,8.0
+Wayne Routledge,Swansea City,CF,1.0,16.9,1.0,3.0,4.0,,25.0,,0.9,1.3,,0.14,0.7,,,0.6,,,,0.4,1.2,1.0,3.0,1.0
+Wes Morgan,Leicester City,CB,1.2,16.3,,,2.0,0.9,4.0,,4.9,0.7,,0.04,1.9,1.0,1.0,0.0,,,,0.1,0.1,1.0,1.0,3.0
+Wilfred Ndidi,Leicester City,CDM,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,2.0,
 Wilfredo Caballero,Manchester City,GK,,,,,,,,6.0,,,,,,,,,,,,,,,,
-Wilfried Bony,Stoke City,ATT,,,,1.0,1.0,,7.0,,,,,,,,,,,,,,,,2.0,1.0
-Wilfried Zaha,Crystal Palace,ATT,0.5,16.5,9.0,8.0,6.0,,39.0,,0.3,1.6,,0.21,1.0,,1.0,0.7,,,,0.5,4.2,2.2,7.0,8.0
-Will Keane,Hull City,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Willian,Chelsea,ATT,1.9,38.2,2.0,,,,51.0,,0.3,0.7,,0.47,0.4,,,0.5,,,,0.9,3.1,1.1,8.0,3.0
-Winston Reid,West Ham United,DEF,3.7,27.6,2.0,1.0,,0.8,8.0,,8.3,1.1,,0.07,2.9,,2.0,,1.0,,,0.1,0.3,1.1,2.0,8.0
-Xherdan Shaqiri,Stoke City,ATT,2.0,25.3,2.0,5.0,1.0,,41.0,,0.1,0.8,,0.21,0.5,,1.0,0.5,,,,0.5,2.0,0.6,4.0,2.0
-Yannick Bolasie,Everton,ATT,,,4.0,8.0,1.0,,20.0,,,,,,,,,,,,,,,,1.0,3.0
-Yaya Touré,Manchester City,ATT,4.5,74.7,,1.0,1.0,0.2,19.0,,1.8,1.2,,0.23,0.7,,,0.2,,,,0.7,1.2,1.9,5.0,4.0
-Yohan Benalouane,Leicester City,DEF,,,,,,,2.0,,,,,,,1.0,,,,,,,,,,4.0
-Yohan Cabaye,Crystal Palace,MID,2.4,33.4,3.0,6.0,2.0,0.2,35.0,,0.9,1.3,,0.17,3.0,,,0.5,,,,0.5,0.5,2.5,4.0,7.0
-Younès Kaboul,Watford,Code_1,3.8,22.5,,,1.0,0.7,2.0,,6.1,0.9,,0.09,2.2,,,0.0,,,,0.2,0.5,1.7,2.0,2.0
-Zlatan Ibrahimovic,Manchester United,ATT,1.4,28.4,5.0,8.0,18.0,0.0,48.0,,0.8,2.0,,0.63,0.4,,,0.5,,,,1.7,0.6,0.4,17.0,7.0
-Álvaro Arbeloa,West Ham United,Code_1,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
-Álvaro Negredo,Middlesbrough,ATT,1.5,18.1,4.0,8.0,5.0,0.1,26.0,,2.0,1.4,,0.28,0.3,,1.0,0.2,,,,0.7,0.6,0.6,9.0,5.0
-Ángel Rangel,Swansea City,DEF,,,,1.0,,,7.0,,,,,,,1.0,,,,,,,,,1.0,1.0
-Érik Lamela,Tottenham Hotspur,ATT,,,1.0,1.0,1.0,,18.0,,,,,,,1.0,,,,,,,,,1.0,1.0
-Étienne Capoue,Watford,MID,2.5,34.4,1.0,,3.0,0.2,37.0,,0.7,1.4,,0.2,1.7,,,0.5,,,,0.5,1.0,1.7,7.0,5.0
+Wilfried Bony,Stoke City,ST,,,,1.0,1.0,,7.0,,,,,,,,,,,,,,,,2.0,1.0
+Wilfried Zaha,Crystal Palace,LW,0.5,16.5,9.0,8.0,6.0,,39.0,,0.3,1.6,,0.21,1.0,,1.0,0.7,,,,0.5,4.2,2.2,7.0,8.0
+Will Keane,Hull City,CF,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Willian,Chelsea,CAM,1.9,38.2,2.0,,,,51.0,,0.3,0.7,,0.47,0.4,,,0.5,,,,0.9,3.1,1.1,8.0,3.0
+Winston Reid,West Ham United,CB,3.7,27.6,2.0,1.0,,0.8,8.0,,8.3,1.1,,0.07,2.9,,2.0,,1.0,,,0.1,0.3,1.1,2.0,8.0
+Xherdan Shaqiri,Stoke City,CAM,2.0,25.3,2.0,5.0,1.0,,41.0,,0.1,0.8,,0.21,0.5,,1.0,0.5,,,,0.5,2.0,0.6,4.0,2.0
+Yannick Bolasie,Everton,ST,,,4.0,8.0,1.0,,20.0,,,,,,,,,,,,,,,,1.0,3.0
+Yaya Touré,Manchester City,CAM,4.5,74.7,,1.0,1.0,0.2,19.0,,1.8,1.2,,0.23,0.7,,,0.2,,,,0.7,1.2,1.9,5.0,4.0
+Yohan Benalouane,Leicester City,CB,,,,,,,2.0,,,,,,,1.0,,,,,,,,,,4.0
+Yohan Cabaye,Crystal Palace,CAM,2.4,33.4,3.0,6.0,2.0,0.2,35.0,,0.9,1.3,,0.17,3.0,,,0.5,,,,0.5,0.5,2.5,4.0,7.0
+Younès Kaboul,Watford,GK,3.8,22.5,,,1.0,0.7,2.0,,6.1,0.9,,0.09,2.2,,,0.0,,,,0.2,0.5,1.7,2.0,2.0
+Zlatan Ibrahimovic,Manchester United,ST,1.4,28.4,5.0,8.0,18.0,0.0,48.0,,0.8,2.0,,0.63,0.4,,,0.5,,,,1.7,0.6,0.4,17.0,7.0
+Álvaro Arbeloa,West Ham United,GK,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
+Álvaro Negredo,Middlesbrough,CF,1.5,18.1,4.0,8.0,5.0,0.1,26.0,,2.0,1.4,,0.28,0.3,,1.0,0.2,,,,0.7,0.6,0.6,9.0,5.0
+Ángel Rangel,Swansea City,RWB,,,,1.0,,,7.0,,,,,,,1.0,,,,,,,,,1.0,1.0
+Érik Lamela,Tottenham Hotspur,RW,,,1.0,1.0,1.0,,18.0,,,,,,,1.0,,,,,,,,,1.0,1.0
+Étienne Capoue,Watford,CM,2.5,34.4,1.0,,3.0,0.2,37.0,,0.7,1.4,,0.2,1.7,,,0.5,,,,0.5,1.0,1.7,7.0,5.0

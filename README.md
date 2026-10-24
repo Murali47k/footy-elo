@@ -17,9 +17,11 @@ A football player rating engine computing normalized ELO ratings across Europe's
 
 ## Features
 
-- **Position-Normalized ELO**: Calculates ELO scores calibrated around a 1500 baseline using 30 positional metrics (goals, xG, tackles, saves, clean sheets, dribbles, etc.).
+- **Granular EA FC-Style Tactical Roles**: Resolves FotMob/Opta pitch coordinates into authentic EA FC roles (`CB`, `FB` / `RB` / `LB`, `CDM`, `CM`, `CAM`, `WING` / `RW` / `LW`, `ST` / `CF`, and `GK`) rather than generic buckets, evaluating centerbacks against centerbacks and defensive midfielders against defensive midfielders.
+- **Position-Normalized ELO**: Calculates ELO scores calibrated around a 1500 baseline using 30+ positional metrics (goals, xG, tackles, saves, clean sheets, dribbles, blocks, interceptions, etc.).
+- **Mathematical Coordinate Fallback**: Automatic mathematical `(row, col)` pitch grid decoding for newly seen or exotic formation coordinate codes so no player is ever left unclassified.
 - **Competition-Specific Standings Bonus**: League ELO adds a league-finish bonus (top 10, +2 to +50). Champions League and Europa League ELO add a knockout-round bonus (+10 to +100). Reported as `STANDINGS_BONUS` and `ELO_FINAL`.
-- **Interactive "Rating Math" Modal**: Web button providing full mathematical transparency — step-by-step formulas, K-factor (10), 1500 baseline, positional normalization, the standings bonus scales, complete weights breakdown for ATT, MID, DEF, GK, and a worked example calculation.
+- **Interactive "Rating Math" Modal**: Web button providing full mathematical transparency — step-by-step formulas, K-factor (10), 1500 baseline, positional normalization, standings bonus scales, complete weights breakdown across all 8 EA FC tactical roles, and a worked example calculation.
 - **7 Major Competitions**: Full support for Premier League, La Liga, Bundesliga, Serie A, Ligue 1, UEFA Champions League, and UEFA Europa League.
 - **Comprehensive 11-Season Database (2016/17 – 2026/27)**: Complete historical archive from 2016/17 onwards and live 2026/27 current campaign.
 - **Crash-Proof Per-League Syncing**: Fast, dedicated syncing per league to prevent rate-limiting timeouts.
@@ -27,7 +29,7 @@ A football player rating engine computing normalized ELO ratings across Europe's
 - **Timestamp Tracking**: Displays exact last updated dates and relative times on charts and in the Sync Center.
 - **Modern Dashboard UI**:
   - Top 3 Podium cards (Gold, Silver, Bronze)
-  - Position filter tabs (`ATT`, `MID`, `DEF`, `GK`)
+  - Position filter tabs (`ATT`, `MID`, `DEF`, `GK`) with granular EA FC badges on every player row
   - Rating tiers based on `ELO_FINAL` (*World Class 1700+*, *Elite 1600+*, *Pro 1500+*, *Solid*)
   - Global player scouting search and in-table filtering
   - Clear competition-specific indicators and banner callouts
@@ -39,12 +41,13 @@ A football player rating engine computing normalized ELO ratings across Europe's
 The rating engine computes position-calibrated ratings using a 5-step algorithm:
 
 1. **Performance Delta ($\Delta_{\text{perf}}$)**:
-   $$\Delta_{\text{perf}} = \sum_{i} (\text{Stat}_i \times \text{Weight}_{\text{pos}, i})$$
+   $$\Delta_{\text{perf}} = \sum_{i} (\text{Stat}_i \times \text{Weight}_{\text{role}, i})$$
+   *Calculated against the player's specific tactical role (`CB`, `FB`, `CDM`, `CM`, `CAM`, `WING`, `ST`, or `GK`).*
 2. **Raw Score ($\text{ELO}_{\text{RAW}}$)**:
    $$\text{ELO}_{\text{RAW}} = 1500 + (10 \times \Delta_{\text{perf}})$$
-3. **Position-Mean Normalization (Anti-Attacker Bias)**:
+3. **Position-Mean Normalization (Anti-Attacker Bias & Role Parity)**:
    $$\text{ELO} = 1500 + (\text{ELO}_{\text{RAW}} - \mu_{\text{Position}})$$
-   *Centers every position around 1500, ensuring defenders and goalkeepers are evaluated fairly alongside forwards.*
+   *Centers every position around 1500. Comparing CDMs against CDMs and CBs against CBs ensures defensive anchors are evaluated fairly against playmakers and strikers.*
 4. **Floor & Rounding**:
    $$\text{ELO} = \text{round}(\max(800, \text{ELO}))$$
 5. **Standings & European Bonus**:

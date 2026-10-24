@@ -46,7 +46,5 @@ def build_season_elo(season_str, norm_season):
         time.sleep(1)
 
 if __name__ == '__main__':
-    # Fetch 2025/2026 (the immediate previous season)
-    build_season_elo('2025/2026', '2025_2026')
-    # Fetch 2023/2024
-    build_season_elo('2023/2024', '2023_2024')
+    # Fetch 2024/2025 (the immediate previous season)
+    build_season_elo('2024/2025', '2024_2025')

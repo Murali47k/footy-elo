@@ -1,509 +1,509 @@
 ParticipantName,TeamName,Position,ELO,STANDINGS_BONUS,ELO_FINAL
-Lionel Messi,Barcelona,ATT,1917,50,1967
+Lionel Messi,Barcelona,CF,1956,50,2006
+Karim Benzema,Real Madrid,ST,1816,66,1882
 Thibaut Courtois,Real Madrid,GK,1748,66,1814
-Karim Benzema,Real Madrid,ATT,1747,66,1813
-Toni Kroos,Real Madrid,MID,1694,66,1760
+Toni Kroos,Real Madrid,CDM,1715,66,1781
+Sergio Ramos,Real Madrid,CB,1699,66,1765
+Santi Cazorla,Villarreal,CAM,1732,24,1756
 Marc-André ter Stegen,Barcelona,GK,1706,50,1756
+Arturo Vidal,Barcelona,CDM,1705,50,1755
 Jan Oblak,Atlético de Madrid,GK,1750,0,1750
-Sergio Ramos,Real Madrid,DEF,1679,66,1745
-Santi Cazorla,Villarreal,ATT,1693,24,1717
-Federico Valverde,Real Madrid,DEF,1650,66,1716
-Arturo Vidal,Barcelona,MID,1651,50,1701
+Federico Valverde,Real Madrid,RWB,1662,66,1728
+Luis Suárez,Barcelona,CF,1669,50,1719
+Raphaël Varane,Real Madrid,CB,1645,66,1711
+Gerard Moreno,Villarreal,CF,1678,24,1702
 Tomás Vaclík,Sevilla,GK,1668,32,1700
-Raphaël Varane,Real Madrid,DEF,1630,66,1696
-Arthur,Barcelona,MID,1639,50,1689
-Moi Gómez,Villarreal,MID,1663,24,1687
+Arthur,Barcelona,CDM,1644,50,1694
+Mikel Oyarzabal,Real Sociedad,ST,1665,20,1685
 David Soria,Getafe,GK,1673,12,1685
-Mikel Oyarzabal,Real Sociedad,ATT,1658,20,1678
-Luis Suárez,Barcelona,ATT,1622,50,1672
-Roberto Torres,Osasuna,ATT,1661,4,1665
-Gerard Moreno,Villarreal,ATT,1640,24,1664
-Dani Parejo,Valencia CF,MID,1660,0,1660
-Martin Ødegaard,Real Sociedad,MID,1638,20,1658
-Victor Diaz,Granada CF,DEF,1654,0,1654
-Frenkie de Jong,Barcelona,MID,1602,50,1652
-Joaquin,Real Betis,MID,1647,0,1647
-Pedro Bigas,Eibar,DEF,1646,0,1646
-Luka Modric,Real Madrid,MID,1579,66,1645
-José Campana,Levante,MID,1635,0,1635
+Moi Gómez,Villarreal,CM,1651,24,1675
+Victor Diaz,Granada CF,CB,1672,0,1672
+Dani Parejo,Valencia CF,CM,1662,0,1662
+Frenkie de Jong,Barcelona,CDM,1610,50,1660
+Pedro Bigas,Eibar,LB,1651,0,1651
+Roberto Torres,Osasuna,RW,1645,4,1649
+Pablo De Blasis,Eibar,CDM,1647,0,1647
+Martin Ødegaard,Real Sociedad,CM,1627,20,1647
+Casemiro,Real Madrid,CDM,1576,66,1642
+Nélson Semedo,Barcelona,RWB,1590,50,1640
+Luka Modric,Real Madrid,CM,1574,66,1640
+Antoine Griezmann,Barcelona,CF,1589,50,1639
+David López,Espanyol,CB,1638,0,1638
+José Martinez,Granada CF,CB,1637,0,1637
+Ivan Rakitic,Barcelona,CDM,1585,50,1635
+Kiko Olivas,Real Valladolid,CB,1634,0,1634
 Rui Silva,Granada CF,GK,1633,0,1633
-Nélson Semedo,Barcelona,DEF,1580,50,1630
-Marco Asensio,Real Madrid,ATT,1563,66,1629
-David López,Espanyol,DEF,1628,0,1628
-Antoine Griezmann,Barcelona,ATT,1575,50,1625
+Pau Torres,Villarreal,CB,1606,24,1630
+Yeray Álvarez,Athletic Club,CB,1630,0,1630
+Óliver Torres,Sevilla,CDM,1598,32,1630
 Unai Simón,Athletic Club,GK,1624,0,1624
-José Martinez,Granada CF,DEF,1624,0,1624
-Ivan Rakitic,Barcelona,MID,1570,50,1620
-Pablo De Blasis,Eibar,MID,1618,0,1618
-Kiko Olivas,Real Valladolid,DEF,1617,0,1617
-Jordi Alba,Barcelona,DEF,1565,50,1615
-Darwin Machís,Granada CF,MID,1615,0,1615
-Kieran Trippier,Atlético de Madrid,DEF,1612,0,1612
-Rubén Pena,Villarreal,DEF,1588,24,1612
-Pau Torres,Villarreal,DEF,1586,24,1610
-Munir El Haddadi,Sevilla,ATT,1577,32,1609
-Koke,Atlético de Madrid,MID,1606,0,1606
-Mohammed Salisu,Real Valladolid,DEF,1604,0,1604
-Yeray Álvarez,Athletic Club,DEF,1604,0,1604
-Mario Gaspar,Villarreal,DEF,1579,24,1603
-Aritz Elustondo,Real Sociedad,DEF,1582,20,1602
+Mohammed Salisu,Real Valladolid,CB,1624,0,1624
+Jordi Alba,Barcelona,LWB,1569,50,1619
+Leandro Cabrera,Espanyol,CB,1617,0,1617
+Ansu Fati,Barcelona,LAM,1566,50,1616
+Kieran Trippier,Atlético de Madrid,RWB,1615,0,1615
+Aritz Elustondo,Real Sociedad,CB,1595,20,1615
+Gabriel Paulista,Valencia CF,CB,1612,0,1612
+Kenneth Omeruo,Leganés,CB,1612,0,1612
+Rubén Pena,Villarreal,RWB,1588,24,1612
+Diego Carlos,Sevilla,CB,1579,32,1611
+Marc Bartra,Real Betis,CB,1611,0,1611
+Koke,Atlético de Madrid,CM,1610,0,1610
+Éver Banega,Sevilla,CDM,1578,32,1610
+Geoffrey Kondogbia,Valencia CF,CDM,1610,0,1610
+Joaquin,Real Betis,CAM,1609,0,1609
+Lucas Ocampos,Sevilla,LW,1576,32,1608
+Sergio Canales,Real Betis,CAM,1601,0,1601
 Alex Remiro,Real Sociedad,GK,1581,20,1601
-Casemiro,Real Madrid,MID,1534,66,1600
-Leandro Cabrera,Espanyol,DEF,1598,0,1598
-Rúben Vezo,Levante,DEF,1596,0,1596
-Óliver Torres,Sevilla,MID,1564,32,1596
-Éver Banega,Sevilla,MID,1563,32,1595
-Héctor Herrera,Atlético de Madrid,MID,1595,0,1595
-Rodrygo,Real Madrid,ATT,1527,66,1593
-Nacho Martínez,Real Valladolid,DEF,1592,0,1592
-Diego Carlos,Sevilla,DEF,1558,32,1590
-Marc Bartra,Real Betis,DEF,1589,0,1589
+Isco,Real Madrid,CAM,1533,66,1599
+Lucas Vázquez,Real Madrid,RM,1533,66,1599
+Joseph Aidoo,Celta de Vigo,CB,1599,0,1599
+Marco Asensio,Real Madrid,CAM,1532,66,1598
+Héctor Herrera,Atlético de Madrid,CM,1597,0,1597
+Sergi Roberto,Barcelona,CDM,1545,50,1595
+Loren Morón,Real Betis,ST,1595,0,1595
+Munir El Haddadi,Sevilla,CF,1561,32,1593
+Rodrygo,Real Madrid,LW,1526,66,1592
+Marcos Llorente,Atlético de Madrid,RWB,1590,0,1590
+Mario Gaspar,Villarreal,RB,1564,24,1588
+Lucas Pérez,Alavés,CF,1588,0,1588
 Marko Dmitrovic,Eibar,GK,1588,0,1588
-Gabriel Paulista,Valencia CF,DEF,1588,0,1588
-Kenneth Omeruo,Leganés,DEF,1587,0,1587
-Lucas Vázquez,Real Madrid,MID,1520,66,1586
-Lucas Ocampos,Sevilla,ATT,1553,32,1585
-Sergi Roberto,Barcelona,MID,1535,50,1585
-Nacho Monreal,Real Sociedad,DEF,1564,20,1584
-Marcos Llorente,Atlético de Madrid,DEF,1583,0,1583
-Óscar Rodríguez,Leganés,MID,1581,0,1581
-Joseph Aidoo,Celta de Vigo,DEF,1580,0,1580
+Domingos Duarte,Granada CF,CB,1587,0,1587
+Nacho Martínez,Real Valladolid,LWB,1585,0,1585
+Portu,Real Sociedad,LW,1564,20,1584
+Eden Hazard,Real Madrid,LW,1518,66,1584
+Sergio Busquets,Barcelona,CM,1534,50,1584
+Sergio Postigo,Levante,CB,1583,0,1583
+José Giménez,Atlético de Madrid,CB,1583,0,1583
+Paulo Oliveira,Eibar,CB,1581,0,1581
 Rubén Blanco,Celta de Vigo,GK,1580,0,1580
-Sergio Busquets,Barcelona,MID,1528,50,1578
-Sergio Reguilón,Sevilla,DEF,1545,32,1577
-Mariano Díaz,Real Madrid,ATT,1510,66,1576
-Eden Hazard,Real Madrid,ATT,1509,66,1575
-Rubén Rochina,Levante,MID,1575,0,1575
+Sergio Reguilón,Sevilla,LWB,1546,32,1578
+Franco Vázquez,Sevilla,CDM,1546,32,1578
+Aridane Hernández,Osasuna,CB,1574,4,1578
+Rubén Rochina,Levante,CM,1578,0,1578
+Nacho Monreal,Real Sociedad,LWB,1558,20,1578
+Joan Jordán,Sevilla,CDM,1545,32,1577
+Rúben Vezo,Levante,RWB,1576,0,1576
+Anaitz Arbilla,Eibar,CB,1576,0,1576
 Jasper Cillessen,Valencia CF,GK,1575,0,1575
-Loren Morón,Real Betis,ATT,1575,0,1575
-Isco,Real Madrid,ATT,1508,66,1574
-James Rodríguez,Real Madrid,ATT,1508,66,1574
-Domingos Duarte,Granada CF,DEF,1573,0,1573
-Ansu Fati,Barcelona,ATT,1523,50,1573
-Javi Ontiveros,Villarreal,MID,1548,24,1572
-Carles Pérez,Barcelona,ATT,1521,50,1571
-Marcelo,Real Madrid,DEF,1505,66,1571
-Portu,Real Sociedad,ATT,1551,20,1571
-Álvaro Vadillo,Granada CF,ATT,1570,0,1570
-José Giménez,Atlético de Madrid,DEF,1570,0,1570
-Kévin Gameiro,Valencia CF,ATT,1570,0,1570
-Denis Suárez,Celta de Vigo,MID,1569,0,1569
-José Ángel,Eibar,DEF,1569,0,1569
-Daniel Carvajal,Real Madrid,DEF,1503,66,1569
-Lucas Pérez,Alavés,ATT,1568,0,1568
-Sergio Postigo,Levante,DEF,1565,0,1565
-Ferland Mendy,Real Madrid,DEF,1498,66,1564
-Jules Koundé,Sevilla,DEF,1532,32,1564
-David Timor,Getafe,MID,1551,12,1563
-Aridane Hernández,Osasuna,DEF,1558,4,1562
-Nolito,Celta de Vigo,MID,1562,0,1562
-Maxi Gómez,Valencia CF,ATT,1562,0,1562
-Geoffrey Kondogbia,Valencia CF,MID,1562,0,1562
-Brahim Díaz,Real Madrid,ATT,1495,66,1561
-Bernardo,Espanyol,DEF,1560,0,1560
+Daniel Carvajal,Real Madrid,RWB,1509,66,1575
+Marcelo,Real Madrid,LWB,1508,66,1574
+José Campana,Levante,CAM,1573,0,1573
+Clément Lenglet,Barcelona,CB,1523,50,1573
+Felipe,Atlético de Madrid,CB,1570,0,1570
+Óscar Rodríguez,Leganés,CM,1570,0,1570
+Bernardo,Espanyol,CB,1570,0,1570
+Mikel Vesga,Athletic Club,CDM,1569,0,1569
+Darwin Machís,Granada CF,LM,1569,0,1569
+Kévin Gameiro,Valencia CF,CF,1568,0,1568
+Karl Toko Ekambi,Villarreal,ST,1544,24,1568
+José Ángel,Eibar,LWB,1566,0,1566
+Maxi Gómez,Valencia CF,CF,1565,0,1565
+Ferland Mendy,Real Madrid,LWB,1499,66,1565
+Diego Llorente,Real Sociedad,CB,1545,20,1565
+Javi Ontiveros,Villarreal,LM,1540,24,1564
+Raúl Albiol,Villarreal,CB,1538,24,1562
+Carles Pérez,Barcelona,RW,1512,50,1562
+Youssef En-Nesyri,Sevilla,ST,1529,32,1561
+Ángel Rodriguez,Getafe,ST,1549,12,1561
+Alexander Isak,Real Sociedad,ST,1541,20,1561
 Fernando Pacheco,Alavés,GK,1560,0,1560
-Anaitz Arbilla,Eibar,DEF,1559,0,1559
-Mikel Merino,Real Sociedad,MID,1539,20,1559
-Clément Lenglet,Barcelona,DEF,1508,50,1558
+Iago Aspas,Celta de Vigo,RW,1560,0,1560
+Denis Suárez,Celta de Vigo,CM,1559,0,1559
+Robin Le Normand,Real Sociedad,CB,1538,20,1558
+Mikel Merino,Real Sociedad,CM,1538,20,1558
+Saúl,Atlético de Madrid,CDM,1558,0,1558
+Emerson Royal,Real Betis,RWB,1558,0,1558
+Jon Moncayola,Osasuna,CDM,1553,4,1557
+Jules Koundé,Sevilla,RWB,1525,32,1557
 Aitor Fernández,Levante,GK,1557,0,1557
-Paulo Oliveira,Eibar,DEF,1557,0,1557
-Vitolo,Atlético de Madrid,MID,1556,0,1556
-Takefusa Kubo,Mallorca,ATT,1556,0,1556
-Diego Llorente,Real Sociedad,DEF,1535,20,1555
-Suso,Sevilla,ATT,1523,32,1555
-Emerson Royal,Real Betis,DEF,1554,0,1554
-Luka Jovic,Real Madrid,ATT,1488,66,1554
-Renan Lodi,Atlético de Madrid,DEF,1554,0,1554
-Franco Vázquez,Sevilla,MID,1521,32,1553
-Samuel Chukwueze,Villarreal,ATT,1529,24,1553
-Adnan Januzaj,Real Sociedad,ATT,1533,20,1553
-Tono,Levante,DEF,1553,0,1553
-Riqui Puig,Barcelona,MID,1500,50,1550
-Robin Le Normand,Real Sociedad,DEF,1529,20,1549
-Lucas Olaza,Celta de Vigo,DEF,1548,0,1548
-Paco Alcácer,Villarreal,ATT,1524,24,1548
-Ángel Rodriguez,Getafe,ATT,1536,12,1548
-Felipe,Atlético de Madrid,DEF,1547,0,1547
+Willian José,Real Sociedad,ST,1535,20,1555
+Mariano Díaz,Real Madrid,CF,1487,66,1553
+James Rodríguez,Real Madrid,CAM,1487,66,1553
+Ángel Correa,Atlético de Madrid,CAM,1553,0,1553
+Pere Pons,Alavés,CDM,1552,0,1552
+Paco Alcácer,Villarreal,ST,1528,24,1552
+Nolito,Celta de Vigo,LM,1551,0,1551
+Samuel Chukwueze,Villarreal,LW,1527,24,1551
+Joan Sastre,Mallorca,RWB,1551,0,1551
+Luka Jovic,Real Madrid,ST,1485,66,1551
+Manu Trigueros,Villarreal,CM,1526,24,1550
+Martin Braithwaite,Barcelona,ST,1499,50,1549
+Tono,Levante,LWB,1549,0,1549
+Unai López,Athletic Club,CDM,1548,0,1548
+Renan Lodi,Atlético de Madrid,LWB,1548,0,1548
+Álvaro Vadillo,Granada CF,RW,1548,0,1548
+Frank Anguissa,Villarreal,CM,1523,24,1547
 Iván Cuéllar,Leganés,GK,1546,0,1546
-Fran Gámez,Mallorca,DEF,1546,0,1546
-Mikel Vesga,Athletic Club,MID,1545,0,1545
-Joan Sastre,Mallorca,DEF,1545,0,1545
+Lucas Olaza,Celta de Vigo,LWB,1545,0,1545
+Raúl García,Athletic Club,ST,1545,0,1545
 Rubén Martinez,Osasuna,GK,1540,4,1544
-Frank Anguissa,Villarreal,MID,1520,24,1544
-Alfonso Pedraza,Real Betis,DEF,1543,0,1543
-Karl Toko Ekambi,Villarreal,ATT,1519,24,1543
-Manu Trigueros,Villarreal,MID,1519,24,1543
-Joan Jordán,Sevilla,MID,1510,32,1542
-Jesús Navas,Sevilla,ATT,1509,32,1541
-Alexander Isak,Real Sociedad,ATT,1520,20,1540
-Raúl Albiol,Villarreal,DEF,1516,24,1540
-Inigo Pérez,Osasuna,MID,1535,4,1539
-Salva Sevilla,Mallorca,MID,1539,0,1539
+Fran Gámez,Mallorca,RWB,1544,0,1544
+Nemanja Maksimovic,Getafe,CDM,1531,12,1543
+Salva Sevilla,Mallorca,CDM,1542,0,1542
+Brahim Díaz,Real Madrid,RW,1476,66,1542
+Daniel Wass,Valencia CF,CDM,1541,0,1541
+Roger Martí,Levante,CF,1541,0,1541
+Vinícius Júnior,Real Madrid,LW,1475,66,1541
+Álvaro Odriozola,Real Madrid,RWB,1475,66,1541
+David Timor,Getafe,CM,1528,12,1540
+Borja Mayoral,Levante,CF,1540,0,1540
+Fernando,Sevilla,CDM,1507,32,1539
+Lumor Agbenyenu,Mallorca,LB,1539,0,1539
+Joselu,Alavés,ST,1539,0,1539
+Fede Vico,Granada CF,LM,1538,0,1538
 Sergio Herrera,Osasuna,GK,1534,4,1538
-Alejandro Pozo,Mallorca,ATT,1538,0,1538
-Naïs Djouahra,Real Sociedad,ATT,1518,20,1538
-Jaume Costa,Valencia CF,DEF,1538,0,1538
-Adrià Pedrosa,Espanyol,DEF,1537,0,1537
 Yassine Bounou,Sevilla,GK,1505,32,1537
-Enis Bardhi,Levante,ATT,1536,0,1536
-Álex Moreno,Real Betis,DEF,1536,0,1536
-Unai López,Athletic Club,MID,1535,0,1535
-Kévin Rodrigues,Leganés,DEF,1535,0,1535
-Youssef En-Nesyri,Sevilla,ATT,1503,32,1535
-Carlos Clerc,Levante,DEF,1535,0,1535
-Fer Niño,Villarreal,ATT,1510,24,1534
-Michel Herrero,Real Valladolid,MID,1533,0,1533
-Nemanja Radoja,Levante,MID,1532,0,1532
-Gareth Bale,Real Madrid,ATT,1466,66,1532
-Álvaro Odriozola,Real Madrid,DEF,1465,66,1531
-Manu Vallejo,Valencia CF,ATT,1530,0,1530
+Alfonso Pedraza,Real Betis,LWB,1536,0,1536
+Kévin Rodrigues,Leganés,LWB,1535,0,1535
+Adrià Pedrosa,Espanyol,LWB,1535,0,1535
+Suso,Sevilla,CF,1503,32,1535
+Fran Beltrán,Celta de Vigo,CDM,1534,0,1534
+Gareth Bale,Real Madrid,RW,1467,66,1533
+Riqui Puig,Barcelona,CAM,1482,50,1532
+Ander Capa,Athletic Club,RWB,1532,0,1532
+Enis Bardhi,Levante,LW,1532,0,1532
+Takefusa Kubo,Mallorca,RW,1531,0,1531
+Álex Moreno,Real Betis,LWB,1531,0,1531
+Dimitris Siovas,Leganés,CB,1531,0,1531
+Mouctar Diakhaby,Valencia CF,CB,1530,0,1530
 Miguel Ángel Moyà,Real Sociedad,GK,1510,20,1530
-Sergio Canales,Real Betis,ATT,1530,0,1530
 Neto,Barcelona,GK,1480,50,1530
-Vinícius Júnior,Real Madrid,ATT,1464,66,1530
-Carlos Neva,Granada CF,DEF,1530,0,1530
-Carlos Bacca,Villarreal,ATT,1506,24,1530
-Manu Morlanes,Villarreal,MID,1505,24,1529
-Ander Capa,Athletic Club,DEF,1529,0,1529
-Lumor Agbenyenu,Mallorca,DEF,1528,0,1528
-Carles Aleñá,Real Betis,MID,1528,0,1528
-Martin Braithwaite,Barcelona,ATT,1478,50,1528
-Nemanja Maksimovic,Getafe,MID,1516,12,1528
-Iñigo Córdoba,Athletic Club,MID,1527,0,1527
-Pablo Hervías,Real Valladolid,ATT,1527,0,1527
-Iago Aspas,Celta de Vigo,ATT,1527,0,1527
-Nacho,Real Madrid,DEF,1460,66,1526
-Gonçalo Guedes,Valencia CF,ATT,1526,0,1526
-Daniel Wass,Valencia CF,MID,1526,0,1526
-Rubén Sobrino,Valencia CF,ATT,1525,0,1525
-Roger Martí,Levante,ATT,1525,0,1525
-Víctor García,Real Valladolid,ATT,1525,0,1525
-Edu Expósito,Eibar,ATT,1525,0,1525
-Luca Sangalli,Real Sociedad,MID,1505,20,1525
-Roberto López,Real Sociedad,MID,1505,20,1525
-Iker Losada,Celta de Vigo,ATT,1525,0,1525
-Hugo Mallo,Celta de Vigo,DEF,1525,0,1525
-Borja Mayoral,Levante,ATT,1524,0,1524
-Kenedy,Getafe,ATT,1512,12,1524
+Okay Yokuslu,Celta de Vigo,CB,1529,0,1529
+Michel Herrero,Real Valladolid,CM,1529,0,1529
+Gonzalo Melero,Levante,CDM,1529,0,1529
+Iñigo Martínez,Athletic Club,CB,1528,0,1528
+Djené,Getafe,CB,1515,12,1527
+Naïs Djouahra,Real Sociedad,LW,1507,20,1527
+Edu Expósito,Eibar,CAM,1526,0,1526
+Jaume Costa,Valencia CF,LWB,1526,0,1526
+Carlos Neva,Granada CF,LWB,1526,0,1526
+Carlos Clerc,Levante,LWB,1526,0,1526
+Rodrigo Ely,Alavés,CB,1525,0,1525
+Unai Bustinza,Leganés,CB,1524,0,1524
+Stefan Savic,Atlético de Madrid,CB,1524,0,1524
 Alphonse Areola,Real Madrid,GK,1458,66,1524
-Roger Assalé,Leganés,ATT,1523,0,1523
-Okay Yokuslu,Celta de Vigo,DEF,1522,0,1522
-Fran Beltrán,Celta de Vigo,MID,1521,0,1521
-Aleix Febas,Mallorca,MID,1520,0,1520
-Fede Vico,Granada CF,MID,1520,0,1520
-Juan Hernández,Mallorca,ATT,1520,0,1520
-Ander Barrenetxea,Real Sociedad,ATT,1500,20,1520
-Djené,Getafe,DEF,1508,12,1520
-Ousmane Dembélé,Barcelona,ATT,1470,50,1520
-Matías Vargas,Espanyol,ATT,1520,0,1520
-Fabián Orellana,Eibar,ATT,1519,0,1519
-Joseba Zaldúa,Real Sociedad,DEF,1499,20,1519
-Mouctar Diakhaby,Valencia CF,DEF,1519,0,1519
-Pere Pons,Alavés,MID,1518,0,1518
-Quique,Eibar,ATT,1518,0,1518
-Nacho Vidal,Osasuna,DEF,1513,4,1517
-Raúl García,Athletic Club,ATT,1517,0,1517
+Adnan Januzaj,Real Sociedad,CF,1504,20,1524
+Manu Vallejo,Valencia CF,LW,1524,0,1524
+Nacho Vidal,Osasuna,RWB,1519,4,1523
+Iker Muniain,Athletic Club,CAM,1523,0,1523
+Carlos Bacca,Villarreal,ST,1499,24,1523
+Cristian Tello,Real Betis,CAM,1522,0,1522
+Jesús Navas,Sevilla,RW,1489,32,1521
+Victor Laguardia,Alavés,CB,1520,0,1520
+Gaizka Larrazabal,Athletic Club,RM,1520,0,1520
+Germán Valera,Atlético de Madrid,LM,1520,0,1520
+Fer Niño,Villarreal,ST,1496,24,1520
+Joaquin Fernández,Real Valladolid,CB,1519,0,1519
+Joseba Zaldúa,Real Sociedad,RWB,1499,20,1519
+Hugo Mallo,Celta de Vigo,RWB,1519,0,1519
+Mathías Olivera,Getafe,CB,1506,12,1518
+David García,Osasuna,CB,1514,4,1518
+Nemanja Gudelj,Sevilla,CB,1486,32,1518
+Alejandro Pozo,Mallorca,RW,1517,0,1517
+Marc Cucurella,Getafe,LWB,1505,12,1517
+Martin Valjent,Mallorca,CB,1516,0,1516
+Vitolo,Atlético de Madrid,LM,1516,0,1516
 Manolo Reina,Mallorca,GK,1516,0,1516
-Mathías Olivera,Getafe,DEF,1504,12,1516
-José Gayà,Valencia CF,DEF,1516,0,1516
-Ronald Araujo,Barcelona,DEF,1465,50,1515
-Asier Illarramendi,Real Sociedad,MID,1495,20,1515
-Kenan Kodro,Athletic Club,ATT,1515,0,1515
-Saúl,Atlético de Madrid,MID,1515,0,1515
-Gonzalo Melero,Levante,MID,1514,0,1514
-Marc Cucurella,Getafe,DEF,1501,12,1513
-Pione Sisto,Celta de Vigo,ATT,1513,0,1513
-Dimitris Siovas,Leganés,DEF,1513,0,1513
-Nemanja Gudelj,Sevilla,DEF,1480,32,1512
-Enrique Barja,Osasuna,ATT,1508,4,1512
-Ferran Torres,Valencia CF,ATT,1512,0,1512
-Stefan Savic,Atlético de Madrid,DEF,1511,0,1511
-Yannick Carrasco,Atlético de Madrid,ATT,1511,0,1511
-Willian José,Real Sociedad,ATT,1491,20,1511
-Yuri Berchiche,Athletic Club,DEF,1511,0,1511
-Darío Poveda,Atlético de Madrid,ATT,1510,0,1510
-Juan Hernández,Celta de Vigo,ATT,1510,0,1510
-Sabin Merino,Leganés,ATT,1510,0,1510
-Diego Lainez,Real Betis,ATT,1510,0,1510
-Aleksandar Trajkovski,Mallorca,ATT,1510,0,1510
-Adrián Ramos,Granada CF,ATT,1510,0,1510
-Jorge de Frutos,Real Valladolid,ATT,1510,0,1510
-John Guidetti,Alavés,ATT,1510,0,1510
-Yannis Salibur,Mallorca,ATT,1510,0,1510
-Unai García,Osasuna,DEF,1505,4,1509
-Fernando,Sevilla,MID,1477,32,1509
-Óscar Melendo,Espanyol,ATT,1509,0,1509
-Jon Moncayola,Osasuna,MID,1505,4,1509
-Iñigo Martínez,Athletic Club,DEF,1509,0,1509
-Hernâni,Levante,ATT,1508,0,1508
-Oihan Sancet,Athletic Club,ATT,1508,0,1508
-Joselu,Alavés,ATT,1508,0,1508
-Javier Avilés,Leganés,ATT,1508,0,1508
-Martín Aguirregabiria,Alavés,DEF,1507,0,1507
-Javier Hernández,Sevilla,ATT,1475,32,1507
-Pervis Estupinán,Osasuna,MID,1503,4,1507
-Unai Núñez,Athletic Club,DEF,1507,0,1507
-Sergio Escudero,Sevilla,DEF,1475,32,1507
-Éder Militao,Real Madrid,DEF,1440,66,1506
-Marc Cardona,Osasuna,ATT,1501,4,1505
-Unai Bustinza,Leganés,DEF,1505,0,1505
-Sidnei,Real Betis,DEF,1505,0,1505
-Cristian Tello,Real Betis,ATT,1504,0,1504
-Juan Villar,Osasuna,ATT,1500,4,1504
-Martin Valjent,Mallorca,DEF,1504,0,1504
-Bruno Soriano,Villarreal,MID,1480,24,1504
-Joaquin Fernández,Real Valladolid,DEF,1503,0,1503
-Takashi Inui,Eibar,ATT,1503,0,1503
-Adrián Lopez,Osasuna,ATT,1499,4,1503
-Rodrigo Ely,Alavés,DEF,1503,0,1503
-Victor Laguardia,Alavés,DEF,1502,0,1502
-Kike García,Eibar,ATT,1502,0,1502
-Rafinha,Celta de Vigo,ATT,1501,0,1501
-Iñaki Williams,Athletic Club,ATT,1501,0,1501
-Xavi Quintillà,Villarreal,MID,1477,24,1501
+Rodrigo,Valencia CF,RW,1515,0,1515
+Rafinha,Celta de Vigo,CAM,1515,0,1515
+Ibai Gómez,Athletic Club,RM,1515,0,1515
+Takashi Inui,Eibar,LAM,1514,0,1514
+Ander Barrenetxea,Real Sociedad,LW,1494,20,1514
+Iñaki Williams,Athletic Club,RW,1514,0,1514
+Iker Losada,Celta de Vigo,LW,1514,0,1514
+Juan Hernández,Mallorca,ST,1512,0,1512
+Manu Morlanes,Villarreal,CDM,1488,24,1512
+Yuri Berchiche,Athletic Club,LWB,1512,0,1512
+Federico San Emeterio,Real Valladolid,CDM,1512,0,1512
+José Gayà,Valencia CF,LWB,1510,0,1510
+Nabil Fekir,Real Betis,CAM,1510,0,1510
+Sergio Escudero,Sevilla,LWB,1478,32,1510
+Íñigo Lekue,Athletic Club,RWB,1510,0,1510
+Marc Roca,Espanyol,CDM,1510,0,1510
+Fabián Orellana,Eibar,RW,1510,0,1510
+Gonçalo Guedes,Valencia CF,LW,1509,0,1509
+Ferran Torres,Valencia CF,ST,1509,0,1509
+Roger Assalé,Leganés,RW,1509,0,1509
+Kike García,Eibar,ST,1509,0,1509
+Sidnei,Real Betis,RB,1508,0,1508
+Ezequiel Ávila,Osasuna,ST,1504,4,1508
+Javier Hernández,Sevilla,ST,1476,32,1508
+Rubén Garcia,Osasuna,RW,1504,4,1508
+Martín Aguirregabiria,Alavés,RWB,1507,0,1507
+Roberto López,Real Sociedad,CM,1486,20,1506
+Luca Sangalli,Real Sociedad,CM,1486,20,1506
+Enrique Barja,Osasuna,LW,1502,4,1506
+Pione Sisto,Celta de Vigo,LW,1506,0,1506
+Víctor García,Real Valladolid,RW,1506,0,1506
+Kenedy,Getafe,RW,1493,12,1505
+Marc Navarro,Leganés,RM,1505,0,1505
+Ismail Köybasi,Granada CF,LM,1505,0,1505
+Tomas Pina,Alavés,CDM,1505,0,1505
+Fran Mérida,Osasuna,RAM,1500,4,1504
+Luuk de Jong,Sevilla,CF,1472,32,1504
+Kenan Kodro,Athletic Club,ST,1504,0,1504
+Maxime Gonalons,Granada CF,CDM,1503,0,1503
+Junior Lago,Mallorca,CAM,1503,0,1503
+Ousmane Dembélé,Barcelona,CF,1453,50,1503
+Nacho,Real Madrid,CB,1436,66,1502
+Rubén Sobrino,Valencia CF,CF,1502,0,1502
+Yan Brice Eteki,Granada CF,CDM,1501,0,1501
+Pablo Hervías,Real Valladolid,CAM,1501,0,1501
 Joel Robles,Real Betis,GK,1501,0,1501
-David Zurutuza,Real Sociedad,MID,1480,20,1500
-Ivan Saponjic,Atlético de Madrid,ATT,1500,0,1500
-Íñigo Lekue,Athletic Club,DEF,1500,0,1500
-Iker Muniain,Athletic Club,ATT,1500,0,1500
-David García,Osasuna,DEF,1496,4,1500
-Hugo Duro,Getafe,ATT,1488,12,1500
-Federico San Emeterio,Real Valladolid,MID,1499,0,1499
-Rubén Garcia,Osasuna,ATT,1495,4,1499
-Antonio Puertas,Granada CF,ATT,1499,0,1499
-Javi Moyano,Real Valladolid,DEF,1496,0,1496
-Sergi Guardiola,Real Valladolid,ATT,1496,0,1496
-Ángel Correa,Atlético de Madrid,ATT,1496,0,1496
-Nico Melamed,Espanyol,ATT,1495,0,1495
-Jacobo González,Celta de Vigo,ATT,1495,0,1495
-Miguel de la Fuente,Real Valladolid,ATT,1495,0,1495
-Antonio Cortés,Granada CF,ATT,1495,0,1495
-Hatem Ben Arfa,Real Valladolid,ATT,1495,0,1495
-Jaume Domènech,Valencia CF,GK,1495,0,1495
-Matheus Fernandes,Real Valladolid,MID,1495,0,1495
-Gaizka Larrazabal,Athletic Club,MID,1495,0,1495
-Asier Villalibre,Athletic Club,ATT,1495,0,1495
-Josep Sené,Mallorca,MID,1495,0,1495
+Álvaro Morata,Atlético de Madrid,ST,1501,0,1501
+Yannick Carrasco,Atlético de Madrid,LW,1500,0,1500
+Santi Mina,Celta de Vigo,ST,1500,0,1500
+Carles Aleñá,Real Betis,LM,1500,0,1500
+Yannis Salibur,Mallorca,LW,1499,0,1499
+Sergi Guardiola,Real Valladolid,CF,1499,0,1499
+Asier Illarramendi,Real Sociedad,CDM,1478,20,1498
+Marc Cardona,Osasuna,RW,1494,4,1498
+Óscar Melendo,Espanyol,CAM,1498,0,1498
+Junior Firpo,Barcelona,LWB,1448,50,1498
+Javier Avilés,Leganés,ST,1497,0,1497
+Germán Sánchez,Granada CF,CB,1497,0,1497
+Joao Félix,Atlético de Madrid,CAM,1497,0,1497
+Asier Villalibre,Athletic Club,ST,1496,0,1496
+Inigo Pérez,Osasuna,LM,1492,4,1496
+Javi Moyano,Real Valladolid,RWB,1495,0,1495
+Óscar De Marcos,Athletic Club,RWB,1495,0,1495
+Thierry Correia,Valencia CF,RWB,1495,0,1495
+Santiago Arias,Atlético de Madrid,RWB,1495,0,1495
 Oier Olazábal,Espanyol,GK,1495,0,1495
-Germán Valera,Atlético de Madrid,MID,1495,0,1495
-Ibai Gómez,Athletic Club,MID,1495,0,1495
-Junior Firpo,Barcelona,DEF,1445,50,1495
-Benat Etxebarria,Athletic Club,MID,1495,0,1495
-Soufiane Chakla,Villarreal,DEF,1470,24,1494
-Ramiro Funes Mori,Villarreal,DEF,1470,24,1494
-Ximo Navarro,Alavés,DEF,1493,0,1493
-Francisco Portillo,Getafe,ATT,1481,12,1493
-Gil Dias,Granada CF,ATT,1493,0,1493
-Adrián Embarba,Espanyol,ATT,1492,0,1492
-Nabil Fekir,Real Betis,ATT,1492,0,1492
+Jaume Domènech,Valencia CF,GK,1495,0,1495
+Adrián Ramos,Granada CF,ST,1494,0,1494
+Robert Ibánez,Osasuna,LM,1490,4,1494
+Jorge de Frutos,Real Valladolid,ST,1494,0,1494
+Aihen Muñoz,Real Sociedad,LWB,1473,20,1493
+Quique,Eibar,CF,1493,0,1493
 Andrés Fernández,Villarreal,GK,1468,24,1492
-Diego Costa,Atlético de Madrid,ATT,1491,0,1491
-Rodrigo,Valencia CF,ATT,1491,0,1491
-Ivan Ramis,Eibar,DEF,1490,0,1490
-Thomas Lemar,Atlético de Madrid,ATT,1490,0,1490
-Aihen Muñoz,Real Sociedad,DEF,1470,20,1490
-Deyverson,Getafe,ATT,1478,12,1490
-Víctor Camarasa,Alavés,MID,1490,0,1490
-Luis Rioja,Alavés,MID,1486,0,1486
-Jason,Getafe,ATT,1474,12,1486
-Santi Mina,Celta de Vigo,ATT,1486,0,1486
-Roberto Rosales,Leganés,DEF,1485,0,1485
-Óscar Duarte,Levante,DEF,1485,0,1485
-Miguel Ángel Guerrero,Leganés,ATT,1485,0,1485
-Facundo Ferreyra,Espanyol,ATT,1485,0,1485
-Leonárdo Koútris,Mallorca,DEF,1485,0,1485
-Óscar De Marcos,Athletic Club,DEF,1485,0,1485
-Javi López,Alavés,DEF,1485,0,1485
-Santiago Arias,Atlético de Madrid,DEF,1485,0,1485
-Thierry Correia,Valencia CF,DEF,1485,0,1485
-Martín Zubimendi,Real Sociedad,MID,1465,20,1485
-Javi Sánchez,Real Valladolid,DEF,1485,0,1485
-Pablo Chavarría,Mallorca,ATT,1485,0,1485
-Ángel Montoro,Granada CF,MID,1485,0,1485
-Ezequiel Ávila,Osasuna,ATT,1479,4,1483
-Antonio Raíllo,Mallorca,DEF,1483,0,1483
-Aleix Vidal,Alavés,ATT,1481,0,1481
-Sebastián Cristoforo,Eibar,MID,1480,0,1480
-Unai Vencedor,Athletic Club,MID,1480,0,1480
-Stanislav Lobotka,Celta de Vigo,MID,1480,0,1480
-Wilfrid Kaptoum,Real Betis,MID,1480,0,1480
+Antonio Raíllo,Mallorca,CB,1492,0,1492
+Antonio Puertas,Granada CF,CF,1492,0,1492
+Juan Hernández,Celta de Vigo,RW,1491,0,1491
+Diego Lainez,Real Betis,RW,1491,0,1491
+Ronald Araujo,Barcelona,CB,1441,50,1491
+Adrián Embarba,Espanyol,LW,1491,0,1491
+Adrián Lopez,Osasuna,CF,1487,4,1491
+Carlos Fernández,Granada CF,CF,1491,0,1491
+Juan Villar,Osasuna,RW,1486,4,1490
+Iddrisu Baba,Mallorca,CDM,1490,0,1490
+Diego Costa,Atlético de Madrid,CF,1488,0,1488
+Leonárdo Koútris,Mallorca,LWB,1488,0,1488
+Javi López,Alavés,LWB,1488,0,1488
+Matías Vargas,Espanyol,CF,1488,0,1488
+Oihan Sancet,Athletic Club,CAM,1487,0,1487
+Bruno Soriano,Villarreal,CDM,1463,24,1487
+Hernâni,Levante,CF,1486,0,1486
+Ximo Navarro,Alavés,RWB,1486,0,1486
+Igor Zubeldia,Real Sociedad,CB,1466,20,1486
+John Guidetti,Alavés,CF,1485,0,1485
+Sabin Merino,Leganés,CF,1485,0,1485
+Aleksandar Trajkovski,Mallorca,CF,1485,0,1485
+Darío Poveda,Atlético de Madrid,CF,1485,0,1485
+Unai García,Osasuna,CB,1481,4,1485
+Unai Núñez,Athletic Club,RB,1485,0,1485
+Andoni Gorosabel,Real Sociedad,RWB,1465,20,1485
+Coke,Levante,RM,1485,0,1485
+Nico Melamed,Espanyol,LW,1484,0,1484
+Jacobo González,Celta de Vigo,LW,1484,0,1484
+David Zurutuza,Real Sociedad,CDM,1463,20,1483
+Éder Militao,Real Madrid,CB,1416,66,1482
+Roberto Rosales,Leganés,LWB,1481,0,1481
+Rubén Pérez,Leganés,CDM,1480,0,1480
+Sébastien Corchia,Espanyol,RWB,1480,0,1480
 Roberto,Alavés,GK,1480,0,1480
+Pedro Porro,Real Valladolid,RWB,1480,0,1480
+Antonito,Real Valladolid,RWB,1480,0,1480
 Aarón Escandell,Granada CF,GK,1480,0,1480
-Ismail Köybasi,Granada CF,MID,1480,0,1480
-Ismael Gutiérrez,Real Betis,MID,1480,0,1480
-Kike Pérez,Real Valladolid,MID,1480,0,1480
-Abdallahi Mahmoud,Alavés,MID,1480,0,1480
-Marc Navarro,Leganés,MID,1480,0,1480
-Juanmi,Real Betis,ATT,1480,0,1480
-José Luis Morales,Levante,ATT,1480,0,1480
-José Antonio Caro,Real Valladolid,GK,1480,0,1480
-Iván Villar,Celta de Vigo,GK,1480,0,1480
-Koke Vegas,Levante,GK,1480,0,1480
-Ander Iturraspe,Espanyol,MID,1480,0,1480
-Fedor Smolov,Celta de Vigo,ATT,1480,0,1480
-Edgar Méndez,Alavés,ATT,1480,0,1480
 Dani Martín,Real Betis,GK,1480,0,1480
-Luuk de Jong,Sevilla,ATT,1447,32,1479
-Toni Villa,Real Valladolid,MID,1479,0,1479
-Germán Sánchez,Granada CF,DEF,1478,0,1478
-Igor Zubeldia,Real Sociedad,DEF,1458,20,1478
-Francis Coquelin,Valencia CF,MID,1478,0,1478
-Carlos Soler,Valencia CF,ATT,1478,0,1478
-Fayçal Fajr,Getafe,MID,1465,12,1477
-Borja Sainz,Alavés,ATT,1477,0,1477
-Carlos Fernández,Granada CF,ATT,1477,0,1477
-Markel Bergara,Getafe,MID,1465,12,1477
-Oliver Burke,Alavés,ATT,1477,0,1477
-Marc Roca,Espanyol,MID,1476,0,1476
-Pol Lozano,Espanyol,MID,1475,0,1475
-Andoni Gorosabel,Real Sociedad,DEF,1455,20,1475
-Ramon Azeez,Granada CF,ATT,1473,0,1473
-Borja Iglesias,Real Betis,ATT,1473,0,1473
-Sandro Ramírez,Real Valladolid,ATT,1473,0,1473
-José Arnáiz,Osasuna,ATT,1468,4,1472
-Daniel Carrico,Sevilla,DEF,1440,32,1472
-Yan Brice Eteki,Granada CF,MID,1472,0,1472
-Sébastien Corchia,Espanyol,DEF,1470,0,1470
-Tachi,Alavés,DEF,1470,0,1470
-Jesús Vallejo,Granada CF,DEF,1470,0,1470
-David Juncà,Celta de Vigo,DEF,1470,0,1470
-Raul Carnero,Real Valladolid,DEF,1470,0,1470
-Xisco Campos,Mallorca,DEF,1470,0,1470
-Adrián Marin,Alavés,DEF,1470,0,1470
-Abdul Rahman Baba,Mallorca,DEF,1470,0,1470
-Adrián Guerrero,Valencia CF,DEF,1470,0,1470
-Rodrigo Tarin,Leganés,DEF,1470,0,1470
-Kang-In Lee,Valencia CF,MID,1470,0,1470
-Bruno González,Levante,DEF,1470,0,1470
-Mikel Balenziaga,Athletic Club,DEF,1470,0,1470
-Lluís López,Espanyol,DEF,1470,0,1470
-Manuel Sánchez,Atlético de Madrid,DEF,1470,0,1470
-Rafa Soares,Eibar,DEF,1470,0,1470
-Antonito,Real Valladolid,DEF,1470,0,1470
-David Costas,Celta de Vigo,DEF,1470,0,1470
-Álex Martinez,Granada CF,DEF,1470,0,1470
-Pedro Porro,Real Valladolid,DEF,1470,0,1470
-Anuar,Real Valladolid,DEF,1470,0,1470
-Robert Ibánez,Osasuna,MID,1465,4,1469
-Iddrisu Baba,Mallorca,MID,1469,0,1469
-Tomas Pina,Alavés,MID,1469,0,1469
-Ibrahim Amadou,Leganés,MID,1465,0,1465
-Eliseo Falcón,Levante,DEF,1465,0,1465
-Ljubomir Fejsa,Alavés,MID,1465,0,1465
-Coke,Levante,MID,1465,0,1465
-Javi Garcia,Real Betis,MID,1465,0,1465
-Toni Lato,Osasuna,DEF,1460,4,1464
-Vicente Iborra,Villarreal,MID,1440,24,1464
-Dani Rodríguez,Mallorca,ATT,1463,0,1463
-Junior Lago,Mallorca,ATT,1463,0,1463
-Peter Etebo,Getafe,MID,1450,12,1462
-Sergio León,Levante,ATT,1460,0,1460
-Esteban Burgos,Eibar,DEF,1460,0,1460
-Pape Kouli Diop,Eibar,MID,1460,0,1460
-Alessandro Florenzi,Valencia CF,MID,1460,0,1460
-Lisandro Magallán,Alavés,DEF,1460,0,1460
-Aritz Aduriz,Athletic Club,ATT,1460,0,1460
-Raúl Navas,Osasuna,DEF,1455,4,1459
-Lillo Castellano,Osasuna,DEF,1455,4,1459
+Koke Vegas,Levante,GK,1480,0,1480
+José Antonio Caro,Real Valladolid,GK,1480,0,1480
+Anuar,Real Valladolid,RWB,1480,0,1480
+Iván Villar,Celta de Vigo,GK,1480,0,1480
+Miguel de la Fuente,Real Valladolid,ST,1479,0,1479
+Gil Dias,Granada CF,RW,1479,0,1479
+Enes Ünal,Real Valladolid,ST,1479,0,1479
+Aleix Vidal,Alavés,LW,1478,0,1478
+Josep Sené,Mallorca,CDM,1478,0,1478
+Benat Etxebarria,Athletic Club,CDM,1478,0,1478
+Iñigo Córdoba,Athletic Club,LM,1478,0,1478
+Ivan Saponjic,Atlético de Madrid,CF,1478,0,1478
+José Luis Morales,Levante,CF,1478,0,1478
+Matheus Fernandes,Real Valladolid,CDM,1478,0,1478
+Nemanja Radoja,Levante,CAM,1478,0,1478
+Pape Kouli Diop,Eibar,CDM,1478,0,1478
+Deyverson,Getafe,ST,1465,12,1477
+Hugo Duro,Getafe,CF,1465,12,1477
+Thomas Lemar,Atlético de Madrid,CAM,1477,0,1477
+Ante Budimir,Mallorca,ST,1476,0,1476
+Aleix Febas,Mallorca,CAM,1476,0,1476
+Miguel Ángel Guerrero,Leganés,CF,1474,0,1474
+Facundo Ferreyra,Espanyol,ST,1474,0,1474
+Adrián Guerrero,Valencia CF,LWB,1473,0,1473
+Luis Rioja,Alavés,RM,1473,0,1473
+Manuel Sánchez,Atlético de Madrid,LWB,1473,0,1473
+Gerard Piqué,Barcelona,CB,1423,50,1473
+Raul Carnero,Real Valladolid,LWB,1473,0,1473
+Abdul Rahman Baba,Mallorca,LWB,1473,0,1473
+Rafa Soares,Eibar,LWB,1473,0,1473
+Óscar Plano,Real Valladolid,CAM,1473,0,1473
+Víctor Camarasa,Alavés,CDM,1473,0,1473
+Mikel Balenziaga,Athletic Club,LWB,1473,0,1473
+Adrián Marin,Alavés,LWB,1473,0,1473
+Rubén Alcaraz,Real Valladolid,CM,1472,0,1472
+Victor Sánchez,Espanyol,CDM,1472,0,1472
+Antonio Cortés,Granada CF,CF,1472,0,1472
+Borja Sainz,Alavés,LW,1472,0,1472
+Toni Villa,Real Valladolid,RM,1471,0,1471
+Lei Wu,Espanyol,RW,1470,0,1470
+Hatem Ben Arfa,Real Valladolid,CF,1470,0,1470
+Ramiro Funes Mori,Villarreal,CB,1446,24,1470
+Sandro Ramírez,Real Valladolid,CF,1470,0,1470
+Soufiane Chakla,Villarreal,CB,1446,24,1470
+José Arnáiz,Osasuna,LW,1465,4,1469
+Juanmi,Real Betis,ST,1469,0,1469
+Lillo Castellano,Osasuna,RWB,1465,4,1469
+Ángel Montoro,Granada CF,CDM,1468,0,1468
+Martín Zubimendi,Real Sociedad,CDM,1448,20,1468
+Fedor Smolov,Celta de Vigo,ST,1468,0,1468
+Jason,Getafe,ST,1455,12,1467
+Toni Lato,Osasuna,LWB,1463,4,1467
+Chidozie Awaziem,Leganés,CB,1466,0,1466
+Edgar Méndez,Alavés,ST,1466,0,1466
+Ivan Ramis,Eibar,CB,1466,0,1466
+Francis Coquelin,Valencia CF,CM,1465,0,1465
+Sime Vrsaljko,Atlético de Madrid,RWB,1465,0,1465
+Aitor Ruibal,Leganés,RWB,1465,0,1465
+Víctor Gómez,Espanyol,RWB,1465,0,1465
+Quini,Granada CF,RWB,1465,0,1465
+Pipa,Espanyol,RWB,1465,0,1465
+Aïssa Mandi,Real Betis,CB,1464,0,1464
+Dani Rodríguez,Mallorca,LW,1464,0,1464
+Francisco Portillo,Getafe,CAM,1452,12,1464
+Pablo Chavarría,Mallorca,CF,1463,0,1463
+Sebastián Cristoforo,Eibar,CDM,1463,0,1463
+Stanislav Lobotka,Celta de Vigo,CDM,1463,0,1463
+Abdallahi Mahmoud,Alavés,CDM,1463,0,1463
+Ander Iturraspe,Espanyol,CDM,1463,0,1463
+Unai Vencedor,Athletic Club,CDM,1463,0,1463
+Sergi Darder,Espanyol,CAM,1462,0,1462
+Ismael Gutiérrez,Real Betis,CM,1461,0,1461
+Kike Pérez,Real Valladolid,CM,1461,0,1461
+Wilfrid Kaptoum,Real Betis,CM,1461,0,1461
+Óscar Duarte,Levante,CB,1461,0,1461
+Javi Sánchez,Real Valladolid,CB,1461,0,1461
+Vicente Iborra,Villarreal,CM,1437,24,1461
+Ramon Azeez,Granada CF,LAM,1460,0,1460
+Fayçal Fajr,Getafe,CDM,1448,12,1460
+Carlos Soler,Valencia CF,LAM,1460,0,1460
+Markel Bergara,Getafe,CDM,1448,12,1460
+Borja Iglesias,Real Betis,CF,1459,0,1459
 Yoel Rodríguez,Eibar,GK,1458,0,1458
-Enes Ünal,Real Valladolid,ATT,1458,0,1458
-Abdón Prats,Mallorca,ATT,1458,0,1458
 Antonio Sivera,Alavés,GK,1458,0,1458
-Rubén Alcaraz,Real Valladolid,MID,1457,0,1457
-Sergi Gómez,Sevilla,DEF,1425,32,1457
-Waldo Rubio,Real Valladolid,MID,1457,0,1457
-Gerard Piqué,Barcelona,DEF,1406,50,1456
-Aitor Ruibal,Leganés,DEF,1456,0,1456
-Sime Vrsaljko,Atlético de Madrid,DEF,1455,0,1455
-Bryan Gil,Leganés,ATT,1455,0,1455
-Ezequiel Garay,Valencia CF,DEF,1455,0,1455
-Didac Vila,Espanyol,DEF,1455,0,1455
-Víctor Gómez,Espanyol,DEF,1455,0,1455
-Ander Guevara,Real Sociedad,MID,1435,20,1455
-Rubén Pérez,Leganés,MID,1455,0,1455
-Pipa,Espanyol,DEF,1455,0,1455
-Quini,Granada CF,DEF,1455,0,1455
-Charles,Eibar,ATT,1452,0,1452
-Chidozie Awaziem,Leganés,DEF,1451,0,1451
-Lei Wu,Espanyol,ATT,1451,0,1451
-Mikel San José,Athletic Club,MID,1450,0,1450
-Eliaquim Mangala,Valencia CF,DEF,1450,0,1450
-Christian Rivera,Leganés,MID,1450,0,1450
-Javier Eraso,Leganés,ATT,1450,0,1450
+Pol Lozano,Espanyol,CDM,1458,0,1458
+Xavi Quintillà,Villarreal,LM,1434,24,1458
+Oliver Burke,Alavés,CF,1458,0,1458
+Brais Méndez,Celta de Vigo,CAM,1457,0,1457
+Jorge Molina,Getafe,ST,1444,12,1456
+Dimitri Foulquier,Granada CF,RWB,1455,0,1455
+Aritz Aduriz,Athletic Club,ST,1452,0,1452
+Raúl de Tomás,Espanyol,ST,1452,0,1452
+Kang-In Lee,Valencia CF,CM,1451,0,1451
+Abdón Prats,Mallorca,ST,1450,0,1450
+Didac Vila,Espanyol,LWB,1450,0,1450
 Andrés Prieto,Espanyol,GK,1450,0,1450
-Hugo Guillamón,Valencia CF,MID,1450,0,1450
-Óscar Plano,Real Valladolid,ATT,1450,0,1450
-Aïssa Mandi,Real Betis,DEF,1449,0,1449
-Víctor Campuzano,Espanyol,ATT,1449,0,1449
-Jorge Molina,Getafe,ATT,1437,12,1449
-Filip Bradaric,Celta de Vigo,MID,1445,0,1445
-Raúl de Tomás,Espanyol,ATT,1445,0,1445
-Gabriel Fernández,Celta de Vigo,ATT,1445,0,1445
-Pedro Léon,Eibar,ATT,1445,0,1445
-Samuel Umtiti,Barcelona,DEF,1395,50,1445
-Dimitri Foulquier,Granada CF,DEF,1445,0,1445
-Maxime Gonalons,Granada CF,MID,1444,0,1444
+Roberto Correa,Eibar,RWB,1450,0,1450
+Bryan Gil,Leganés,LW,1449,0,1449
+Ibrahim Amadou,Leganés,CDM,1448,0,1448
+Javi Garcia,Real Betis,CDM,1448,0,1448
+Ljubomir Fejsa,Alavés,CDM,1448,0,1448
+Daniel Carrico,Sevilla,CB,1416,32,1448
+Tachi,Alavés,CB,1446,0,1446
+David Costas,Celta de Vigo,CB,1446,0,1446
+Xisco Campos,Mallorca,CB,1446,0,1446
+Álex Martinez,Granada CF,CB,1446,0,1446
+David Juncà,Celta de Vigo,CB,1446,0,1446
+Jesús Vallejo,Granada CF,CB,1446,0,1446
+Lluís López,Espanyol,CB,1446,0,1446
+Bruno González,Levante,CB,1446,0,1446
+Rodrigo Tarin,Leganés,CB,1446,0,1446
+Peter Etebo,Getafe,CDM,1433,12,1445
+Rubén Duarte,Alavés,CB,1445,0,1445
+Denis Cheryshev,Valencia CF,CAM,1444,0,1444
+Sergio León,Levante,CF,1444,0,1444
+Alessandro Florenzi,Valencia CF,CDM,1443,0,1443
 Fabri,Mallorca,GK,1443,0,1443
+Antonio Barragan,Real Betis,RB,1443,0,1443
 Juan Soriano,Leganés,GK,1443,0,1443
-Álvaro Morata,Atlético de Madrid,ATT,1443,0,1443
-Gonzalo Escalante,Eibar,MID,1443,0,1443
-Jorge Miramón,Levante,ATT,1443,0,1443
-Brandon,Osasuna,ATT,1438,4,1442
-Thomas Partey,Atlético de Madrid,MID,1442,0,1442
-Ante Budimir,Mallorca,ATT,1442,0,1442
-Roberto Correa,Eibar,DEF,1440,0,1440
-Federico Barba,Real Valladolid,DEF,1440,0,1440
-Edgar González,Real Betis,DEF,1440,0,1440
-Antonio Barragan,Real Betis,DEF,1440,0,1440
-Facundo Roncaglia,Osasuna,DEF,1435,4,1439
-Erick Cabaco,Getafe,DEF,1425,12,1437
-Chema,Getafe,DEF,1425,12,1437
-Esteban Granero,Espanyol,MID,1436,0,1436
-Guido Rodríguez,Real Betis,MID,1435,0,1435
-Rubén Duarte,Alavés,DEF,1435,0,1435
+Mario Hermoso,Atlético de Madrid,LB,1442,0,1442
+Dani García,Athletic Club,CDM,1442,0,1442
+Brandon,Osasuna,LW,1437,4,1441
+Eliseo Falcón,Levante,CB,1441,0,1441
+Thomas Partey,Atlético de Madrid,CM,1441,0,1441
+Charles,Eibar,CF,1441,0,1441
+Waldo Rubio,Real Valladolid,LM,1440,0,1440
+Gonzalo Escalante,Eibar,CM,1439,0,1439
+Ander Guevara,Real Sociedad,CDM,1418,20,1438
+Lisandro Magallán,Alavés,CB,1436,0,1436
+Esteban Burgos,Eibar,CB,1436,0,1436
+Álvaro Tejero,Eibar,RWB,1435,0,1435
 Sergio Álvarez,Celta de Vigo,GK,1435,0,1435
-Brais Méndez,Celta de Vigo,ATT,1434,0,1434
-Jeison Murillo,Celta de Vigo,DEF,1430,0,1430
-Joao Félix,Atlético de Madrid,ATT,1428,0,1428
-Pape Cheikh,Celta de Vigo,MID,1425,0,1425
-Álvaro Tejero,Eibar,DEF,1425,0,1425
-Mauro Arambarri,Getafe,MID,1411,12,1423
-Guido Carrillo,Leganés,ATT,1422,0,1422
-Dani García,Athletic Club,MID,1421,0,1421
-Aleksandar Sedlar,Mallorca,DEF,1420,0,1420
-Mario Hermoso,Atlético de Madrid,DEF,1420,0,1420
-Sergi Darder,Espanyol,ATT,1420,0,1420
-Javi López,Espanyol,DEF,1420,0,1420
-Jonathan Calleri,Espanyol,ATT,1420,0,1420
-Jorge Sáenz,Celta de Vigo,DEF,1420,0,1420
-Alberto Moreno,Villarreal,DEF,1395,24,1419
-Roque Mesa,Leganés,MID,1418,0,1418
-Darko Brasanac,Osasuna,MID,1414,4,1418
-Sergi Enrich,Eibar,ATT,1416,0,1416
-Victor Sánchez,Espanyol,MID,1416,0,1416
-Enric Gallego,Osasuna,ATT,1409,4,1413
-Denis Cheryshev,Valencia CF,ATT,1410,0,1410
-Fernando Calero,Espanyol,DEF,1405,0,1405
-Sergio Álvarez,Eibar,MID,1405,0,1405
-Damián Suárez,Getafe,DEF,1392,12,1404
-Fran Mérida,Osasuna,ATT,1396,4,1400
-José Recio,Leganés,MID,1397,0,1397
-Kevin Vázquez,Celta de Vigo,DEF,1395,0,1395
-Yangel Herrera,Granada CF,MID,1390,0,1390
-Naldo,Espanyol,DEF,1390,0,1390
-Nikola Vukcevic,Levante,MID,1389,0,1389
-Xabier Etxeita,Getafe,DEF,1375,12,1387
-Jaime Mata,Getafe,ATT,1374,12,1386
-William Carvalho,Real Betis,MID,1385,0,1385
-Manu Garcia,Alavés,MID,1384,0,1384
-Andrés Guardado,Real Betis,ATT,1382,0,1382
-Roberto Soldado,Granada CF,ATT,1380,0,1380
-Néstor Araujo,Celta de Vigo,ATT,1375,0,1375
-Jonathan Cristian Silva,Leganés,MID,1364,0,1364
-Allan Nyom,Getafe,DEF,1344,12,1356
-Zouhair Feddal,Real Betis,DEF,1345,0,1345
-Oier,Osasuna,ATT,1327,4,1331
-Mubarak Wakaso,Alavés,MID,1325,0,1325
-Sergio Asenjo,Villarreal,GK,1148,24,1172
+Raúl Navas,Osasuna,CB,1431,4,1435
+Hugo Guillamón,Valencia CF,CDM,1433,0,1433
+Sergi Gómez,Sevilla,CB,1401,32,1433
+Pervis Estupinán,Osasuna,LM,1428,4,1432
+Ezequiel Garay,Valencia CF,CB,1431,0,1431
+Guido Carrillo,Leganés,ST,1431,0,1431
+Christian Rivera,Leganés,CM,1431,0,1431
+Mikel San José,Athletic Club,CM,1431,0,1431
+Pedro Léon,Eibar,CF,1430,0,1430
+Jorge Miramón,Levante,RW,1428,0,1428
+Víctor Campuzano,Espanyol,CF,1426,0,1426
+Eliaquim Mangala,Valencia CF,CB,1426,0,1426
+Filip Bradaric,Celta de Vigo,CM,1426,0,1426
+Javier Eraso,Leganés,CF,1425,0,1425
+Javi López,Espanyol,LWB,1423,0,1423
+Alberto Moreno,Villarreal,LWB,1398,24,1422
+Samuel Umtiti,Barcelona,CB,1371,50,1421
+Roque Mesa,Leganés,CM,1420,0,1420
+Gabriel Fernández,Celta de Vigo,CF,1420,0,1420
+Jaime Mata,Getafe,ST,1408,12,1420
+Esteban Granero,Espanyol,CAM,1418,0,1418
+Darko Brasanac,Osasuna,CM,1413,4,1417
+Federico Barba,Real Valladolid,CB,1416,0,1416
+Edgar González,Real Betis,CB,1416,0,1416
+Guido Rodríguez,Real Betis,CM,1416,0,1416
+José Recio,Leganés,CDM,1416,0,1416
+Facundo Roncaglia,Osasuna,CB,1411,4,1415
+Manu Garcia,Alavés,CDM,1414,0,1414
+Erick Cabaco,Getafe,CB,1401,12,1413
+Damián Suárez,Getafe,RWB,1401,12,1413
+Chema,Getafe,CB,1401,12,1413
+Sergi Enrich,Eibar,ST,1409,0,1409
+Pape Cheikh,Celta de Vigo,CDM,1408,0,1408
+Jeison Murillo,Celta de Vigo,CB,1406,0,1406
+Jonathan Calleri,Espanyol,CF,1405,0,1405
+Kevin Vázquez,Celta de Vigo,RWB,1405,0,1405
+Yangel Herrera,Granada CF,CM,1405,0,1405
+Enric Gallego,Osasuna,CF,1397,4,1401
+Jorge Sáenz,Celta de Vigo,CB,1396,0,1396
+Aleksandar Sedlar,Mallorca,CB,1396,0,1396
+Nikola Vukcevic,Levante,CM,1395,0,1395
+Jonathan Cristian Silva,Leganés,LWB,1392,0,1392
+Sergio Álvarez,Eibar,CDM,1388,0,1388
+Roberto Soldado,Granada CF,CF,1382,0,1382
+Fernando Calero,Espanyol,CB,1381,0,1381
+William Carvalho,Real Betis,CDM,1368,0,1368
+Zouhair Feddal,Real Betis,LB,1367,0,1367
+Naldo,Espanyol,CB,1366,0,1366
+Andrés Guardado,Real Betis,ST,1365,0,1365
+Xabier Etxeita,Getafe,CB,1351,12,1363
+Néstor Araujo,Celta de Vigo,RW,1361,0,1361
+Mauro Arambarri,Getafe,CAM,1348,12,1360
+Allan Nyom,Getafe,RWB,1348,12,1360
+Oier,Osasuna,CAM,1332,4,1336
+Mubarak Wakaso,Alavés,CDM,1308,0,1308
 Jordi Masip,Real Valladolid,GK,1172,0,1172
+Sergio Asenjo,Villarreal,GK,1148,24,1172
 Diego Lopez,Espanyol,GK,817,0,817

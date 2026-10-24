@@ -1,6 +1,14 @@
 import React, { useState, useMemo } from 'react';
 import { formatDistanceToNow, format } from 'date-fns';
 
+// Broad category map for tabs
+const POSITION_CATEGORIES = {
+  'ATT': ['ATT', 'ST', 'CF', 'RW', 'LW', 'RF', 'LF'],
+  'MID': ['MID', 'CDM', 'CM', 'CAM', 'RAM', 'LAM', 'RM', 'LM'],
+  'DEF': ['DEF', 'CB', 'RB', 'LB', 'RWB', 'LWB'],
+  'GK': ['GK']
+};
+
 function LeagueTable({
   league,
   data,
@@ -33,7 +41,8 @@ function LeagueTable({
 
     // Position filter
     if (selectedPosition !== 'ALL') {
-      result = result.filter(p => p.position === selectedPosition);
+      const allowed = POSITION_CATEGORIES[selectedPosition] || [selectedPosition];
+      result = result.filter(p => allowed.includes(p.position) || p.position === selectedPosition);
     }
 
     // Table search filter
@@ -70,13 +79,11 @@ function LeagueTable({
   };
 
   const getPositionClass = (pos) => {
-    switch (pos) {
-      case 'GK': return 'pos-gk';
-      case 'DEF': return 'pos-def';
-      case 'MID': return 'pos-mid';
-      case 'ATT': return 'pos-att';
-      default: return 'pos-default';
-    }
+    if (pos === 'GK') return 'pos-gk';
+    if (['DEF', 'CB', 'RB', 'LB', 'RWB', 'LWB'].includes(pos)) return 'pos-def';
+    if (['MID', 'CDM', 'CM', 'CAM', 'RAM', 'LAM', 'RM', 'LM'].includes(pos)) return 'pos-mid';
+    if (['ATT', 'ST', 'CF', 'RW', 'LW', 'RF', 'LF'].includes(pos)) return 'pos-att';
+    return 'pos-default';
   };
 
   if (!isActive) return null;

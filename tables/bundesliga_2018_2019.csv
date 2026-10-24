@@ -1,429 +1,429 @@
 ParticipantName,TeamName,Position,Accurate long balls per 90,Accurate passes per 90,Assists,Big chances created,Big chances missed,Blocks per 90,Chances created,Clean sheets,Clearances per 90,Fouls committed per 90,Goals conceded per 90,Goals per 90,Interceptions per 90,Penalties conceded,Penalties won,Possession won final 3rd per 90,Red cards,Save percentage,Saves per 90,Shots on target per 90,Successful dribbles per 90,Successful tackles per 90,Top scorer,Yellow cards
-Aarón Martín,1. FSV Mainz 05,MID,1.9,30.6,3.0,7.0,,0.3,63.0,,1.8,0.9,,,1.2,,1.0,0.2,,,,0.2,1.4,1.7,,3.0
-Abdou Diallo,Borussia Dortmund,DEF,4.9,61.1,1.0,,4.0,0.6,11.0,,3.3,0.8,,0.04,1.0,,,0.1,1.0,,,0.2,1.5,1.4,1.0,1.0
-Abdul Rahman Baba,FC Schalke 04,DEF,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Achraf Hakimi,Borussia Dortmund,DEF,2.3,59.3,4.0,5.0,2.0,0.2,11.0,,2.0,0.7,,0.1,1.5,,,0.2,,,,0.3,2.0,1.8,2.0,4.0
-Adam Bodzek,Fortuna Düsseldorf,MID,3.8,32.5,1.0,2.0,,0.3,8.0,,2.2,1.8,,,1.5,2.0,,0.1,1.0,,,,0.1,2.5,,5.0
-Adam Zrelák,1. FC Nürnberg,ATT,,,1.0,,4.0,,9.0,,,,,,,,,,,,,,,,2.0,4.0
-Admir Mehmedi,VfL Wolfsburg,ATT,1.4,27.4,5.0,6.0,5.0,,36.0,,0.3,1.5,,0.32,0.6,,,0.9,,,,0.7,0.7,2.4,6.0,1.0
-Ahmed Kutucu,FC Schalke 04,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,2.0,
-Ahmet Gürleyen,1. FSV Mainz 05,DEF,,,,,1.0,,,,,,,,,,,,,,,,,,,
-Alassane Pléa,Borussia Mönchengladbach,ATT,0.7,15.9,4.0,4.0,15.0,0.1,33.0,,0.5,1.3,,0.43,0.1,,,0.6,,,,1.5,0.8,0.5,12.0,2.0
-Aleksandar Dragovic,Bayer 04 Leverkusen,DEF,7.1,66.1,,,,0.5,3.0,,4.2,0.7,,0.14,1.7,1.0,,0.1,,,,0.2,,1.2,2.0,4.0
-Alessandro Schöpf,FC Schalke 04,MID,,,,2.0,,,13.0,,,,,,,1.0,1.0,,,,,,,,1.0,3.0
-Alexander Esswein,VfB Stuttgart,ATT,1.1,19.8,,2.0,,,20.0,,0.9,1.3,,,0.9,,,0.3,,,,0.6,0.6,1.2,,3.0
-Alexander Fuchs,1. FC Nürnberg,DEF,,,,1.0,,,9.0,,,,,,,,,,,,,,,,1.0,3.0
-Alexander Hack,1. FSV Mainz 05,DEF,,,1.0,2.0,1.0,,2.0,,,,,,,1.0,,,,,,,,,1.0,1.0
+Aarón Martín,1. FSV Mainz 05,LM,1.9,30.6,3.0,7.0,,0.3,63.0,,1.8,0.9,,,1.2,,1.0,0.2,,,,0.2,1.4,1.7,,3.0
+Abdou Diallo,Borussia Dortmund,LB,4.9,61.1,1.0,,4.0,0.6,11.0,,3.3,0.8,,0.04,1.0,,,0.1,1.0,,,0.2,1.5,1.4,1.0,1.0
+Abdul Rahman Baba,FC Schalke 04,LWB,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Achraf Hakimi,Borussia Dortmund,RWB,2.3,59.3,4.0,5.0,2.0,0.2,11.0,,2.0,0.7,,0.1,1.5,,,0.2,,,,0.3,2.0,1.8,2.0,4.0
+Adam Bodzek,Fortuna Düsseldorf,CDM,3.8,32.5,1.0,2.0,,0.3,8.0,,2.2,1.8,,,1.5,2.0,,0.1,1.0,,,,0.1,2.5,,5.0
+Adam Zrelák,1. FC Nürnberg,CF,,,1.0,,4.0,,9.0,,,,,,,,,,,,,,,,2.0,4.0
+Admir Mehmedi,VfL Wolfsburg,CAM,1.4,27.4,5.0,6.0,5.0,,36.0,,0.3,1.5,,0.32,0.6,,,0.9,,,,0.7,0.7,2.4,6.0,1.0
+Ahmed Kutucu,FC Schalke 04,LW,,,,,,,2.0,,,,,,,,,,,,,,,,2.0,
+Ahmet Gürleyen,1. FSV Mainz 05,CB,,,,,1.0,,,,,,,,,,,,,,,,,,,
+Alassane Pléa,Borussia Mönchengladbach,CF,0.7,15.9,4.0,4.0,15.0,0.1,33.0,,0.5,1.3,,0.43,0.1,,,0.6,,,,1.5,0.8,0.5,12.0,2.0
+Aleksandar Dragovic,Bayer 04 Leverkusen,CB,7.1,66.1,,,,0.5,3.0,,4.2,0.7,,0.14,1.7,1.0,,0.1,,,,0.2,,1.2,2.0,4.0
+Alessandro Schöpf,FC Schalke 04,CDM,,,,2.0,,,13.0,,,,,,,1.0,1.0,,,,,,,,1.0,3.0
+Alexander Esswein,VfB Stuttgart,ST,1.1,19.8,,2.0,,,20.0,,0.9,1.3,,,0.9,,,0.3,,,,0.6,0.6,1.2,,3.0
+Alexander Fuchs,1. FC Nürnberg,LB,,,,1.0,,,9.0,,,,,,,,,,,,,,,,1.0,3.0
+Alexander Hack,1. FSV Mainz 05,CB,,,1.0,2.0,1.0,,2.0,,,,,,,1.0,,,,,,,,,1.0,1.0
 Alexander Nübel,FC Schalke 04,GK,,16.7,,,,,,4.0,0.6,0.1,1.6,,0.1,1.0,,0.1,1.0,66.3,3.2,,,,,1.0
 Alexander Schwolow,Sport-Club Freiburg,GK,,21.5,1.0,1.0,,,2.0,5.0,0.8,,1.8,,,,,,,65.1,3.4,,,,,1.0
-Alexandru Maxim,1. FSV Mainz 05,ATT,2.7,44.0,,4.0,1.0,,16.0,,1.1,1.4,,0.16,0.8,,,0.3,,,,0.5,1.6,2.6,1.0,3.0
-Alfred Finnbogason,FC Augsburg,ATT,0.6,14.5,1.0,3.0,8.0,0.1,20.0,,0.7,2.3,,0.67,0.2,,1.0,0.3,,,,1.2,0.8,0.5,10.0,2.0
-Alfredo Morales,Fortuna Düsseldorf,MID,2.4,29.3,1.0,2.0,,0.5,8.0,,1.7,2.5,,0.06,1.4,,,0.4,,,,0.5,0.2,1.9,1.0,6.0
-Allan,Eintracht Frankfurt,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Almamy Touré,Eintracht Frankfurt,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Alphonso Davies,Bayern München,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,1.0
-Amadou Haidara,RB Leipzig,MID,,,,1.0,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
-Amine Harit,FC Schalke 04,ATT,1.5,28.2,1.0,1.0,1.0,0.1,21.0,,0.2,0.7,,0.08,0.7,,1.0,0.6,,,,0.4,3.0,1.2,1.0,1.0
-Amir Abrashi,Sport-Club Freiburg,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,5.0
-Anastasios Donis,VfB Stuttgart,MID,0.5,12.1,2.0,2.0,2.0,,7.0,,,2.0,,0.47,0.4,,,0.4,,,,0.9,1.7,1.4,5.0,4.0
-Andre Hahn,FC Augsburg,MID,0.9,11.6,4.0,5.0,3.0,0.1,30.0,,1.2,2.9,,0.18,1.2,,,0.6,,,,0.7,0.7,2.8,4.0,7.0
-Andre Hoffmann,Fortuna Düsseldorf,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,4.0
-Andreas Beck,VfB Stuttgart,DEF,1.7,22.9,2.0,2.0,1.0,0.3,16.0,,2.4,1.2,,,1.1,,,0.3,,,,0.1,0.5,1.8,,2.0
+Alexandru Maxim,1. FSV Mainz 05,CAM,2.7,44.0,,4.0,1.0,,16.0,,1.1,1.4,,0.16,0.8,,,0.3,,,,0.5,1.6,2.6,1.0,3.0
+Alfred Finnbogason,FC Augsburg,CF,0.6,14.5,1.0,3.0,8.0,0.1,20.0,,0.7,2.3,,0.67,0.2,,1.0,0.3,,,,1.2,0.8,0.5,10.0,2.0
+Alfredo Morales,Fortuna Düsseldorf,CDM,2.4,29.3,1.0,2.0,,0.5,8.0,,1.7,2.5,,0.06,1.4,,,0.4,,,,0.5,0.2,1.9,1.0,6.0
+Allan,Eintracht Frankfurt,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Almamy Touré,Eintracht Frankfurt,LB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Alphonso Davies,Bayern München,LWB,,,,,,,,,,,,,,1.0,,,,,,,,,1.0,1.0
+Amadou Haidara,RB Leipzig,CM,,,,1.0,,,6.0,,,,,,,,,,,,,,,,1.0,1.0
+Amine Harit,FC Schalke 04,LW,1.5,28.2,1.0,1.0,1.0,0.1,21.0,,0.2,0.7,,0.08,0.7,,1.0,0.6,,,,0.4,3.0,1.2,1.0,1.0
+Amir Abrashi,Sport-Club Freiburg,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,5.0
+Anastasios Donis,VfB Stuttgart,LM,0.5,12.1,2.0,2.0,2.0,,7.0,,,2.0,,0.47,0.4,,,0.4,,,,0.9,1.7,1.4,5.0,4.0
+Andre Hahn,FC Augsburg,RM,0.9,11.6,4.0,5.0,3.0,0.1,30.0,,1.2,2.9,,0.18,1.2,,,0.6,,,,0.7,0.7,2.8,4.0,7.0
+Andre Hoffmann,Fortuna Düsseldorf,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,4.0
+Andreas Beck,VfB Stuttgart,RWB,1.7,22.9,2.0,2.0,1.0,0.3,16.0,,2.4,1.2,,,1.1,,,0.3,,,,0.1,0.5,1.8,,2.0
 Andreas Luthe,FC Augsburg,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Andrej Kramaric,TSG 1899 Hoffenheim,ATT,1.3,29.0,4.0,8.0,18.0,0.1,49.0,,0.4,0.3,,0.64,0.3,,,0.4,,,,1.6,1.0,0.3,17.0,2.0
-Ante Rebic,Eintracht Frankfurt,ATT,0.2,12.8,4.0,10.0,10.0,0.0,34.0,,0.1,2.1,,0.41,0.4,,,0.8,1.0,,,1.3,2.1,1.0,9.0,3.0
-Anthony Ujah,1. FSV Mainz 05,ATT,0.6,14.3,,3.0,3.0,0.2,12.0,,1.2,1.9,,0.5,0.1,,,0.5,,,,1.5,0.4,0.2,4.0,2.0
-Antonis Aidonis,VfB Stuttgart,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Arjen Robben,Bayern München,ATT,,,,2.0,2.0,,16.0,,,,,,,,,,1.0,,,,,,4.0,
-Arne Maier,Hertha BSC,MID,1.9,44.4,,2.0,,0.4,19.0,,1.4,0.7,,,1.2,1.0,,0.2,,,,0.3,1.0,1.3,,2.0
-Axel Witsel,Borussia Dortmund,MID,2.5,70.1,1.0,3.0,1.0,0.2,16.0,,1.4,0.8,,0.13,1.5,,,0.5,,,,0.3,0.9,1.5,4.0,2.0
-Aymen Barkok,Fortuna Düsseldorf,ATT,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
-Bastian Oczipka,FC Schalke 04,DEF,1.1,28.5,5.0,6.0,,0.2,45.0,,1.1,0.8,,0.05,1.2,1.0,,0.4,,,,0.0,1.1,2.0,1.0,3.0
-Benito Raman,Fortuna Düsseldorf,ATT,1.6,15.3,4.0,4.0,6.0,0.1,21.0,,0.4,1.4,,0.54,0.8,1.0,,0.6,,,,1.4,2.0,1.9,10.0,1.0
-Benjamin Hadzic,Hannover 96,ATT,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
-Benjamin Henrichs,Bayer 04 Leverkusen,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0
-Benjamin Hübner,TSG 1899 Hoffenheim,DEF,,,,,2.0,,,,,,,,,,,,,,,,,,,2.0
-Benjamin Pavard,VfB Stuttgart,DEF,3.4,42.2,,1.0,,0.7,11.0,,6.5,0.7,,,1.7,,,0.1,,,,0.1,0.2,1.0,,3.0
-Benjamin Stambouli,FC Schalke 04,MID,2.1,38.1,2.0,,,0.5,9.0,,3.1,1.2,,,1.6,,,0.2,,,,0.1,0.5,2.6,,3.0
-Bobby Wood,Hannover 96,ATT,0.5,17.2,1.0,3.0,3.0,,12.0,,0.5,1.4,,0.23,0.3,,,0.4,,,,0.7,0.4,1.0,3.0,1.0
-Borna Sosa,VfB Stuttgart,MID,,,1.0,3.0,,,15.0,,,,,,,,,,,,,,,,,3.0
-Breel Embolo,FC Schalke 04,ATT,0.3,10.9,1.0,6.0,9.0,,19.0,,0.4,2.0,,0.33,0.3,,2.0,0.5,,,,0.9,1.7,1.5,5.0,4.0
-Bruma,RB Leipzig,MID,,,1.0,3.0,1.0,,10.0,,,,,,,,,,,,,,,,1.0,1.0
-Caiuby,FC Augsburg,MID,,,1.0,1.0,2.0,,14.0,,,,,,,,,,,,,,,,1.0,3.0
-Carlos Salcedo,Eintracht Frankfurt,DEF,,,,,,,,,,,,,,,,,,,,,,,,3.0
-Cedric Teuchert,FC Schalke 04,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Chadrac Akolo,VfB Stuttgart,ATT,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,
-Charles Aránguiz,Bayer 04 Leverkusen,MID,3.8,68.4,7.0,7.0,1.0,0.1,30.0,,1.2,1.3,,0.09,1.2,,,0.6,,,,0.2,0.4,2.3,2.0,3.0
-Christian Gentner,VfB Stuttgart,ATT,3.0,31.1,5.0,4.0,4.0,0.1,17.0,,1.6,1.3,,,1.4,,,0.8,,,,0.2,0.5,2.7,,3.0
-Christian Günter,Sport-Club Freiburg,DEF,1.2,23.2,5.0,8.0,1.0,0.2,49.0,,1.2,0.9,,,0.4,,,0.3,1.0,,,0.3,1.2,1.2,,3.0
+Andrej Kramaric,TSG 1899 Hoffenheim,LAM,1.3,29.0,4.0,8.0,18.0,0.1,49.0,,0.4,0.3,,0.64,0.3,,,0.4,,,,1.6,1.0,0.3,17.0,2.0
+Ante Rebic,Eintracht Frankfurt,LW,0.2,12.8,4.0,10.0,10.0,0.0,34.0,,0.1,2.1,,0.41,0.4,,,0.8,1.0,,,1.3,2.1,1.0,9.0,3.0
+Anthony Ujah,1. FSV Mainz 05,ST,0.6,14.3,,3.0,3.0,0.2,12.0,,1.2,1.9,,0.5,0.1,,,0.5,,,,1.5,0.4,0.2,4.0,2.0
+Antonis Aidonis,VfB Stuttgart,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Arjen Robben,Bayern München,RW,,,,2.0,2.0,,16.0,,,,,,,,,,1.0,,,,,,4.0,
+Arne Maier,Hertha BSC,CM,1.9,44.4,,2.0,,0.4,19.0,,1.4,0.7,,,1.2,1.0,,0.2,,,,0.3,1.0,1.3,,2.0
+Axel Witsel,Borussia Dortmund,CDM,2.5,70.1,1.0,3.0,1.0,0.2,16.0,,1.4,0.8,,0.13,1.5,,,0.5,,,,0.3,0.9,1.5,4.0,2.0
+Aymen Barkok,Fortuna Düsseldorf,CAM,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
+Bastian Oczipka,FC Schalke 04,LWB,1.1,28.5,5.0,6.0,,0.2,45.0,,1.1,0.8,,0.05,1.2,1.0,,0.4,,,,0.0,1.1,2.0,1.0,3.0
+Benito Raman,Fortuna Düsseldorf,CF,1.6,15.3,4.0,4.0,6.0,0.1,21.0,,0.4,1.4,,0.54,0.8,1.0,,0.6,,,,1.4,2.0,1.9,10.0,1.0
+Benjamin Hadzic,Hannover 96,CF,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
+Benjamin Henrichs,Bayer 04 Leverkusen,RWB,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0
+Benjamin Hübner,TSG 1899 Hoffenheim,LB,,,,,2.0,,,,,,,,,,,,,,,,,,,2.0
+Benjamin Pavard,VfB Stuttgart,RB,3.4,42.2,,1.0,,0.7,11.0,,6.5,0.7,,,1.7,,,0.1,,,,0.1,0.2,1.0,,3.0
+Benjamin Stambouli,FC Schalke 04,CDM,2.1,38.1,2.0,,,0.5,9.0,,3.1,1.2,,,1.6,,,0.2,,,,0.1,0.5,2.6,,3.0
+Bobby Wood,Hannover 96,ST,0.5,17.2,1.0,3.0,3.0,,12.0,,0.5,1.4,,0.23,0.3,,,0.4,,,,0.7,0.4,1.0,3.0,1.0
+Borna Sosa,VfB Stuttgart,LM,,,1.0,3.0,,,15.0,,,,,,,,,,,,,,,,,3.0
+Breel Embolo,FC Schalke 04,CF,0.3,10.9,1.0,6.0,9.0,,19.0,,0.4,2.0,,0.33,0.3,,2.0,0.5,,,,0.9,1.7,1.5,5.0,4.0
+Bruma,RB Leipzig,RM,,,1.0,3.0,1.0,,10.0,,,,,,,,,,,,,,,,1.0,1.0
+Caiuby,FC Augsburg,LM,,,1.0,1.0,2.0,,14.0,,,,,,,,,,,,,,,,1.0,3.0
+Carlos Salcedo,Eintracht Frankfurt,CB,,,,,,,,,,,,,,,,,,,,,,,,3.0
+Cedric Teuchert,FC Schalke 04,RW,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Chadrac Akolo,VfB Stuttgart,CF,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,
+Charles Aránguiz,Bayer 04 Leverkusen,CAM,3.8,68.4,7.0,7.0,1.0,0.1,30.0,,1.2,1.3,,0.09,1.2,,,0.6,,,,0.2,0.4,2.3,2.0,3.0
+Christian Gentner,VfB Stuttgart,CF,3.0,31.1,5.0,4.0,4.0,0.1,17.0,,1.6,1.3,,,1.4,,,0.8,,,,0.2,0.5,2.7,,3.0
+Christian Günter,Sport-Club Freiburg,LWB,1.2,23.2,5.0,8.0,1.0,0.2,49.0,,1.2,0.9,,,0.4,,,0.3,1.0,,,0.3,1.2,1.2,,3.0
 Christian Mathenia,1. FC Nürnberg,GK,,22.1,,,,,1.0,2.0,1.7,,1.9,,0.0,,,,,66.9,3.8,,0.0,,,2.0
-Christian Pulisic,Borussia Dortmund,ATT,0.2,37.4,4.0,5.0,5.0,0.2,19.0,,0.9,0.9,,0.39,0.6,,,0.3,,,,1.0,4.1,1.0,4.0,2.0
-Christoph Baumgartner,TSG 1899 Hoffenheim,MID,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0
-Christoph Kramer,Borussia Mönchengladbach,MID,2.1,51.7,1.0,2.0,,0.3,9.0,,1.7,1.9,,0.16,1.7,,,0.2,,,,0.2,0.7,3.2,2.0,6.0
-Claudio Pizarro,SV Werder Bremen,ATT,1.1,24.2,2.0,1.0,2.0,0.1,10.0,,0.9,2.4,,0.67,0.1,,,0.8,,,,1.2,0.9,1.2,5.0,1.0
-Corentin Tolisso,Bayern München,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
-Dan-Axel Zagadou,Borussia Dortmund,DEF,3.9,65.0,,,1.0,0.8,2.0,,5.0,0.9,,0.14,1.8,1.0,,,,,,0.2,0.9,0.9,2.0,4.0
-Daniel Baier,FC Augsburg,MID,3.8,38.3,1.0,1.0,,0.3,22.0,,1.5,1.6,,,1.9,,,0.2,,,,0.3,0.5,2.0,,7.0
-Daniel Brosinski,1. FSV Mainz 05,ATT,3.2,28.5,5.0,6.0,,0.4,40.0,,2.0,0.5,,0.12,1.1,1.0,,0.4,,,,0.2,0.2,1.1,3.0,2.0
-Daniel Caligiuri,FC Schalke 04,MID,2.8,25.8,3.0,8.0,2.0,0.3,59.0,,2.1,1.0,,0.23,1.6,1.0,1.0,0.4,,,,0.5,2.1,3.0,7.0,9.0
-Daniel Didavi,VfB Stuttgart,ATT,0.9,28.3,2.0,2.0,1.0,0.1,28.0,,0.5,1.1,,0.19,0.4,,,0.7,,,,0.9,1.0,2.0,2.0,
-Daniel Ginczek,VfL Wolfsburg,ATT,1.2,13.9,2.0,3.0,2.0,0.1,13.0,,1.3,1.0,,0.42,0.2,,,0.6,,,,1.0,1.0,0.6,6.0,4.0
-Danny Latza,1. FSV Mainz 05,MID,2.6,39.4,3.0,3.0,3.0,0.5,23.0,,1.3,1.2,,,1.0,,1.0,0.5,,,,0.3,0.8,2.0,,4.0
-Danny da Costa,Eintracht Frankfurt,DEF,1.2,17.1,4.0,10.0,5.0,0.3,33.0,,1.6,1.0,,0.06,0.9,,,0.6,,,,0.2,0.8,1.8,2.0,1.0
-David Abraham,Eintracht Frankfurt,ATT,4.5,32.2,,1.0,2.0,0.8,5.0,,3.9,0.7,,,1.5,,,0.1,,,,0.1,0.4,1.4,,2.0
-David Alaba,Bayern München,DEF,1.8,53.5,3.0,6.0,1.0,0.1,28.0,,1.1,0.5,,0.11,1.1,,,0.5,,,,0.6,1.0,1.2,3.0,4.0
-David Otto,TSG 1899 Hoffenheim,ATT,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
-Davie Selke,Hertha BSC,ATT,0.3,14.0,5.0,6.0,7.0,,19.0,,0.3,1.5,,0.16,0.1,,1.0,0.4,,,,1.0,1.1,0.3,3.0,4.0
-Davy Klaassen,SV Werder Bremen,MID,1.5,28.2,4.0,6.0,3.0,0.3,39.0,,1.3,1.5,,0.16,1.5,,1.0,0.4,,,,0.3,0.5,2.0,5.0,5.0
-Dawid Kownacki,Fortuna Düsseldorf,ATT,,,,,,,5.0,,,,,,,,,,,,,,,,4.0,2.0
-Dayot Upamecano,RB Leipzig,DEF,,,,,2.0,,3.0,,,,,,,2.0,,,,,,,,,,5.0
-Denis Zakaria,Borussia Mönchengladbach,DEF,1.7,28.5,,,7.0,0.4,16.0,,0.8,1.4,,0.18,1.2,,,0.4,,,,0.6,1.3,1.8,4.0,7.0
-Dennis Aogo,VfB Stuttgart,MID,,,,1.0,1.0,,15.0,,,,,,,,,,,,,,,,,1.0
-Dennis Geiger,TSG 1899 Hoffenheim,MID,,,1.0,4.0,,,7.0,,,,,,,,1.0,,,,,,,,,1.0
-Dennis Jastrzembski,Hertha BSC,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Diego Demme,RB Leipzig,MID,3.4,52.2,2.0,4.0,,0.1,26.0,,0.6,1.6,,,1.1,,,0.4,,,,0.1,0.3,3.3,,4.0
-Dodi Lukébakio,Fortuna Düsseldorf,ATT,1.3,18.8,3.0,4.0,11.0,,20.0,,0.8,1.3,,0.46,0.4,1.0,1.0,0.4,,,,1.4,2.3,1.1,10.0,6.0
-Dominik Kohr,Bayer 04 Leverkusen,DEF,1.8,37.5,2.0,2.0,2.0,1.1,9.0,,1.5,2.0,,,1.4,,,0.3,,,,0.4,0.4,3.9,,4.0
-Dominique Heintz,Sport-Club Freiburg,DEF,4.3,39.9,1.0,1.0,2.0,0.6,8.0,,6.3,0.9,,0.03,1.3,3.0,,0.0,,,,0.1,0.6,1.2,1.0,5.0
-Dong-Won Ji,FC Augsburg,ATT,,,1.0,1.0,,,10.0,,,,,,,,,,,,,,,,4.0,2.0
-Edgar Prib,Hannover 96,MID,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,1.0
-Edgar Salli,1. FC Nürnberg,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Eduard Löwen,1. FC Nürnberg,MID,2.6,29.1,2.0,3.0,3.0,0.1,15.0,,0.9,1.0,,0.17,0.4,,,0.7,,,,0.7,1.6,1.7,3.0,3.0
-Elvis Rexhbeçaj,VfL Wolfsburg,MID,1.7,21.5,2.0,3.0,,0.2,7.0,,1.3,0.9,,0.16,1.1,,,1.3,,,,0.3,0.8,2.2,2.0,4.0
-Emil Forsberg,RB Leipzig,ATT,1.1,28.0,7.0,6.0,2.0,0.1,39.0,,0.4,0.5,,0.29,0.2,,,1.0,,,,1.0,1.6,0.9,4.0,
-Emile Smith Rowe,RB Leipzig,ATT,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Emiliano Insua,VfB Stuttgart,DEF,1.9,32.0,2.0,6.0,,0.1,28.0,,2.0,0.8,,0.08,1.3,,,0.4,1.0,,,0.2,1.4,2.2,2.0,4.0
-Enrico Valentini,1. FC Nürnberg,DEF,,,2.0,,,,24.0,,,,,,,,,,,,,,,,,2.0
-Erik Thommy,VfB Stuttgart,ATT,1.1,24.1,1.0,2.0,2.0,0.1,18.0,,0.1,0.9,,0.11,1.6,,,0.9,1.0,,,0.5,0.9,0.6,1.0,2.0
-Ermin Bicakcic,TSG 1899 Hoffenheim,DEF,2.2,51.1,2.0,1.0,4.0,0.8,5.0,,3.8,0.9,,0.05,2.8,1.0,,0.2,,,,0.2,,1.6,1.0,
-Evan N'Dicka,Eintracht Frankfurt,DEF,3.3,34.2,1.0,,2.0,0.4,4.0,,4.4,1.1,,0.04,1.1,,,0.1,,,,0.1,0.2,1.7,1.0,3.0
-Ewerton,1. FC Nürnberg,DEF,2.7,33.9,,,,1.1,2.0,,7.1,1.1,,,1.7,,,0.1,,,,0.1,0.7,1.6,,2.0
+Christian Pulisic,Borussia Dortmund,CF,0.2,37.4,4.0,5.0,5.0,0.2,19.0,,0.9,0.9,,0.39,0.6,,,0.3,,,,1.0,4.1,1.0,4.0,2.0
+Christoph Baumgartner,TSG 1899 Hoffenheim,CAM,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0
+Christoph Kramer,Borussia Mönchengladbach,CM,2.1,51.7,1.0,2.0,,0.3,9.0,,1.7,1.9,,0.16,1.7,,,0.2,,,,0.2,0.7,3.2,2.0,6.0
+Claudio Pizarro,SV Werder Bremen,LW,1.1,24.2,2.0,1.0,2.0,0.1,10.0,,0.9,2.4,,0.67,0.1,,,0.8,,,,1.2,0.9,1.2,5.0,1.0
+Corentin Tolisso,Bayern München,CAM,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
+Dan-Axel Zagadou,Borussia Dortmund,CB,3.9,65.0,,,1.0,0.8,2.0,,5.0,0.9,,0.14,1.8,1.0,,,,,,0.2,0.9,0.9,2.0,4.0
+Daniel Baier,FC Augsburg,CDM,3.8,38.3,1.0,1.0,,0.3,22.0,,1.5,1.6,,,1.9,,,0.2,,,,0.3,0.5,2.0,,7.0
+Daniel Brosinski,1. FSV Mainz 05,RW,3.2,28.5,5.0,6.0,,0.4,40.0,,2.0,0.5,,0.12,1.1,1.0,,0.4,,,,0.2,0.2,1.1,3.0,2.0
+Daniel Caligiuri,FC Schalke 04,CDM,2.8,25.8,3.0,8.0,2.0,0.3,59.0,,2.1,1.0,,0.23,1.6,1.0,1.0,0.4,,,,0.5,2.1,3.0,7.0,9.0
+Daniel Didavi,VfB Stuttgart,ST,0.9,28.3,2.0,2.0,1.0,0.1,28.0,,0.5,1.1,,0.19,0.4,,,0.7,,,,0.9,1.0,2.0,2.0,
+Daniel Ginczek,VfL Wolfsburg,ST,1.2,13.9,2.0,3.0,2.0,0.1,13.0,,1.3,1.0,,0.42,0.2,,,0.6,,,,1.0,1.0,0.6,6.0,4.0
+Danny Latza,1. FSV Mainz 05,CDM,2.6,39.4,3.0,3.0,3.0,0.5,23.0,,1.3,1.2,,,1.0,,1.0,0.5,,,,0.3,0.8,2.0,,4.0
+Danny da Costa,Eintracht Frankfurt,RB,1.2,17.1,4.0,10.0,5.0,0.3,33.0,,1.6,1.0,,0.06,0.9,,,0.6,,,,0.2,0.8,1.8,2.0,1.0
+David Abraham,Eintracht Frankfurt,CF,4.5,32.2,,1.0,2.0,0.8,5.0,,3.9,0.7,,,1.5,,,0.1,,,,0.1,0.4,1.4,,2.0
+David Alaba,Bayern München,CB,1.8,53.5,3.0,6.0,1.0,0.1,28.0,,1.1,0.5,,0.11,1.1,,,0.5,,,,0.6,1.0,1.2,3.0,4.0
+David Otto,TSG 1899 Hoffenheim,CF,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
+Davie Selke,Hertha BSC,ST,0.3,14.0,5.0,6.0,7.0,,19.0,,0.3,1.5,,0.16,0.1,,1.0,0.4,,,,1.0,1.1,0.3,3.0,4.0
+Davy Klaassen,SV Werder Bremen,CM,1.5,28.2,4.0,6.0,3.0,0.3,39.0,,1.3,1.5,,0.16,1.5,,1.0,0.4,,,,0.3,0.5,2.0,5.0,5.0
+Dawid Kownacki,Fortuna Düsseldorf,ST,,,,,,,5.0,,,,,,,,,,,,,,,,4.0,2.0
+Dayot Upamecano,RB Leipzig,CB,,,,,2.0,,3.0,,,,,,,2.0,,,,,,,,,,5.0
+Denis Zakaria,Borussia Mönchengladbach,CB,1.7,28.5,,,7.0,0.4,16.0,,0.8,1.4,,0.18,1.2,,,0.4,,,,0.6,1.3,1.8,4.0,7.0
+Dennis Aogo,VfB Stuttgart,CM,,,,1.0,1.0,,15.0,,,,,,,,,,,,,,,,,1.0
+Dennis Geiger,TSG 1899 Hoffenheim,CDM,,,1.0,4.0,,,7.0,,,,,,,,1.0,,,,,,,,,1.0
+Dennis Jastrzembski,Hertha BSC,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Diego Demme,RB Leipzig,CDM,3.4,52.2,2.0,4.0,,0.1,26.0,,0.6,1.6,,,1.1,,,0.4,,,,0.1,0.3,3.3,,4.0
+Dodi Lukébakio,Fortuna Düsseldorf,RW,1.3,18.8,3.0,4.0,11.0,,20.0,,0.8,1.3,,0.46,0.4,1.0,1.0,0.4,,,,1.4,2.3,1.1,10.0,6.0
+Dominik Kohr,Bayer 04 Leverkusen,LB,1.8,37.5,2.0,2.0,2.0,1.1,9.0,,1.5,2.0,,,1.4,,,0.3,,,,0.4,0.4,3.9,,4.0
+Dominique Heintz,Sport-Club Freiburg,CB,4.3,39.9,1.0,1.0,2.0,0.6,8.0,,6.3,0.9,,0.03,1.3,3.0,,0.0,,,,0.1,0.6,1.2,1.0,5.0
+Dong-Won Ji,FC Augsburg,CF,,,1.0,1.0,,,10.0,,,,,,,,,,,,,,,,4.0,2.0
+Edgar Prib,Hannover 96,CM,,,1.0,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,1.0
+Edgar Salli,1. FC Nürnberg,RW,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Eduard Löwen,1. FC Nürnberg,CDM,2.6,29.1,2.0,3.0,3.0,0.1,15.0,,0.9,1.0,,0.17,0.4,,,0.7,,,,0.7,1.6,1.7,3.0,3.0
+Elvis Rexhbeçaj,VfL Wolfsburg,CM,1.7,21.5,2.0,3.0,,0.2,7.0,,1.3,0.9,,0.16,1.1,,,1.3,,,,0.3,0.8,2.2,2.0,4.0
+Emil Forsberg,RB Leipzig,CAM,1.1,28.0,7.0,6.0,2.0,0.1,39.0,,0.4,0.5,,0.29,0.2,,,1.0,,,,1.0,1.6,0.9,4.0,
+Emile Smith Rowe,RB Leipzig,CAM,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Emiliano Insua,VfB Stuttgart,CB,1.9,32.0,2.0,6.0,,0.1,28.0,,2.0,0.8,,0.08,1.3,,,0.4,1.0,,,0.2,1.4,2.2,2.0,4.0
+Enrico Valentini,1. FC Nürnberg,RWB,,,2.0,,,,24.0,,,,,,,,,,,,,,,,,2.0
+Erik Thommy,VfB Stuttgart,LW,1.1,24.1,1.0,2.0,2.0,0.1,18.0,,0.1,0.9,,0.11,1.6,,,0.9,1.0,,,0.5,0.9,0.6,1.0,2.0
+Ermin Bicakcic,TSG 1899 Hoffenheim,LB,2.2,51.1,2.0,1.0,4.0,0.8,5.0,,3.8,0.9,,0.05,2.8,1.0,,0.2,,,,0.2,,1.6,1.0,
+Evan N'Dicka,Eintracht Frankfurt,CB,3.3,34.2,1.0,,2.0,0.4,4.0,,4.4,1.1,,0.04,1.1,,,0.1,,,,0.1,0.2,1.7,1.0,3.0
+Ewerton,1. FC Nürnberg,CB,2.7,33.9,,,,1.1,2.0,,7.1,1.1,,,1.7,,,0.1,,,,0.1,0.7,1.6,,2.0
 Fabian Bredlow,1. FC Nürnberg,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,1.0
 Fabian Giefer,FC Augsburg,GK,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Fabian Johnson,Borussia Mönchengladbach,DEF,0.9,35.9,,1.0,1.0,0.3,4.0,,1.2,0.4,,0.09,0.9,,1.0,0.4,,,,0.2,0.1,1.2,1.0,1.0
-Fabian Lustenberger,Hertha BSC,DEF,4.4,47.5,1.0,1.0,,0.7,4.0,,4.4,0.7,,,1.6,,,0.1,,,,,0.1,1.9,,2.0
-Federico Palacios,1. FC Nürnberg,ATT,0.5,23.0,,,,,6.0,,0.2,0.9,,0.19,0.9,,,0.1,,,,0.2,1.1,2.0,2.0,1.0
-Felipe,Hannover 96,DEF,3.3,30.4,,,,0.7,,,5.7,1.5,,0.16,2.9,1.0,,0.1,1.0,,,0.2,0.2,1.9,2.0,4.0
-Felix Götze,FC Augsburg,DEF,,,,,,,,,,,,,,,,,,,,,,,1.0,
-Felix Klaus,VfL Wolfsburg,ATT,,,1.0,4.0,2.0,,6.0,,,,,,,,,,,,,,,,1.0,
-Felix Uduokhai,VfL Wolfsburg,DEF,,,,,,,,,,,,,,,,,,,,,,,,2.0
-Filip Kostic,Eintracht Frankfurt,MID,1.5,19.8,10.0,16.0,2.0,0.2,46.0,,1.1,0.8,,0.18,0.7,1.0,,0.5,,,,0.5,1.8,1.9,6.0,4.0
-Florent Muslija,Hannover 96,ATT,2.1,30.3,,,,,15.0,,0.3,0.7,,0.27,0.4,,,0.8,,,,1.5,2.1,2.1,2.0,1.0
-Florian Grillitsch,TSG 1899 Hoffenheim,MID,3.9,48.5,3.0,5.0,,0.3,27.0,,1.9,1.5,,,2.7,1.0,,0.4,,,,0.4,0.9,2.9,,8.0
-Florian Kainz,SV Werder Bremen,ATT,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,2.0
+Fabian Johnson,Borussia Mönchengladbach,RWB,0.9,35.9,,1.0,1.0,0.3,4.0,,1.2,0.4,,0.09,0.9,,1.0,0.4,,,,0.2,0.1,1.2,1.0,1.0
+Fabian Lustenberger,Hertha BSC,CB,4.4,47.5,1.0,1.0,,0.7,4.0,,4.4,0.7,,,1.6,,,0.1,,,,,0.1,1.9,,2.0
+Federico Palacios,1. FC Nürnberg,CAM,0.5,23.0,,,,,6.0,,0.2,0.9,,0.19,0.9,,,0.1,,,,0.2,1.1,2.0,2.0,1.0
+Felipe,Hannover 96,CB,3.3,30.4,,,,0.7,,,5.7,1.5,,0.16,2.9,1.0,,0.1,1.0,,,0.2,0.2,1.9,2.0,4.0
+Felix Götze,FC Augsburg,CB,,,,,,,,,,,,,,,,,,,,,,,1.0,
+Felix Klaus,VfL Wolfsburg,RW,,,1.0,4.0,2.0,,6.0,,,,,,,,,,,,,,,,1.0,
+Felix Uduokhai,VfL Wolfsburg,CB,,,,,,,,,,,,,,,,,,,,,,,,2.0
+Filip Kostic,Eintracht Frankfurt,LM,1.5,19.8,10.0,16.0,2.0,0.2,46.0,,1.1,0.8,,0.18,0.7,1.0,,0.5,,,,0.5,1.8,1.9,6.0,4.0
+Florent Muslija,Hannover 96,LW,2.1,30.3,,,,,15.0,,0.3,0.7,,0.27,0.4,,,0.8,,,,1.5,2.1,2.1,2.0,1.0
+Florian Grillitsch,TSG 1899 Hoffenheim,CM,3.9,48.5,3.0,5.0,,0.3,27.0,,1.9,1.5,,,2.7,1.0,,0.4,,,,0.4,0.9,2.9,,8.0
+Florian Kainz,SV Werder Bremen,LW,,,1.0,1.0,,,6.0,,,,,,,,,,,,,,,,,2.0
 Florian Müller,1. FSV Mainz 05,GK,,18.5,,,,,2.0,5.0,0.5,,1.8,,0.1,,,,,65.6,3.4,,0.0,0.0,,
-Florian Neuhaus,Borussia Mönchengladbach,ATT,2.1,31.5,8.0,5.0,6.0,0.0,29.0,,0.9,1.1,,0.13,0.4,,3.0,0.2,,,,0.6,1.3,1.0,3.0,5.0
-Florian Niederlechner,Sport-Club Freiburg,ATT,0.4,11.1,1.0,1.0,4.0,0.4,10.0,,0.9,2.1,,0.37,0.6,,,1.1,,,,1.7,0.8,0.7,4.0,3.0
-Franck Ribéry,Bayern München,ATT,2.0,44.7,3.0,3.0,1.0,,21.0,,,1.3,,0.46,0.5,,1.0,1.1,,,,0.8,2.8,1.2,6.0,3.0
-Franco Di Santo,FC Schalke 04,ATT,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,
+Florian Neuhaus,Borussia Mönchengladbach,LAM,2.1,31.5,8.0,5.0,6.0,0.0,29.0,,0.9,1.1,,0.13,0.4,,3.0,0.2,,,,0.6,1.3,1.0,3.0,5.0
+Florian Niederlechner,Sport-Club Freiburg,CF,0.4,11.1,1.0,1.0,4.0,0.4,10.0,,0.9,2.1,,0.37,0.6,,,1.1,,,,1.7,0.8,0.7,4.0,3.0
+Franck Ribéry,Bayern München,CF,2.0,44.7,3.0,3.0,1.0,,21.0,,,1.3,,0.46,0.5,,1.0,1.1,,,,0.8,2.8,1.2,6.0,3.0
+Franco Di Santo,FC Schalke 04,LW,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,
 Frederik Rønnow,Eintracht Frankfurt,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Fredrik Jensen,FC Augsburg,ATT,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,
-Gelson Fernandes,Eintracht Frankfurt,MID,0.4,28.3,,,,0.4,4.0,,0.6,2.3,,0.04,2.1,,,0.4,1.0,,,0.1,0.2,3.0,1.0,9.0
-Genki Haraguchi,Hannover 96,MID,1.0,24.3,3.0,5.0,3.0,0.2,27.0,,1.1,1.4,,,0.9,1.0,,0.5,,,,0.3,1.9,1.9,,1.0
-Georg Margreitter,1. FC Nürnberg,DEF,4.9,43.2,,,,1.1,3.0,,6.0,0.4,,0.09,1.1,,1.0,0.0,,,,0.2,0.2,1.7,2.0,2.0
-Georg Teigl,FC Augsburg,DEF,,,,,,,2.0,,,,,,,,1.0,,,,,,,,,
-Gerrit Holtmann,1. FSV Mainz 05,ATT,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,2.0
-Gian-Luca Waldschmidt,Sport-Club Freiburg,ATT,1.8,24.6,1.0,4.0,5.0,0.2,23.0,,0.3,1.7,,0.47,0.7,,1.0,0.2,,,,1.6,1.0,1.0,9.0,1.0
-Giulio Donati,1. FSV Mainz 05,DEF,,,,1.0,,,7.0,,,,,,,,,,,,,,,,,2.0
-Gonzalo Castro,VfB Stuttgart,ATT,2.4,32.8,4.0,3.0,1.0,0.3,29.0,,1.1,1.6,,0.11,1.5,2.0,,0.3,,,,0.2,0.3,2.7,2.0,4.0
-Gonçalo Paciência,Eintracht Frankfurt,ATT,,,1.0,1.0,3.0,,4.0,,,,,,,,,,,,,,,,3.0,1.0
+Fredrik Jensen,FC Augsburg,CAM,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,
+Gelson Fernandes,Eintracht Frankfurt,CDM,0.4,28.3,,,,0.4,4.0,,0.6,2.3,,0.04,2.1,,,0.4,1.0,,,0.1,0.2,3.0,1.0,9.0
+Genki Haraguchi,Hannover 96,CDM,1.0,24.3,3.0,5.0,3.0,0.2,27.0,,1.1,1.4,,,0.9,1.0,,0.5,,,,0.3,1.9,1.9,,1.0
+Georg Margreitter,1. FC Nürnberg,CB,4.9,43.2,,,,1.1,3.0,,6.0,0.4,,0.09,1.1,,1.0,0.0,,,,0.2,0.2,1.7,2.0,2.0
+Georg Teigl,FC Augsburg,CB,,,,,,,2.0,,,,,,,,1.0,,,,,,,,,
+Gerrit Holtmann,1. FSV Mainz 05,LW,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,2.0
+Gian-Luca Waldschmidt,Sport-Club Freiburg,CAM,1.8,24.6,1.0,4.0,5.0,0.2,23.0,,0.3,1.7,,0.47,0.7,,1.0,0.2,,,,1.6,1.0,1.0,9.0,1.0
+Giulio Donati,1. FSV Mainz 05,LB,,,,1.0,,,7.0,,,,,,,,,,,,,,,,,2.0
+Gonzalo Castro,VfB Stuttgart,CAM,2.4,32.8,4.0,3.0,1.0,0.3,29.0,,1.1,1.6,,0.11,1.5,2.0,,0.3,,,,0.2,0.3,2.7,2.0,4.0
+Gonçalo Paciência,Eintracht Frankfurt,CF,,,1.0,1.0,3.0,,4.0,,,,,,,,,,,,,,,,3.0,1.0
 Gregor Kobel,FC Augsburg,GK,,19.8,,,,,,3.0,0.5,,2.6,,0.1,,,,,57.4,3.5,,0.1,0.1,,
-Guido Burgstaller,FC Schalke 04,ATT,0.2,10.8,,2.0,7.0,,10.0,,0.6,1.4,,0.24,0.1,,,0.5,,,,1.1,0.4,0.7,4.0,4.0
-Haji Wright,FC Schalke 04,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
-Hamza Mendyl,FC Schalke 04,DEF,,,,,,,,,,,,,,,,,,,,,,,,5.0
-Hanno Behrens,1. FC Nürnberg,ATT,1.1,20.9,1.0,2.0,8.0,0.4,21.0,,1.5,1.4,,0.14,1.1,1.0,,0.3,,,,0.3,0.3,1.6,4.0,3.0
-Hendrik Weydandt,Hannover 96,ATT,0.2,12.9,1.0,7.0,7.0,0.2,27.0,,2.3,1.8,,0.31,0.3,,,0.4,,,,1.0,0.6,0.9,6.0,1.0
-Holger Badstuber,VfB Stuttgart,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Håvard Nordtveit,TSG 1899 Hoffenheim,DEF,,,,,,,2.0,,,,,,,1.0,,,,,,,,,,2.0
-Ibrahima Konaté,RB Leipzig,DEF,1.9,29.2,1.0,,2.0,0.7,6.0,,4.5,1.4,,0.04,2.1,1.0,,0.1,,,,0.1,0.8,1.6,1.0,7.0
-Ibrahima Traore,Borussia Mönchengladbach,ATT,,,2.0,5.0,,,14.0,,,,,,,,,,,,,,,,,1.0
-Ignacio Camacho,VfL Wolfsburg,MID,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,3.0
-Ihlas Bebou,Hannover 96,ATT,,,3.0,2.0,6.0,,16.0,,,,,,,,,,,,,,,,4.0,1.0
-Isaac Kiese Thelin,Bayer 04 Leverkusen,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Ishak Belfodil,TSG 1899 Hoffenheim,ATT,0.2,15.2,3.0,8.0,11.0,,30.0,,0.6,1.2,,0.77,0.1,,1.0,0.3,,,,1.7,1.8,0.6,16.0,3.0
-Iver Fossum,Hannover 96,MID,,,,2.0,,,9.0,,,,,,,,,,,,,,,,,
-Ivo Ilicevic,1. FC Nürnberg,Code_2,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Ja-Cheol Koo,FC Augsburg,ATT,1.4,27.6,1.0,,4.0,0.3,23.0,,1.0,1.4,,0.11,1.5,,,0.5,,,,0.4,0.8,2.0,2.0,3.0
-Jacob Bruun Larsen,Borussia Dortmund,ATT,1.1,28.3,2.0,6.0,2.0,0.1,18.0,,0.9,0.2,,0.14,0.9,,,0.4,,,,0.6,1.2,1.1,2.0,
-Jadon Sancho,Borussia Dortmund,ATT,0.7,40.4,14.0,13.0,3.0,0.0,64.0,,0.2,0.2,,0.44,0.5,,2.0,0.5,,,,0.8,4.1,0.7,12.0,2.0
-James Rodríguez,Bayern München,ATT,3.7,60.2,3.0,8.0,4.0,,51.0,,0.1,0.6,,0.55,0.3,,1.0,1.5,,,,1.5,1.3,0.9,7.0,2.0
-Jan Morávek,FC Augsburg,MID,,,2.0,1.0,1.0,,8.0,,,,,,,1.0,,,,,,,,,,1.0
-Jan-Ingwer Callsen-Bracker,FC Augsburg,Code_1,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Janik Haberer,Sport-Club Freiburg,MID,2.4,31.8,3.0,4.0,1.0,0.2,46.0,,1.9,1.8,,0.04,1.4,,,0.5,1.0,,,0.2,0.9,2.7,1.0,4.0
-Javairô Dilrosun,Hertha BSC,ATT,0.6,17.1,3.0,4.0,,0.2,12.0,,0.7,0.8,,0.2,0.7,,,0.6,,,,0.5,0.9,1.4,2.0,2.0
-Javi Martínez,Bayern München,DEF,2.7,54.5,,,1.0,0.3,7.0,,0.8,0.8,,0.21,2.1,,,0.5,,,,0.5,0.3,1.8,3.0,3.0
-Jean Zimmer,Fortuna Düsseldorf,MID,1.6,20.4,2.0,2.0,1.0,0.1,35.0,,1.4,0.6,,0.06,0.7,,,0.3,,,,0.2,0.4,1.1,1.0,2.0
-Jean-Kévin Augustin,RB Leipzig,ATT,,13.6,,1.0,3.0,,8.0,,,2.2,,0.6,0.6,,,,,,,1.6,1.8,0.4,3.0,
-Jean-Paul Boëtius,1. FSV Mainz 05,MID,2.0,27.3,7.0,9.0,1.0,0.1,31.0,,0.4,2.2,,0.17,1.6,,,0.6,,,,0.5,1.4,2.2,4.0,8.0
-Jean-Philippe Gbamin,1. FSV Mainz 05,DEF,2.8,36.1,1.0,2.0,1.0,0.2,23.0,,1.0,1.3,,0.07,1.0,1.0,,0.4,,,,0.2,1.2,1.7,2.0,3.0
-Jean-Philippe Mateta,1. FSV Mainz 05,ATT,0.3,11.5,2.0,5.0,11.0,0.1,30.0,,0.8,1.2,,0.51,0.1,,1.0,0.6,,,,1.2,1.2,0.5,14.0,2.0
-Jeffrey Bruma,FC Schalke 04,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
-Jeffrey Gouweleeuw,FC Augsburg,DEF,5.6,39.9,2.0,3.0,1.0,0.9,8.0,,2.8,0.9,,,2.4,,,0.1,,,,0.1,0.4,1.8,,4.0
-Jetro Willems,Eintracht Frankfurt,DEF,1.9,23.1,1.0,3.0,,0.5,20.0,,1.3,0.8,,,1.3,,,0.4,1.0,,,0.1,1.0,2.5,,2.0
+Guido Burgstaller,FC Schalke 04,ST,0.2,10.8,,2.0,7.0,,10.0,,0.6,1.4,,0.24,0.1,,,0.5,,,,1.1,0.4,0.7,4.0,4.0
+Haji Wright,FC Schalke 04,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
+Hamza Mendyl,FC Schalke 04,LWB,,,,,,,,,,,,,,,,,,,,,,,,5.0
+Hanno Behrens,1. FC Nürnberg,CAM,1.1,20.9,1.0,2.0,8.0,0.4,21.0,,1.5,1.4,,0.14,1.1,1.0,,0.3,,,,0.3,0.3,1.6,4.0,3.0
+Hendrik Weydandt,Hannover 96,ST,0.2,12.9,1.0,7.0,7.0,0.2,27.0,,2.3,1.8,,0.31,0.3,,,0.4,,,,1.0,0.6,0.9,6.0,1.0
+Holger Badstuber,VfB Stuttgart,LB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Håvard Nordtveit,TSG 1899 Hoffenheim,CB,,,,,,,2.0,,,,,,,1.0,,,,,,,,,,2.0
+Ibrahima Konaté,RB Leipzig,CB,1.9,29.2,1.0,,2.0,0.7,6.0,,4.5,1.4,,0.04,2.1,1.0,,0.1,,,,0.1,0.8,1.6,1.0,7.0
+Ibrahima Traore,Borussia Mönchengladbach,LW,,,2.0,5.0,,,14.0,,,,,,,,,,,,,,,,,1.0
+Ignacio Camacho,VfL Wolfsburg,CM,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,3.0
+Ihlas Bebou,Hannover 96,CF,,,3.0,2.0,6.0,,16.0,,,,,,,,,,,,,,,,4.0,1.0
+Isaac Kiese Thelin,Bayer 04 Leverkusen,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Ishak Belfodil,TSG 1899 Hoffenheim,CF,0.2,15.2,3.0,8.0,11.0,,30.0,,0.6,1.2,,0.77,0.1,,1.0,0.3,,,,1.7,1.8,0.6,16.0,3.0
+Iver Fossum,Hannover 96,CAM,,,,2.0,,,9.0,,,,,,,,,,,,,,,,,
+Ivo Ilicevic,1. FC Nürnberg,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Ja-Cheol Koo,FC Augsburg,CF,1.4,27.6,1.0,,4.0,0.3,23.0,,1.0,1.4,,0.11,1.5,,,0.5,,,,0.4,0.8,2.0,2.0,3.0
+Jacob Bruun Larsen,Borussia Dortmund,RW,1.1,28.3,2.0,6.0,2.0,0.1,18.0,,0.9,0.2,,0.14,0.9,,,0.4,,,,0.6,1.2,1.1,2.0,
+Jadon Sancho,Borussia Dortmund,RW,0.7,40.4,14.0,13.0,3.0,0.0,64.0,,0.2,0.2,,0.44,0.5,,2.0,0.5,,,,0.8,4.1,0.7,12.0,2.0
+James Rodríguez,Bayern München,CAM,3.7,60.2,3.0,8.0,4.0,,51.0,,0.1,0.6,,0.55,0.3,,1.0,1.5,,,,1.5,1.3,0.9,7.0,2.0
+Jan Morávek,FC Augsburg,CDM,,,2.0,1.0,1.0,,8.0,,,,,,,1.0,,,,,,,,,,1.0
+Jan-Ingwer Callsen-Bracker,FC Augsburg,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Janik Haberer,Sport-Club Freiburg,RM,2.4,31.8,3.0,4.0,1.0,0.2,46.0,,1.9,1.8,,0.04,1.4,,,0.5,1.0,,,0.2,0.9,2.7,1.0,4.0
+Javairô Dilrosun,Hertha BSC,RW,0.6,17.1,3.0,4.0,,0.2,12.0,,0.7,0.8,,0.2,0.7,,,0.6,,,,0.5,0.9,1.4,2.0,2.0
+Javi Martínez,Bayern München,CB,2.7,54.5,,,1.0,0.3,7.0,,0.8,0.8,,0.21,2.1,,,0.5,,,,0.5,0.3,1.8,3.0,3.0
+Jean Zimmer,Fortuna Düsseldorf,RM,1.6,20.4,2.0,2.0,1.0,0.1,35.0,,1.4,0.6,,0.06,0.7,,,0.3,,,,0.2,0.4,1.1,1.0,2.0
+Jean-Kévin Augustin,RB Leipzig,ST,,13.6,,1.0,3.0,,8.0,,,2.2,,0.6,0.6,,,,,,,1.6,1.8,0.4,3.0,
+Jean-Paul Boëtius,1. FSV Mainz 05,CDM,2.0,27.3,7.0,9.0,1.0,0.1,31.0,,0.4,2.2,,0.17,1.6,,,0.6,,,,0.5,1.4,2.2,4.0,8.0
+Jean-Philippe Gbamin,1. FSV Mainz 05,CB,2.8,36.1,1.0,2.0,1.0,0.2,23.0,,1.0,1.3,,0.07,1.0,1.0,,0.4,,,,0.2,1.2,1.7,2.0,3.0
+Jean-Philippe Mateta,1. FSV Mainz 05,CF,0.3,11.5,2.0,5.0,11.0,0.1,30.0,,0.8,1.2,,0.51,0.1,,1.0,0.6,,,,1.2,1.2,0.5,14.0,2.0
+Jeffrey Bruma,FC Schalke 04,CB,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
+Jeffrey Gouweleeuw,FC Augsburg,CB,5.6,39.9,2.0,3.0,1.0,0.9,8.0,,2.8,0.9,,,2.4,,,0.1,,,,0.1,0.4,1.8,,4.0
+Jetro Willems,Eintracht Frankfurt,LB,1.9,23.1,1.0,3.0,,0.5,20.0,,1.3,0.8,,,1.3,,,0.4,1.0,,,0.1,1.0,2.5,,2.0
 Jirí Pavlenka,SV Werder Bremen,GK,,22.6,,,,,,5.0,0.8,0.0,1.4,,0.1,1.0,,,,69.3,3.2,,,0.1,,2.0
-Joelinton,TSG 1899 Hoffenheim,MID,0.3,23.1,5.0,9.0,8.0,0.1,43.0,,0.3,2.4,,0.29,0.6,,1.0,0.7,,,,1.0,2.0,1.5,7.0,5.0
-Johannes Eggestein,SV Werder Bremen,ATT,0.5,18.1,1.0,3.0,4.0,,10.0,,0.4,1.2,,0.32,0.3,,,1.0,,,,1.0,1.2,1.0,4.0,
-John Anthony Brooks,VfL Wolfsburg,DEF,7.0,51.6,2.0,1.0,2.0,0.4,4.0,,4.6,0.5,,0.1,1.3,1.0,,0.1,,,,0.2,0.1,1.0,3.0,7.0
-John Yeboah,VfL Wolfsburg,ATT,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
-Jonas Carls,FC Schalke 04,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Jonas Hofmann,Borussia Mönchengladbach,ATT,2.8,41.1,5.0,5.0,3.0,0.1,34.0,,0.7,0.9,,0.23,0.8,,,0.9,,,,0.5,0.5,1.7,5.0,2.0
-Jonathan Burkardt,1. FSV Mainz 05,ATT,,,,1.0,1.0,,5.0,,,,,,,,,,,,,,,,,
-Jonathan Schmid,FC Augsburg,ATT,1.6,29.0,7.0,2.0,,0.3,46.0,,2.1,0.8,,0.11,1.5,,,0.3,,,,0.3,0.6,1.6,3.0,1.0
-Jonathan Tah,Bayer 04 Leverkusen,DEF,3.8,68.5,1.0,1.0,2.0,0.8,7.0,,4.1,0.5,,0.09,1.4,2.0,,0.1,,,,0.1,0.5,1.3,3.0,3.0
-Jonathan de Guzmán,Eintracht Frankfurt,MID,2.5,37.9,6.0,9.0,1.0,0.1,37.0,,0.7,1.0,,0.17,0.6,,,0.1,,,,0.4,0.7,2.0,3.0,4.0
-Jonathas,Hannover 96,ATT,,,1.0,,1.0,,1.0,,,,,,,,,,1.0,,,,,,3.0,2.0
-Jordan Beyer,Borussia Mönchengladbach,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Jordan Torunarigha,Hertha BSC,DEF,,,2.0,2.0,,,5.0,,,,,,,,,,1.0,,,,,,2.0,2.0
-Joshua Brenet,TSG 1899 Hoffenheim,DEF,,,1.0,2.0,2.0,,9.0,,,,,,,,,,,,,,,,2.0,
-Joshua Kimmich,Bayern München,MID,4.2,67.0,13.0,21.0,1.0,0.3,82.0,,1.0,0.8,,0.06,1.0,,1.0,0.4,,,,0.3,1.1,1.4,2.0,4.0
-Joshua Sargent,SV Werder Bremen,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,2.0,1.0
-Josip Brekalo,VfL Wolfsburg,ATT,2.8,25.5,3.0,1.0,3.0,0.1,20.0,,0.3,1.0,,0.19,0.8,,,0.5,,,,0.8,1.9,1.0,3.0,2.0
-Josip Drmic,Borussia Mönchengladbach,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
-Josip Elez,Hannover 96,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Josuha Guilavogui,VfL Wolfsburg,MID,3.0,37.4,1.0,,1.0,0.5,8.0,,3.2,1.4,,0.11,2.5,,,0.1,,,,0.3,0.5,1.8,2.0,5.0
-Julian Baumgartlinger,Bayer 04 Leverkusen,MID,4.3,71.0,1.0,1.0,,0.3,10.0,,1.2,1.1,,,1.5,,,0.8,,,,,0.9,3.0,,2.0
-Julian Brandt,Bayer 04 Leverkusen,ATT,2.7,46.7,11.0,14.0,7.0,0.0,86.0,,0.3,0.4,,0.24,0.6,,,0.6,,,,0.8,1.9,0.9,7.0,
-Julian Korb,Hannover 96,DEF,,,,1.0,,,10.0,,,,,,,,,,,,,,,,,
-Julian Schieber,FC Augsburg,ATT,,,,1.0,,,1.0,,,,,,,,,,,,,,,,1.0,1.0
-Julian Weigl,Borussia Dortmund,MID,5.2,69.5,,,,0.6,2.0,,3.3,0.9,,0.06,1.0,2.0,,,,,,0.1,0.4,2.0,1.0,3.0
-Jérome Boateng,Bayern München,DEF,7.5,75.4,2.0,2.0,,0.2,11.0,,2.6,0.8,,,1.3,2.0,,0.1,,,,0.2,0.1,1.1,,1.0
-Jérome Gondorf,Sport-Club Freiburg,MID,1.7,23.4,2.0,6.0,2.0,0.3,20.0,,1.5,2.0,,0.14,1.3,,,0.2,,,,0.5,0.4,2.3,2.0,3.0
-Jérome Roussillon,VfL Wolfsburg,DEF,2.0,28.9,4.0,4.0,1.0,0.3,30.0,,1.5,0.7,,0.11,1.1,,,0.4,,,,0.4,1.8,1.5,3.0,4.0
-Kaan Ayhan,Fortuna Düsseldorf,MID,5.5,46.0,1.0,2.0,5.0,0.6,6.0,,4.2,0.9,,0.15,2.2,2.0,,0.1,,,,0.3,0.4,1.9,4.0,10.0
-Kai Havertz,Bayer 04 Leverkusen,ATT,2.3,48.4,3.0,5.0,8.0,0.1,35.0,,0.8,0.7,,0.53,0.5,,,0.8,,,,1.3,1.5,0.8,17.0,2.0
-Karim Bellarabi,Bayer 04 Leverkusen,ATT,1.0,26.7,4.0,7.0,2.0,,26.0,,0.4,1.4,,0.43,0.9,,,0.9,1.0,,,0.9,1.7,1.1,5.0,4.0
-Karim Onisiwo,1. FSV Mainz 05,ATT,0.1,11.3,3.0,6.0,5.0,0.2,21.0,,0.7,1.7,,0.55,0.7,,,0.7,,,,1.3,1.2,1.8,7.0,2.0
-Karim Rekik,Hertha BSC,DEF,3.3,44.8,,,1.0,0.7,2.0,,3.7,0.7,,,1.5,2.0,,0.0,1.0,,,0.1,0.2,1.6,,4.0
-Kasim Adams,TSG 1899 Hoffenheim,DEF,,,1.0,,1.0,,1.0,,,,,,,1.0,,,1.0,,,,,,,4.0
-Kenan Karaman,Fortuna Düsseldorf,ATT,0.7,19.0,1.0,3.0,2.0,0.1,14.0,,0.8,1.4,,0.3,0.2,,1.0,0.7,,,,0.8,1.8,1.3,3.0,
-Kerem Demirbay,TSG 1899 Hoffenheim,MID,3.3,45.9,9.0,16.0,4.0,0.4,80.0,,0.9,2.0,,0.18,1.0,,,0.6,,,,0.8,2.6,2.5,4.0,6.0
-Keven Schlotterbeck,Sport-Club Freiburg,DEF,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,1.0
-Kevin Akpoguma,Hannover 96,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
-Kevin Danso,FC Augsburg,DEF,4.3,32.0,1.0,1.0,,1.2,2.0,,5.2,1.2,,0.07,1.4,,,0.1,,,,0.4,0.1,1.8,1.0,3.0
-Kevin Goden,1. FC Nürnberg,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Kevin Kampl,RB Leipzig,MID,2.8,51.2,5.0,8.0,1.0,0.1,48.0,,0.8,1.3,,0.08,1.4,,,0.6,,,,0.6,1.1,1.7,2.0,5.0
-Kevin Möhwald,SV Werder Bremen,ATT,2.1,41.6,1.0,1.0,,,9.0,,1.5,1.6,,0.31,1.8,,,0.8,,,,1.0,0.9,1.7,3.0,2.0
-Kevin Stöger,Fortuna Düsseldorf,ATT,5.7,49.5,7.0,13.0,2.0,0.2,54.0,,0.7,2.0,,0.04,1.3,,,0.3,,,,0.4,1.1,2.7,1.0,8.0
+Joelinton,TSG 1899 Hoffenheim,CAM,0.3,23.1,5.0,9.0,8.0,0.1,43.0,,0.3,2.4,,0.29,0.6,,1.0,0.7,,,,1.0,2.0,1.5,7.0,5.0
+Johannes Eggestein,SV Werder Bremen,CF,0.5,18.1,1.0,3.0,4.0,,10.0,,0.4,1.2,,0.32,0.3,,,1.0,,,,1.0,1.2,1.0,4.0,
+John Anthony Brooks,VfL Wolfsburg,LB,7.0,51.6,2.0,1.0,2.0,0.4,4.0,,4.6,0.5,,0.1,1.3,1.0,,0.1,,,,0.2,0.1,1.0,3.0,7.0
+John Yeboah,VfL Wolfsburg,CF,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
+Jonas Carls,FC Schalke 04,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Jonas Hofmann,Borussia Mönchengladbach,RAM,2.8,41.1,5.0,5.0,3.0,0.1,34.0,,0.7,0.9,,0.23,0.8,,,0.9,,,,0.5,0.5,1.7,5.0,2.0
+Jonathan Burkardt,1. FSV Mainz 05,CF,,,,1.0,1.0,,5.0,,,,,,,,,,,,,,,,,
+Jonathan Schmid,FC Augsburg,CAM,1.6,29.0,7.0,2.0,,0.3,46.0,,2.1,0.8,,0.11,1.5,,,0.3,,,,0.3,0.6,1.6,3.0,1.0
+Jonathan Tah,Bayer 04 Leverkusen,CB,3.8,68.5,1.0,1.0,2.0,0.8,7.0,,4.1,0.5,,0.09,1.4,2.0,,0.1,,,,0.1,0.5,1.3,3.0,3.0
+Jonathan de Guzmán,Eintracht Frankfurt,CDM,2.5,37.9,6.0,9.0,1.0,0.1,37.0,,0.7,1.0,,0.17,0.6,,,0.1,,,,0.4,0.7,2.0,3.0,4.0
+Jonathas,Hannover 96,CF,,,1.0,,1.0,,1.0,,,,,,,,,,1.0,,,,,,3.0,2.0
+Jordan Beyer,Borussia Mönchengladbach,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Jordan Torunarigha,Hertha BSC,LB,,,2.0,2.0,,,5.0,,,,,,,,,,1.0,,,,,,2.0,2.0
+Joshua Brenet,TSG 1899 Hoffenheim,RWB,,,1.0,2.0,2.0,,9.0,,,,,,,,,,,,,,,,2.0,
+Joshua Kimmich,Bayern München,CDM,4.2,67.0,13.0,21.0,1.0,0.3,82.0,,1.0,0.8,,0.06,1.0,,1.0,0.4,,,,0.3,1.1,1.4,2.0,4.0
+Joshua Sargent,SV Werder Bremen,ST,,,,,,,2.0,,,,,,,,,,,,,,,,2.0,1.0
+Josip Brekalo,VfL Wolfsburg,LW,2.8,25.5,3.0,1.0,3.0,0.1,20.0,,0.3,1.0,,0.19,0.8,,,0.5,,,,0.8,1.9,1.0,3.0,2.0
+Josip Drmic,Borussia Mönchengladbach,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
+Josip Elez,Hannover 96,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Josuha Guilavogui,VfL Wolfsburg,CDM,3.0,37.4,1.0,,1.0,0.5,8.0,,3.2,1.4,,0.11,2.5,,,0.1,,,,0.3,0.5,1.8,2.0,5.0
+Julian Baumgartlinger,Bayer 04 Leverkusen,CM,4.3,71.0,1.0,1.0,,0.3,10.0,,1.2,1.1,,,1.5,,,0.8,,,,,0.9,3.0,,2.0
+Julian Brandt,Bayer 04 Leverkusen,LAM,2.7,46.7,11.0,14.0,7.0,0.0,86.0,,0.3,0.4,,0.24,0.6,,,0.6,,,,0.8,1.9,0.9,7.0,
+Julian Korb,Hannover 96,RWB,,,,1.0,,,10.0,,,,,,,,,,,,,,,,,
+Julian Schieber,FC Augsburg,ST,,,,1.0,,,1.0,,,,,,,,,,,,,,,,1.0,1.0
+Julian Weigl,Borussia Dortmund,CDM,5.2,69.5,,,,0.6,2.0,,3.3,0.9,,0.06,1.0,2.0,,,,,,0.1,0.4,2.0,1.0,3.0
+Jérome Boateng,Bayern München,LB,7.5,75.4,2.0,2.0,,0.2,11.0,,2.6,0.8,,,1.3,2.0,,0.1,,,,0.2,0.1,1.1,,1.0
+Jérome Gondorf,Sport-Club Freiburg,CDM,1.7,23.4,2.0,6.0,2.0,0.3,20.0,,1.5,2.0,,0.14,1.3,,,0.2,,,,0.5,0.4,2.3,2.0,3.0
+Jérome Roussillon,VfL Wolfsburg,LWB,2.0,28.9,4.0,4.0,1.0,0.3,30.0,,1.5,0.7,,0.11,1.1,,,0.4,,,,0.4,1.8,1.5,3.0,4.0
+Kaan Ayhan,Fortuna Düsseldorf,CDM,5.5,46.0,1.0,2.0,5.0,0.6,6.0,,4.2,0.9,,0.15,2.2,2.0,,0.1,,,,0.3,0.4,1.9,4.0,10.0
+Kai Havertz,Bayer 04 Leverkusen,ST,2.3,48.4,3.0,5.0,8.0,0.1,35.0,,0.8,0.7,,0.53,0.5,,,0.8,,,,1.3,1.5,0.8,17.0,2.0
+Karim Bellarabi,Bayer 04 Leverkusen,RW,1.0,26.7,4.0,7.0,2.0,,26.0,,0.4,1.4,,0.43,0.9,,,0.9,1.0,,,0.9,1.7,1.1,5.0,4.0
+Karim Onisiwo,1. FSV Mainz 05,CF,0.1,11.3,3.0,6.0,5.0,0.2,21.0,,0.7,1.7,,0.55,0.7,,,0.7,,,,1.3,1.2,1.8,7.0,2.0
+Karim Rekik,Hertha BSC,CB,3.3,44.8,,,1.0,0.7,2.0,,3.7,0.7,,,1.5,2.0,,0.0,1.0,,,0.1,0.2,1.6,,4.0
+Kasim Adams,TSG 1899 Hoffenheim,CB,,,1.0,,1.0,,1.0,,,,,,,1.0,,,1.0,,,,,,,4.0
+Kenan Karaman,Fortuna Düsseldorf,LAM,0.7,19.0,1.0,3.0,2.0,0.1,14.0,,0.8,1.4,,0.3,0.2,,1.0,0.7,,,,0.8,1.8,1.3,3.0,
+Kerem Demirbay,TSG 1899 Hoffenheim,CDM,3.3,45.9,9.0,16.0,4.0,0.4,80.0,,0.9,2.0,,0.18,1.0,,,0.6,,,,0.8,2.6,2.5,4.0,6.0
+Keven Schlotterbeck,Sport-Club Freiburg,CB,,,,,1.0,,,,,,,,,1.0,,,,,,,,,,1.0
+Kevin Akpoguma,Hannover 96,LB,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
+Kevin Danso,FC Augsburg,CB,4.3,32.0,1.0,1.0,,1.2,2.0,,5.2,1.2,,0.07,1.4,,,0.1,,,,0.4,0.1,1.8,1.0,3.0
+Kevin Goden,1. FC Nürnberg,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Kevin Kampl,RB Leipzig,RM,2.8,51.2,5.0,8.0,1.0,0.1,48.0,,0.8,1.3,,0.08,1.4,,,0.6,,,,0.6,1.1,1.7,2.0,5.0
+Kevin Möhwald,SV Werder Bremen,LAM,2.1,41.6,1.0,1.0,,,9.0,,1.5,1.6,,0.31,1.8,,,0.8,,,,1.0,0.9,1.7,3.0,2.0
+Kevin Stöger,Fortuna Düsseldorf,CAM,5.7,49.5,7.0,13.0,2.0,0.2,54.0,,0.7,2.0,,0.04,1.3,,,0.3,,,,0.4,1.1,2.7,1.0,8.0
 Kevin Trapp,Eintracht Frankfurt,GK,,21.4,,,,,,8.0,0.9,,1.5,,,,,,,70.7,3.6,,,,,2.0
-Kevin Vogt,TSG 1899 Hoffenheim,DEF,6.1,62.1,,,,0.4,6.0,,3.8,0.8,,,1.2,2.0,,,,,,0.0,0.1,0.9,,5.0
-Kevin Volland,Bayer 04 Leverkusen,ATT,0.8,20.6,9.0,13.0,11.0,0.0,43.0,,1.0,1.3,,0.45,0.2,1.0,3.0,0.5,,,,1.4,1.0,1.1,14.0,4.0
-Kevin Wimmer,Hannover 96,DEF,5.6,44.8,,,1.0,1.2,7.0,,3.2,1.1,,,2.2,,,,,,,,,1.3,,5.0
-Kingsley Coman,Bayern München,MID,0.7,34.0,4.0,7.0,5.0,,28.0,,0.1,1.1,,0.39,0.3,,,1.0,,,,1.2,3.9,0.7,6.0,2.0
+Kevin Vogt,TSG 1899 Hoffenheim,CB,6.1,62.1,,,,0.4,6.0,,3.8,0.8,,,1.2,2.0,,,,,,0.0,0.1,0.9,,5.0
+Kevin Volland,Bayer 04 Leverkusen,CAM,0.8,20.6,9.0,13.0,11.0,0.0,43.0,,1.0,1.3,,0.45,0.2,1.0,3.0,0.5,,,,1.4,1.0,1.1,14.0,4.0
+Kevin Wimmer,Hannover 96,CB,5.6,44.8,,,1.0,1.2,7.0,,3.2,1.1,,,2.2,,,,,,,,,1.3,,5.0
+Kingsley Coman,Bayern München,RM,0.7,34.0,4.0,7.0,5.0,,28.0,,0.1,1.1,,0.39,0.3,,,1.0,,,,1.2,3.9,0.7,6.0,2.0
 Koen Casteels,VfL Wolfsburg,GK,,31.1,,,,,,8.0,0.9,,1.5,,,,,,,67.2,3.1,,,0.0,,
-Konrad Laimer,RB Leipzig,DEF,1.1,24.6,1.0,5.0,3.0,0.1,20.0,,0.9,1.9,,0.05,1.5,,,0.9,,,,0.2,1.5,3.5,1.0,7.0
-Konstantinos Stafylidis,FC Augsburg,DEF,,,,1.0,,,9.0,,,,,,,,,,,,,,,,,1.0
-Lars Bender,Bayer 04 Leverkusen,DEF,1.4,45.1,4.0,1.0,1.0,0.3,14.0,,1.5,1.8,,0.07,1.4,,,0.1,,,,0.3,0.7,2.8,1.0,2.0
-Lars Stindl,Borussia Mönchengladbach,ATT,1.9,36.8,1.0,5.0,1.0,0.1,22.0,,0.7,1.1,,0.18,0.8,,1.0,0.5,,,,0.7,1.0,1.2,3.0,3.0
-Leandro Barreiro,1. FSV Mainz 05,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Leon Bailey,Bayer 04 Leverkusen,ATT,1.0,26.5,1.0,6.0,3.0,,47.0,,0.5,0.8,,0.23,0.7,,,0.7,,,,0.8,2.5,0.7,5.0,4.0
-Leon Goretzka,Bayern München,MID,1.6,44.9,4.0,4.0,7.0,0.2,18.0,,0.6,1.2,,0.36,1.2,,,0.9,,,,0.9,0.7,1.8,8.0,3.0
-Leonardo Bittencourt,TSG 1899 Hoffenheim,MID,0.7,28.7,3.0,3.0,4.0,0.1,22.0,,0.5,1.4,,0.08,1.1,,,0.7,,,,0.8,0.8,3.1,1.0,1.0
-Levin Mete Öztunali,1. FSV Mainz 05,ATT,,,1.0,2.0,,,6.0,,,,,,,,,,,,,,,,,3.0
-Linton Maina,Hannover 96,MID,0.4,20.2,3.0,5.0,2.0,,16.0,,0.3,0.6,,0.06,0.9,,,0.8,,,,0.2,1.2,1.8,1.0,1.0
-Lucas Alario,Bayer 04 Leverkusen,ATT,0.5,21.9,3.0,2.0,4.0,,15.0,,0.9,1.6,,0.65,0.1,,,0.6,,,,1.1,0.4,1.1,9.0,1.0
-Lucas Höler,Sport-Club Freiburg,ATT,0.3,15.0,,,5.0,0.1,7.0,,1.2,1.5,,0.36,0.3,,,0.4,,,,1.0,0.8,1.6,4.0,
-Lucas Torró,Eintracht Frankfurt,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Ludwig Augustinsson,SV Werder Bremen,DEF,1.8,36.5,4.0,3.0,,0.3,28.0,,2.1,1.2,,0.03,1.1,1.0,,0.3,,,,0.2,0.4,1.6,1.0,5.0
-Luka Jovic,Eintracht Frankfurt,ATT,1.1,16.8,5.0,7.0,18.0,,26.0,,1.2,1.2,,0.68,0.1,,,0.6,,,,1.7,1.0,0.4,17.0,1.0
-Lukas Klostermann,RB Leipzig,DEF,1.7,26.4,1.0,3.0,1.0,0.2,20.0,,2.8,0.8,,0.22,1.3,,,0.2,,,,0.3,0.3,2.2,5.0,1.0
-Lukas Klünter,Hertha BSC,DEF,,,,1.0,,,2.0,,,,,,,,,,1.0,,,,,,,1.0
-Lukas Kübler,Sport-Club Freiburg,DEF,,,2.0,3.0,,,7.0,,,,,,,,,,,,,,,,,2.0
-Lukas Mühl,1. FC Nürnberg,DEF,3.9,39.5,,1.0,2.0,0.6,4.0,,4.3,0.8,,0.03,1.5,,,,,,,0.1,0.2,1.9,1.0,4.0
-Lukas Rupp,TSG 1899 Hoffenheim,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Lukasz Piszczek,Borussia Dortmund,DEF,1.3,47.9,6.0,4.0,,0.2,21.0,,3.0,0.8,,0.05,2.0,,,0.2,,,,0.2,0.4,2.9,1.0,3.0
+Konrad Laimer,RB Leipzig,RWB,1.1,24.6,1.0,5.0,3.0,0.1,20.0,,0.9,1.9,,0.05,1.5,,,0.9,,,,0.2,1.5,3.5,1.0,7.0
+Konstantinos Stafylidis,FC Augsburg,LWB,,,,1.0,,,9.0,,,,,,,,,,,,,,,,,1.0
+Lars Bender,Bayer 04 Leverkusen,RWB,1.4,45.1,4.0,1.0,1.0,0.3,14.0,,1.5,1.8,,0.07,1.4,,,0.1,,,,0.3,0.7,2.8,1.0,2.0
+Lars Stindl,Borussia Mönchengladbach,CAM,1.9,36.8,1.0,5.0,1.0,0.1,22.0,,0.7,1.1,,0.18,0.8,,1.0,0.5,,,,0.7,1.0,1.2,3.0,3.0
+Leandro Barreiro,1. FSV Mainz 05,CAM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Leon Bailey,Bayer 04 Leverkusen,RW,1.0,26.5,1.0,6.0,3.0,,47.0,,0.5,0.8,,0.23,0.7,,,0.7,,,,0.8,2.5,0.7,5.0,4.0
+Leon Goretzka,Bayern München,CDM,1.6,44.9,4.0,4.0,7.0,0.2,18.0,,0.6,1.2,,0.36,1.2,,,0.9,,,,0.9,0.7,1.8,8.0,3.0
+Leonardo Bittencourt,TSG 1899 Hoffenheim,CDM,0.7,28.7,3.0,3.0,4.0,0.1,22.0,,0.5,1.4,,0.08,1.1,,,0.7,,,,0.8,0.8,3.1,1.0,1.0
+Levin Mete Öztunali,1. FSV Mainz 05,RW,,,1.0,2.0,,,6.0,,,,,,,,,,,,,,,,,3.0
+Linton Maina,Hannover 96,LM,0.4,20.2,3.0,5.0,2.0,,16.0,,0.3,0.6,,0.06,0.9,,,0.8,,,,0.2,1.2,1.8,1.0,1.0
+Lucas Alario,Bayer 04 Leverkusen,ST,0.5,21.9,3.0,2.0,4.0,,15.0,,0.9,1.6,,0.65,0.1,,,0.6,,,,1.1,0.4,1.1,9.0,1.0
+Lucas Höler,Sport-Club Freiburg,ST,0.3,15.0,,,5.0,0.1,7.0,,1.2,1.5,,0.36,0.3,,,0.4,,,,1.0,0.8,1.6,4.0,
+Lucas Torró,Eintracht Frankfurt,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Ludwig Augustinsson,SV Werder Bremen,LWB,1.8,36.5,4.0,3.0,,0.3,28.0,,2.1,1.2,,0.03,1.1,1.0,,0.3,,,,0.2,0.4,1.6,1.0,5.0
+Luka Jovic,Eintracht Frankfurt,ST,1.1,16.8,5.0,7.0,18.0,,26.0,,1.2,1.2,,0.68,0.1,,,0.6,,,,1.7,1.0,0.4,17.0,1.0
+Lukas Klostermann,RB Leipzig,CB,1.7,26.4,1.0,3.0,1.0,0.2,20.0,,2.8,0.8,,0.22,1.3,,,0.2,,,,0.3,0.3,2.2,5.0,1.0
+Lukas Klünter,Hertha BSC,RWB,,,,1.0,,,2.0,,,,,,,,,,1.0,,,,,,,1.0
+Lukas Kübler,Sport-Club Freiburg,RWB,,,2.0,3.0,,,7.0,,,,,,,,,,,,,,,,,2.0
+Lukas Mühl,1. FC Nürnberg,CB,3.9,39.5,,1.0,2.0,0.6,4.0,,4.3,0.8,,0.03,1.5,,,,,,,0.1,0.2,1.9,1.0,4.0
+Lukas Rupp,TSG 1899 Hoffenheim,CAM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Lukasz Piszczek,Borussia Dortmund,RWB,1.3,47.9,6.0,4.0,,0.2,21.0,,3.0,0.8,,0.05,2.0,,,0.2,,,,0.2,0.4,2.9,1.0,3.0
 Lukás Hrádecky,Bayer 04 Leverkusen,GK,,28.5,,,,,1.0,9.0,0.6,,1.5,,0.0,,,,,63.6,2.6,,,,,1.0
-Mahmoud Dahoud,Borussia Dortmund,MID,,,,2.0,2.0,,8.0,,,,,,,,,,,,,,,,1.0,2.0
-Makoto Hasebe,Eintracht Frankfurt,MID,5.3,44.2,,2.0,,0.8,7.0,,3.5,0.6,,,1.4,,,0.0,,,,0.0,0.2,1.9,,4.0
-Manuel Akanji,Borussia Dortmund,DEF,5.1,69.6,,1.0,,0.5,6.0,,3.6,0.5,,0.04,1.1,,,0.2,,,,0.1,0.3,1.2,1.0,1.0
-Manuel Gulde,Sport-Club Freiburg,DEF,3.8,37.7,,,,0.7,3.0,,4.6,0.5,,0.05,1.4,,,0.1,,,,0.1,0.1,1.3,1.0,3.0
+Mahmoud Dahoud,Borussia Dortmund,CDM,,,,2.0,2.0,,8.0,,,,,,,,,,,,,,,,1.0,2.0
+Makoto Hasebe,Eintracht Frankfurt,CDM,5.3,44.2,,2.0,,0.8,7.0,,3.5,0.6,,,1.4,,,0.0,,,,0.0,0.2,1.9,,4.0
+Manuel Akanji,Borussia Dortmund,RB,5.1,69.6,,1.0,,0.5,6.0,,3.6,0.5,,0.04,1.1,,,0.2,,,,0.1,0.3,1.2,1.0,1.0
+Manuel Gulde,Sport-Club Freiburg,LB,3.8,37.7,,,,0.7,3.0,,4.6,0.5,,0.05,1.4,,,0.1,,,,0.1,0.1,1.3,1.0,3.0
 Manuel Neuer,Bayern München,GK,,25.8,,,,,1.0,10.0,0.4,0.0,0.9,,,1.0,,,,59.6,1.3,,,0.0,,1.0
-Marc Stendera,Eintracht Frankfurt,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Marc-Oliver Kempf,VfB Stuttgart,DEF,3.2,36.5,,,1.0,0.9,7.0,,5.8,1.1,,0.09,2.0,1.0,,0.0,,,,0.1,0.1,1.5,2.0,3.0
-Marcel Halstenberg,RB Leipzig,DEF,1.4,31.7,6.0,15.0,3.0,0.1,55.0,,2.0,0.9,,0.11,1.4,,1.0,0.4,,,,0.4,1.0,2.5,3.0,2.0
-Marcel Sabitzer,RB Leipzig,MID,1.5,29.9,3.0,8.0,6.0,0.1,36.0,,1.1,1.0,,0.15,1.3,,,1.0,,,,0.6,0.6,1.7,4.0,9.0
-Marcel Schmelzer,Borussia Dortmund,DEF,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
-Marcel Sobottka,Fortuna Düsseldorf,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
-Marcel Tisserand,VfL Wolfsburg,DEF,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,2.0
-Marcelo Saracchi,RB Leipzig,DEF,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,2.0
-Marcin Kaminski,Fortuna Düsseldorf,DEF,3.8,36.2,1.0,1.0,1.0,0.4,7.0,,3.8,0.3,,,1.4,,,,,,,0.0,0.0,0.7,,1.0
-Marco Friedl,SV Werder Bremen,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,3.0
-Marco Reus,Borussia Dortmund,ATT,1.6,32.1,8.0,11.0,15.0,0.0,38.0,,1.2,1.3,,0.66,0.3,1.0,1.0,0.5,1.0,,,1.3,1.0,1.3,17.0,3.0
-Marco Richter,FC Augsburg,ATT,1.8,19.1,6.0,6.0,2.0,0.1,16.0,,0.6,1.4,,0.25,0.8,,,1.0,,,,1.4,2.2,0.8,4.0,4.0
-Marco Russ,Eintracht Frankfurt,DEF,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
-Marco Terrazzino,Sport-Club Freiburg,ATT,,,,1.0,1.0,,10.0,,,,,,,,,,,,,,,,1.0,
-Mario Gomez,VfB Stuttgart,ATT,0.4,13.0,2.0,6.0,13.0,0.2,26.0,,1.3,1.3,,0.28,0.2,,,0.5,1.0,,,0.9,0.3,0.8,7.0,3.0
-Mario Götze,Borussia Dortmund,ATT,0.9,37.8,7.0,12.0,3.0,,41.0,,0.2,1.1,,0.38,0.4,,,0.8,,,,0.9,1.4,1.4,7.0,
-Marius Wolf,Borussia Dortmund,MID,,,,1.0,,,7.0,,,,,,,,,,1.0,,,,,,1.0,1.0
-Mark Uth,FC Schalke 04,ATT,1.5,17.0,1.0,2.0,6.0,0.1,13.0,,0.7,1.6,,0.13,0.5,,1.0,0.8,,,,1.0,1.2,1.3,2.0,3.0
-Marko Grujic,Hertha BSC,MID,1.8,39.2,1.0,2.0,1.0,0.3,16.0,,2.5,2.2,,0.25,1.5,1.0,,0.5,,,,1.0,1.5,2.3,5.0,5.0
-Markus Suttner,Fortuna Düsseldorf,DEF,,,1.0,,,,9.0,,,,,,,,,,,,,,,,1.0,1.0
-Martin Harnik,SV Werder Bremen,ATT,0.8,17.6,2.0,2.0,7.0,,13.0,,0.9,1.7,,0.44,0.3,,,1.0,,,,1.9,0.7,1.3,4.0,2.0
-Martin Hinteregger,Eintracht Frankfurt,DEF,3.5,35.2,,1.0,1.0,0.7,10.0,,3.8,0.9,,0.1,1.2,,,0.1,,,,0.2,0.2,2.7,3.0,3.0
-Marvin Bakalorz,Hannover 96,MID,0.9,18.2,,1.0,,0.2,8.0,,2.7,1.3,,0.06,1.7,,1.0,0.5,,,,0.3,0.6,1.1,1.0,5.0
-Marvin Ducksch,Fortuna Düsseldorf,ATT,,,1.0,4.0,2.0,,19.0,,,,,,,,,,,,,,,,1.0,1.0
-Marvin Plattenhardt,Hertha BSC,DEF,2.0,29.8,2.0,3.0,,0.1,33.0,,2.1,1.2,,0.05,0.3,1.0,,0.2,,,,0.1,0.4,1.3,1.0,4.0
+Marc Stendera,Eintracht Frankfurt,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Marc-Oliver Kempf,VfB Stuttgart,CB,3.2,36.5,,,1.0,0.9,7.0,,5.8,1.1,,0.09,2.0,1.0,,0.0,,,,0.1,0.1,1.5,2.0,3.0
+Marcel Halstenberg,RB Leipzig,CB,1.4,31.7,6.0,15.0,3.0,0.1,55.0,,2.0,0.9,,0.11,1.4,,1.0,0.4,,,,0.4,1.0,2.5,3.0,2.0
+Marcel Sabitzer,RB Leipzig,CDM,1.5,29.9,3.0,8.0,6.0,0.1,36.0,,1.1,1.0,,0.15,1.3,,,1.0,,,,0.6,0.6,1.7,4.0,9.0
+Marcel Schmelzer,Borussia Dortmund,LWB,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
+Marcel Sobottka,Fortuna Düsseldorf,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
+Marcel Tisserand,VfL Wolfsburg,CB,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,2.0
+Marcelo Saracchi,RB Leipzig,LWB,,,1.0,2.0,,,10.0,,,,,,,,,,,,,,,,,2.0
+Marcin Kaminski,Fortuna Düsseldorf,CB,3.8,36.2,1.0,1.0,1.0,0.4,7.0,,3.8,0.3,,,1.4,,,,,,,0.0,0.0,0.7,,1.0
+Marco Friedl,SV Werder Bremen,CB,,,,,,,,,,,,,,1.0,,,,,,,,,,3.0
+Marco Reus,Borussia Dortmund,CAM,1.6,32.1,8.0,11.0,15.0,0.0,38.0,,1.2,1.3,,0.66,0.3,1.0,1.0,0.5,1.0,,,1.3,1.0,1.3,17.0,3.0
+Marco Richter,FC Augsburg,RW,1.8,19.1,6.0,6.0,2.0,0.1,16.0,,0.6,1.4,,0.25,0.8,,,1.0,,,,1.4,2.2,0.8,4.0,4.0
+Marco Russ,Eintracht Frankfurt,CB,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
+Marco Terrazzino,Sport-Club Freiburg,CAM,,,,1.0,1.0,,10.0,,,,,,,,,,,,,,,,1.0,
+Mario Gomez,VfB Stuttgart,ST,0.4,13.0,2.0,6.0,13.0,0.2,26.0,,1.3,1.3,,0.28,0.2,,,0.5,1.0,,,0.9,0.3,0.8,7.0,3.0
+Mario Götze,Borussia Dortmund,CAM,0.9,37.8,7.0,12.0,3.0,,41.0,,0.2,1.1,,0.38,0.4,,,0.8,,,,0.9,1.4,1.4,7.0,
+Marius Wolf,Borussia Dortmund,RM,,,,1.0,,,7.0,,,,,,,,,,1.0,,,,,,1.0,1.0
+Mark Uth,FC Schalke 04,CF,1.5,17.0,1.0,2.0,6.0,0.1,13.0,,0.7,1.6,,0.13,0.5,,1.0,0.8,,,,1.0,1.2,1.3,2.0,3.0
+Marko Grujic,Hertha BSC,CDM,1.8,39.2,1.0,2.0,1.0,0.3,16.0,,2.5,2.2,,0.25,1.5,1.0,,0.5,,,,1.0,1.5,2.3,5.0,5.0
+Markus Suttner,Fortuna Düsseldorf,LWB,,,1.0,,,,9.0,,,,,,,,,,,,,,,,1.0,1.0
+Martin Harnik,SV Werder Bremen,CF,0.8,17.6,2.0,2.0,7.0,,13.0,,0.9,1.7,,0.44,0.3,,,1.0,,,,1.9,0.7,1.3,4.0,2.0
+Martin Hinteregger,Eintracht Frankfurt,LB,3.5,35.2,,1.0,1.0,0.7,10.0,,3.8,0.9,,0.1,1.2,,,0.1,,,,0.2,0.2,2.7,3.0,3.0
+Marvin Bakalorz,Hannover 96,CDM,0.9,18.2,,1.0,,0.2,8.0,,2.7,1.3,,0.06,1.7,,1.0,0.5,,,,0.3,0.6,1.1,1.0,5.0
+Marvin Ducksch,Fortuna Düsseldorf,ST,,,1.0,4.0,2.0,,19.0,,,,,,,,,,,,,,,,1.0,1.0
+Marvin Plattenhardt,Hertha BSC,LWB,2.0,29.8,2.0,3.0,,0.1,33.0,,2.1,1.2,,0.05,0.3,1.0,,0.2,,,,0.1,0.4,1.3,1.0,4.0
 Marwin Hitz,Borussia Dortmund,GK,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0
-Matheus Cunha,RB Leipzig,ATT,0.6,16.5,,1.0,4.0,0.1,7.0,,0.8,3.6,,0.21,0.4,,1.0,0.8,,,,1.2,1.6,1.1,2.0,1.0
-Matheus Pereira,1. FC Nürnberg,ATT,2.2,24.0,2.0,2.0,,0.1,14.0,,0.5,2.0,,0.22,1.0,,1.0,0.4,1.0,,,0.7,3.0,1.2,3.0,3.0
-Matija Nastasic,FC Schalke 04,DEF,4.0,37.4,,,3.0,0.7,5.0,,4.2,0.6,,0.04,1.4,1.0,,,1.0,,,0.2,0.0,1.3,1.0,6.0
-Mats Hummels,Bayern München,DEF,4.8,78.6,1.0,2.0,3.0,0.4,13.0,,2.5,0.5,,0.05,1.7,1.0,,0.3,,,,0.3,0.5,1.3,1.0,1.0
-Matthew Leckie,Hertha BSC,MID,0.6,22.0,,1.0,1.0,0.1,12.0,,1.2,1.7,,0.19,1.2,,,0.6,,,,0.9,1.1,1.9,2.0,3.0
-Matthias Ginter,Borussia Mönchengladbach,DEF,4.2,57.6,,1.0,1.0,0.7,9.0,,3.7,0.5,,0.08,0.6,,,0.1,,,,0.3,0.0,0.9,2.0,2.0
-Matthias Ostrzolek,Hannover 96,DEF,2.9,28.5,,,,0.3,8.0,,2.3,0.8,,,1.6,1.0,,0.1,,,,0.1,0.2,2.0,,2.0
-Matthias Zimmermann,Fortuna Düsseldorf,DEF,2.0,29.7,3.0,5.0,,0.5,20.0,,2.3,1.5,,0.03,2.0,,,0.4,,,,0.1,0.6,2.9,1.0,4.0
-Max Kruse,SV Werder Bremen,ATT,3.5,40.1,9.0,8.0,8.0,0.0,82.0,,0.2,0.7,,0.35,0.3,,1.0,1.0,,,,1.3,1.2,0.5,11.0,
-Maximilian Arnold,VfL Wolfsburg,MID,4.8,33.0,6.0,8.0,1.0,0.3,47.0,,1.3,1.4,,0.06,1.1,,1.0,0.5,,,,0.7,0.8,1.6,2.0,7.0
-Maximilian Eggestein,SV Werder Bremen,MID,1.4,37.0,4.0,6.0,,0.3,46.0,,1.9,1.1,,0.15,0.9,,,0.5,,,,0.4,0.4,2.0,5.0,4.0
-Maximilian Mittelstädt,Hertha BSC,DEF,2.9,27.0,1.0,1.0,1.0,0.2,19.0,,2.6,0.7,,0.05,2.3,,,0.3,1.0,,,0.3,1.2,3.0,1.0,2.0
-Maximilian Philipp,Borussia Dortmund,ATT,0.6,21.4,1.0,,,,5.0,,0.6,1.3,,0.12,0.4,,,0.1,,,,0.4,0.6,0.8,1.0,
+Matheus Cunha,RB Leipzig,LAM,0.6,16.5,,1.0,4.0,0.1,7.0,,0.8,3.6,,0.21,0.4,,1.0,0.8,,,,1.2,1.6,1.1,2.0,1.0
+Matheus Pereira,1. FC Nürnberg,CAM,2.2,24.0,2.0,2.0,,0.1,14.0,,0.5,2.0,,0.22,1.0,,1.0,0.4,1.0,,,0.7,3.0,1.2,3.0,3.0
+Matija Nastasic,FC Schalke 04,RB,4.0,37.4,,,3.0,0.7,5.0,,4.2,0.6,,0.04,1.4,1.0,,,1.0,,,0.2,0.0,1.3,1.0,6.0
+Mats Hummels,Bayern München,RB,4.8,78.6,1.0,2.0,3.0,0.4,13.0,,2.5,0.5,,0.05,1.7,1.0,,0.3,,,,0.3,0.5,1.3,1.0,1.0
+Matthew Leckie,Hertha BSC,CM,0.6,22.0,,1.0,1.0,0.1,12.0,,1.2,1.7,,0.19,1.2,,,0.6,,,,0.9,1.1,1.9,2.0,3.0
+Matthias Ginter,Borussia Mönchengladbach,CB,4.2,57.6,,1.0,1.0,0.7,9.0,,3.7,0.5,,0.08,0.6,,,0.1,,,,0.3,0.0,0.9,2.0,2.0
+Matthias Ostrzolek,Hannover 96,LWB,2.9,28.5,,,,0.3,8.0,,2.3,0.8,,,1.6,1.0,,0.1,,,,0.1,0.2,2.0,,2.0
+Matthias Zimmermann,Fortuna Düsseldorf,RWB,2.0,29.7,3.0,5.0,,0.5,20.0,,2.3,1.5,,0.03,2.0,,,0.4,,,,0.1,0.6,2.9,1.0,4.0
+Max Kruse,SV Werder Bremen,CAM,3.5,40.1,9.0,8.0,8.0,0.0,82.0,,0.2,0.7,,0.35,0.3,,1.0,1.0,,,,1.3,1.2,0.5,11.0,
+Maximilian Arnold,VfL Wolfsburg,CDM,4.8,33.0,6.0,8.0,1.0,0.3,47.0,,1.3,1.4,,0.06,1.1,,1.0,0.5,,,,0.7,0.8,1.6,2.0,7.0
+Maximilian Eggestein,SV Werder Bremen,CDM,1.4,37.0,4.0,6.0,,0.3,46.0,,1.9,1.1,,0.15,0.9,,,0.5,,,,0.4,0.4,2.0,5.0,4.0
+Maximilian Mittelstädt,Hertha BSC,LWB,2.9,27.0,1.0,1.0,1.0,0.2,19.0,,2.6,0.7,,0.05,2.3,,,0.3,1.0,,,0.3,1.2,3.0,1.0,2.0
+Maximilian Philipp,Borussia Dortmund,RW,0.6,21.4,1.0,,,,5.0,,0.6,1.3,,0.12,0.4,,,0.1,,,,0.4,0.6,0.8,1.0,
 Michael Esser,Hannover 96,GK,,23.2,,1.0,,,2.0,5.0,0.9,,2.1,,0.0,,,,,69.3,4.7,,,0.1,,3.0
-Michael Gregoritsch,FC Augsburg,ATT,1.3,23.3,2.0,3.0,11.0,0.4,28.0,,2.1,1.0,,0.22,0.5,,,0.5,,,,0.9,0.5,0.8,6.0,4.0
-Michael Lang,Borussia Mönchengladbach,DEF,1.8,39.0,,1.0,3.0,0.2,4.0,,2.6,0.7,,0.07,1.1,,,,,,,0.2,0.1,1.0,1.0,
+Michael Gregoritsch,FC Augsburg,CF,1.3,23.3,2.0,3.0,11.0,0.4,28.0,,2.1,1.0,,0.22,0.5,,,0.5,,,,0.9,0.5,0.8,6.0,4.0
+Michael Lang,Borussia Mönchengladbach,RB,1.8,39.0,,1.0,3.0,0.2,4.0,,2.6,0.7,,0.07,1.1,,,,,,,0.2,0.1,1.0,1.0,
 Michael Rensing,Fortuna Düsseldorf,GK,,15.8,,,,,,5.0,1.2,,1.9,,0.1,,,,,63.7,3.4,,,0.1,,1.0
-Michaël Cuisance,Borussia Mönchengladbach,ATT,,,1.0,,,,5.0,,,,,,,,,,,,,,,,,3.0
-Miiko Albornoz,Hannover 96,DEF,2.2,29.2,3.0,3.0,,0.2,18.0,,1.7,1.8,,0.05,0.9,1.0,,0.2,1.0,,,0.2,0.4,2.5,1.0,3.0
-Mijat Gacinovic,Eintracht Frankfurt,ATT,1.4,23.3,1.0,4.0,2.0,0.1,19.0,,0.4,1.1,,,1.3,,1.0,1.3,,,,0.1,1.5,1.7,,3.0
-Mikael Ishak,1. FC Nürnberg,ATT,0.5,13.4,3.0,2.0,5.0,0.1,21.0,,0.5,1.1,,0.19,0.1,,,0.5,,,,0.7,0.8,0.4,4.0,1.0
-Mike Frantz,Sport-Club Freiburg,DEF,1.1,18.8,1.0,3.0,,0.2,16.0,,1.2,0.8,,0.08,0.8,,1.0,0.3,,,,0.4,0.3,1.4,2.0,2.0
-Milos Veljkovic,SV Werder Bremen,DEF,5.9,50.1,,,,0.6,5.0,,5.0,1.0,,0.05,1.3,,,0.0,2.0,,,0.1,,1.7,1.0,5.0
-Milot Rashica,SV Werder Bremen,ATT,0.5,15.3,5.0,7.0,4.0,0.1,30.0,,0.2,1.9,,0.52,0.3,,,1.3,,,,1.4,1.9,1.4,9.0,1.0
-Mitchell Weiser,Bayer 04 Leverkusen,MID,1.8,45.0,3.0,5.0,,0.1,30.0,,1.7,1.4,,0.04,1.2,1.0,,0.4,,,,0.3,1.3,2.7,1.0,3.0
-Moussa Niakhaté,1. FSV Mainz 05,DEF,4.6,39.8,1.0,,2.0,0.8,10.0,,4.4,1.2,,0.03,1.4,1.0,,0.1,,,,0.1,0.3,1.6,1.0,3.0
-Nabil Bentaleb,FC Schalke 04,MID,2.6,35.8,,4.0,1.0,0.4,18.0,,0.9,1.6,,0.15,1.8,,,0.4,,,,0.4,1.1,1.6,3.0,4.0
-Nadiem Amiri,TSG 1899 Hoffenheim,MID,,,1.0,1.0,3.0,,16.0,,,,,,,,,,,,,,,,3.0,1.0
-Naldo,FC Schalke 04,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Nassim Boujellab,FC Schalke 04,MID,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,
-Niclas Füllkrug,Hannover 96,ATT,,,1.0,1.0,3.0,,13.0,,,,,,,,1.0,,,,,,,,2.0,1.0
-Nico Elvedi,Borussia Mönchengladbach,DEF,3.1,65.7,1.0,1.0,2.0,0.4,3.0,,4.5,0.6,,0.07,1.6,,,,,,,0.1,0.3,1.4,2.0,1.0
-Nico Schlotterbeck,Sport-Club Freiburg,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Nico Schulz,TSG 1899 Hoffenheim,DEF,1.7,32.7,5.0,15.0,3.0,0.1,61.0,,1.1,1.1,,0.04,0.8,,2.0,0.6,,,,0.3,1.8,1.2,1.0,6.0
-Nicolai Müller,Hannover 96,MID,0.6,16.3,,1.0,3.0,0.2,14.0,,0.5,1.4,,0.4,0.1,,,0.6,,,,0.8,1.4,1.8,5.0,3.0
-Nicolas Höfler,Sport-Club Freiburg,ATT,1.4,42.2,,1.0,1.0,0.2,12.0,,2.2,1.4,,,1.8,,,0.2,,,,0.2,0.6,2.5,,6.0
-Nicolás González,VfB Stuttgart,MID,0.5,14.6,3.0,5.0,9.0,0.1,29.0,,1.1,1.2,,0.08,0.5,,,0.5,1.0,,,0.5,1.9,0.8,2.0,2.0
-Niklas Moisander,SV Werder Bremen,DEF,5.3,56.7,,,,0.6,12.0,,4.7,1.2,,,1.3,1.0,,0.2,1.0,,,0.0,0.4,1.2,,6.0
-Niklas Stark,Hertha BSC,DEF,2.7,41.4,,,1.0,1.3,3.0,,6.4,1.0,,0.05,1.8,1.0,,0.0,,,,0.2,0.0,1.6,1.0,5.0
-Niklas Süle,Bayern München,DEF,5.6,80.7,,,1.0,0.4,6.0,,2.8,0.6,,0.07,1.4,,,,,,,0.2,0.1,1.0,2.0,3.0
-Niko Bungert,1. FSV Mainz 05,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Niko Gießelmann,Fortuna Düsseldorf,DEF,3.4,27.8,3.0,6.0,1.0,0.2,26.0,,2.3,0.9,,,1.2,,1.0,0.1,,,,0.2,0.4,2.0,,2.0
-Nils Petersen,Sport-Club Freiburg,ATT,0.8,16.2,3.0,1.0,8.0,0.1,21.0,,1.5,1.1,,0.47,0.6,,,0.4,,,,1.1,0.4,1.4,10.0,
-Nordi Mukiele,RB Leipzig,DEF,2.1,31.0,1.0,3.0,,0.2,11.0,,2.6,1.4,,0.07,1.8,,,0.3,,,,0.2,1.3,2.8,1.0,3.0
-Nuri Sahin,SV Werder Bremen,MID,2.4,56.6,1.0,,,0.2,15.0,,2.4,1.7,,0.06,2.2,,,0.2,,,,0.2,0.5,3.6,1.0,5.0
+Michaël Cuisance,Borussia Mönchengladbach,CAM,,,1.0,,,,5.0,,,,,,,,,,,,,,,,,3.0
+Miiko Albornoz,Hannover 96,LWB,2.2,29.2,3.0,3.0,,0.2,18.0,,1.7,1.8,,0.05,0.9,1.0,,0.2,1.0,,,0.2,0.4,2.5,1.0,3.0
+Mijat Gacinovic,Eintracht Frankfurt,LAM,1.4,23.3,1.0,4.0,2.0,0.1,19.0,,0.4,1.1,,,1.3,,1.0,1.3,,,,0.1,1.5,1.7,,3.0
+Mikael Ishak,1. FC Nürnberg,ST,0.5,13.4,3.0,2.0,5.0,0.1,21.0,,0.5,1.1,,0.19,0.1,,,0.5,,,,0.7,0.8,0.4,4.0,1.0
+Mike Frantz,Sport-Club Freiburg,RWB,1.1,18.8,1.0,3.0,,0.2,16.0,,1.2,0.8,,0.08,0.8,,1.0,0.3,,,,0.4,0.3,1.4,2.0,2.0
+Milos Veljkovic,SV Werder Bremen,CB,5.9,50.1,,,,0.6,5.0,,5.0,1.0,,0.05,1.3,,,0.0,2.0,,,0.1,,1.7,1.0,5.0
+Milot Rashica,SV Werder Bremen,RW,0.5,15.3,5.0,7.0,4.0,0.1,30.0,,0.2,1.9,,0.52,0.3,,,1.3,,,,1.4,1.9,1.4,9.0,1.0
+Mitchell Weiser,Bayer 04 Leverkusen,RM,1.8,45.0,3.0,5.0,,0.1,30.0,,1.7,1.4,,0.04,1.2,1.0,,0.4,,,,0.3,1.3,2.7,1.0,3.0
+Moussa Niakhaté,1. FSV Mainz 05,CB,4.6,39.8,1.0,,2.0,0.8,10.0,,4.4,1.2,,0.03,1.4,1.0,,0.1,,,,0.1,0.3,1.6,1.0,3.0
+Nabil Bentaleb,FC Schalke 04,CDM,2.6,35.8,,4.0,1.0,0.4,18.0,,0.9,1.6,,0.15,1.8,,,0.4,,,,0.4,1.1,1.6,3.0,4.0
+Nadiem Amiri,TSG 1899 Hoffenheim,CDM,,,1.0,1.0,3.0,,16.0,,,,,,,,,,,,,,,,3.0,1.0
+Naldo,FC Schalke 04,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Nassim Boujellab,FC Schalke 04,CM,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,
+Niclas Füllkrug,Hannover 96,CF,,,1.0,1.0,3.0,,13.0,,,,,,,,1.0,,,,,,,,2.0,1.0
+Nico Elvedi,Borussia Mönchengladbach,CB,3.1,65.7,1.0,1.0,2.0,0.4,3.0,,4.5,0.6,,0.07,1.6,,,,,,,0.1,0.3,1.4,2.0,1.0
+Nico Schlotterbeck,Sport-Club Freiburg,LB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Nico Schulz,TSG 1899 Hoffenheim,LWB,1.7,32.7,5.0,15.0,3.0,0.1,61.0,,1.1,1.1,,0.04,0.8,,2.0,0.6,,,,0.3,1.8,1.2,1.0,6.0
+Nicolai Müller,Hannover 96,LM,0.6,16.3,,1.0,3.0,0.2,14.0,,0.5,1.4,,0.4,0.1,,,0.6,,,,0.8,1.4,1.8,5.0,3.0
+Nicolas Höfler,Sport-Club Freiburg,CAM,1.4,42.2,,1.0,1.0,0.2,12.0,,2.2,1.4,,,1.8,,,0.2,,,,0.2,0.6,2.5,,6.0
+Nicolás González,VfB Stuttgart,LM,0.5,14.6,3.0,5.0,9.0,0.1,29.0,,1.1,1.2,,0.08,0.5,,,0.5,1.0,,,0.5,1.9,0.8,2.0,2.0
+Niklas Moisander,SV Werder Bremen,CB,5.3,56.7,,,,0.6,12.0,,4.7,1.2,,,1.3,1.0,,0.2,1.0,,,0.0,0.4,1.2,,6.0
+Niklas Stark,Hertha BSC,RB,2.7,41.4,,,1.0,1.3,3.0,,6.4,1.0,,0.05,1.8,1.0,,0.0,,,,0.2,0.0,1.6,1.0,5.0
+Niklas Süle,Bayern München,RB,5.6,80.7,,,1.0,0.4,6.0,,2.8,0.6,,0.07,1.4,,,,,,,0.2,0.1,1.0,2.0,3.0
+Niko Bungert,1. FSV Mainz 05,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Niko Gießelmann,Fortuna Düsseldorf,LB,3.4,27.8,3.0,6.0,1.0,0.2,26.0,,2.3,0.9,,,1.2,,1.0,0.1,,,,0.2,0.4,2.0,,2.0
+Nils Petersen,Sport-Club Freiburg,CF,0.8,16.2,3.0,1.0,8.0,0.1,21.0,,1.5,1.1,,0.47,0.6,,,0.4,,,,1.1,0.4,1.4,10.0,
+Nordi Mukiele,RB Leipzig,CB,2.1,31.0,1.0,3.0,,0.2,11.0,,2.6,1.4,,0.07,1.8,,,0.3,,,,0.2,1.3,2.8,1.0,3.0
+Nuri Sahin,SV Werder Bremen,CDM,2.4,56.6,1.0,,,0.2,15.0,,2.4,1.7,,0.06,2.2,,,0.2,,,,0.2,0.5,3.6,1.0,5.0
 Oliver Baumann,TSG 1899 Hoffenheim,GK,,25.3,1.0,,,,2.0,5.0,0.6,,1.5,,0.1,,,,,69.6,3.5,,,,,
-Oliver Fink,Fortuna Düsseldorf,ATT,0.6,19.1,,1.0,1.0,0.3,6.0,,1.6,2.1,,0.26,1.1,,,0.5,,,,0.3,0.8,3.2,3.0,4.0
-Oliver Sorg,Hannover 96,DEF,3.8,31.3,,1.0,,0.5,6.0,,2.4,0.6,,,2.6,,,0.1,1.0,,,0.1,0.5,2.4,,5.0
-Omar Mascarell,FC Schalke 04,MID,,,2.0,1.0,,,5.0,,,,,,,,,,,,,,,,,2.0
-Ondrej Duda,Hertha BSC,MID,1.6,32.3,5.0,10.0,4.0,0.1,40.0,,0.5,2.7,,0.38,0.5,,,0.5,,,,0.7,1.3,1.9,11.0,7.0
-Ondrej Petrák,1. FC Nürnberg,DEF,1.4,33.6,,,,0.2,6.0,,1.2,1.6,,,2.2,1.0,,0.1,,,,0.2,0.3,2.0,,5.0
-Oscar Wendt,Borussia Mönchengladbach,DEF,1.9,40.9,1.0,3.0,,0.4,28.0,,2.1,0.8,,0.03,0.6,,,,,,,0.2,0.2,1.5,1.0,2.0
-Ozan Kabak,VfB Stuttgart,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,3.0,4.0
-Pablo De Blasis,1. FSV Mainz 05,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Pablo Maffeo,VfB Stuttgart,DEF,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
-Paco Alcácer,Borussia Dortmund,ATT,0.2,15.9,,2.0,8.0,,15.0,,0.5,0.4,,1.35,0.4,,,0.6,,,,2.1,0.4,0.2,18.0,
-Palkó Dárdai,Hertha BSC,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Pascal Köpke,Hertha BSC,ATT,,,,,,,,,,,,,,,1.0,,,,,,,,,
-Pascal Stenzel,Sport-Club Freiburg,DEF,7.1,37.4,2.0,3.0,1.0,0.2,16.0,,2.8,1.2,,,1.9,2.0,,0.1,1.0,,,0.6,0.4,2.6,,4.0
-Patrick Erras,1. FC Nürnberg,DEF,1.1,27.5,1.0,1.0,,1.0,8.0,,3.3,0.7,,,1.7,1.0,,0.1,,,,0.1,,1.1,,1.0
-Patrick Herrmann,Borussia Mönchengladbach,ATT,1.4,27.4,2.0,6.0,2.0,0.3,25.0,,0.9,1.3,,0.25,0.5,1.0,,0.3,,,,0.3,1.0,1.7,3.0,1.0
-Paul Verhaegh,VfL Wolfsburg,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Paulinho,Bayer 04 Leverkusen,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Oliver Fink,Fortuna Düsseldorf,CAM,0.6,19.1,,1.0,1.0,0.3,6.0,,1.6,2.1,,0.26,1.1,,,0.5,,,,0.3,0.8,3.2,3.0,4.0
+Oliver Sorg,Hannover 96,RWB,3.8,31.3,,1.0,,0.5,6.0,,2.4,0.6,,,2.6,,,0.1,1.0,,,0.1,0.5,2.4,,5.0
+Omar Mascarell,FC Schalke 04,CDM,,,2.0,1.0,,,5.0,,,,,,,,,,,,,,,,,2.0
+Ondrej Duda,Hertha BSC,CM,1.6,32.3,5.0,10.0,4.0,0.1,40.0,,0.5,2.7,,0.38,0.5,,,0.5,,,,0.7,1.3,1.9,11.0,7.0
+Ondrej Petrák,1. FC Nürnberg,CB,1.4,33.6,,,,0.2,6.0,,1.2,1.6,,,2.2,1.0,,0.1,,,,0.2,0.3,2.0,,5.0
+Oscar Wendt,Borussia Mönchengladbach,LWB,1.9,40.9,1.0,3.0,,0.4,28.0,,2.1,0.8,,0.03,0.6,,,,,,,0.2,0.2,1.5,1.0,2.0
+Ozan Kabak,VfB Stuttgart,CB,,,,,,,2.0,,,,,,,,,,,,,,,,3.0,4.0
+Pablo De Blasis,1. FSV Mainz 05,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Pablo Maffeo,VfB Stuttgart,RWB,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
+Paco Alcácer,Borussia Dortmund,ST,0.2,15.9,,2.0,8.0,,15.0,,0.5,0.4,,1.35,0.4,,,0.6,,,,2.1,0.4,0.2,18.0,
+Palkó Dárdai,Hertha BSC,RW,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Pascal Köpke,Hertha BSC,ST,,,,,,,,,,,,,,,1.0,,,,,,,,,
+Pascal Stenzel,Sport-Club Freiburg,RWB,7.1,37.4,2.0,3.0,1.0,0.2,16.0,,2.8,1.2,,,1.9,2.0,,0.1,1.0,,,0.6,0.4,2.6,,4.0
+Patrick Erras,1. FC Nürnberg,CB,1.1,27.5,1.0,1.0,,1.0,8.0,,3.3,0.7,,,1.7,1.0,,0.1,,,,0.1,,1.1,,1.0
+Patrick Herrmann,Borussia Mönchengladbach,LW,1.4,27.4,2.0,6.0,2.0,0.3,25.0,,0.9,1.3,,0.25,0.5,1.0,,0.3,,,,0.3,1.0,1.7,3.0,1.0
+Paul Verhaegh,VfL Wolfsburg,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Paulinho,Bayer 04 Leverkusen,LAM,,,,,,,2.0,,,,,,,,,,,,,,,,,
 Pavao Pervan,VfL Wolfsburg,GK,,,,,,,1.0,1.0,,,,,,,,,,,,,,,,1.0
-Pavel Kaderábek,TSG 1899 Hoffenheim,MID,1.4,30.1,4.0,9.0,8.0,0.4,43.0,,2.2,1.2,,0.11,1.2,1.0,,0.2,,,,0.4,0.3,1.1,3.0,7.0
-Per Ciljan Skjelbred,Hertha BSC,MID,,,1.0,,1.0,,8.0,,,,,,,,,,,,,,,,,3.0
-Peter Pekarík,Hertha BSC,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Philipp Bargfrede,SV Werder Bremen,MID,,,,,,,4.0,,,,,,,,,,,,,,,,,6.0
-Philipp Lienhart,Sport-Club Freiburg,DEF,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
-Philipp Max,FC Augsburg,DEF,1.6,20.8,2.0,10.0,1.0,0.1,60.0,,1.4,0.5,,0.14,0.8,,,0.2,,,,0.5,0.4,1.2,4.0,1.0
+Pavel Kaderábek,TSG 1899 Hoffenheim,RM,1.4,30.1,4.0,9.0,8.0,0.4,43.0,,2.2,1.2,,0.11,1.2,1.0,,0.2,,,,0.4,0.3,1.1,3.0,7.0
+Per Ciljan Skjelbred,Hertha BSC,CM,,,1.0,,1.0,,8.0,,,,,,,,,,,,,,,,,3.0
+Peter Pekarík,Hertha BSC,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Philipp Bargfrede,SV Werder Bremen,CDM,,,,,,,4.0,,,,,,,,,,,,,,,,,6.0
+Philipp Lienhart,Sport-Club Freiburg,CB,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
+Philipp Max,FC Augsburg,LWB,1.6,20.8,2.0,10.0,1.0,0.1,60.0,,1.4,0.5,,0.14,0.8,,,0.2,,,,0.5,0.4,1.2,4.0,1.0
 Philipp Tschauner,Hannover 96,GK,,,,,,,,,,,,,,1.0,,,,,,,,,,
-Phillipp Mwene,1. FSV Mainz 05,MID,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
-Pierre Kunde,1. FSV Mainz 05,ATT,6.3,43.8,,,,0.7,15.0,,2.2,1.1,,,1.1,,,0.3,,,,0.3,1.1,2.3,,5.0
-Pirmin Schwegler,Hannover 96,MID,2.5,38.8,1.0,1.0,,0.2,41.0,,2.3,2.0,,,1.8,,,0.4,,,,0.0,0.7,2.7,,7.0
+Phillipp Mwene,1. FSV Mainz 05,LM,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
+Pierre Kunde,1. FSV Mainz 05,LAM,6.3,43.8,,,,0.7,15.0,,2.2,1.1,,,1.1,,,0.3,,,,0.3,1.1,2.3,,5.0
+Pirmin Schwegler,Hannover 96,CM,2.5,38.8,1.0,1.0,,0.2,41.0,,2.3,2.0,,,1.8,,,0.4,,,,0.0,0.7,2.7,,7.0
 Péter Gulácsi,RB Leipzig,GK,,16.2,,1.0,,,1.0,15.0,0.5,,0.8,,,,,,,77.5,2.9,,,,,
-Rabbi Matondo,FC Schalke 04,MID,,,,1.0,1.0,,4.0,,,,,,,,,,,,,,,,,
-Raffael,Borussia Mönchengladbach,ATT,,,1.0,2.0,4.0,,16.0,,,,,,,,,,,,,,,,2.0,
-Rafinha,Bayern München,DEF,,,1.0,1.0,,,5.0,,,,,,,,,,,,,,,,1.0,1.0
+Rabbi Matondo,FC Schalke 04,LM,,,,1.0,1.0,,4.0,,,,,,,,,,,,,,,,,
+Raffael,Borussia Mönchengladbach,ST,,,1.0,2.0,4.0,,16.0,,,,,,,,,,,,,,,,2.0,
+Rafinha,Bayern München,LWB,,,1.0,1.0,,,5.0,,,,,,,,,,,,,,,,1.0,1.0
 Ralf Fährmann,FC Schalke 04,GK,,18.8,,,,,,3.0,1.2,,1.6,,0.1,,,,,69.0,3.6,,,,,
-Rani Khedira,FC Augsburg,MID,2.5,35.2,1.0,1.0,,0.8,8.0,,3.2,1.6,,0.14,2.7,,,0.1,,,,0.2,0.1,1.9,4.0,6.0
-Raphael Framberger,FC Augsburg,MID,,,,3.0,,,7.0,,,,,,,,,,,,,,,,,2.0
-Raphaël Guerreiro,Borussia Dortmund,DEF,1.2,53.3,6.0,8.0,1.0,0.1,38.0,,0.6,0.6,,0.12,1.1,,,0.2,,,,0.8,1.8,1.5,2.0,2.0
-Reece Oxford,FC Augsburg,DEF,,,1.0,,2.0,,2.0,,,,,,,1.0,,,1.0,,,,,,,
-Reiss Nelson,TSG 1899 Hoffenheim,ATT,1.0,27.8,,,1.0,0.1,16.0,,0.3,1.1,,1.0,0.7,,,0.6,,,,1.6,2.3,2.4,7.0,
-Renato Sanches,Bayern München,MID,2.1,48.8,1.0,1.0,,,9.0,,0.2,1.6,,0.16,0.6,,,1.3,1.0,,,0.6,2.7,0.8,1.0,1.0
-Renato Steffen,VfL Wolfsburg,ATT,1.9,23.5,1.0,4.0,1.0,0.1,14.0,,0.7,1.1,,0.3,1.0,1.0,,0.7,,,,0.5,1.1,1.6,5.0,4.0
-Ridle Baku,1. FSV Mainz 05,DEF,,,,,,,6.0,,,,,,,,,,,,,,,,,1.0
-Robert Bauer,1. FC Nürnberg,DEF,1.4,24.0,,1.0,,0.3,12.0,,3.4,1.0,,,1.5,,,0.2,1.0,,,0.1,0.2,2.5,,3.0
-Robert Lewandowski,Bayern München,ATT,0.6,17.2,7.0,15.0,32.0,0.0,47.0,,0.5,0.8,,0.67,0.2,,1.0,0.5,,,,1.6,1.6,0.4,22.0,2.0
-Robin Bormuth,Fortuna Düsseldorf,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
-Robin Knoche,VfL Wolfsburg,DEF,6.3,56.5,,,3.0,0.9,1.0,,4.3,0.4,,0.1,1.4,1.0,,0.0,,,,0.2,0.3,0.8,3.0,
-Robin Koch,Sport-Club Freiburg,DEF,2.9,34.5,,1.0,2.0,0.9,5.0,,3.6,0.9,,0.05,1.5,1.0,,0.0,,,,0.1,0.3,1.2,1.0,3.0
-Robin Quaison,1. FSV Mainz 05,MID,0.5,13.1,3.0,2.0,9.0,0.0,22.0,,0.2,1.3,,0.29,0.3,,,0.4,,,,0.7,0.9,0.8,7.0,1.0
+Rani Khedira,FC Augsburg,CDM,2.5,35.2,1.0,1.0,,0.8,8.0,,3.2,1.6,,0.14,2.7,,,0.1,,,,0.2,0.1,1.9,4.0,6.0
+Raphael Framberger,FC Augsburg,RWB,,,,3.0,,,7.0,,,,,,,,,,,,,,,,,2.0
+Raphaël Guerreiro,Borussia Dortmund,LWB,1.2,53.3,6.0,8.0,1.0,0.1,38.0,,0.6,0.6,,0.12,1.1,,,0.2,,,,0.8,1.8,1.5,2.0,2.0
+Reece Oxford,FC Augsburg,CB,,,1.0,,2.0,,2.0,,,,,,,1.0,,,1.0,,,,,,,
+Reiss Nelson,TSG 1899 Hoffenheim,LW,1.0,27.8,,,1.0,0.1,16.0,,0.3,1.1,,1.0,0.7,,,0.6,,,,1.6,2.3,2.4,7.0,
+Renato Sanches,Bayern München,CDM,2.1,48.8,1.0,1.0,,,9.0,,0.2,1.6,,0.16,0.6,,,1.3,1.0,,,0.6,2.7,0.8,1.0,1.0
+Renato Steffen,VfL Wolfsburg,RAM,1.9,23.5,1.0,4.0,1.0,0.1,14.0,,0.7,1.1,,0.3,1.0,1.0,,0.7,,,,0.5,1.1,1.6,5.0,4.0
+Ridle Baku,1. FSV Mainz 05,RWB,,,,,,,6.0,,,,,,,,,,,,,,,,,1.0
+Robert Bauer,1. FC Nürnberg,RB,1.4,24.0,,1.0,,0.3,12.0,,3.4,1.0,,,1.5,,,0.2,1.0,,,0.1,0.2,2.5,,3.0
+Robert Lewandowski,Bayern München,ST,0.6,17.2,7.0,15.0,32.0,0.0,47.0,,0.5,0.8,,0.67,0.2,,1.0,0.5,,,,1.6,1.6,0.4,22.0,2.0
+Robin Bormuth,Fortuna Düsseldorf,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
+Robin Knoche,VfL Wolfsburg,CB,6.3,56.5,,,3.0,0.9,1.0,,4.3,0.4,,0.1,1.4,1.0,,0.0,,,,0.2,0.3,0.8,3.0,
+Robin Koch,Sport-Club Freiburg,CB,2.9,34.5,,1.0,2.0,0.9,5.0,,3.6,0.9,,0.05,1.5,1.0,,0.0,,,,0.1,0.3,1.2,1.0,3.0
+Robin Quaison,1. FSV Mainz 05,CDM,0.5,13.1,3.0,2.0,9.0,0.0,22.0,,0.2,1.3,,0.29,0.3,,,0.4,,,,0.7,0.9,0.8,7.0,1.0
 Robin Zentner,1. FSV Mainz 05,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,1.0
-Roland Sallai,Sport-Club Freiburg,DEF,,,,1.0,,,5.0,,,,,,,,1.0,,,,,,,,2.0,3.0
+Roland Sallai,Sport-Club Freiburg,RWB,,,,1.0,,,5.0,,,,,,,,1.0,,,,,,,,2.0,3.0
 Roman Bürki,Borussia Dortmund,GK,,18.6,,,,,,10.0,0.6,,1.3,,0.1,,,,,68.8,2.8,,0.0,0.0,,1.0
 Ron-Robert Zieler,VfB Stuttgart,GK,,17.9,,,,,1.0,6.0,1.0,,2.1,,0.0,,,,,61.7,3.3,,0.1,0.1,,3.0
-Rouwen Hennings,Fortuna Düsseldorf,ATT,0.7,14.5,4.0,5.0,7.0,0.0,28.0,,1.0,1.1,,0.34,0.2,1.0,,0.4,,,,1.1,0.2,0.7,7.0,3.0
+Rouwen Hennings,Fortuna Düsseldorf,CAM,0.7,14.5,4.0,5.0,7.0,0.0,28.0,,1.0,1.1,,0.34,0.2,1.0,,0.4,,,,1.1,0.2,0.7,7.0,3.0
 Rune Almenning Jarstein,Hertha BSC,GK,,19.9,,,,,,8.0,0.5,,1.6,,0.0,,,,,67.6,3.3,,,,,2.0
-Salif Sané,FC Schalke 04,MID,3.2,43.9,,,1.0,1.0,6.0,,4.9,0.9,,0.07,2.3,,,0.1,,,,0.1,0.5,1.9,2.0,4.0
-Salomon Kalou,Hertha BSC,ATT,0.8,19.3,2.0,9.0,10.0,0.0,30.0,,0.9,1.1,,0.31,0.2,,1.0,0.4,,,,0.7,2.1,0.8,8.0,
-Sandro Wagner,Bayern München,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,2.0
-Santiago Ascacíbar,VfB Stuttgart,MID,1.8,32.6,,,1.0,0.4,13.0,,1.1,0.9,,,1.6,,,0.3,1.0,,,0.2,0.5,2.9,,10.0
-Sebastian Jung,VfL Wolfsburg,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Sebastian Kerk,1. FC Nürnberg,ATT,1.0,20.0,1.0,3.0,,0.4,24.0,,1.1,0.7,,,0.2,,,0.2,,,,0.5,0.3,1.2,,
-Sebastian Langkamp,SV Werder Bremen,DEF,3.3,54.6,,1.0,1.0,0.7,5.0,,5.0,0.7,,,1.3,1.0,,0.1,,,,0.1,0.1,1.5,,4.0
-Sebastian Rode,Eintracht Frankfurt,MID,,,,1.0,1.0,,18.0,,,,,,,,,,,,,,,,,4.0
-Sebastian Rudy,FC Schalke 04,MID,1.8,34.2,,2.0,,0.1,13.0,,0.9,1.9,,,1.0,,,0.5,,,,0.1,0.5,2.9,,4.0
-Sebastian Soto,Hannover 96,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Serge Gnabry,Bayern München,ATT,1.5,33.5,5.0,13.0,8.0,,27.0,,0.1,1.3,,0.51,0.6,,,0.6,,,,1.6,2.5,1.8,10.0,
-Sergio Córdova,FC Augsburg,ATT,0.5,15.2,,,1.0,,4.0,,0.9,2.6,,0.52,0.5,,,1.0,,,,0.7,1.7,1.6,3.0,1.0
-Shinji Kagawa,Borussia Dortmund,MID,,,,,1.0,,,,,,,,,,,,,,,,,,,
-Simon Asta,FC Augsburg,MID,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Simon Rhein,1. FC Nürnberg,MID,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,1.0
-Stefan Bell,1. FSV Mainz 05,DEF,5.0,38.3,,1.0,3.0,0.4,21.0,,4.8,1.6,,,2.2,,,0.1,,,,0.2,0.6,1.2,,7.0
-Stefan Ilsanker,RB Leipzig,DEF,3.8,34.9,,,1.0,0.2,4.0,,4.2,1.9,,,1.7,1.0,,0.2,1.0,,,,0.2,2.5,,5.0
-Stefan Posch,TSG 1899 Hoffenheim,DEF,2.7,55.7,,1.0,,0.7,1.0,,3.5,2.0,,,1.3,,,0.1,,,,0.1,0.1,2.9,,5.0
-Steven Skrzybski,FC Schalke 04,ATT,,,1.0,2.0,2.0,,8.0,,,,,,,,,,,,,,,,3.0,1.0
-Steven Zuber,VfB Stuttgart,MID,1.2,27.4,2.0,3.0,,0.2,19.0,,0.6,1.2,,0.28,0.6,,,0.5,,,,0.7,0.5,1.0,5.0,4.0
-Suat Serdar,FC Schalke 04,MID,0.9,16.2,1.0,3.0,4.0,0.3,15.0,,0.2,2.0,,0.1,1.2,,,0.5,2.0,,,0.5,1.9,2.6,2.0,3.0
-Sven Bender,Bayer 04 Leverkusen,DEF,3.7,68.4,,,,0.6,3.0,,4.3,0.9,,,2.3,,,0.1,,,,0.1,0.2,1.8,,3.0
+Salif Sané,FC Schalke 04,CDM,3.2,43.9,,,1.0,1.0,6.0,,4.9,0.9,,0.07,2.3,,,0.1,,,,0.1,0.5,1.9,2.0,4.0
+Salomon Kalou,Hertha BSC,LW,0.8,19.3,2.0,9.0,10.0,0.0,30.0,,0.9,1.1,,0.31,0.2,,1.0,0.4,,,,0.7,2.1,0.8,8.0,
+Sandro Wagner,Bayern München,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,2.0
+Santiago Ascacíbar,VfB Stuttgart,CM,1.8,32.6,,,1.0,0.4,13.0,,1.1,0.9,,,1.6,,,0.3,1.0,,,0.2,0.5,2.9,,10.0
+Sebastian Jung,VfL Wolfsburg,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Sebastian Kerk,1. FC Nürnberg,LAM,1.0,20.0,1.0,3.0,,0.4,24.0,,1.1,0.7,,,0.2,,,0.2,,,,0.5,0.3,1.2,,
+Sebastian Langkamp,SV Werder Bremen,CB,3.3,54.6,,1.0,1.0,0.7,5.0,,5.0,0.7,,,1.3,1.0,,0.1,,,,0.1,0.1,1.5,,4.0
+Sebastian Rode,Eintracht Frankfurt,CDM,,,,1.0,1.0,,18.0,,,,,,,,,,,,,,,,,4.0
+Sebastian Rudy,FC Schalke 04,CDM,1.8,34.2,,2.0,,0.1,13.0,,0.9,1.9,,,1.0,,,0.5,,,,0.1,0.5,2.9,,4.0
+Sebastian Soto,Hannover 96,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Serge Gnabry,Bayern München,CAM,1.5,33.5,5.0,13.0,8.0,,27.0,,0.1,1.3,,0.51,0.6,,,0.6,,,,1.6,2.5,1.8,10.0,
+Sergio Córdova,FC Augsburg,ST,0.5,15.2,,,1.0,,4.0,,0.9,2.6,,0.52,0.5,,,1.0,,,,0.7,1.7,1.6,3.0,1.0
+Shinji Kagawa,Borussia Dortmund,CDM,,,,,1.0,,,,,,,,,,,,,,,,,,,
+Simon Asta,FC Augsburg,RM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Simon Rhein,1. FC Nürnberg,CDM,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,1.0
+Stefan Bell,1. FSV Mainz 05,CB,5.0,38.3,,1.0,3.0,0.4,21.0,,4.8,1.6,,,2.2,,,0.1,,,,0.2,0.6,1.2,,7.0
+Stefan Ilsanker,RB Leipzig,RB,3.8,34.9,,,1.0,0.2,4.0,,4.2,1.9,,,1.7,1.0,,0.2,1.0,,,,0.2,2.5,,5.0
+Stefan Posch,TSG 1899 Hoffenheim,CB,2.7,55.7,,1.0,,0.7,1.0,,3.5,2.0,,,1.3,,,0.1,,,,0.1,0.1,2.9,,5.0
+Steven Skrzybski,FC Schalke 04,CAM,,,1.0,2.0,2.0,,8.0,,,,,,,,,,,,,,,,3.0,1.0
+Steven Zuber,VfB Stuttgart,CM,1.2,27.4,2.0,3.0,,0.2,19.0,,0.6,1.2,,0.28,0.6,,,0.5,,,,0.7,0.5,1.0,5.0,4.0
+Suat Serdar,FC Schalke 04,CM,0.9,16.2,1.0,3.0,4.0,0.3,15.0,,0.2,2.0,,0.1,1.2,,,0.5,2.0,,,0.5,1.9,2.6,2.0,3.0
+Sven Bender,Bayer 04 Leverkusen,CB,3.7,68.4,,,,0.6,3.0,,4.3,0.9,,,2.3,,,0.1,,,,0.1,0.2,1.8,,3.0
 Sven Ulreich,Bayern München,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,
-Sébastien Haller,Eintracht Frankfurt,ATT,0.5,20.6,9.0,13.0,10.0,0.0,38.0,,0.9,1.7,,0.62,0.6,,,0.9,,,,1.1,1.2,1.0,15.0,3.0
-Takashi Usami,Fortuna Düsseldorf,ATT,1.5,17.1,2.0,,3.0,0.2,13.0,,1.0,0.8,,0.1,0.8,,,0.3,,,,0.7,1.3,1.8,1.0,1.0
-Takuma Asano,Hannover 96,ATT,,,,1.0,2.0,,2.0,,,,,,,,,,,,,,,,,
-Theodor Gebre Selassie,SV Werder Bremen,DEF,0.9,34.2,2.0,1.0,6.0,0.3,21.0,,2.8,1.1,,0.1,2.2,,1.0,0.2,,,,0.4,0.4,1.7,3.0,2.0
-Thiago Alcántara,Bayern München,MID,8.1,86.0,6.0,6.0,1.0,0.1,39.0,,0.6,1.9,,0.07,1.6,1.0,,0.6,,,,0.3,2.1,3.3,2.0,5.0
-Thomas Delaney,Borussia Dortmund,MID,3.2,54.1,5.0,5.0,3.0,0.4,15.0,,1.7,1.8,,0.12,2.3,,,0.4,,,,0.4,0.4,2.7,3.0,7.0
+Sébastien Haller,Eintracht Frankfurt,CF,0.5,20.6,9.0,13.0,10.0,0.0,38.0,,0.9,1.7,,0.62,0.6,,,0.9,,,,1.1,1.2,1.0,15.0,3.0
+Takashi Usami,Fortuna Düsseldorf,CAM,1.5,17.1,2.0,,3.0,0.2,13.0,,1.0,0.8,,0.1,0.8,,,0.3,,,,0.7,1.3,1.8,1.0,1.0
+Takuma Asano,Hannover 96,RW,,,,1.0,2.0,,2.0,,,,,,,,,,,,,,,,,
+Theodor Gebre Selassie,SV Werder Bremen,RB,0.9,34.2,2.0,1.0,6.0,0.3,21.0,,2.8,1.1,,0.1,2.2,,1.0,0.2,,,,0.4,0.4,1.7,3.0,2.0
+Thiago Alcántara,Bayern München,CAM,8.1,86.0,6.0,6.0,1.0,0.1,39.0,,0.6,1.9,,0.07,1.6,1.0,,0.6,,,,0.3,2.1,3.3,2.0,5.0
+Thomas Delaney,Borussia Dortmund,CM,3.2,54.1,5.0,5.0,3.0,0.4,15.0,,1.7,1.8,,0.12,2.3,,,0.4,,,,0.4,0.4,2.7,3.0,7.0
 Thomas Kraft,Hertha BSC,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Thomas Müller,Bayern München,ATT,1.4,33.8,9.0,18.0,12.0,0.2,61.0,,0.5,0.9,,0.23,0.3,,,0.8,,,,1.0,0.9,1.6,6.0,1.0
-Thorgan Hazard,Borussia Mönchengladbach,ATT,1.7,27.6,10.0,13.0,3.0,0.1,73.0,,0.3,0.8,,0.31,0.8,1.0,,0.6,,,,0.8,2.2,1.6,10.0,1.0
-Tim Kleindienst,Sport-Club Freiburg,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Tim Leibold,1. FC Nürnberg,DEF,2.8,31.5,2.0,4.0,1.0,0.1,37.0,,1.6,1.0,,,1.2,1.0,2.0,0.3,1.0,,,0.2,0.8,2.0,,6.0
-Timo Baumgartl,VfB Stuttgart,DEF,3.3,38.3,,,,1.2,5.0,,5.2,0.7,,0.06,1.4,,,0.1,,,,0.1,0.2,1.8,1.0,2.0
-Timo Werner,RB Leipzig,ATT,0.4,20.2,7.0,7.0,22.0,0.1,36.0,,0.1,0.9,,0.57,0.1,,1.0,0.8,,,,1.4,1.0,0.6,16.0,1.0
-Timothy Chandler,Eintracht Frankfurt,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Timothy Tillman,1. FC Nürnberg,MID,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
-Tin Jedvaj,Bayer 04 Leverkusen,DEF,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,3.0
-Tobias Strobl,Borussia Mönchengladbach,MID,5.7,52.5,4.0,4.0,1.0,0.5,17.0,,1.3,1.0,,,1.1,,,0.0,,,,0.1,0.2,1.2,,4.0
-Tony Jantschke,Borussia Mönchengladbach,DEF,,,1.0,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Tyler Adams,RB Leipzig,MID,,,2.0,2.0,,,5.0,,,,,,,,,,,,,,,,,
-Törles Knöll,1. FC Nürnberg,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
-Uffe Bech,Hannover 96,ATT,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
-Valentino Lazaro,Hertha BSC,MID,1.7,30.2,6.0,12.0,,0.4,55.0,,1.8,0.8,,0.1,1.4,,,0.3,,,,0.3,1.1,1.5,3.0,6.0
-Vedad Ibisevic,Hertha BSC,ATT,0.8,15.4,2.0,1.0,11.0,0.2,17.0,,1.0,1.9,,0.49,0.1,,,0.3,1.0,,,1.0,0.7,0.6,10.0,5.0
-Vincenzo Grifo,Sport-Club Freiburg,ATT,2.6,34.1,5.0,2.0,1.0,0.1,45.0,,0.7,0.7,,0.36,0.2,,1.0,0.8,,,,0.9,1.7,1.6,7.0,1.0
-Virgil Misidjan,1. FC Nürnberg,ATT,0.5,14.4,1.0,1.0,5.0,,8.0,,0.3,2.0,,0.06,0.5,,1.0,0.5,,,,0.5,2.4,1.2,1.0,5.0
-Vladimír Darida,Hertha BSC,MID,,,1.0,1.0,1.0,,7.0,,,,,,,,,,,,,,,,,1.0
-Walace,Hannover 96,MID,2.3,41.0,1.0,,,0.2,15.0,,1.6,1.4,,0.05,2.0,,,0.6,,,,0.3,1.1,2.3,1.0,5.0
-Waldemar Anton,Hannover 96,DEF,3.7,42.1,,,,1.0,5.0,,4.9,0.7,,0.03,2.0,1.0,,0.1,,,,0.1,0.5,1.4,1.0,4.0
-Wendell,Bayer 04 Leverkusen,DEF,2.6,55.9,2.0,4.0,1.0,0.5,16.0,,2.3,1.5,,0.08,1.1,,,0.2,,,,0.2,0.3,3.0,2.0,5.0
-Weston McKennie,FC Schalke 04,MID,1.5,23.0,4.0,3.0,2.0,0.5,19.0,,2.2,1.7,,0.05,1.9,,1.0,0.2,,,,0.5,0.8,1.4,1.0,6.0
-Willi Orbán,RB Leipzig,DEF,2.9,34.3,,,7.0,0.7,,,6.0,1.2,,0.18,1.6,2.0,,,,,,0.5,0.1,2.2,4.0,5.0
-William,VfL Wolfsburg,DEF,4.2,33.9,1.0,2.0,1.0,0.1,39.0,,3.7,1.2,,0.07,2.9,3.0,,0.3,,,,0.2,0.9,2.8,2.0,10.0
-Wout Weghorst,VfL Wolfsburg,ATT,0.5,17.2,7.0,8.0,8.0,0.1,37.0,,1.0,1.1,,0.52,0.3,,1.0,0.5,,,,1.1,0.5,0.9,17.0,4.0
+Thomas Müller,Bayern München,CAM,1.4,33.8,9.0,18.0,12.0,0.2,61.0,,0.5,0.9,,0.23,0.3,,,0.8,,,,1.0,0.9,1.6,6.0,1.0
+Thorgan Hazard,Borussia Mönchengladbach,CAM,1.7,27.6,10.0,13.0,3.0,0.1,73.0,,0.3,0.8,,0.31,0.8,1.0,,0.6,,,,0.8,2.2,1.6,10.0,1.0
+Tim Kleindienst,Sport-Club Freiburg,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Tim Leibold,1. FC Nürnberg,LWB,2.8,31.5,2.0,4.0,1.0,0.1,37.0,,1.6,1.0,,,1.2,1.0,2.0,0.3,1.0,,,0.2,0.8,2.0,,6.0
+Timo Baumgartl,VfB Stuttgart,CB,3.3,38.3,,,,1.2,5.0,,5.2,0.7,,0.06,1.4,,,0.1,,,,0.1,0.2,1.8,1.0,2.0
+Timo Werner,RB Leipzig,LW,0.4,20.2,7.0,7.0,22.0,0.1,36.0,,0.1,0.9,,0.57,0.1,,1.0,0.8,,,,1.4,1.0,0.6,16.0,1.0
+Timothy Chandler,Eintracht Frankfurt,LM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Timothy Tillman,1. FC Nürnberg,CM,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
+Tin Jedvaj,Bayer 04 Leverkusen,RB,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,3.0
+Tobias Strobl,Borussia Mönchengladbach,CM,5.7,52.5,4.0,4.0,1.0,0.5,17.0,,1.3,1.0,,,1.1,,,0.0,,,,0.1,0.2,1.2,,4.0
+Tony Jantschke,Borussia Mönchengladbach,CB,,,1.0,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Tyler Adams,RB Leipzig,CDM,,,2.0,2.0,,,5.0,,,,,,,,,,,,,,,,,
+Törles Knöll,1. FC Nürnberg,CF,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
+Uffe Bech,Hannover 96,RW,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
+Valentino Lazaro,Hertha BSC,RM,1.7,30.2,6.0,12.0,,0.4,55.0,,1.8,0.8,,0.1,1.4,,,0.3,,,,0.3,1.1,1.5,3.0,6.0
+Vedad Ibisevic,Hertha BSC,ST,0.8,15.4,2.0,1.0,11.0,0.2,17.0,,1.0,1.9,,0.49,0.1,,,0.3,1.0,,,1.0,0.7,0.6,10.0,5.0
+Vincenzo Grifo,Sport-Club Freiburg,LW,2.6,34.1,5.0,2.0,1.0,0.1,45.0,,0.7,0.7,,0.36,0.2,,1.0,0.8,,,,0.9,1.7,1.6,7.0,1.0
+Virgil Misidjan,1. FC Nürnberg,LW,0.5,14.4,1.0,1.0,5.0,,8.0,,0.3,2.0,,0.06,0.5,,1.0,0.5,,,,0.5,2.4,1.2,1.0,5.0
+Vladimír Darida,Hertha BSC,CDM,,,1.0,1.0,1.0,,7.0,,,,,,,,,,,,,,,,,1.0
+Walace,Hannover 96,CDM,2.3,41.0,1.0,,,0.2,15.0,,1.6,1.4,,0.05,2.0,,,0.6,,,,0.3,1.1,2.3,1.0,5.0
+Waldemar Anton,Hannover 96,CB,3.7,42.1,,,,1.0,5.0,,4.9,0.7,,0.03,2.0,1.0,,0.1,,,,0.1,0.5,1.4,1.0,4.0
+Wendell,Bayer 04 Leverkusen,LWB,2.6,55.9,2.0,4.0,1.0,0.5,16.0,,2.3,1.5,,0.08,1.1,,,0.2,,,,0.2,0.3,3.0,2.0,5.0
+Weston McKennie,FC Schalke 04,RM,1.5,23.0,4.0,3.0,2.0,0.5,19.0,,2.2,1.7,,0.05,1.9,,1.0,0.2,,,,0.5,0.8,1.4,1.0,6.0
+Willi Orbán,RB Leipzig,CB,2.9,34.3,,,7.0,0.7,,,6.0,1.2,,0.18,1.6,2.0,,,,,,0.5,0.1,2.2,4.0,5.0
+William,VfL Wolfsburg,RWB,4.2,33.9,1.0,2.0,1.0,0.1,39.0,,3.7,1.2,,0.07,2.9,3.0,,0.3,,,,0.2,0.9,2.8,2.0,10.0
+Wout Weghorst,VfL Wolfsburg,CF,0.5,17.2,7.0,8.0,8.0,0.1,37.0,,1.0,1.1,,0.52,0.3,,1.0,0.5,,,,1.1,0.5,0.9,17.0,4.0
 Yann Sommer,Borussia Mönchengladbach,GK,,32.1,,,,,1.0,13.0,0.5,0.0,1.2,,0.0,1.0,,,,73.1,3.4,,0.1,0.1,,1.0
-Yannick Gerhardt,VfL Wolfsburg,MID,1.4,27.3,2.0,6.0,4.0,0.3,26.0,,1.2,1.0,,0.07,1.1,,1.0,0.5,,,,0.3,0.3,1.9,2.0,2.0
-Yevheniy Konoplyanka,FC Schalke 04,ATT,,,,1.0,2.0,,10.0,,,,,,,,,,1.0,,,,,,1.0,
-Yoric Ravet,Sport-Club Freiburg,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Yunus Malli,VfL Wolfsburg,ATT,1.0,32.3,1.0,2.0,2.0,,17.0,,0.1,0.9,,0.13,0.5,,,0.4,,,,0.5,1.2,2.0,1.0,
-Yussuf Poulsen,RB Leipzig,ATT,0.3,17.3,3.0,7.0,5.0,0.1,33.0,,1.0,2.1,,0.55,0.3,,,0.7,,,,1.0,0.9,0.7,15.0,2.0
-Yuya Kubo,1. FC Nürnberg,MID,1.5,19.0,,1.0,1.0,,11.0,,0.1,1.4,,0.07,0.7,,,0.3,,,,0.7,0.8,1.4,1.0,2.0
-Yuya Osako,SV Werder Bremen,ATT,0.7,23.6,2.0,4.0,2.0,0.2,16.0,,0.4,1.3,,0.2,0.5,,1.0,0.3,,,,0.4,1.3,1.5,3.0,2.0
-Ádám Szalai,TSG 1899 Hoffenheim,ATT,0.6,16.5,3.0,4.0,8.0,0.1,27.0,,0.4,1.8,,0.33,0.2,,,0.3,,,,1.1,0.6,1.1,6.0,3.0
+Yannick Gerhardt,VfL Wolfsburg,CDM,1.4,27.3,2.0,6.0,4.0,0.3,26.0,,1.2,1.0,,0.07,1.1,,1.0,0.5,,,,0.3,0.3,1.9,2.0,2.0
+Yevheniy Konoplyanka,FC Schalke 04,LW,,,,1.0,2.0,,10.0,,,,,,,,,,1.0,,,,,,1.0,
+Yoric Ravet,Sport-Club Freiburg,LAM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Yunus Malli,VfL Wolfsburg,LW,1.0,32.3,1.0,2.0,2.0,,17.0,,0.1,0.9,,0.13,0.5,,,0.4,,,,0.5,1.2,2.0,1.0,
+Yussuf Poulsen,RB Leipzig,CF,0.3,17.3,3.0,7.0,5.0,0.1,33.0,,1.0,2.1,,0.55,0.3,,,0.7,,,,1.0,0.9,0.7,15.0,2.0
+Yuya Kubo,1. FC Nürnberg,CM,1.5,19.0,,1.0,1.0,,11.0,,0.1,1.4,,0.07,0.7,,,0.3,,,,0.7,0.8,1.4,1.0,2.0
+Yuya Osako,SV Werder Bremen,CF,0.7,23.6,2.0,4.0,2.0,0.2,16.0,,0.4,1.3,,0.2,0.5,,1.0,0.3,,,,0.4,1.3,1.5,3.0,2.0
+Ádám Szalai,TSG 1899 Hoffenheim,ST,0.6,16.5,3.0,4.0,8.0,0.1,27.0,,0.4,1.8,,0.33,0.2,,,0.3,,,,1.1,0.6,1.1,6.0,3.0

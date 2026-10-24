@@ -1,578 +1,578 @@
 ParticipantName,TeamName,Position,Accurate long balls per 90,Accurate passes per 90,Assists,Big chances created,Big chances missed,Blocks per 90,Chances created,Clean sheets,Clearances per 90,Fouls committed per 90,Goals conceded per 90,Goals per 90,Interceptions per 90,Penalties conceded,Penalties won,Possession won final 3rd per 90,Red cards,Save percentage,Saves per 90,Shots on target per 90,Successful dribbles per 90,Successful tackles per 90,Top scorer,Yellow cards
-Achraf Hakimi,Real Madrid,DEF,,,,,,,5.0,,,,,,,,,,,,,,,,,
-Adama Diakhaby,Monaco,MID,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,2.0
-Adriano,Beşiktaş,DEF,2.4,30.7,,,,,3.0,,3.5,1.5,,,2.0,,,0.4,,,,,0.7,2.8,,1.0
-Adrien Rabiot,Paris Saint-Germain,MID,2.0,64.3,2.0,1.0,,0.1,4.0,,1.7,2.1,,0.13,1.6,,,0.4,,,,0.1,1.3,1.6,1.0,1.0
-Adrien Trébel,RSC Anderlecht,MID,5.8,53.7,,,,,7.0,,1.0,2.3,,,3.0,,,1.0,,,,0.7,1.2,4.2,,1.0
-Afran Ismayilov,FK Qarabag,Code_2,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Agustín Farías,APOEL Nicosia,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Alaixys Romao,Olympiakos,MID,1.5,32.8,,,,0.3,5.0,,1.3,1.3,,,1.2,,,,,,,,0.5,2.5,,2.0
-Alan Dzagoev,CSKA Moscow,MID,,,,1.0,1.0,,11.0,,,,,,,,,,,,,,,,1.0,1.0
-Alan Ruiz,Sporting Lisbon,ATT,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Alberto Moreno,Liverpool,DEF,3.7,59.9,3.0,5.0,,,10.0,,3.7,1.1,,,1.4,1.0,,0.5,,,,0.3,0.3,2.7,,2.0
-Aleix Vidal,Barcelona,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Alejandro Grimaldo,Benfica,MID,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Aleks Pihler,Maribor,MID,0.2,28.7,,,,0.2,4.0,,2.3,1.1,,,0.7,1.0,,0.5,,,,0.2,1.1,1.6,,1.0
-Aleksandar Kolarov,Roma,DEF,2.2,42.0,3.0,2.0,,0.2,19.0,,1.8,1.2,,0.08,1.5,,,0.5,,,,0.3,2.2,1.8,1.0,1.0
-Aleksander Rajcevic,Maribor,Code_1,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0
-Aleksandr Golovin,CSKA Moscow,ATT,2.0,41.9,1.0,,,0.2,9.0,,0.3,1.8,,,1.7,,,0.8,,,,0.2,1.8,2.2,,2.0
-Aleksandr Samedov,Spartak Moscow,MID,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
-Alessandro Florenzi,Roma,MID,3.6,31.2,,2.0,,,8.0,,1.3,0.6,,,2.2,,,0.6,,,,0.1,0.6,1.5,,2.0
-Alex Oxlade-Chamberlain,Liverpool,MID,2.8,25.3,,,,0.6,4.0,,0.6,0.8,,0.56,0.8,,,1.4,,,,1.4,2.8,2.0,2.0,
-Alex Sandro,Juventus,DEF,2.6,40.4,1.0,1.0,,0.3,11.0,,1.2,2.0,,,0.8,,,0.5,,,,,1.3,3.0,,3.0
-Alex Telles,FC Porto,DEF,1.1,26.4,1.0,,,0.3,13.0,,2.0,1.0,,0.14,2.7,,,,,,,0.1,1.0,1.7,1.0,
-Alexandru Chipciu,RSC Anderlecht,DEF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Alexis Sánchez,Manchester United,ATT,,,,1.0,,,6.0,,,,,,,,,,,,,,,,,1.0
+Achraf Hakimi,Real Madrid,RWB,,,,,,,5.0,,,,,,,,,,,,,,,,,
+Adama Diakhaby,Monaco,CM,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,2.0
+Adriano,Beşiktaş,LWB,2.4,30.7,,,,,3.0,,3.5,1.5,,,2.0,,,0.4,,,,,0.7,2.8,,1.0
+Adrien Rabiot,Paris Saint-Germain,CAM,2.0,64.3,2.0,1.0,,0.1,4.0,,1.7,2.1,,0.13,1.6,,,0.4,,,,0.1,1.3,1.6,1.0,1.0
+Adrien Trébel,RSC Anderlecht,CM,5.8,53.7,,,,,7.0,,1.0,2.3,,,3.0,,,1.0,,,,0.7,1.2,4.2,,1.0
+Afran Ismayilov,FK Qarabag,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Agustín Farías,APOEL Nicosia,RAM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Alaixys Romao,Olympiakos,CM,1.5,32.8,,,,0.3,5.0,,1.3,1.3,,,1.2,,,,,,,,0.5,2.5,,2.0
+Alan Dzagoev,CSKA Moscow,CAM,,,,1.0,1.0,,11.0,,,,,,,,,,,,,,,,1.0,1.0
+Alan Ruiz,Sporting Lisbon,CAM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Alberto Moreno,Liverpool,LWB,3.7,59.9,3.0,5.0,,,10.0,,3.7,1.1,,,1.4,1.0,,0.5,,,,0.3,0.3,2.7,,2.0
+Aleix Vidal,Barcelona,LW,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Alejandro Grimaldo,Benfica,LM,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Aleks Pihler,Maribor,CDM,0.2,28.7,,,,0.2,4.0,,2.3,1.1,,,0.7,1.0,,0.5,,,,0.2,1.1,1.6,,1.0
+Aleksandar Kolarov,Roma,LB,2.2,42.0,3.0,2.0,,0.2,19.0,,1.8,1.2,,0.08,1.5,,,0.5,,,,0.3,2.2,1.8,1.0,1.0
+Aleksander Rajcevic,Maribor,GK,,,,,,,,,,,,,,1.0,,,,,,,,,,1.0
+Aleksandr Golovin,CSKA Moscow,LAM,2.0,41.9,1.0,,,0.2,9.0,,0.3,1.8,,,1.7,,,0.8,,,,0.2,1.8,2.2,,2.0
+Aleksandr Samedov,Spartak Moscow,CDM,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
+Alessandro Florenzi,Roma,CDM,3.6,31.2,,2.0,,,8.0,,1.3,0.6,,,2.2,,,0.6,,,,0.1,0.6,1.5,,2.0
+Alex Oxlade-Chamberlain,Liverpool,CDM,2.8,25.3,,,,0.6,4.0,,0.6,0.8,,0.56,0.8,,,1.4,,,,1.4,2.8,2.0,2.0,
+Alex Sandro,Juventus,LWB,2.6,40.4,1.0,1.0,,0.3,11.0,,1.2,2.0,,,0.8,,,0.5,,,,,1.3,3.0,,3.0
+Alex Telles,FC Porto,LWB,1.1,26.4,1.0,,,0.3,13.0,,2.0,1.0,,0.14,2.7,,,,,,,0.1,1.0,1.7,1.0,
+Alexandru Chipciu,RSC Anderlecht,LWB,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Alexis Sánchez,Manchester United,CF,,,,1.0,,,6.0,,,,,,,,,,,,,,,,,1.0
 Alisson Becker,Roma,GK,,22.6,,,,,,5.0,0.7,,1.6,,0.1,,,,,70.8,3.8,,0.1,0.1,,
-Allan,Napoli,MID,1.2,36.9,,,,,3.0,,0.3,2.3,,,0.9,,,0.6,,,,,1.8,2.3,,
-Almamy Touré,Monaco,DEF,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Allan,Napoli,CDM,1.2,36.9,,,,,3.0,,0.3,2.3,,,0.9,,,0.6,,,,,1.8,2.3,,
+Almamy Touré,Monaco,LB,,,,,,,4.0,,,,,,,,,,,,,,,,,
 Alphonse Areola,Paris Saint-Germain,GK,,16.4,,,,,,4.0,1.0,,1.1,,,,,,,76.3,3.6,,,,,
-Amadou Diawara,Napoli,MID,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,1.0
-Ander Herrera,Manchester United,MID,2.9,79.0,,2.0,,0.2,3.0,,1.7,0.7,,,2.9,,,,,,,,1.2,3.1,,
-Andre Andre,FC Porto,MID,,,,,1.0,,,,,,,,,,,,,,,,,,,3.0
-Andre Pinto,Sporting Lisbon,DEF,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
-Andrea Barzagli,Juventus,DEF,5.6,63.5,,,,0.1,,,2.6,1.0,,,1.8,,,,,,,,,1.8,,1.0
-Andreas Christensen,Chelsea,DEF,2.8,49.6,,,1.0,0.2,2.0,,4.2,0.6,,,1.6,,,,,,,0.2,,1.0,,
-Andreas Makris,APOEL Nicosia,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Andreas Samaris,Benfica,MID,,,,,,,4.0,,,,,,,1.0,,,,,,,,,,2.0
-Andrei Eshchenko,Spartak Moscow,DEF,,,1.0,2.0,,,8.0,,,,,,,,,,,,,,,,,
-Andrew Robertson,Liverpool,DEF,1.3,33.5,,2.0,,0.7,7.0,,4.2,0.3,,,0.8,,,0.2,,,,0.2,0.8,1.8,,1.0
-Andrija Zivkovic,Benfica,ATT,,,1.0,3.0,,,9.0,,,,,,,,,,,,,,,,,1.0
+Amadou Diawara,Napoli,CM,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,1.0
+Ander Herrera,Manchester United,CDM,2.9,79.0,,2.0,,0.2,3.0,,1.7,0.7,,,2.9,,,,,,,,1.2,3.1,,
+Andre Andre,FC Porto,CAM,,,,,1.0,,,,,,,,,,,,,,,,,,,3.0
+Andre Pinto,Sporting Lisbon,CB,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
+Andrea Barzagli,Juventus,CB,5.6,63.5,,,,0.1,,,2.6,1.0,,,1.8,,,,,,,,,1.8,,1.0
+Andreas Christensen,Chelsea,CB,2.8,49.6,,,1.0,0.2,2.0,,4.2,0.6,,,1.6,,,,,,,0.2,,1.0,,
+Andreas Makris,APOEL Nicosia,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Andreas Samaris,Benfica,CM,,,,,,,4.0,,,,,,,1.0,,,,,,,,,,2.0
+Andrei Eshchenko,Spartak Moscow,RWB,,,1.0,2.0,,,8.0,,,,,,,,,,,,,,,,,
+Andrew Robertson,Liverpool,LWB,1.3,33.5,,2.0,,0.7,7.0,,4.2,0.3,,,0.8,,,0.2,,,,0.2,0.8,1.8,,1.0
+Andrija Zivkovic,Benfica,RW,,,1.0,3.0,,,9.0,,,,,,,,,,,,,,,,,1.0
 Andriy Pyatov,Shakhtar Donetsk,GK,,32.8,,,,,,,0.8,,1.4,,0.1,,,,,75.0,4.1,,,0.1,,
-Andriy Yarmolenko,Borussia Dortmund,ATT,2.9,29.3,1.0,2.0,1.0,,8.0,,0.5,0.7,,0.24,0.5,,,0.7,,,,0.7,1.9,1.4,1.0,
-André Almeida,Benfica,DEF,,,,,,,2.0,,,,,,,1.0,,,1.0,,,,,,,1.0
-André Gomes,Barcelona,MID,1.6,61.1,,,,,4.0,,,1.6,,,1.1,,,0.5,,,,,0.5,4.2,,1.0
-Andrés Iniesta,Barcelona,MID,4.8,65.2,2.0,3.0,,0.1,8.0,,0.4,0.4,,,1.2,,,0.7,,,,,2.3,1.6,,
-Ansi Agolli,FK Qarabag,DEF,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Anthony Martial,Manchester United,ATT,0.8,30.2,2.0,4.0,4.0,,9.0,,,0.8,,0.26,0.3,,,1.0,,,,1.6,5.2,0.3,1.0,
-Anthony Ralston,Celtic,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Antoine Griezmann,Atlético de Madrid,ATT,0.9,32.3,2.0,2.0,1.0,,6.0,,0.3,0.3,,0.34,0.3,,,0.3,,,,0.9,0.9,1.0,2.0,1.0
-Antonio Rüdiger,Chelsea,DEF,3.5,50.8,,1.0,1.0,,2.0,,1.9,2.6,,,1.4,,,,,,,,0.2,1.6,,1.0
-Antonio Valencia,Manchester United,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Arjen Robben,Bayern München,ATT,1.1,43.6,1.0,,2.0,,14.0,,0.2,0.2,,,0.2,,,1.5,,,,0.5,3.5,0.9,,
-Arkadiusz Milik,Napoli,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
-Arturo Vidal,Bayern München,MID,4.2,54.6,,1.0,1.0,0.4,5.0,,0.8,2.5,,,1.9,,,0.4,,,,0.4,0.2,3.8,,1.0
-Ashley Young,Manchester United,DEF,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
-Atiba Hutchinson,Beşiktaş,MID,1.4,40.4,,,,0.6,,,1.4,0.5,,,1.9,,,0.2,,,,0.2,0.3,3.0,,1.0
-Aymeric Laporte,Manchester City,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Badavi Hüseynov,FK Qarabag,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Bart Nieuwkoop,Feyenoord,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Bas Dost,Sporting Lisbon,ATT,0.5,19.2,,1.0,3.0,,5.0,,0.7,0.9,,0.47,0.2,,,0.5,,,,0.9,0.2,0.7,2.0,1.0
-Ben Davies,Tottenham Hotspur,DEF,,,,,,,4.0,,,,,,,1.0,,,,,,,,,,1.0
-Benjamin Mendy,Manchester City,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Bernard,Shakhtar Donetsk,ATT,1.3,33.8,,1.0,1.0,,11.0,,0.5,0.7,,0.4,1.9,,,0.3,,,,0.7,2.3,1.5,3.0,
-Bernardo,RB Leipzig,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Bernardo Silva,Manchester City,ATT,1.8,45.9,2.0,5.0,,0.2,17.0,,0.2,1.0,,0.16,0.8,,,0.8,,,,0.6,3.2,1.6,1.0,1.0
-Bibars Natcho,CSKA Moscow,ATT,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
-Björn Engels,Olympiakos,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Blaise Matuidi,Juventus,DEF,2.2,46.3,,,,0.2,5.0,,0.5,2.2,,0.18,1.6,,,0.5,,,,0.2,0.4,1.3,1.0,
-Blaz Vrhovec,Maribor,MID,,,,,,,5.0,,,,,,,,,,,,,,,,,2.0
-Blás Riveros,FC Basel,DEF,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,
-Bogdan Butko,Shakhtar Donetsk,MID,0.9,33.7,1.0,1.0,,0.3,1.0,,5.0,0.7,,,1.4,1.0,,0.1,,,,,0.3,1.9,,1.0
-Borja Mayoral,Real Madrid,ATT,,,1.0,2.0,1.0,,4.0,,,,,,,,,,,,,,,,1.0,
+Andriy Yarmolenko,Borussia Dortmund,RW,2.9,29.3,1.0,2.0,1.0,,8.0,,0.5,0.7,,0.24,0.5,,,0.7,,,,0.7,1.9,1.4,1.0,
+André Almeida,Benfica,RWB,,,,,,,2.0,,,,,,,1.0,,,1.0,,,,,,,1.0
+André Gomes,Barcelona,CM,1.6,61.1,,,,,4.0,,,1.6,,,1.1,,,0.5,,,,,0.5,4.2,,1.0
+Andrés Iniesta,Barcelona,CM,4.8,65.2,2.0,3.0,,0.1,8.0,,0.4,0.4,,,1.2,,,0.7,,,,,2.3,1.6,,
+Ansi Agolli,FK Qarabag,LWB,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Anthony Martial,Manchester United,LW,0.8,30.2,2.0,4.0,4.0,,9.0,,,0.8,,0.26,0.3,,,1.0,,,,1.6,5.2,0.3,1.0,
+Anthony Ralston,Celtic,RWB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Antoine Griezmann,Atlético de Madrid,CF,0.9,32.3,2.0,2.0,1.0,,6.0,,0.3,0.3,,0.34,0.3,,,0.3,,,,0.9,0.9,1.0,2.0,1.0
+Antonio Rüdiger,Chelsea,CB,3.5,50.8,,1.0,1.0,,2.0,,1.9,2.6,,,1.4,,,,,,,,0.2,1.6,,1.0
+Antonio Valencia,Manchester United,RW,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Arjen Robben,Bayern München,RW,1.1,43.6,1.0,,2.0,,14.0,,0.2,0.2,,,0.2,,,1.5,,,,0.5,3.5,0.9,,
+Arkadiusz Milik,Napoli,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,
+Arturo Vidal,Bayern München,CDM,4.2,54.6,,1.0,1.0,0.4,5.0,,0.8,2.5,,,1.9,,,0.4,,,,0.4,0.2,3.8,,1.0
+Ashley Young,Manchester United,RWB,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
+Atiba Hutchinson,Beşiktaş,CDM,1.4,40.4,,,,0.6,,,1.4,0.5,,,1.9,,,0.2,,,,0.2,0.3,3.0,,1.0
+Aymeric Laporte,Manchester City,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Badavi Hüseynov,FK Qarabag,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Bart Nieuwkoop,Feyenoord,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Bas Dost,Sporting Lisbon,ST,0.5,19.2,,1.0,3.0,,5.0,,0.7,0.9,,0.47,0.2,,,0.5,,,,0.9,0.2,0.7,2.0,1.0
+Ben Davies,Tottenham Hotspur,CB,,,,,,,4.0,,,,,,,1.0,,,,,,,,,,1.0
+Benjamin Mendy,Manchester City,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Bernard,Shakhtar Donetsk,RAM,1.3,33.8,,1.0,1.0,,11.0,,0.5,0.7,,0.4,1.9,,,0.3,,,,0.7,2.3,1.5,3.0,
+Bernardo,RB Leipzig,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Bernardo Silva,Manchester City,RAM,1.8,45.9,2.0,5.0,,0.2,17.0,,0.2,1.0,,0.16,0.8,,,0.8,,,,0.6,3.2,1.6,1.0,1.0
+Bibars Natcho,CSKA Moscow,CAM,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
+Björn Engels,Olympiakos,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Blaise Matuidi,Juventus,LWB,2.2,46.3,,,,0.2,5.0,,0.5,2.2,,0.18,1.6,,,0.5,,,,0.2,0.4,1.3,1.0,
+Blaz Vrhovec,Maribor,CDM,,,,,,,5.0,,,,,,,,,,,,,,,,,2.0
+Blás Riveros,FC Basel,LWB,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,
+Bogdan Butko,Shakhtar Donetsk,RM,0.9,33.7,1.0,1.0,,0.3,1.0,,5.0,0.7,,,1.4,1.0,,0.1,,,,,0.3,1.9,,1.0
+Borja Mayoral,Real Madrid,CF,,,1.0,2.0,1.0,,4.0,,,,,,,,,,,,,,,,1.0,
 Boy Waterman,APOEL Nicosia,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
 Bradley Jones,Feyenoord,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Brahim Díaz,Manchester City,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Bruma,RB Leipzig,MID,,,,,1.0,,8.0,,,,,,,,,,,,,,,,,
-Bruno Costa,FC Porto,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Bruno César,Sporting Lisbon,ATT,,,,1.0,,,4.0,,,,,,,,,,,,,,,,2.0,1.0
-Bruno Fernandes,Sporting Lisbon,ATT,1.7,36.9,1.0,2.0,1.0,0.2,10.0,,0.2,1.5,,0.17,0.7,,,0.5,,,,1.0,1.5,2.5,1.0,2.0
-Bruno Peres,Roma,DEF,2.9,43.1,,1.0,,0.4,3.0,,1.8,0.8,,,2.1,,,0.8,1.0,,,0.4,2.1,2.0,,
-Callum McGregor,Celtic,MID,,,,,,,4.0,,,,,,,,,,,,,,,,1.0,
-Caner Erkin,Beşiktaş,DEF,4.2,30.7,1.0,,,,6.0,,1.7,0.5,,,3.6,,,,,,,,1.0,1.2,,2.0
-Carlao,APOEL Nicosia,DEF,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
-Casemiro,Real Madrid,MID,5.6,48.2,,2.0,,1.0,7.0,,2.1,1.0,,0.1,2.2,,,0.3,,,,0.5,1.2,4.3,1.0,2.0
-Cengiz Ünder,Roma,ATT,,,1.0,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Cenk Tosun,Beşiktaş,ATT,1.0,17.4,2.0,1.0,1.0,0.2,5.0,,1.4,1.6,,0.8,0.6,,,0.2,,,,1.8,1.8,0.4,4.0,
-Cesc Fàbregas,Chelsea,MID,4.7,55.4,1.0,7.0,1.0,0.1,27.0,,0.5,0.5,,0.13,1.8,,,0.7,,,,0.4,0.3,2.5,1.0,
-Chris Smalling,Manchester United,DEF,1.6,49.8,,,2.0,1.3,,,3.4,0.4,,,0.4,,,0.1,,,,,0.1,1.3,,
-Christian Eriksen,Tottenham Hotspur,ATT,2.5,41.3,1.0,1.0,2.0,0.3,18.0,,0.2,1.0,,0.34,0.7,,,0.5,,,,1.0,0.7,0.8,2.0,
-Christian Maggio,Napoli,MID,,,,,,,,,,,,,,,,,,,,,,,,2.0
-Christian Pulisic,Borussia Dortmund,ATT,,,,1.0,1.0,,10.0,,,,,,,,,,,,,,,,,
-Clément Lenglet,Sevilla,DEF,2.8,49.3,,1.0,1.0,0.8,4.0,,3.6,1.4,,0.11,1.9,,,,,,,0.2,0.2,1.8,1.0,
-Corentin Tolisso,Bayern München,ATT,5.5,72.5,2.0,4.0,,0.4,8.0,,0.7,2.0,,0.55,0.5,,,0.5,,,,0.9,0.7,1.6,3.0,2.0
+Brahim Díaz,Manchester City,RW,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Bruma,RB Leipzig,RM,,,,,1.0,,8.0,,,,,,,,,,,,,,,,,
+Bruno Costa,FC Porto,CM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Bruno César,Sporting Lisbon,LW,,,,1.0,,,4.0,,,,,,,,,,,,,,,,2.0,1.0
+Bruno Fernandes,Sporting Lisbon,CAM,1.7,36.9,1.0,2.0,1.0,0.2,10.0,,0.2,1.5,,0.17,0.7,,,0.5,,,,1.0,1.5,2.5,1.0,2.0
+Bruno Peres,Roma,RWB,2.9,43.1,,1.0,,0.4,3.0,,1.8,0.8,,,2.1,,,0.8,1.0,,,0.4,2.1,2.0,,
+Callum McGregor,Celtic,CM,,,,,,,4.0,,,,,,,,,,,,,,,,1.0,
+Caner Erkin,Beşiktaş,LWB,4.2,30.7,1.0,,,,6.0,,1.7,0.5,,,3.6,,,,,,,,1.0,1.2,,2.0
+Carlao,APOEL Nicosia,CB,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
+Casemiro,Real Madrid,CDM,5.6,48.2,,2.0,,1.0,7.0,,2.1,1.0,,0.1,2.2,,,0.3,,,,0.5,1.2,4.3,1.0,2.0
+Cengiz Ünder,Roma,RW,,,1.0,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Cenk Tosun,Beşiktaş,ST,1.0,17.4,2.0,1.0,1.0,0.2,5.0,,1.4,1.6,,0.8,0.6,,,0.2,,,,1.8,1.8,0.4,4.0,
+Cesc Fàbregas,Chelsea,CM,4.7,55.4,1.0,7.0,1.0,0.1,27.0,,0.5,0.5,,0.13,1.8,,,0.7,,,,0.4,0.3,2.5,1.0,
+Chris Smalling,Manchester United,CB,1.6,49.8,,,2.0,1.3,,,3.4,0.4,,,0.4,,,0.1,,,,,0.1,1.3,,
+Christian Eriksen,Tottenham Hotspur,CAM,2.5,41.3,1.0,1.0,2.0,0.3,18.0,,0.2,1.0,,0.34,0.7,,,0.5,,,,1.0,0.7,0.8,2.0,
+Christian Maggio,Napoli,RM,,,,,,,,,,,,,,,,,,,,,,,,2.0
+Christian Pulisic,Borussia Dortmund,CF,,,,1.0,1.0,,10.0,,,,,,,,,,,,,,,,,
+Clément Lenglet,Sevilla,CB,2.8,49.3,,1.0,1.0,0.8,4.0,,3.6,1.4,,0.11,1.9,,,,,,,0.2,0.2,1.8,1.0,
+Corentin Tolisso,Bayern München,CAM,5.5,72.5,2.0,4.0,,0.4,8.0,,0.7,2.0,,0.55,0.5,,,0.5,,,,0.9,0.7,1.6,3.0,2.0
 Craig Gordon,Celtic,GK,,22.3,,,,,,1.0,0.3,,3.0,,0.2,,,,,56.1,3.8,,,,,
-Cristian Gamboa,Celtic,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Cristiano Piccini,Sporting Lisbon,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Cristiano Ronaldo,Real Madrid,ATT,0.4,24.2,3.0,5.0,12.0,0.2,15.0,,0.8,0.5,,1.15,0.2,,,0.5,,,,2.6,1.7,0.4,15.0,2.0
-César Azpilicueta,Chelsea,DEF,2.8,55.5,,,,0.8,3.0,,1.7,0.8,,0.13,2.2,,,0.3,,,,0.1,0.1,1.7,1.0,
-Daley Blind,Manchester United,DEF,3.3,50.7,1.0,1.0,,0.2,11.0,,3.3,1.2,,0.17,2.2,,,0.3,,,,0.2,0.2,2.2,1.0,1.0
-Damjan Bohar,Maribor,ATT,0.6,22.0,,,,,7.0,,1.7,1.5,,0.19,1.1,,,,,,,0.6,1.3,1.9,1.0,2.0
-Dani Alves,Paris Saint-Germain,DEF,3.5,60.3,,1.0,,0.3,14.0,,0.9,1.3,,0.25,1.6,,,0.8,,,,0.3,1.5,3.0,2.0,
-Dani Ceballos,Real Madrid,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Daniel Carvajal,Real Madrid,DEF,2.2,52.5,3.0,2.0,1.0,0.7,11.0,,1.4,2.0,,,2.4,,,0.1,,,,0.4,1.4,3.2,,4.0
-Daniel Sturridge,Liverpool,ATT,,,2.0,2.0,3.0,,3.0,,,,,,,,,,,,,,,,1.0,
-Daniele De Rossi,Roma,MID,6.4,53.5,1.0,1.0,,0.3,7.0,,1.5,0.5,,0.12,1.6,,,0.1,,,,0.1,0.1,1.6,1.0,
-Danilo,Manchester City,DEF,2.2,84.9,,,,0.2,1.0,,3.2,1.5,,,1.7,,,1.7,,,,,1.7,2.9,,2.0
-Danilo Pereira,FC Porto,DEF,2.0,35.0,3.0,1.0,,0.7,4.0,,1.2,1.5,,0.17,1.7,,,0.5,,,,0.7,0.3,2.2,1.0,2.0
-Danny Ings,Liverpool,ATT,,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Danny Rose,Tottenham Hotspur,DEF,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
-Dare Vrsic,Maribor,Code_2,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
-Darijo Srna,Shakhtar Donetsk,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-David Alaba,Bayern München,DEF,0.4,38.2,2.0,2.0,,0.3,13.0,,1.0,1.2,,,1.0,,,0.9,,,,0.6,,1.0,,
-David Luiz,Chelsea,DEF,,,,,,,1.0,,,,,,,1.0,,,,,,,,,1.0,1.0
-David Silva,Manchester City,ATT,0.8,66.5,2.0,1.0,,,15.0,,0.4,1.5,,,1.3,,,0.4,,,,,1.7,0.6,,
+Cristian Gamboa,Celtic,RM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Cristiano Piccini,Sporting Lisbon,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Cristiano Ronaldo,Real Madrid,ST,0.4,24.2,3.0,5.0,12.0,0.2,15.0,,0.8,0.5,,1.15,0.2,,,0.5,,,,2.6,1.7,0.4,15.0,2.0
+César Azpilicueta,Chelsea,RB,2.8,55.5,,,,0.8,3.0,,1.7,0.8,,0.13,2.2,,,0.3,,,,0.1,0.1,1.7,1.0,
+Daley Blind,Manchester United,CB,3.3,50.7,1.0,1.0,,0.2,11.0,,3.3,1.2,,0.17,2.2,,,0.3,,,,0.2,0.2,2.2,1.0,1.0
+Damjan Bohar,Maribor,LW,0.6,22.0,,,,,7.0,,1.7,1.5,,0.19,1.1,,,,,,,0.6,1.3,1.9,1.0,2.0
+Dani Alves,Paris Saint-Germain,RWB,3.5,60.3,,1.0,,0.3,14.0,,0.9,1.3,,0.25,1.6,,,0.8,,,,0.3,1.5,3.0,2.0,
+Dani Ceballos,Real Madrid,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Daniel Carvajal,Real Madrid,RWB,2.2,52.5,3.0,2.0,1.0,0.7,11.0,,1.4,2.0,,,2.4,,,0.1,,,,0.4,1.4,3.2,,4.0
+Daniel Sturridge,Liverpool,CF,,,2.0,2.0,3.0,,3.0,,,,,,,,,,,,,,,,1.0,
+Daniele De Rossi,Roma,CDM,6.4,53.5,1.0,1.0,,0.3,7.0,,1.5,0.5,,0.12,1.6,,,0.1,,,,0.1,0.1,1.6,1.0,
+Danilo,Manchester City,CB,2.2,84.9,,,,0.2,1.0,,3.2,1.5,,,1.7,,,1.7,,,,,1.7,2.9,,2.0
+Danilo Pereira,FC Porto,CB,2.0,35.0,3.0,1.0,,0.7,4.0,,1.2,1.5,,0.17,1.7,,,0.5,,,,0.7,0.3,2.2,1.0,2.0
+Danny Ings,Liverpool,CF,,,1.0,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Danny Rose,Tottenham Hotspur,LWB,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
+Dare Vrsic,Maribor,CB,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,
+Darijo Srna,Shakhtar Donetsk,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+David Alaba,Bayern München,CB,0.4,38.2,2.0,2.0,,0.3,13.0,,1.0,1.2,,,1.0,,,0.9,,,,0.6,,1.0,,
+David Luiz,Chelsea,CB,,,,,,,1.0,,,,,,,1.0,,,,,,,,,1.0,1.0
+David Silva,Manchester City,RAM,0.8,66.5,2.0,1.0,,,15.0,,0.4,1.5,,,1.3,,,0.4,,,,,1.7,0.6,,
 David Soria,Sevilla,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
 David de Gea,Manchester United,GK,,16.5,,,,,,4.0,0.2,,0.5,,,,,,,89.3,4.2,,,,,
-Davide Zappacosta,Chelsea,MID,,,,1.0,,,4.0,,,,,,,,,,,,,,,,1.0,1.0
-Davinson Sánchez,Tottenham Hotspur,DEF,3.1,49.1,,,1.0,0.8,,,3.4,1.1,,,2.0,,,,,,,,0.1,0.9,,
-Davit Khocholava,Shakhtar Donetsk,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Dayot Upamecano,RB Leipzig,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Dedryck Boyata,Celtic,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Dejan Lovren,Liverpool,DEF,3.6,47.7,1.0,1.0,1.0,0.5,4.0,,5.6,0.6,,,1.5,,,0.2,,,,,0.2,1.4,,2.0
-Dele Alli,Tottenham Hotspur,ATT,,,4.0,2.0,1.0,,12.0,,,,,,,,,,,,,,,,2.0,1.0
-Denis Glushakov,Spartak Moscow,MID,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,1.0
-Denis Suárez,Barcelona,MID,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,
-Dennis Appiah,RSC Anderlecht,DEF,0.7,34.9,,,,0.2,7.0,,2.1,1.8,,,1.1,,,0.5,,,,0.2,1.2,3.2,,
-Diego Demme,RB Leipzig,MID,,,,1.0,,,8.0,,,,,,,,,,,,,,,,,1.0
-Diego Godin,Atlético de Madrid,DEF,,,,,1.0,,6.0,,,,,,,,,,,,,,,,,
-Diego Perotti,Roma,ATT,0.2,31.7,1.0,4.0,2.0,,17.0,,0.2,0.6,,0.37,1.0,,,1.2,,,,1.0,4.6,2.1,3.0,2.0
-Diego Reyes,FC Porto,DEF,4.2,46.9,,,,1.2,1.0,,4.6,0.4,,,1.5,,,,,,,,0.4,1.9,,
-Dimitri Oberlin,FC Basel,ATT,,9.2,,1.0,4.0,,4.0,,1.0,0.7,,0.68,0.7,,1.0,0.2,,,,1.4,1.5,2.0,4.0,
-Dimitrios Nikolaou,Olympiakos,DEF,,,,1.0,,,1.0,,,,,,,,,,,,,,,,1.0,2.0
-Dino Hotic,Maribor,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Dino Ndlovu,FK Qarabag,ATT,,,1.0,1.0,,,2.0,,,,,,,,,,1.0,,,,,,,
-Diogo Dalot,FC Porto,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Diogo Figueiras,Olympiakos,MID,,,2.0,1.0,,,6.0,,,,,,,,,,,,,,,,,3.0
-Diogo Gonçalves,Benfica,ATT,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
-Djibril Sidibé,Monaco,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
-Dmitri Kombarov,Spartak Moscow,DEF,,,1.0,,,,5.0,,,,,,,,,,,,,,,,,
-Domagoj Vida,Beşiktaş,DEF,,,,,,,,,,,,,,,,,1.0,,,,,,,
-Dominic Solanke,Liverpool,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Douglas,Benfica,DEF,,,,,,,7.0,,,,,,,1.0,,,,,,,,,,
-Douglas Costa,Juventus,ATT,1.1,29.6,1.0,,,,7.0,,0.1,2.1,,,1.0,,1.0,0.4,,,,0.1,5.0,0.8,,1.0
-Dries Mertens,Napoli,ATT,,16.3,3.0,4.0,2.0,,10.0,,0.4,1.3,,0.38,0.6,,1.0,1.5,,,,1.5,0.9,0.8,2.0,3.0
-Dusko Tosic,Beşiktaş,DEF,4.1,32.8,,,1.0,0.7,,,7.1,1.1,,,3.9,,,,,,,0.4,0.4,3.2,,2.0
-Dylan Vente,Feyenoord,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Eden Hazard,Chelsea,ATT,2.1,30.0,3.0,5.0,1.0,,25.0,,0.3,0.7,,0.44,0.1,,,0.6,,,,1.3,5.0,0.3,3.0,
+Davide Zappacosta,Chelsea,RM,,,,1.0,,,4.0,,,,,,,,,,,,,,,,1.0,1.0
+Davinson Sánchez,Tottenham Hotspur,CB,3.1,49.1,,,1.0,0.8,,,3.4,1.1,,,2.0,,,,,,,,0.1,0.9,,
+Davit Khocholava,Shakhtar Donetsk,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Dayot Upamecano,RB Leipzig,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Dedryck Boyata,Celtic,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Dejan Lovren,Liverpool,CB,3.6,47.7,1.0,1.0,1.0,0.5,4.0,,5.6,0.6,,,1.5,,,0.2,,,,,0.2,1.4,,2.0
+Dele Alli,Tottenham Hotspur,CAM,,,4.0,2.0,1.0,,12.0,,,,,,,,,,,,,,,,2.0,1.0
+Denis Glushakov,Spartak Moscow,CM,,,,,1.0,,1.0,,,,,,,,,,,,,,,,1.0,1.0
+Denis Suárez,Barcelona,CM,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,
+Dennis Appiah,RSC Anderlecht,RWB,0.7,34.9,,,,0.2,7.0,,2.1,1.8,,,1.1,,,0.5,,,,0.2,1.2,3.2,,
+Diego Demme,RB Leipzig,CDM,,,,1.0,,,8.0,,,,,,,,,,,,,,,,,1.0
+Diego Godin,Atlético de Madrid,CB,,,,,1.0,,6.0,,,,,,,,,,,,,,,,,
+Diego Perotti,Roma,LW,0.2,31.7,1.0,4.0,2.0,,17.0,,0.2,0.6,,0.37,1.0,,,1.2,,,,1.0,4.6,2.1,3.0,2.0
+Diego Reyes,FC Porto,CB,4.2,46.9,,,,1.2,1.0,,4.6,0.4,,,1.5,,,,,,,,0.4,1.9,,
+Dimitri Oberlin,FC Basel,CF,,9.2,,1.0,4.0,,4.0,,1.0,0.7,,0.68,0.7,,1.0,0.2,,,,1.4,1.5,2.0,4.0,
+Dimitrios Nikolaou,Olympiakos,LB,,,,1.0,,,1.0,,,,,,,,,,,,,,,,1.0,2.0
+Dino Hotic,Maribor,CAM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Dino Ndlovu,FK Qarabag,ST,,,1.0,1.0,,,2.0,,,,,,,,,,1.0,,,,,,,
+Diogo Dalot,FC Porto,RWB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Diogo Figueiras,Olympiakos,RM,,,2.0,1.0,,,6.0,,,,,,,,,,,,,,,,,3.0
+Diogo Gonçalves,Benfica,LW,,,,1.0,,,2.0,,,,,,,,,,,,,,,,,1.0
+Djibril Sidibé,Monaco,RB,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
+Dmitri Kombarov,Spartak Moscow,LWB,,,1.0,,,,5.0,,,,,,,,,,,,,,,,,
+Domagoj Vida,Beşiktaş,CB,,,,,,,,,,,,,,,,,1.0,,,,,,,
+Dominic Solanke,Liverpool,CF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Douglas,Benfica,RWB,,,,,,,7.0,,,,,,,1.0,,,,,,,,,,
+Douglas Costa,Juventus,CAM,1.1,29.6,1.0,,,,7.0,,0.1,2.1,,,1.0,,1.0,0.4,,,,0.1,5.0,0.8,,1.0
+Dries Mertens,Napoli,RW,,16.3,3.0,4.0,2.0,,10.0,,0.4,1.3,,0.38,0.6,,1.0,1.5,,,,1.5,0.9,0.8,2.0,3.0
+Dusko Tosic,Beşiktaş,CB,4.1,32.8,,,1.0,0.7,,,7.1,1.1,,,3.9,,,,,,,0.4,0.4,3.2,,2.0
+Dylan Vente,Feyenoord,ST,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Eden Hazard,Chelsea,LW,2.1,30.0,3.0,5.0,1.0,,25.0,,0.3,0.7,,0.44,0.1,,,0.6,,,,1.3,5.0,0.3,3.0,
 Ederson,Manchester City,GK,,25.3,,,,,,4.0,0.7,,1.1,,0.1,,,,,69.7,2.6,,,,,1.0
-Edin Dzeko,Roma,ATT,1.0,14.7,2.0,2.0,3.0,,18.0,,0.8,0.8,,0.67,,,1.0,0.8,,,,1.4,0.8,0.5,8.0,1.0
-Eduardo Salvio,Benfica,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
-Efstathios Aloneftis,APOEL Nicosia,ATT,0.7,10.9,,1.0,,,7.0,,1.1,0.2,,,1.8,,,0.5,,,,0.4,1.8,1.6,,
-Eliaquim Mangala,Manchester City,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Eliseu,Benfica,Code_1,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
-Elseid Hysaj,Napoli,DEF,1.4,47.6,,,,0.2,4.0,,2.3,0.9,,,2.4,,,,,,,,1.0,2.4,,
-Elvin Yunuszade,FK Qarabag,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Emil Forsberg,RB Leipzig,ATT,,,,,,,8.0,,,,,,,,,,,,,,,,2.0,
-Emmanuel Emenike,Olympiakos,Code_3,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Emre Can,Liverpool,DEF,3.9,58.9,,1.0,1.0,0.2,4.0,,0.5,2.9,,0.17,1.2,,,1.4,,,,0.3,1.4,2.2,1.0,3.0
-Eric Bailly,Manchester United,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Eric Botteghin,Feyenoord,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Eric Dier,Tottenham Hotspur,DEF,2.6,42.8,1.0,,,0.6,2.0,,3.2,0.4,,,0.7,,,0.1,,,,0.3,0.4,2.1,,1.0
-Fabian Delph,Manchester City,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Fabinho,Monaco,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
+Edin Dzeko,Roma,CF,1.0,14.7,2.0,2.0,3.0,,18.0,,0.8,0.8,,0.67,,,1.0,0.8,,,,1.4,0.8,0.5,8.0,1.0
+Eduardo Salvio,Benfica,RW,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
+Efstathios Aloneftis,APOEL Nicosia,RW,0.7,10.9,,1.0,,,7.0,,1.1,0.2,,,1.8,,,0.5,,,,0.4,1.8,1.6,,
+Eliaquim Mangala,Manchester City,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Eliseu,Benfica,GK,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
+Elseid Hysaj,Napoli,RWB,1.4,47.6,,,,0.2,4.0,,2.3,0.9,,,2.4,,,,,,,,1.0,2.4,,
+Elvin Yunuszade,FK Qarabag,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Emil Forsberg,RB Leipzig,CAM,,,,,,,8.0,,,,,,,,,,,,,,,,2.0,
+Emmanuel Emenike,Olympiakos,CM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Emre Can,Liverpool,CB,3.9,58.9,,1.0,1.0,0.2,4.0,,0.5,2.9,,0.17,1.2,,,1.4,,,,0.3,1.4,2.2,1.0,3.0
+Eric Bailly,Manchester United,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Eric Botteghin,Feyenoord,LB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Eric Dier,Tottenham Hotspur,CB,2.6,42.8,1.0,,,0.6,2.0,,3.2,0.4,,,0.7,,,0.1,,,,0.3,0.4,2.1,,1.0
+Fabian Delph,Manchester City,CM,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Fabinho,Monaco,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,2.0
 Fabri,Beşiktaş,GK,,16.7,,,,,,1.0,1.3,,1.5,,,,,,,72.7,4.0,,,,,1.0
-Fabrizio Caligara,Juventus,MID,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Facundo Ferreyra,Shakhtar Donetsk,ATT,0.1,12.9,1.0,,4.0,0.1,7.0,,0.5,2.2,,0.38,0.1,,,0.8,,,,0.9,0.3,0.8,3.0,3.0
-Faouzi Ghoulam,Napoli,DEF,,,,,,,4.0,,,,,,,1.0,1.0,,,,,,,,,
-Federico Bernardeschi,Juventus,ATT,,,,,,,1.0,,,,,,,,1.0,,,,,,,,1.0,
-Federico Fazio,Roma,DEF,3.5,48.4,1.0,1.0,,1.2,4.0,,4.4,0.8,,,2.0,,,0.2,,,,,0.8,2.0,,2.0
-Fedor Chalov,CSKA Moscow,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Felipe,FC Porto,DEF,4.8,34.3,1.0,,,1.2,1.0,,5.9,1.6,,0.16,3.4,,,,1.0,,,0.2,0.5,1.7,1.0,
-Felipe Pardo,Olympiakos,ATT,0.3,15.9,,,,,4.0,,0.9,2.4,,0.6,0.9,,,0.6,,,,0.9,0.9,0.3,2.0,1.0
-Fernandinho,Manchester City,MID,5.5,80.9,,,1.0,0.1,3.0,,2.5,2.0,,,1.8,1.0,,0.4,,,,,0.9,2.2,,2.0
-Fernando,Spartak Moscow,MID,4.0,59.5,,,1.0,,5.0,,1.3,1.7,,0.17,2.0,,,0.3,,,,0.7,0.3,1.2,1.0,2.0
-Fernando Llorente,Tottenham Hotspur,ATT,0.4,17.9,1.0,2.0,1.0,,7.0,,2.0,4.0,,0.4,,,,,,,,0.8,0.4,0.4,1.0,
-Fernando Torres,Atlético de Madrid,ATT,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
-Filipe Augusto,Benfica,MID,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Filipe Luís,Atlético de Madrid,DEF,1.7,51.8,,,1.0,0.2,12.0,,0.7,1.5,,,2.2,,,0.7,,,,0.2,1.7,3.7,,1.0
+Fabrizio Caligara,Juventus,CM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Facundo Ferreyra,Shakhtar Donetsk,ST,0.1,12.9,1.0,,4.0,0.1,7.0,,0.5,2.2,,0.38,0.1,,,0.8,,,,0.9,0.3,0.8,3.0,3.0
+Faouzi Ghoulam,Napoli,LWB,,,,,,,4.0,,,,,,,1.0,1.0,,,,,,,,,
+Federico Bernardeschi,Juventus,RW,,,,,,,1.0,,,,,,,,1.0,,,,,,,,1.0,
+Federico Fazio,Roma,CB,3.5,48.4,1.0,1.0,,1.2,4.0,,4.4,0.8,,,2.0,,,0.2,,,,,0.8,2.0,,2.0
+Fedor Chalov,CSKA Moscow,ST,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Felipe,FC Porto,CB,4.8,34.3,1.0,,,1.2,1.0,,5.9,1.6,,0.16,3.4,,,,1.0,,,0.2,0.5,1.7,1.0,
+Felipe Pardo,Olympiakos,RW,0.3,15.9,,,,,4.0,,0.9,2.4,,0.6,0.9,,,0.6,,,,0.9,0.9,0.3,2.0,1.0
+Fernandinho,Manchester City,CM,5.5,80.9,,,1.0,0.1,3.0,,2.5,2.0,,,1.8,1.0,,0.4,,,,,0.9,2.2,,2.0
+Fernando,Spartak Moscow,LM,4.0,59.5,,,1.0,,5.0,,1.3,1.7,,0.17,2.0,,,0.3,,,,0.7,0.3,1.2,1.0,2.0
+Fernando Llorente,Tottenham Hotspur,ST,0.4,17.9,1.0,2.0,1.0,,7.0,,2.0,4.0,,0.4,,,,,,,,0.8,0.4,0.4,1.0,
+Fernando Torres,Atlético de Madrid,CF,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
+Filipe Augusto,Benfica,CDM,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Filipe Luís,Atlético de Madrid,LWB,1.7,51.8,,,1.0,0.2,12.0,,0.7,1.5,,,2.2,,,0.7,,,,0.2,1.7,3.7,,1.0
 Francisco Casilla,Real Madrid,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Franck Ribéry,Bayern München,ATT,2.0,47.4,1.0,2.0,1.0,,17.0,,0.3,0.9,,,0.6,,,0.9,,,,0.6,3.3,0.6,,3.0
-Franco Cervi,Benfica,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Franco Vázquez,Sevilla,MID,0.9,39.5,1.0,2.0,,,11.0,,0.9,2.0,,,0.2,,,1.6,,,,0.4,2.6,1.8,,
+Franck Ribéry,Bayern München,CF,2.0,47.4,1.0,2.0,1.0,,17.0,,0.3,0.9,,,0.6,,,0.9,,,,0.6,3.3,0.6,,3.0
+Franco Cervi,Benfica,CM,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Franco Vázquez,Sevilla,CDM,0.9,39.5,1.0,2.0,,,11.0,,0.9,2.0,,,0.2,,,1.6,,,,0.4,2.6,1.8,,
 Frank Boeckx,RSC Anderlecht,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Fred,Shakhtar Donetsk,MID,5.4,48.8,1.0,2.0,,0.4,9.0,,0.8,1.1,,0.13,1.1,,,0.3,,,,0.6,2.9,2.9,1.0,2.0
-Fábio Coentrao,Sporting Lisbon,DEF,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,2.0
-Gabi,Atlético de Madrid,MID,,,,1.0,,,6.0,,,,,,,,,,,,,,,,,
-Gabriel Barbosa,Benfica,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Gabriel Jesus,Manchester City,ATT,0.4,19.1,,1.0,1.0,,8.0,,0.4,1.3,,0.58,1.0,,1.0,0.7,,,,1.0,0.3,1.3,4.0,2.0
-Gabriel Mercado,Sevilla,DEF,1.4,36.2,,,,,2.0,,2.6,1.2,,,1.0,,,0.5,,,,,0.3,3.3,,3.0
-Ganso,Sevilla,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Gareth Bale,Real Madrid,ATT,2.4,30.2,2.0,5.0,2.0,,11.0,,1.2,0.6,,0.92,0.3,,,0.6,,,,1.8,0.9,0.6,3.0,1.0
-Gary Cahill,Chelsea,DEF,3.8,52.2,,,,0.4,1.0,,3.0,1.0,,,1.2,,,,,,,,,1.0,,1.0
-Gary Medel,Beşiktaş,MID,4.4,44.4,,,,0.6,1.0,,4.4,1.5,,,1.3,,,0.2,,,,,,1.3,,1.0
-Gelson Martins,Sporting Lisbon,ATT,0.6,25.5,1.0,1.0,3.0,,4.0,,0.6,1.2,,0.19,0.8,,,0.4,,,,0.6,2.3,1.6,1.0,2.0
-Geoffroy Serey Die,FC Basel,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Georges-Kévin N'Koudou,Tottenham Hotspur,ATT,,,,,2.0,,,,,,,,,,,,,,,,,,1.0,
-Georgi Milanov,CSKA Moscow,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Georgi Shchennikov,CSKA Moscow,DEF,,,,,,,2.0,,,,,,,1.0,,,,,,,,,1.0,
-Georginio Wijnaldum,Liverpool,ATT,1.6,33.2,2.0,,2.0,,9.0,,1.2,1.0,,0.11,1.1,,,0.2,,,,0.4,1.5,1.5,1.0,
-Georgios Efrem,APOEL Nicosia,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Georgiy Dzhikiya,Spartak Moscow,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
-Gerard Deulofeu,Barcelona,ATT,,,,,,,4.0,,,,,,,,,,,,,,,,,
-Gerard Piqué,Barcelona,DEF,4.6,61.8,,,,0.9,1.0,,4.5,0.9,,0.12,0.7,1.0,,0.1,1.0,,,0.1,,1.5,1.0,2.0
-Ghayas Zahid,APOEL Nicosia,ATT,2.1,25.8,,1.0,,0.2,7.0,,0.8,0.4,,,0.6,,,0.4,,,,0.4,0.2,0.6,,
+Fred,Shakhtar Donetsk,CDM,5.4,48.8,1.0,2.0,,0.4,9.0,,0.8,1.1,,0.13,1.1,,,0.3,,,,0.6,2.9,2.9,1.0,2.0
+Fábio Coentrao,Sporting Lisbon,LWB,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,2.0
+Gabi,Atlético de Madrid,CDM,,,,1.0,,,6.0,,,,,,,,,,,,,,,,,
+Gabriel Barbosa,Benfica,ST,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Gabriel Jesus,Manchester City,CF,0.4,19.1,,1.0,1.0,,8.0,,0.4,1.3,,0.58,1.0,,1.0,0.7,,,,1.0,0.3,1.3,4.0,2.0
+Gabriel Mercado,Sevilla,CB,1.4,36.2,,,,,2.0,,2.6,1.2,,,1.0,,,0.5,,,,,0.3,3.3,,3.0
+Ganso,Sevilla,CAM,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Gareth Bale,Real Madrid,RW,2.4,30.2,2.0,5.0,2.0,,11.0,,1.2,0.6,,0.92,0.3,,,0.6,,,,1.8,0.9,0.6,3.0,1.0
+Gary Cahill,Chelsea,CB,3.8,52.2,,,,0.4,1.0,,3.0,1.0,,,1.2,,,,,,,,,1.0,,1.0
+Gary Medel,Beşiktaş,CDM,4.4,44.4,,,,0.6,1.0,,4.4,1.5,,,1.3,,,0.2,,,,,,1.3,,1.0
+Gelson Martins,Sporting Lisbon,RW,0.6,25.5,1.0,1.0,3.0,,4.0,,0.6,1.2,,0.19,0.8,,,0.4,,,,0.6,2.3,1.6,1.0,2.0
+Geoffroy Serey Die,FC Basel,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Georges-Kévin N'Koudou,Tottenham Hotspur,LW,,,,,2.0,,,,,,,,,,,,,,,,,,1.0,
+Georgi Milanov,CSKA Moscow,CM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Georgi Shchennikov,CSKA Moscow,LB,,,,,,,2.0,,,,,,,1.0,,,,,,,,,1.0,
+Georginio Wijnaldum,Liverpool,CF,1.6,33.2,2.0,,2.0,,9.0,,1.2,1.0,,0.11,1.1,,,0.2,,,,0.4,1.5,1.5,1.0,
+Georgios Efrem,APOEL Nicosia,RM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Georgiy Dzhikiya,Spartak Moscow,CB,,,,,,,,,,,,,,1.0,,,,,,,,,,4.0
+Gerard Deulofeu,Barcelona,CF,,,,,,,4.0,,,,,,,,,,,,,,,,,
+Gerard Piqué,Barcelona,CB,4.6,61.8,,,,0.9,1.0,,4.5,0.9,,0.12,0.7,1.0,,0.1,1.0,,,0.1,,1.5,1.0,2.0
+Ghayas Zahid,APOEL Nicosia,CAM,2.1,25.8,,1.0,,0.2,7.0,,0.8,0.4,,,0.6,,,0.4,,,,0.4,0.2,0.6,,
 Gianluigi Buffon,Juventus,GK,,16.6,,,,,,2.0,0.6,,1.3,,,,,,1.0,65.7,2.6,,,,,
-Giorgio Chiellini,Juventus,DEF,4.1,54.9,,1.0,1.0,0.4,4.0,,6.6,0.9,,,1.9,,,0.4,,,,,0.3,2.1,,2.0
-Giorgos Merkis,APOEL Nicosia,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Giovani Lo Celso,Paris Saint-Germain,ATT,7.2,75.0,1.0,,1.0,,2.0,,1.2,3.0,,,0.6,1.0,,0.6,,,,0.6,1.2,3.0,,1.0
-Gonzalo Castro,Borussia Dortmund,ATT,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
-Gonzalo Higuain,Juventus,ATT,2.0,17.8,1.0,2.0,4.0,,11.0,,0.8,0.7,,0.54,0.4,,,1.1,,,,1.4,2.0,1.1,5.0,1.0
-Gregor Bajde,Maribor,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Grégoire Defrel,Roma,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Guido Carrillo,Monaco,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Guido Pizarro,Sevilla,MID,2.3,80.2,,,,,5.0,,1.1,2.0,,0.18,0.4,,,0.2,,,,0.2,0.7,2.5,1.0,2.0
-Gérson,Roma,MID,0.4,21.2,,,,0.4,4.0,,,2.9,,,0.8,,,1.2,,,,0.8,,3.7,,
-Gökhan Gönül,Beşiktaş,DEF,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,1.0
-Haris Seferovic,Benfica,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,1.0
-Harry Kane,Tottenham Hotspur,ATT,1.4,11.6,2.0,3.0,4.0,0.3,14.0,,1.2,1.2,,1.06,0.3,,,0.8,,,,2.4,3.0,0.3,7.0,
-Harry Winks,Tottenham Hotspur,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Henrikh Mkhitaryan,Manchester United,MID,,,,1.0,4.0,,5.0,,,,,,,,1.0,,,,,,,,1.0,
-Henry Onyekuru,RSC Anderlecht,ATT,,17.1,,1.0,2.0,,5.0,,,0.4,,,0.2,,,1.6,,,,0.7,2.2,0.2,,1.0
-Heung-Min Son,Tottenham Hotspur,ATT,0.8,22.0,,1.0,2.0,,4.0,,0.4,0.6,,0.85,,,,0.6,,,,1.9,1.3,1.5,4.0,
+Giorgio Chiellini,Juventus,CB,4.1,54.9,,1.0,1.0,0.4,4.0,,6.6,0.9,,,1.9,,,0.4,,,,,0.3,2.1,,2.0
+Giorgos Merkis,APOEL Nicosia,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Giovani Lo Celso,Paris Saint-Germain,CAM,7.2,75.0,1.0,,1.0,,2.0,,1.2,3.0,,,0.6,1.0,,0.6,,,,0.6,1.2,3.0,,1.0
+Gonzalo Castro,Borussia Dortmund,CAM,,,1.0,1.0,1.0,,2.0,,,,,,,,,,,,,,,,,1.0
+Gonzalo Higuain,Juventus,ST,2.0,17.8,1.0,2.0,4.0,,11.0,,0.8,0.7,,0.54,0.4,,,1.1,,,,1.4,2.0,1.1,5.0,1.0
+Gregor Bajde,Maribor,LW,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Grégoire Defrel,Roma,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Guido Carrillo,Monaco,ST,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Guido Pizarro,Sevilla,CDM,2.3,80.2,,,,,5.0,,1.1,2.0,,0.18,0.4,,,0.2,,,,0.2,0.7,2.5,1.0,2.0
+Gérson,Roma,CDM,0.4,21.2,,,,0.4,4.0,,,2.9,,,0.8,,,1.2,,,,0.8,,3.7,,
+Gökhan Gönül,Beşiktaş,RWB,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,1.0
+Haris Seferovic,Benfica,ST,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,1.0
+Harry Kane,Tottenham Hotspur,ST,1.4,11.6,2.0,3.0,4.0,0.3,14.0,,1.2,1.2,,1.06,0.3,,,0.8,,,,2.4,3.0,0.3,7.0,
+Harry Winks,Tottenham Hotspur,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Henrikh Mkhitaryan,Manchester United,CAM,,,,1.0,4.0,,5.0,,,,,,,,1.0,,,,,,,,1.0,
+Henry Onyekuru,RSC Anderlecht,LW,,17.1,,1.0,2.0,,5.0,,,0.4,,,0.2,,,1.6,,,,0.7,2.2,0.2,,1.0
+Heung-Min Son,Tottenham Hotspur,ST,0.8,22.0,,1.0,2.0,,4.0,,0.4,0.6,,0.85,,,,0.6,,,,1.9,1.3,1.5,4.0,
 Hugo Lloris,Tottenham Hotspur,GK,,17.7,,,,,1.0,1.0,0.6,,1.1,,,,,,,75.8,3.6,,,,,
-Héctor Herrera,FC Porto,MID,2.2,44.5,1.0,1.0,1.0,0.2,9.0,,0.3,2.4,,0.17,1.4,,,0.3,,,,0.3,0.7,3.2,1.0,1.0
+Héctor Herrera,FC Porto,CM,2.2,44.5,1.0,1.0,1.0,0.2,9.0,,0.3,2.4,,0.17,1.4,,,0.3,,,,0.3,0.7,3.2,1.0,1.0
 Ibrahim Sehic,FK Qarabag,GK,,14.3,,,,,1.0,1.0,1.8,,2.3,,0.2,,,,,70.8,5.7,,,,,
 Igor Akinfeev,CSKA Moscow,GK,,10.8,,,,,,1.0,1.0,,1.7,,0.2,,,,,73.0,4.5,,,,,
-Igor de Camargo,APOEL Nicosia,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Igor de Camargo,APOEL Nicosia,ST,,,,,,,3.0,,,,,,,,,,,,,,,,,
 Iker Casillas,FC Porto,GK,,,,,,,,2.0,,,,,,,,,,,,,,,,1.0
-Ilkay Gündogan,Manchester City,MID,1.1,67.8,2.0,2.0,1.0,,7.0,,0.2,0.5,,0.36,1.4,,,1.8,,,,1.1,1.8,2.9,2.0,2.0
-Ilya Kutepov,Spartak Moscow,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Isco,Real Madrid,ATT,3.8,71.6,2.0,4.0,4.0,0.1,19.0,,0.1,0.6,,,0.2,,,0.9,,,,1.1,2.3,1.7,,1.0
-Ismaily,Shakhtar Donetsk,DEF,0.4,30.2,,,,0.3,5.0,,1.9,0.6,,0.13,1.9,,,,,,,0.1,1.9,1.8,1.0,1.0
-Ivan Obradovic,RSC Anderlecht,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Ivan Ordets,Shakhtar Donetsk,DEF,2.4,45.9,,1.0,2.0,0.5,2.0,,5.8,1.5,,,1.9,1.0,,,1.0,,,,,1.9,,1.0
-Ivan Rakitic,Barcelona,MID,4.9,80.6,,2.0,,0.1,8.0,,0.2,1.2,,0.12,1.9,,,0.7,,,,0.2,0.5,1.5,1.0,1.0
-Ivelin Popov,Spartak Moscow,ATT,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
-Iván Marcano,FC Porto,DEF,4.1,38.0,,,,0.6,1.0,,5.9,0.4,,0.14,1.3,1.0,,,,,,0.4,0.1,1.3,1.0,
-Jakub Rzezniczak,FK Qarabag,DEF,,,,,,,,,,,,,,,,,,,,,,,,3.0
-James Forrest,Celtic,ATT,0.3,39.7,1.0,2.0,,,4.0,,1.2,,,,0.6,,,,,,,0.6,3.8,1.2,,
-James Milner,Liverpool,MID,2.9,49.4,8.0,5.0,2.0,0.6,22.0,,0.9,2.0,,,1.1,1.0,,0.3,,,,0.3,0.9,2.6,,1.0
-James Rodríguez,Bayern München,ATT,4.0,62.0,2.0,5.0,2.0,,25.0,,,0.5,,0.12,1.2,,,1.6,,,,0.9,1.2,2.0,1.0,1.0
+Ilkay Gündogan,Manchester City,CDM,1.1,67.8,2.0,2.0,1.0,,7.0,,0.2,0.5,,0.36,1.4,,,1.8,,,,1.1,1.8,2.9,2.0,2.0
+Ilya Kutepov,Spartak Moscow,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Isco,Real Madrid,CAM,3.8,71.6,2.0,4.0,4.0,0.1,19.0,,0.1,0.6,,,0.2,,,0.9,,,,1.1,2.3,1.7,,1.0
+Ismaily,Shakhtar Donetsk,LWB,0.4,30.2,,,,0.3,5.0,,1.9,0.6,,0.13,1.9,,,,,,,0.1,1.9,1.8,1.0,1.0
+Ivan Obradovic,RSC Anderlecht,LWB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Ivan Ordets,Shakhtar Donetsk,CB,2.4,45.9,,1.0,2.0,0.5,2.0,,5.8,1.5,,,1.9,1.0,,,1.0,,,,,1.9,,1.0
+Ivan Rakitic,Barcelona,CDM,4.9,80.6,,2.0,,0.1,8.0,,0.2,1.2,,0.12,1.9,,,0.7,,,,0.2,0.5,1.5,1.0,1.0
+Ivelin Popov,Spartak Moscow,CAM,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
+Iván Marcano,FC Porto,LB,4.1,38.0,,,,0.6,1.0,,5.9,0.4,,0.14,1.3,1.0,,,,,,0.4,0.1,1.3,1.0,
+Jakub Rzezniczak,FK Qarabag,CB,,,,,,,,,,,,,,,,,,,,,,,,3.0
+James Forrest,Celtic,RW,0.3,39.7,1.0,2.0,,,4.0,,1.2,,,,0.6,,,,,,,0.6,3.8,1.2,,
+James Milner,Liverpool,CDM,2.9,49.4,8.0,5.0,2.0,0.6,22.0,,0.9,2.0,,,1.1,1.0,,0.3,,,,0.3,0.9,2.6,,1.0
+James Rodríguez,Bayern München,CAM,4.0,62.0,2.0,5.0,2.0,,25.0,,,0.5,,0.12,1.2,,,1.6,,,,0.9,1.2,2.0,1.0,1.0
 Jan Oblak,Atlético de Madrid,GK,,9.3,,,,,,3.0,0.2,,0.7,,,,,,,77.8,2.3,,,,,
-Jan Vertonghen,Tottenham Hotspur,DEF,4.2,41.7,1.0,,,,4.0,,3.7,1.2,,,2.3,,,,1.0,,,,0.2,2.3,,1.0
+Jan Vertonghen,Tottenham Hotspur,CB,4.2,41.7,1.0,,,,4.0,,3.7,1.2,,,2.3,,,,1.0,,,,0.2,2.3,,1.0
 Jasmin Handanovic,Maribor,GK,,17.0,,,,,,,1.2,,2.7,,,,,,,66.0,5.2,,,,,
-Jasmin Mesanovic,Maribor,ATT,,,,,,,,,,,,,,,,,,,,,,,1.0,
+Jasmin Mesanovic,Maribor,LW,,,,,,,,,,,,,,,,,,,,,,,1.0,
 Jasper Cillessen,Barcelona,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Javi Martínez,Bayern München,DEF,1.5,44.3,,,1.0,0.4,5.0,,2.3,1.8,,0.12,2.3,,,0.1,,,,0.9,0.2,2.3,1.0,
-Javier Mascherano,Barcelona,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Javier Pastore,Paris Saint-Germain,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Jean-Kévin Augustin,RB Leipzig,ATT,,,,,2.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
-Jean-Paul Boëtius,Feyenoord,MID,1.4,20.3,,,1.0,,3.0,,0.2,1.0,,,0.9,,,0.5,,,,0.3,1.4,2.3,,
-Jemerson,Monaco,DEF,3.3,40.0,,,,0.5,2.0,,5.0,0.8,,,2.2,,,0.2,,,,,0.2,1.0,,2.0
-Jens Toornstra,Feyenoord,MID,,,,,1.0,,6.0,,,,,,,,,,,,,,,,,1.0
-Jeremain Lens,Beşiktaş,ATT,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,1.0
-Jeremiah St. Juste,Feyenoord,DEF,,,,,,,,,,,,,,,,,,,,,,,1.0,2.0
-Jeremy Toljan,Borussia Dortmund,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,3.0
-Jesse Lingard,Manchester United,ATT,,44.3,,,1.0,,3.0,,,3.0,,,,,,0.4,,,,0.7,0.4,3.3,,2.0
-Jesus Rueda,APOEL Nicosia,DEF,4.3,23.3,,,,1.3,,,6.5,0.5,,,1.7,,,,,,,,0.3,2.0,,1.0
-Jesús Corona,FC Porto,ATT,0.3,28.0,,,,,5.0,,,1.4,,,2.0,,,,,,,0.3,3.1,3.4,,
-Jesús Navas,Sevilla,ATT,1.7,32.9,,1.0,1.0,,6.0,,3.0,0.8,,,1.7,,,0.6,,,,0.2,1.9,0.6,,
-Joaquín Correa,Sevilla,ATT,0.4,33.3,3.0,2.0,,,11.0,,0.1,1.2,,0.14,1.0,,,1.4,1.0,,,0.9,3.0,1.9,1.0,2.0
-Joel Matip,Liverpool,DEF,6.8,83.8,,,,0.4,,,2.1,0.8,,,1.5,,,,,,,,,0.8,,
-John Stones,Manchester City,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,3.0,
-Jonas,Benfica,ATT,3.4,37.9,,,2.0,,3.0,,0.6,0.3,,,,,,0.3,,,,0.6,0.3,0.9,,
-Jonathan Cristian Silva,Sporting Lisbon,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Jordan Henderson,Liverpool,MID,4.9,50.6,,2.0,,0.5,7.0,,0.9,1.5,,,1.7,,,0.2,,,,,0.1,2.5,,3.0
-Jordi Alba,Barcelona,DEF,2.3,63.8,,,,0.4,8.0,,1.8,0.8,,,1.4,,,0.3,,,,0.1,0.3,1.7,,
-Jorge de Oliveira,Monaco,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
-Jorginho,Napoli,MID,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,
-Joseph Gomez,Liverpool,DEF,,,,1.0,,,3.0,,,,,,,,,,1.0,,,,,,,
-Joshua Kimmich,Bayern München,MID,3.2,53.4,3.0,5.0,,0.1,27.0,,1.0,0.6,,0.4,1.1,,,0.3,,,,0.4,0.2,1.2,4.0,2.0
-José Giménez,Atlético de Madrid,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-José Maria Callejon,Napoli,ATT,0.9,25.2,1.0,,1.0,0.2,7.0,,0.7,0.4,,0.18,0.7,,,0.9,,,,0.9,,1.1,1.0,
-Jozo Simunovic,Celtic,DEF,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
-João Carvalho,Benfica,ATT,,,,,,,4.0,,,,,,,,,,,,,,,,,
-João Moutinho,Monaco,MID,3.5,44.3,1.0,,,0.6,9.0,,1.5,1.7,,,1.3,,,1.2,,,,,0.6,2.9,,1.0
-Juan Bernat,Bayern München,MID,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Juan Cuadrado,Juventus,MID,4.0,40.0,1.0,1.0,1.0,,8.0,,1.1,2.9,,0.22,1.1,,,0.2,,,,0.4,2.0,3.7,1.0,1.0
-Juan Jesus,Roma,DEF,3.5,54.0,,,,1.9,1.0,,5.0,1.0,,,0.7,,,,,,,,,2.6,,2.0
-Juan Mata,Manchester United,ATT,0.4,46.4,1.0,3.0,,,9.0,,,1.5,,,1.3,,,0.4,,,,,1.1,1.5,,
-Juanfran,Atlético de Madrid,DEF,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
-Julian Draxler,Paris Saint-Germain,ATT,2.9,59.7,1.0,,,0.3,9.0,,0.3,1.1,,,1.7,,,0.9,,,,0.9,2.0,1.7,,1.0
-Julian Weigl,Borussia Dortmund,MID,,,,,,,,,,,,,,,,,,,,,,,,2.0
-Jérome Boateng,Bayern München,DEF,4.4,50.9,1.0,1.0,,0.5,4.0,,2.9,0.8,,,1.2,,,,,,,,0.3,0.4,,2.0
-Kalidou Koulibaly,Napoli,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
-Kamil Glik,Monaco,DEF,3.3,34.3,,,,0.2,1.0,,5.2,0.7,,0.17,0.7,,,0.2,,,,0.3,0.2,1.7,1.0,
-Karim Benzema,Real Madrid,ATT,0.8,30.3,1.0,1.0,4.0,,12.0,,1.2,0.9,,0.75,0.2,,,0.3,,,,1.7,2.0,0.8,5.0,
-Karim El Ahmadi,Feyenoord,MID,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,3.0
-Keita Baldé,Monaco,ATT,,19.3,2.0,1.0,1.0,,6.0,,,1.6,,,0.3,,,0.9,,,,0.6,1.6,,,1.0
-Kevin Bua,FC Basel,MID,,,,2.0,,,2.0,,,,,,,,,,,,,,,,,
-Kevin De Bruyne,Manchester City,ATT,4.7,64.2,4.0,4.0,1.0,0.3,13.0,,0.1,1.2,,0.13,1.6,,,0.8,,,,0.7,2.3,1.8,1.0,4.0
-Kevin Kampl,RB Leipzig,MID,2.4,50.4,1.0,3.0,1.0,,9.0,,1.7,1.7,,,1.9,,,0.2,,,,0.2,1.5,1.3,,
-Kevin Strootman,Roma,MID,0.9,36.8,1.0,1.0,,0.3,16.0,,0.2,1.5,,,1.3,,,0.3,,,,0.1,0.2,2.3,,1.0
+Javi Martínez,Bayern München,CB,1.5,44.3,,,1.0,0.4,5.0,,2.3,1.8,,0.12,2.3,,,0.1,,,,0.9,0.2,2.3,1.0,
+Javier Mascherano,Barcelona,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Javier Pastore,Paris Saint-Germain,LW,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Jean-Kévin Augustin,RB Leipzig,ST,,,,,2.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
+Jean-Paul Boëtius,Feyenoord,CDM,1.4,20.3,,,1.0,,3.0,,0.2,1.0,,,0.9,,,0.5,,,,0.3,1.4,2.3,,
+Jemerson,Monaco,CB,3.3,40.0,,,,0.5,2.0,,5.0,0.8,,,2.2,,,0.2,,,,,0.2,1.0,,2.0
+Jens Toornstra,Feyenoord,CM,,,,,1.0,,6.0,,,,,,,,,,,,,,,,,1.0
+Jeremain Lens,Beşiktaş,RW,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,1.0
+Jeremiah St. Juste,Feyenoord,CB,,,,,,,,,,,,,,,,,,,,,,,1.0,2.0
+Jeremy Toljan,Borussia Dortmund,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,3.0
+Jesse Lingard,Manchester United,CF,,44.3,,,1.0,,3.0,,,3.0,,,,,,0.4,,,,0.7,0.4,3.3,,2.0
+Jesus Rueda,APOEL Nicosia,CB,4.3,23.3,,,,1.3,,,6.5,0.5,,,1.7,,,,,,,,0.3,2.0,,1.0
+Jesús Corona,FC Porto,CAM,0.3,28.0,,,,,5.0,,,1.4,,,2.0,,,,,,,0.3,3.1,3.4,,
+Jesús Navas,Sevilla,RW,1.7,32.9,,1.0,1.0,,6.0,,3.0,0.8,,,1.7,,,0.6,,,,0.2,1.9,0.6,,
+Joaquín Correa,Sevilla,CAM,0.4,33.3,3.0,2.0,,,11.0,,0.1,1.2,,0.14,1.0,,,1.4,1.0,,,0.9,3.0,1.9,1.0,2.0
+Joel Matip,Liverpool,CB,6.8,83.8,,,,0.4,,,2.1,0.8,,,1.5,,,,,,,,,0.8,,
+John Stones,Manchester City,CB,,,,,,,1.0,,,,,,,,,,,,,,,,3.0,
+Jonas,Benfica,CF,3.4,37.9,,,2.0,,3.0,,0.6,0.3,,,,,,0.3,,,,0.6,0.3,0.9,,
+Jonathan Cristian Silva,Sporting Lisbon,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Jordan Henderson,Liverpool,CDM,4.9,50.6,,2.0,,0.5,7.0,,0.9,1.5,,,1.7,,,0.2,,,,,0.1,2.5,,3.0
+Jordi Alba,Barcelona,LWB,2.3,63.8,,,,0.4,8.0,,1.8,0.8,,,1.4,,,0.3,,,,0.1,0.3,1.7,,
+Jorge de Oliveira,Monaco,LWB,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
+Jorginho,Napoli,CDM,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,
+Joseph Gomez,Liverpool,CB,,,,1.0,,,3.0,,,,,,,,,,1.0,,,,,,,
+Joshua Kimmich,Bayern München,CDM,3.2,53.4,3.0,5.0,,0.1,27.0,,1.0,0.6,,0.4,1.1,,,0.3,,,,0.4,0.2,1.2,4.0,2.0
+José Giménez,Atlético de Madrid,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+José Maria Callejon,Napoli,CF,0.9,25.2,1.0,,1.0,0.2,7.0,,0.7,0.4,,0.18,0.7,,,0.9,,,,0.9,,1.1,1.0,
+Jozo Simunovic,Celtic,CB,,,,,,,,,,,,,,1.0,,,,,,,,,,2.0
+João Carvalho,Benfica,LW,,,,,,,4.0,,,,,,,,,,,,,,,,,
+João Moutinho,Monaco,CDM,3.5,44.3,1.0,,,0.6,9.0,,1.5,1.7,,,1.3,,,1.2,,,,,0.6,2.9,,1.0
+Juan Bernat,Bayern München,LM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Juan Cuadrado,Juventus,RM,4.0,40.0,1.0,1.0,1.0,,8.0,,1.1,2.9,,0.22,1.1,,,0.2,,,,0.4,2.0,3.7,1.0,1.0
+Juan Jesus,Roma,LB,3.5,54.0,,,,1.9,1.0,,5.0,1.0,,,0.7,,,,,,,,,2.6,,2.0
+Juan Mata,Manchester United,CAM,0.4,46.4,1.0,3.0,,,9.0,,,1.5,,,1.3,,,0.4,,,,,1.1,1.5,,
+Juanfran,Atlético de Madrid,RWB,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
+Julian Draxler,Paris Saint-Germain,LW,2.9,59.7,1.0,,,0.3,9.0,,0.3,1.1,,,1.7,,,0.9,,,,0.9,2.0,1.7,,1.0
+Julian Weigl,Borussia Dortmund,CDM,,,,,,,,,,,,,,,,,,,,,,,,2.0
+Jérome Boateng,Bayern München,LB,4.4,50.9,1.0,1.0,,0.5,4.0,,2.9,0.8,,,1.2,,,,,,,,0.3,0.4,,2.0
+Kalidou Koulibaly,Napoli,CB,,,,,,,2.0,,,,,,,,,,,,,,,,,3.0
+Kamil Glik,Monaco,CB,3.3,34.3,,,,0.2,1.0,,5.2,0.7,,0.17,0.7,,,0.2,,,,0.3,0.2,1.7,1.0,
+Karim Benzema,Real Madrid,ST,0.8,30.3,1.0,1.0,4.0,,12.0,,1.2,0.9,,0.75,0.2,,,0.3,,,,1.7,2.0,0.8,5.0,
+Karim El Ahmadi,Feyenoord,CM,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,3.0
+Keita Baldé,Monaco,LAM,,19.3,2.0,1.0,1.0,,6.0,,,1.6,,,0.3,,,0.9,,,,0.6,1.6,,,1.0
+Kevin Bua,FC Basel,CAM,,,,2.0,,,2.0,,,,,,,,,,,,,,,,,
+Kevin De Bruyne,Manchester City,CAM,4.7,64.2,4.0,4.0,1.0,0.3,13.0,,0.1,1.2,,0.13,1.6,,,0.8,,,,0.7,2.3,1.8,1.0,4.0
+Kevin Kampl,RB Leipzig,RM,2.4,50.4,1.0,3.0,1.0,,9.0,,1.7,1.7,,,1.9,,,0.2,,,,0.2,1.5,1.3,,
+Kevin Strootman,Roma,CAM,0.9,36.8,1.0,1.0,,0.3,16.0,,0.2,1.5,,,1.3,,,0.3,,,,0.1,0.2,2.3,,1.0
 Keylor Navas,Real Madrid,GK,,11.7,,,,,1.0,2.0,0.7,,1.2,,0.2,,,,,71.7,3.0,,0.1,,,
-Kieran Tierney,Celtic,DEF,2.5,33.2,1.0,2.0,,0.2,7.0,,2.7,0.5,,,2.7,,,0.3,,,,0.2,1.0,1.8,,
-Kieran Trippier,Tottenham Hotspur,DEF,,,3.0,5.0,,,7.0,,,,,,,,,,,,,,,,,
-Kingsley Coman,Bayern München,MID,1.6,36.3,2.0,1.0,,,6.0,,,0.7,,0.46,0.2,,,,,,,1.6,4.2,1.4,2.0,
-Kirill Nababkin,CSKA Moscow,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Koke,Atlético de Madrid,MID,,,,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,
-Konstantin Kuchaev,CSKA Moscow,MID,1.2,28.5,,,1.0,0.8,1.0,,0.8,2.0,,0.41,1.6,,,0.8,,,,0.4,0.4,3.3,1.0,
-Konstantinos Fortounis,Olympiakos,ATT,5.1,41.3,1.0,,,,2.0,,,0.7,,,,,,0.4,,,,0.7,1.8,0.7,,
-Konstantinos Manolas,Roma,DEF,3.1,46.5,,,3.0,1.0,2.0,,4.7,0.2,,0.2,1.0,,,0.1,,,,0.5,0.1,1.4,2.0,3.0
-Kyle Walker,Manchester City,DEF,2.3,65.0,1.0,,,0.3,3.0,,2.3,0.6,,,1.6,1.0,,0.1,,,,,2.3,1.1,,1.0
-Kylian Mbappé,Paris Saint-Germain,ATT,0.7,29.1,3.0,6.0,5.0,,14.0,,0.1,0.4,,0.55,0.5,,,0.4,,,,1.8,3.7,0.3,4.0,1.0
-Kévin Gameiro,Atlético de Madrid,ATT,,,,2.0,2.0,,4.0,,,,,,,,,,,,,,,,1.0,
-Layvin Kurzawa,Paris Saint-Germain,MID,0.5,42.3,2.0,1.0,,0.2,2.0,,2.0,1.0,,0.5,0.8,,,0.8,,,,0.5,0.5,1.5,3.0,
-Leander Dendoncker,RSC Anderlecht,MID,3.3,43.0,,,,0.2,3.0,,0.7,1.0,,,2.5,,,0.5,,,,,0.7,1.5,,1.0
-Leigh Griffiths,Celtic,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,
-Leonárdo Koútris,Olympiakos,DEF,,,,,,,,,,,,,,,,,,,,,,,,2.0
-Leroy Sané,Manchester City,ATT,0.8,34.6,2.0,1.0,1.0,,12.0,,0.1,1.5,,,0.4,1.0,1.0,1.1,,,,0.4,4.1,1.0,,
-Lionel Messi,Barcelona,ATT,1.7,46.2,2.0,3.0,3.0,,17.0,,,0.3,,0.69,0.3,,,1.0,,,,2.8,4.3,1.0,6.0,2.0
-Ljubomir Fejsa,Benfica,MID,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,
-Lorenzo Ebecilio,APOEL Nicosia,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
-Lorenzo Insigne,Napoli,ATT,,,,1.0,,,2.0,,,,,,,,,,,,,,,,3.0,1.0
-Lorenzo Melgarejo,Spartak Moscow,ATT,,19.8,1.0,1.0,,0.4,3.0,,3.4,,,0.43,0.4,,,1.3,,,,0.9,0.4,1.3,1.0,
-Lorenzo Pellegrini,Roma,ATT,2.1,28.6,1.0,1.0,,0.3,6.0,,0.6,1.8,,,1.2,,,0.3,,,,0.3,0.3,1.5,,
+Kieran Tierney,Celtic,LWB,2.5,33.2,1.0,2.0,,0.2,7.0,,2.7,0.5,,,2.7,,,0.3,,,,0.2,1.0,1.8,,
+Kieran Trippier,Tottenham Hotspur,RWB,,,3.0,5.0,,,7.0,,,,,,,,,,,,,,,,,
+Kingsley Coman,Bayern München,RM,1.6,36.3,2.0,1.0,,,6.0,,,0.7,,0.46,0.2,,,,,,,1.6,4.2,1.4,2.0,
+Kirill Nababkin,CSKA Moscow,LB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Koke,Atlético de Madrid,CM,,,,1.0,1.0,,6.0,,,,,,,,,,,,,,,,,
+Konstantin Kuchaev,CSKA Moscow,CAM,1.2,28.5,,,1.0,0.8,1.0,,0.8,2.0,,0.41,1.6,,,0.8,,,,0.4,0.4,3.3,1.0,
+Konstantinos Fortounis,Olympiakos,CF,5.1,41.3,1.0,,,,2.0,,,0.7,,,,,,0.4,,,,0.7,1.8,0.7,,
+Konstantinos Manolas,Roma,CB,3.1,46.5,,,3.0,1.0,2.0,,4.7,0.2,,0.2,1.0,,,0.1,,,,0.5,0.1,1.4,2.0,3.0
+Kyle Walker,Manchester City,RWB,2.3,65.0,1.0,,,0.3,3.0,,2.3,0.6,,,1.6,1.0,,0.1,,,,,2.3,1.1,,1.0
+Kylian Mbappé,Paris Saint-Germain,ST,0.7,29.1,3.0,6.0,5.0,,14.0,,0.1,0.4,,0.55,0.5,,,0.4,,,,1.8,3.7,0.3,4.0,1.0
+Kévin Gameiro,Atlético de Madrid,CF,,,,2.0,2.0,,4.0,,,,,,,,,,,,,,,,1.0,
+Layvin Kurzawa,Paris Saint-Germain,LM,0.5,42.3,2.0,1.0,,0.2,2.0,,2.0,1.0,,0.5,0.8,,,0.8,,,,0.5,0.5,1.5,3.0,
+Leander Dendoncker,RSC Anderlecht,CDM,3.3,43.0,,,,0.2,3.0,,0.7,1.0,,,2.5,,,0.5,,,,,0.7,1.5,,1.0
+Leigh Griffiths,Celtic,CF,,,,,,,3.0,,,,,,,,,,,,,,,,1.0,
+Leonárdo Koútris,Olympiakos,LWB,,,,,,,,,,,,,,,,,,,,,,,,2.0
+Leroy Sané,Manchester City,RW,0.8,34.6,2.0,1.0,1.0,,12.0,,0.1,1.5,,,0.4,1.0,1.0,1.1,,,,0.4,4.1,1.0,,
+Lionel Messi,Barcelona,CF,1.7,46.2,2.0,3.0,3.0,,17.0,,,0.3,,0.69,0.3,,,1.0,,,,2.8,4.3,1.0,6.0,2.0
+Ljubomir Fejsa,Benfica,CDM,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,
+Lorenzo Ebecilio,APOEL Nicosia,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,2.0
+Lorenzo Insigne,Napoli,LAM,,,,1.0,,,2.0,,,,,,,,,,,,,,,,3.0,1.0
+Lorenzo Melgarejo,Spartak Moscow,ST,,19.8,1.0,1.0,,0.4,3.0,,3.4,,,0.43,0.4,,,1.3,,,,0.9,0.4,1.3,1.0,
+Lorenzo Pellegrini,Roma,LAM,2.1,28.6,1.0,1.0,,0.3,6.0,,0.6,1.8,,,1.2,,,0.3,,,,0.3,0.3,1.5,,
 Loris Karius,Liverpool,GK,,15.6,,,,,1.0,6.0,1.0,,1.2,,,,,,,62.8,2.1,,,,,
-Luca Zuffi,FC Basel,MID,2.0,31.3,,,,0.3,6.0,,0.6,0.7,,0.14,1.4,,,0.4,,,,0.3,1.1,1.3,1.0,
-Lucas Digne,Barcelona,DEF,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
-Lucas Hernández,Atlético de Madrid,DEF,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0
-Lucas Vázquez,Real Madrid,MID,1.3,43.9,2.0,4.0,2.0,,14.0,,1.7,2.1,,0.17,1.0,,1.0,0.2,,,,0.5,1.8,2.8,1.0,1.0
-Luciano Vietto,Atlético de Madrid,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Luis Muriel,Sevilla,ATT,,19.6,1.0,1.0,1.0,,3.0,,,0.7,,,0.7,,,0.4,,,,1.4,0.4,1.1,,
-Luis Suárez,Barcelona,ATT,1.1,22.7,3.0,1.0,5.0,,10.0,,0.5,1.3,,0.1,0.2,,,0.5,,,,1.3,0.9,0.4,1.0,2.0
-Luisao,Benfica,Code_1,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0
-Luiz Adriano,Spartak Moscow,ATT,0.5,17.7,,1.0,,0.2,9.0,,2.7,1.5,,0.17,0.2,,,0.3,,,,0.3,1.0,1.3,1.0,1.0
-Luka Modric,Real Madrid,MID,5.2,58.5,1.0,3.0,1.0,0.2,9.0,,0.4,1.0,,0.09,1.3,,,0.5,,,,0.2,1.5,1.4,1.0,2.0
-Lukas Klostermann,RB Leipzig,DEF,1.6,27.4,,1.0,,0.2,4.0,,2.1,0.6,,,1.4,,,,,,,,0.4,1.7,,
-Lukasz Piszczek,Borussia Dortmund,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Lukasz Teodorczyk,RSC Anderlecht,ATT,0.2,18.3,1.0,1.0,3.0,0.2,5.0,,,2.3,,,,,,0.7,,,,0.9,,0.7,,1.0
-Léo Lacroix,FC Basel,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Mahir Emreli,FK Qarabag,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Mahmoud Dahoud,Borussia Dortmund,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Maksim Medvedev,FK Qarabag,DEF,2.9,33.7,,,,0.7,1.0,,2.4,0.5,,,1.2,,,0.2,,,,,0.2,2.9,,1.0
-Manuel Akanji,FC Basel,DEF,2.7,35.0,1.0,1.0,,0.8,1.0,,5.2,1.5,,,2.2,,,0.2,,,,,0.2,1.3,,2.0
+Luca Zuffi,FC Basel,CDM,2.0,31.3,,,,0.3,6.0,,0.6,0.7,,0.14,1.4,,,0.4,,,,0.3,1.1,1.3,1.0,
+Lucas Digne,Barcelona,LWB,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
+Lucas Hernández,Atlético de Madrid,LWB,,,,,,,,,,,,,,,1.0,,,,,,,,,1.0
+Lucas Vázquez,Real Madrid,RM,1.3,43.9,2.0,4.0,2.0,,14.0,,1.7,2.1,,0.17,1.0,,1.0,0.2,,,,0.5,1.8,2.8,1.0,1.0
+Luciano Vietto,Atlético de Madrid,CAM,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Luis Muriel,Sevilla,CF,,19.6,1.0,1.0,1.0,,3.0,,,0.7,,,0.7,,,0.4,,,,1.4,0.4,1.1,,
+Luis Suárez,Barcelona,CF,1.1,22.7,3.0,1.0,5.0,,10.0,,0.5,1.3,,0.1,0.2,,,0.5,,,,1.3,0.9,0.4,1.0,2.0
+Luisao,Benfica,GK,,,,,,,,,,,,,,,,,1.0,,,,,,,1.0
+Luiz Adriano,Spartak Moscow,CF,0.5,17.7,,1.0,,0.2,9.0,,2.7,1.5,,0.17,0.2,,,0.3,,,,0.3,1.0,1.3,1.0,1.0
+Luka Modric,Real Madrid,CM,5.2,58.5,1.0,3.0,1.0,0.2,9.0,,0.4,1.0,,0.09,1.3,,,0.5,,,,0.2,1.5,1.4,1.0,2.0
+Lukas Klostermann,RB Leipzig,CB,1.6,27.4,,1.0,,0.2,4.0,,2.1,0.6,,,1.4,,,,,,,,0.4,1.7,,
+Lukasz Piszczek,Borussia Dortmund,RWB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Lukasz Teodorczyk,RSC Anderlecht,ST,0.2,18.3,1.0,1.0,3.0,0.2,5.0,,,2.3,,,,,,0.7,,,,0.9,,0.7,,1.0
+Léo Lacroix,FC Basel,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Mahir Emreli,FK Qarabag,CF,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Mahmoud Dahoud,Borussia Dortmund,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Maksim Medvedev,FK Qarabag,CB,2.9,33.7,,,,0.7,1.0,,2.4,0.5,,,1.2,,,0.2,,,,,0.2,2.9,,1.0
+Manuel Akanji,FC Basel,RB,2.7,35.0,1.0,1.0,,0.8,1.0,,5.2,1.5,,,2.2,,,0.2,,,,,0.2,1.3,,2.0
 Manuel Neuer,Bayern München,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Marc Bartra,Borussia Dortmund,DEF,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
+Marc Bartra,Borussia Dortmund,CB,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
 Marc-André ter Stegen,Barcelona,GK,,22.4,,,,,,5.0,0.3,,0.7,,,,,,,78.6,2.4,,,,,
-Marcel Halstenberg,RB Leipzig,DEF,1.0,35.9,1.0,,,0.2,3.0,,1.9,1.1,,,1.7,,,0.2,,,,,0.4,3.1,,2.0
-Marcel Sabitzer,RB Leipzig,MID,,,2.0,2.0,,,12.0,,,,,,,,,,,,,,,,,1.0
-Marcel Schmelzer,Borussia Dortmund,DEF,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
-Marcelo,Real Madrid,DEF,3.3,53.5,4.0,5.0,,0.2,20.0,,1.0,0.8,,0.28,1.4,,,0.4,,,,0.4,0.9,1.6,3.0,1.0
-Marco Asensio,Real Madrid,ATT,2.5,50.9,1.0,1.0,1.0,0.2,13.0,,0.9,0.6,,0.19,0.6,,,0.2,,,,0.8,1.7,0.8,1.0,
-Marco Verratti,Paris Saint-Germain,MID,4.5,94.1,2.0,1.0,,0.6,9.0,,0.7,1.8,,0.28,2.0,,,0.6,1.0,,,0.4,1.3,3.7,2.0,1.0
-Marcos Acuña,Sporting Lisbon,DEF,,,1.0,1.0,,,5.0,,,,,,,,,,,,,,,,,2.0
-Marcos Alonso,Chelsea,DEF,0.9,28.3,1.0,1.0,,0.2,3.0,,1.4,1.8,,,1.8,,,0.6,,,,0.6,1.1,2.0,,2.0
-Marcos Llorente,Real Madrid,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Marcos Tavares,Maribor,ATT,1.1,26.7,1.0,1.0,,,10.0,,0.6,1.5,,0.19,0.2,,,0.4,,,,0.6,0.9,0.9,1.0,
-Marcus Rashford,Manchester United,ATT,1.0,24.1,1.0,1.0,1.0,,5.0,,,1.0,,0.79,0.3,,1.0,0.5,,,,1.6,4.5,1.0,3.0,1.0
-Marek Hamsik,Napoli,MID,2.7,65.6,1.0,,1.0,,10.0,,0.8,0.6,,,1.0,,,0.2,,,,0.4,,1.5,,
-Marek Suchy,FC Basel,DEF,1.9,28.5,,,,0.5,2.0,,4.9,1.3,,,3.3,,,0.1,,,,,0.1,1.3,,
-Mario Fernandes,CSKA Moscow,DEF,0.3,30.5,1.0,,,0.2,5.0,,3.7,1.2,,,1.2,,,0.3,,,,,0.8,2.3,,1.0
-Mario Götze,Borussia Dortmund,ATT,,,1.0,2.0,,,13.0,,,,,,,,,,,,,,,,,
-Mario Mandzukic,Juventus,ATT,1.0,20.5,,,3.0,,2.0,,1.4,2.2,,0.79,0.8,,,1.0,,,,2.0,0.2,1.6,4.0,2.0
-Mario Pasalic,Spartak Moscow,MID,2.8,48.2,,,,0.3,2.0,,0.5,0.8,,,1.8,,,0.3,,,,,1.0,3.3,,
-Marko Marin,Olympiakos,ATT,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
-Marko Suler,Maribor,DEF,,,,,2.0,,,,,,,,,,,,,,,,,,,
-Marlos,Shakhtar Donetsk,ATT,2.0,31.3,2.0,3.0,,,16.0,,0.1,1.1,,0.27,0.3,,,0.4,,,,1.1,2.8,1.2,2.0,
-Marouane Fellaini,Manchester United,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Marquinhos,Paris Saint-Germain,DEF,1.8,42.3,1.0,1.0,,0.5,1.0,,5.0,0.3,,,1.3,,,,,,,,,1.1,,1.0
-Martin Kramaric,Maribor,ATT,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
-Martin Milec,Maribor,DEF,2.2,31.8,1.0,1.0,,,5.0,,3.2,1.5,,,2.2,,,0.3,,,,0.3,0.8,2.0,,2.0
-Marwan Kabha,Maribor,DEF,3.4,33.1,,,,0.5,2.0,,1.4,0.9,,,1.0,,,0.2,,,,0.2,1.9,3.4,,
-Mateo Kovacic,Real Madrid,MID,5.6,61.6,1.0,1.0,,,2.0,,0.7,2.5,,,1.8,,,0.7,,,,,2.1,2.5,,2.0
-Mats Hummels,Bayern München,DEF,3.8,57.6,,,1.0,0.3,3.0,,3.5,1.1,,0.13,1.3,,,,,,,0.5,1.1,2.4,1.0,1.0
-Matteo Darmian,Manchester United,MID,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
-Mattia De Sciglio,Juventus,DEF,3.2,45.6,,2.0,,0.5,2.0,,3.2,0.5,,,0.2,,,,,,,0.2,0.5,1.6,,
-Maxime Gonalons,Roma,MID,6.1,57.4,1.0,,,,3.0,,0.9,2.0,,,2.0,,,0.6,,,,0.3,0.9,2.6,,1.0
-Maximilian Philipp,Borussia Dortmund,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Maximiliano Pereira,FC Porto,MID,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,1.0
-Medhi Benatia,Juventus,DEF,3.7,49.2,,,1.0,,,,5.4,1.9,,,3.3,1.0,,,,,,0.2,,0.6,,4.0
-Michael Krohn-Dehli,Sevilla,MID,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
-Michael Lang,FC Basel,DEF,1.5,21.3,1.0,1.0,,0.3,4.0,,1.6,1.1,,0.38,1.8,,,,,,,0.4,0.9,1.5,3.0,1.0
-Michel,FK Qarabag,ATT,1.9,33.8,,,1.0,0.2,2.0,,1.9,1.5,,0.17,1.5,,,0.2,,,,0.3,1.5,2.2,1.0,2.0
+Marcel Halstenberg,RB Leipzig,CB,1.0,35.9,1.0,,,0.2,3.0,,1.9,1.1,,,1.7,,,0.2,,,,,0.4,3.1,,2.0
+Marcel Sabitzer,RB Leipzig,CDM,,,2.0,2.0,,,12.0,,,,,,,,,,,,,,,,,1.0
+Marcel Schmelzer,Borussia Dortmund,LWB,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,1.0
+Marcelo,Real Madrid,LWB,3.3,53.5,4.0,5.0,,0.2,20.0,,1.0,0.8,,0.28,1.4,,,0.4,,,,0.4,0.9,1.6,3.0,1.0
+Marco Asensio,Real Madrid,CAM,2.5,50.9,1.0,1.0,1.0,0.2,13.0,,0.9,0.6,,0.19,0.6,,,0.2,,,,0.8,1.7,0.8,1.0,
+Marco Verratti,Paris Saint-Germain,CDM,4.5,94.1,2.0,1.0,,0.6,9.0,,0.7,1.8,,0.28,2.0,,,0.6,1.0,,,0.4,1.3,3.7,2.0,1.0
+Marcos Acuña,Sporting Lisbon,LWB,,,1.0,1.0,,,5.0,,,,,,,,,,,,,,,,,2.0
+Marcos Alonso,Chelsea,LB,0.9,28.3,1.0,1.0,,0.2,3.0,,1.4,1.8,,,1.8,,,0.6,,,,0.6,1.1,2.0,,2.0
+Marcos Llorente,Real Madrid,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Marcos Tavares,Maribor,ST,1.1,26.7,1.0,1.0,,,10.0,,0.6,1.5,,0.19,0.2,,,0.4,,,,0.6,0.9,0.9,1.0,
+Marcus Rashford,Manchester United,LW,1.0,24.1,1.0,1.0,1.0,,5.0,,,1.0,,0.79,0.3,,1.0,0.5,,,,1.6,4.5,1.0,3.0,1.0
+Marek Hamsik,Napoli,CDM,2.7,65.6,1.0,,1.0,,10.0,,0.8,0.6,,,1.0,,,0.2,,,,0.4,,1.5,,
+Marek Suchy,FC Basel,CB,1.9,28.5,,,,0.5,2.0,,4.9,1.3,,,3.3,,,0.1,,,,,0.1,1.3,,
+Mario Fernandes,CSKA Moscow,RWB,0.3,30.5,1.0,,,0.2,5.0,,3.7,1.2,,,1.2,,,0.3,,,,,0.8,2.3,,1.0
+Mario Götze,Borussia Dortmund,CAM,,,1.0,2.0,,,13.0,,,,,,,,,,,,,,,,,
+Mario Mandzukic,Juventus,ST,1.0,20.5,,,3.0,,2.0,,1.4,2.2,,0.79,0.8,,,1.0,,,,2.0,0.2,1.6,4.0,2.0
+Mario Pasalic,Spartak Moscow,CDM,2.8,48.2,,,,0.3,2.0,,0.5,0.8,,,1.8,,,0.3,,,,,1.0,3.3,,
+Marko Marin,Olympiakos,LW,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
+Marko Suler,Maribor,CB,,,,,2.0,,,,,,,,,,,,,,,,,,,
+Marlos,Shakhtar Donetsk,RW,2.0,31.3,2.0,3.0,,,16.0,,0.1,1.1,,0.27,0.3,,,0.4,,,,1.1,2.8,1.2,2.0,
+Marouane Fellaini,Manchester United,CF,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Marquinhos,Paris Saint-Germain,CB,1.8,42.3,1.0,1.0,,0.5,1.0,,5.0,0.3,,,1.3,,,,,,,,,1.1,,1.0
+Martin Kramaric,Maribor,RW,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,
+Martin Milec,Maribor,LWB,2.2,31.8,1.0,1.0,,,5.0,,3.2,1.5,,,2.2,,,0.3,,,,0.3,0.8,2.0,,2.0
+Marwan Kabha,Maribor,LB,3.4,33.1,,,,0.5,2.0,,1.4,0.9,,,1.0,,,0.2,,,,0.2,1.9,3.4,,
+Mateo Kovacic,Real Madrid,CDM,5.6,61.6,1.0,1.0,,,2.0,,0.7,2.5,,,1.8,,,0.7,,,,,2.1,2.5,,2.0
+Mats Hummels,Bayern München,RB,3.8,57.6,,,1.0,0.3,3.0,,3.5,1.1,,0.13,1.3,,,,,,,0.5,1.1,2.4,1.0,1.0
+Matteo Darmian,Manchester United,RM,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
+Mattia De Sciglio,Juventus,RB,3.2,45.6,,2.0,,0.5,2.0,,3.2,0.5,,,0.2,,,,,,,0.2,0.5,1.6,,
+Maxime Gonalons,Roma,CDM,6.1,57.4,1.0,,,,3.0,,0.9,2.0,,,2.0,,,0.6,,,,0.3,0.9,2.6,,1.0
+Maximilian Philipp,Borussia Dortmund,RW,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Maximiliano Pereira,FC Porto,RM,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,1.0
+Medhi Benatia,Juventus,CB,3.7,49.2,,,1.0,,,,5.4,1.9,,,3.3,1.0,,,,,,0.2,,0.6,,4.0
+Michael Krohn-Dehli,Sevilla,CM,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
+Michael Lang,FC Basel,RB,1.5,21.3,1.0,1.0,,0.3,4.0,,1.6,1.1,,0.38,1.8,,,,,,,0.4,0.9,1.5,3.0,1.0
+Michel,FK Qarabag,RAM,1.9,33.8,,,1.0,0.2,2.0,,1.9,1.5,,0.17,1.5,,,0.2,,,,0.3,1.5,2.2,1.0,2.0
 Michel Vorm,Tottenham Hotspur,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Michiel Kramer,Feyenoord,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Michy Batshuayi,Chelsea,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
-Mickael Pote,APOEL Nicosia,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,1.0
-Miguel Layún,FC Porto,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Mikael Lustig,Celtic,DEF,4.1,56.4,,,,0.6,2.0,,5.4,0.6,,,2.7,,,0.6,,,,0.2,,2.7,,
-Miralem Pjanic,Juventus,ATT,3.8,50.8,1.0,2.0,,0.9,15.0,,1.1,1.6,,0.14,1.1,,,0.7,,,,0.3,1.1,1.4,1.0,4.0
-Mitja Viler,Maribor,DEF,2.0,32.7,,,,1.0,8.0,,5.2,0.5,,,0.7,,,0.3,,,,0.3,0.7,2.0,,
-Mohamed Elyounoussi,FC Basel,ATT,0.8,18.4,1.0,,2.0,0.7,3.0,,0.7,1.7,,0.28,1.0,,,0.6,,,,1.7,2.4,0.4,2.0,
-Mohamed Salah,Liverpool,ATT,0.7,21.2,4.0,8.0,3.0,,29.0,,0.3,0.6,,0.97,0.5,,1.0,1.3,,,,2.2,2.7,0.6,10.0,
-Mousa Dembélé,Tottenham Hotspur,MID,0.8,63.1,,,,0.3,3.0,,0.3,4.1,,,1.6,,,0.8,,,,,3.6,2.7,,2.0
-Moussa Dembélé,Celtic,ATT,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,
-Moussa Marega,FC Porto,ATT,0.6,10.2,2.0,2.0,1.0,,3.0,,0.6,0.8,,,1.0,,,0.4,,,,0.8,1.4,1.0,,
-Moussa Sissoko,Tottenham Hotspur,MID,0.8,40.1,1.0,1.0,,,7.0,,1.8,1.8,,,1.1,,,0.8,,,,0.5,1.3,2.4,,
-Mustafa Pektemek,Beşiktaş,ATT,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
-N'Golo Kanté,Chelsea,MID,1.8,45.7,,,,0.2,4.0,,0.5,1.3,,,2.7,,,0.4,,,,,1.6,4.0,,
-Naby Keïta,RB Leipzig,MID,,,,2.0,1.0,,8.0,,,,,,,,,,,,,,,,2.0,1.0
-Nacho,Real Madrid,DEF,2.9,49.8,,,,0.3,3.0,,2.7,2.0,,0.15,2.0,,,,,,,0.3,0.6,3.3,1.0,1.0
+Michiel Kramer,Feyenoord,CF,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Michy Batshuayi,Chelsea,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
+Mickael Pote,APOEL Nicosia,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,1.0
+Miguel Layún,FC Porto,RWB,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Mikael Lustig,Celtic,CB,4.1,56.4,,,,0.6,2.0,,5.4,0.6,,,2.7,,,0.6,,,,0.2,,2.7,,
+Miralem Pjanic,Juventus,CAM,3.8,50.8,1.0,2.0,,0.9,15.0,,1.1,1.6,,0.14,1.1,,,0.7,,,,0.3,1.1,1.4,1.0,4.0
+Mitja Viler,Maribor,LWB,2.0,32.7,,,,1.0,8.0,,5.2,0.5,,,0.7,,,0.3,,,,0.3,0.7,2.0,,
+Mohamed Elyounoussi,FC Basel,CF,0.8,18.4,1.0,,2.0,0.7,3.0,,0.7,1.7,,0.28,1.0,,,0.6,,,,1.7,2.4,0.4,2.0,
+Mohamed Salah,Liverpool,RW,0.7,21.2,4.0,8.0,3.0,,29.0,,0.3,0.6,,0.97,0.5,,1.0,1.3,,,,2.2,2.7,0.6,10.0,
+Mousa Dembélé,Tottenham Hotspur,CM,0.8,63.1,,,,0.3,3.0,,0.3,4.1,,,1.6,,,0.8,,,,,3.6,2.7,,2.0
+Moussa Dembélé,Celtic,CF,,,,1.0,1.0,,2.0,,,,,,,,,,,,,,,,1.0,
+Moussa Marega,FC Porto,CF,0.6,10.2,2.0,2.0,1.0,,3.0,,0.6,0.8,,,1.0,,,0.4,,,,0.8,1.4,1.0,,
+Moussa Sissoko,Tottenham Hotspur,CM,0.8,40.1,1.0,1.0,,,7.0,,1.8,1.8,,,1.1,,,0.8,,,,0.5,1.3,2.4,,
+Mustafa Pektemek,Beşiktaş,ST,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
+N'Golo Kanté,Chelsea,CDM,1.8,45.7,,,,0.2,4.0,,0.5,1.3,,,2.7,,,0.4,,,,,1.6,4.0,,
+Naby Keïta,RB Leipzig,CM,,,,2.0,1.0,,8.0,,,,,,,,,,,,,,,,2.0,1.0
+Nacho,Real Madrid,CB,2.9,49.8,,,,0.3,3.0,,2.7,2.0,,0.15,2.0,,,,,,,0.3,0.6,3.3,1.0,1.0
 Nauzet Pérez,APOEL Nicosia,GK,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Nemanja Matic,Manchester United,MID,6.7,70.9,,1.0,,0.2,3.0,,1.0,0.6,,,2.2,,,0.5,,,,0.2,1.3,2.7,,
-Neymar,Paris Saint-Germain,ATT,2.6,43.4,3.0,6.0,5.0,,23.0,,,1.1,,0.86,0.1,,,1.0,,,,2.0,7.3,1.6,6.0,2.0
-Nicolae Stanciu,RSC Anderlecht,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Nicolai Jørgensen,Feyenoord,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,2.0,
-Nicolas Pareja,Sevilla,DEF,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,1.0
-Nicolás Gaitán,Atlético de Madrid,ATT,,,,,,,7.0,,,,,,,,,,,,,,,,,
-Nicolás Otamendi,Manchester City,DEF,3.0,92.4,,,1.0,0.4,1.0,,4.8,0.9,,0.13,2.3,,,,,,,0.1,0.1,2.1,1.0,2.0
-Niklas Süle,Bayern München,DEF,2.9,49.1,,,,1.3,1.0,,2.0,0.7,,,1.5,,,,,,,0.1,0.1,1.0,,
-Nikola Maksimovic,Napoli,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Nir Bitton,Celtic,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Nolito,Sevilla,MID,,,,1.0,1.0,,8.0,,,,,,,,,,,,,,,,,
-Nuno Morais,APOEL Nicosia,DEF,2.8,27.0,,,,1.1,2.0,,2.3,0.4,,,0.9,,,,,,,0.2,0.2,1.9,,
-Nuri Sahin,Borussia Dortmund,MID,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Nélson Semedo,Barcelona,DEF,1.3,40.3,,,,0.1,4.0,,1.4,1.7,,,1.2,,,0.1,,,,0.1,1.6,2.2,,3.0
-Oguzhan Özyakup,Beşiktaş,MID,2.6,44.6,,1.0,,0.6,7.0,,0.8,1.0,,,1.8,,,0.8,,,,0.4,1.0,2.0,,2.0
-Oleksandr Zinchenko,Manchester City,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Olivier Giroud,Chelsea,ATT,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Olivier Ntcham,Celtic,ATT,,,2.0,1.0,,,8.0,,,,,,,,,,,,,,,,,1.0
-Omar Elabdellaoui,Olympiakos,DEF,,,,,,,,,,,,,,,,,,,,,,,,2.0
-Orkan Cinar,Beşiktaş,ATT,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,
-Ousmane Dembélé,Barcelona,ATT,,,,,,,,,,,,,,,,,,,,,,,1.0,
-Pablo Sarabia,Sevilla,ATT,1.3,34.1,2.0,1.0,2.0,0.1,16.0,,0.6,0.7,,0.12,1.1,,,0.7,,,,0.5,1.6,1.3,1.0,1.0
-Paco Alcácer,Barcelona,ATT,,,,,,,,,,,,,,,,,,,,,,,1.0,
-Panagiotis Tachtsidis,Olympiakos,ATT,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
-Patrick Roberts,Celtic,ATT,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
-Patrik Schick,Roma,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
-Paul Pogba,Manchester United,ATT,,,1.0,2.0,,,3.0,,,,,,,,,,,,,,,,,
-Paulinho,Barcelona,MID,2.7,77.0,,,5.0,0.2,4.0,,1.1,1.1,,,1.1,,,1.1,,,,0.9,0.9,2.5,,1.0
-Paulo Dybala,Juventus,ATT,3.1,36.8,,4.0,2.0,,21.0,,0.1,0.8,,0.14,,,,0.5,1.0,,,1.5,1.4,0.5,1.0,
-Pedro,Chelsea,ATT,0.9,32.5,2.0,2.0,1.0,,11.0,,0.2,0.5,,0.23,2.1,,,1.9,,,,0.7,1.6,1.6,1.0,
-Pedro Henrique,FK Qarabag,ATT,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,1.0
-Pepe,Beşiktaş,DEF,4.8,27.3,,,,2.0,,,6.7,1.0,,,2.2,,,,,,,0.2,0.7,2.7,,2.0
+Nemanja Matic,Manchester United,CM,6.7,70.9,,1.0,,0.2,3.0,,1.0,0.6,,,2.2,,,0.5,,,,0.2,1.3,2.7,,
+Neymar,Paris Saint-Germain,CF,2.6,43.4,3.0,6.0,5.0,,23.0,,,1.1,,0.86,0.1,,,1.0,,,,2.0,7.3,1.6,6.0,2.0
+Nicolae Stanciu,RSC Anderlecht,CAM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Nicolai Jørgensen,Feyenoord,ST,,,,,,,1.0,,,,,,,,,,,,,,,,2.0,
+Nicolas Pareja,Sevilla,CB,,,,,,,1.0,,,,,,,1.0,,,,,,,,,,1.0
+Nicolás Gaitán,Atlético de Madrid,CAM,,,,,,,7.0,,,,,,,,,,,,,,,,,
+Nicolás Otamendi,Manchester City,CB,3.0,92.4,,,1.0,0.4,1.0,,4.8,0.9,,0.13,2.3,,,,,,,0.1,0.1,2.1,1.0,2.0
+Niklas Süle,Bayern München,RB,2.9,49.1,,,,1.3,1.0,,2.0,0.7,,,1.5,,,,,,,0.1,0.1,1.0,,
+Nikola Maksimovic,Napoli,RB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Nir Bitton,Celtic,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Nolito,Sevilla,LM,,,,1.0,1.0,,8.0,,,,,,,,,,,,,,,,,
+Nuno Morais,APOEL Nicosia,CB,2.8,27.0,,,,1.1,2.0,,2.3,0.4,,,0.9,,,,,,,0.2,0.2,1.9,,
+Nuri Sahin,Borussia Dortmund,CDM,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Nélson Semedo,Barcelona,RWB,1.3,40.3,,,,0.1,4.0,,1.4,1.7,,,1.2,,,0.1,,,,0.1,1.6,2.2,,3.0
+Oguzhan Özyakup,Beşiktaş,CM,2.6,44.6,,1.0,,0.6,7.0,,0.8,1.0,,,1.8,,,0.8,,,,0.4,1.0,2.0,,2.0
+Oleksandr Zinchenko,Manchester City,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Olivier Giroud,Chelsea,ST,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Olivier Ntcham,Celtic,LAM,,,2.0,1.0,,,8.0,,,,,,,,,,,,,,,,,1.0
+Omar Elabdellaoui,Olympiakos,RWB,,,,,,,,,,,,,,,,,,,,,,,,2.0
+Orkan Cinar,Beşiktaş,RW,,,1.0,,,,4.0,,,,,,,,,,,,,,,,,
+Ousmane Dembélé,Barcelona,CF,,,,,,,,,,,,,,,,,,,,,,,1.0,
+Pablo Sarabia,Sevilla,CAM,1.3,34.1,2.0,1.0,2.0,0.1,16.0,,0.6,0.7,,0.12,1.1,,,0.7,,,,0.5,1.6,1.3,1.0,1.0
+Paco Alcácer,Barcelona,ST,,,,,,,,,,,,,,,,,,,,,,,1.0,
+Panagiotis Tachtsidis,Olympiakos,LW,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,1.0
+Patrick Roberts,Celtic,RW,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
+Patrik Schick,Roma,CF,,,,,1.0,,1.0,,,,,,,,,,,,,,,,,
+Paul Pogba,Manchester United,LAM,,,1.0,2.0,,,3.0,,,,,,,,,,,,,,,,,
+Paulinho,Barcelona,CM,2.7,77.0,,,5.0,0.2,4.0,,1.1,1.1,,,1.1,,,1.1,,,,0.9,0.9,2.5,,1.0
+Paulo Dybala,Juventus,CF,3.1,36.8,,4.0,2.0,,21.0,,0.1,0.8,,0.14,,,,0.5,1.0,,,1.5,1.4,0.5,1.0,
+Pedro,Chelsea,LW,0.9,32.5,2.0,2.0,1.0,,11.0,,0.2,0.5,,0.23,2.1,,,1.9,,,,0.7,1.6,1.6,1.0,
+Pedro Henrique,FK Qarabag,LW,,,,,,,,,,,,,,,,,1.0,,,,,,1.0,1.0
+Pepe,Beşiktaş,CB,4.8,27.3,,,,2.0,,,6.7,1.0,,,2.2,,,,,,,0.2,0.7,2.7,,2.0
 Pepe Reina,Napoli,GK,,20.8,,,,,,1.0,0.8,,1.8,,,,,,,62.1,3.0,,0.2,,,1.0
-Philippe Coutinho,Liverpool,ATT,,,2.0,1.0,,,13.0,,,,,,,,,,,,,,,,5.0,
-Pierre-Emerick Aubameyang,Borussia Dortmund,ATT,0.3,12.3,,,6.0,,5.0,,,0.7,,0.67,,,,0.3,,,,1.7,0.5,0.2,4.0,
-Pieter Gerkens,RSC Anderlecht,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Piotr Zielinski,Napoli,MID,,,,,,,1.0,,,,,,,,,,,,,,,,2.0,
-Pizzi,Benfica,MID,7.5,67.9,,,,0.4,14.0,,0.4,0.4,,,0.4,,,,,,,,0.9,1.7,,
-Pontus Wernbloom,CSKA Moscow,MID,,,,,,,5.0,,,,,,,,,,,,,,,,1.0,3.0
-Praxitelis Vouros,APOEL Nicosia,DEF,1.7,18.8,,,,0.2,2.0,,3.2,0.7,,,4.0,,,,,,,0.2,0.2,1.3,,1.0
-Presnel Kimpembe,Paris Saint-Germain,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Philippe Coutinho,Liverpool,CAM,,,2.0,1.0,,,13.0,,,,,,,,,,,,,,,,5.0,
+Pierre-Emerick Aubameyang,Borussia Dortmund,ST,0.3,12.3,,,6.0,,5.0,,,0.7,,0.67,,,,0.3,,,,1.7,0.5,0.2,4.0,
+Pieter Gerkens,RSC Anderlecht,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Piotr Zielinski,Napoli,CM,,,,,,,1.0,,,,,,,,,,,,,,,,2.0,
+Pizzi,Benfica,CM,7.5,67.9,,,,0.4,14.0,,0.4,0.4,,,0.4,,,,,,,,0.9,1.7,,
+Pontus Wernbloom,CSKA Moscow,CM,,,,,,,5.0,,,,,,,,,,,,,,,,1.0,3.0
+Praxitelis Vouros,APOEL Nicosia,CB,1.7,18.8,,,,0.2,2.0,,3.2,0.7,,,4.0,,,,,,,0.2,0.2,1.3,,1.0
+Presnel Kimpembe,Paris Saint-Germain,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
 Péter Gulácsi,RB Leipzig,GK,,20.7,,,,,,,0.8,,1.8,,,,,,,59.3,2.7,,,,,
-Qara Garayev,FK Qarabag,MID,2.9,51.2,,,,0.3,2.0,,1.6,0.9,,,1.4,1.0,,,,,,,0.7,1.7,,1.0
-Quincy Promes,Spartak Moscow,ATT,,,2.0,1.0,,,14.0,,,,,,,,,,,,,,,,2.0,
-Rachid Ghezzal,Monaco,ATT,,,,,,,4.0,,,,,,,,,,1.0,,,,,,,
-Radamel Falcao,Monaco,ATT,,,,,1.0,,4.0,,,,,,,1.0,,,,,,,,,3.0,
-Radja Nainggolan,Roma,ATT,2.5,33.4,2.0,3.0,1.0,,20.0,,0.3,1.1,,0.19,0.4,,,0.7,,,,1.0,1.2,1.7,2.0,
-Rafinha,Bayern München,DEF,2.5,61.2,,2.0,,,7.0,,2.0,0.7,,,2.3,,,0.7,,,,0.2,0.2,3.0,,1.0
-Ragnar Klavan,Liverpool,DEF,3.9,59.4,,,,1.8,,,5.5,0.9,,,1.2,1.0,,,,,,0.3,0.3,0.3,,
-Raheem Sterling,Manchester City,ATT,0.2,30.2,1.0,2.0,1.0,,9.0,,,1.5,,0.73,0.9,,,0.4,,,,1.1,4.4,0.7,4.0,1.0
-Ramil Sheydayev,FK Qarabag,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Raoul Petretta,FC Basel,DEF,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
-Raphaël Guerreiro,Borussia Dortmund,DEF,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,
-Raphaël Varane,Real Madrid,DEF,3.3,46.7,,,1.0,1.2,2.0,,6.3,0.3,,,1.3,,,0.2,,,,,0.4,1.2,,1.0
-Rashad Sadiqov,FK Qarabag,DEF,,,,,,,1.0,,,,,,,1.0,,,1.0,,,,,,,1.0
-Raul Jiménez,Benfica,ATT,,,,,2.0,,2.0,,,,,,,,,,,,,,,,,
-Raúl Albiol,Napoli,DEF,,,,,,,,,,,,,,,2.0,,,,,,,,,1.0
-Renato Steffen,FC Basel,ATT,0.5,19.8,1.0,1.0,2.0,,6.0,,0.5,1.3,,,1.0,,,0.5,,,,0.5,1.0,1.2,,
-Renato Tapia,Feyenoord,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Ricardo Pereira,FC Porto,DEF,1.3,29.3,2.0,1.0,1.0,0.3,12.0,,1.3,1.3,,,2.0,,,0.7,,,,,1.0,2.9,,1.0
-Ricardo Quaresma,Beşiktaş,ATT,0.7,15.6,3.0,3.0,,,11.0,,0.1,0.7,,,0.4,,1.0,0.4,,,,0.9,1.5,1.2,,2.0
-Richard Almeida,FK Qarabag,MID,4.2,59.8,,,,0.2,1.0,,0.7,0.7,,,0.7,,,,,,,0.2,1.0,2.0,,
-Ricky van Wolfswinkel,FC Basel,ATT,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
-Robert Lewandowski,Bayern München,ATT,0.3,15.3,1.0,1.0,8.0,0.1,13.0,,0.2,0.9,,0.47,0.2,,1.0,1.1,,,,1.8,0.8,0.7,5.0,2.0
-Roberto Firmino,Liverpool,ATT,0.9,26.0,7.0,9.0,5.0,0.1,23.0,,0.3,1.4,,0.85,0.3,,1.0,1.2,,,,1.5,2.0,2.0,10.0,2.0
-Roberto Lago,APOEL Nicosia,Code_1,,,,,,,5.0,,,,,,,1.0,,,,,,,,,,
-Rodrigo Andrés Battaglia,Sporting Lisbon,DEF,1.5,33.5,,,,0.3,1.0,,1.5,2.2,,,1.5,,,,,,,,0.7,2.8,,1.0
-Rodrigo Bentancur,Juventus,MID,,,,,,,,,,,,,,,,,,,,,,,,3.0
-Roland Sallai,APOEL Nicosia,DEF,1.2,16.7,,,,0.3,1.0,,1.2,2.5,,,0.6,,,0.3,,,,0.3,0.9,0.3,,3.0
+Qara Garayev,FK Qarabag,CDM,2.9,51.2,,,,0.3,2.0,,1.6,0.9,,,1.4,1.0,,,,,,,0.7,1.7,,1.0
+Quincy Promes,Spartak Moscow,RW,,,2.0,1.0,,,14.0,,,,,,,,,,,,,,,,2.0,
+Rachid Ghezzal,Monaco,RW,,,,,,,4.0,,,,,,,,,,1.0,,,,,,,
+Radamel Falcao,Monaco,ST,,,,,1.0,,4.0,,,,,,,1.0,,,,,,,,,3.0,
+Radja Nainggolan,Roma,ST,2.5,33.4,2.0,3.0,1.0,,20.0,,0.3,1.1,,0.19,0.4,,,0.7,,,,1.0,1.2,1.7,2.0,
+Rafinha,Bayern München,LWB,2.5,61.2,,2.0,,,7.0,,2.0,0.7,,,2.3,,,0.7,,,,0.2,0.2,3.0,,1.0
+Ragnar Klavan,Liverpool,CB,3.9,59.4,,,,1.8,,,5.5,0.9,,,1.2,1.0,,,,,,0.3,0.3,0.3,,
+Raheem Sterling,Manchester City,LW,0.2,30.2,1.0,2.0,1.0,,9.0,,,1.5,,0.73,0.9,,,0.4,,,,1.1,4.4,0.7,4.0,1.0
+Ramil Sheydayev,FK Qarabag,LW,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Raoul Petretta,FC Basel,LWB,,,1.0,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
+Raphaël Guerreiro,Borussia Dortmund,LWB,,,,,,,6.0,,,,,,,,,,,,,,,,1.0,
+Raphaël Varane,Real Madrid,CB,3.3,46.7,,,1.0,1.2,2.0,,6.3,0.3,,,1.3,,,0.2,,,,,0.4,1.2,,1.0
+Rashad Sadiqov,FK Qarabag,CB,,,,,,,1.0,,,,,,,1.0,,,1.0,,,,,,,1.0
+Raul Jiménez,Benfica,ST,,,,,2.0,,2.0,,,,,,,,,,,,,,,,,
+Raúl Albiol,Napoli,CB,,,,,,,,,,,,,,,2.0,,,,,,,,,1.0
+Renato Steffen,FC Basel,RAM,0.5,19.8,1.0,1.0,2.0,,6.0,,0.5,1.3,,,1.0,,,0.5,,,,0.5,1.0,1.2,,
+Renato Tapia,Feyenoord,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Ricardo Pereira,FC Porto,RWB,1.3,29.3,2.0,1.0,1.0,0.3,12.0,,1.3,1.3,,,2.0,,,0.7,,,,,1.0,2.9,,1.0
+Ricardo Quaresma,Beşiktaş,RW,0.7,15.6,3.0,3.0,,,11.0,,0.1,0.7,,,0.4,,1.0,0.4,,,,0.9,1.5,1.2,,2.0
+Richard Almeida,FK Qarabag,CDM,4.2,59.8,,,,0.2,1.0,,0.7,0.7,,,0.7,,,,,,,0.2,1.0,2.0,,
+Ricky van Wolfswinkel,FC Basel,ST,,,,,,,2.0,,,,,,,,,,,,,,,,1.0,
+Robert Lewandowski,Bayern München,ST,0.3,15.3,1.0,1.0,8.0,0.1,13.0,,0.2,0.9,,0.47,0.2,,1.0,1.1,,,,1.8,0.8,0.7,5.0,2.0
+Roberto Firmino,Liverpool,CAM,0.9,26.0,7.0,9.0,5.0,0.1,23.0,,0.3,1.4,,0.85,0.3,,1.0,1.2,,,,1.5,2.0,2.0,10.0,2.0
+Roberto Lago,APOEL Nicosia,GK,,,,,,,5.0,,,,,,,1.0,,,,,,,,,,
+Rodrigo Andrés Battaglia,Sporting Lisbon,CB,1.5,33.5,,,,0.3,1.0,,1.5,2.2,,,1.5,,,,,,,,0.7,2.8,,1.0
+Rodrigo Bentancur,Juventus,CDM,,,,,,,,,,,,,,,,,,,,,,,,3.0
+Roland Sallai,APOEL Nicosia,RWB,1.2,16.7,,,,0.3,1.0,,1.2,2.5,,,0.6,,,0.3,,,,0.3,0.9,0.3,,3.0
 Roman Bürki,Borussia Dortmund,GK,,25.9,,,,,1.0,,0.8,,2.2,,,,,,,63.9,3.8,,,,,
-Roman Zobnin,Spartak Moscow,DEF,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
-Romelu Lukaku,Manchester United,ATT,1.2,16.4,,2.0,6.0,,13.0,,0.5,0.9,,0.64,,,,0.6,,,,1.7,1.9,0.8,5.0,
-Rony Lopes,Monaco,ATT,,,1.0,1.0,,,7.0,,,,,,,,,,,,,,,,1.0,1.0
+Roman Zobnin,Spartak Moscow,LWB,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
+Romelu Lukaku,Manchester United,CF,1.2,16.4,,2.0,6.0,,13.0,,0.5,0.9,,0.64,,,,0.6,,,,1.7,1.9,0.8,5.0,
+Rony Lopes,Monaco,CAM,,,1.0,1.0,,,7.0,,,,,,,,,,,,,,,,1.0,1.0
 Rui Patrício,Sporting Lisbon,GK,,17.5,,,,,,,1.0,,1.5,,0.3,,,,,70.0,3.5,,,,,
-Ryan Babel,Beşiktaş,ATT,1.1,26.4,1.0,1.0,,,12.0,,0.3,1.1,,0.32,1.1,,,0.3,,,,0.5,1.5,0.6,2.0,
-Rúben Dias,Benfica,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Sadio Mané,Liverpool,MID,0.6,24.9,1.0,2.0,4.0,,8.0,,0.4,1.5,,0.96,0.7,,1.0,0.7,,,,1.5,3.6,2.1,10.0,2.0
-Salvatore Bocchetti,Spartak Moscow,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Sam Larsson,Feyenoord,ATT,0.6,22.4,,,,,3.0,,,0.6,,,2.9,,,1.7,,,,,1.1,2.3,,
-Sami Khedira,Juventus,MID,1.1,37.1,3.0,2.0,1.0,0.3,8.0,,1.4,0.7,,,0.6,,,0.1,,,,0.1,0.6,1.6,,
-Samuel Umtiti,Barcelona,DEF,3.2,70.6,,1.0,,0.8,2.0,,2.2,1.2,,,2.2,,,0.1,,,,,0.1,1.3,,
-Sandro Wagner,Bayern München,ATT,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
-Saúl,Atlético de Madrid,MID,2.2,42.7,,2.0,3.0,0.5,8.0,,3.0,1.7,,0.17,2.3,,,0.8,,,,1.0,1.3,3.3,1.0,
-Scott Brown,Celtic,MID,1.7,57.5,,,,0.3,2.0,,1.6,1.2,,,2.1,,,,,,,,0.5,2.3,,
-Scott McTominay,Manchester United,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Scott Sinclair,Celtic,ATT,,,,,1.0,,5.0,,,,,,,,,,,,,,,,1.0,
-Sebastian Rudy,Bayern München,MID,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
-Sebastián Coates,Sporting Lisbon,DEF,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,3.0
-Sebá,Olympiakos,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Serdar Tasci,Spartak Moscow,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Sergei Ignashevich,CSKA Moscow,Code_1,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Sergi Roberto,Barcelona,MID,1.5,56.2,,,1.0,0.2,4.0,,0.5,1.1,,,0.6,,,0.5,,,,0.2,0.9,2.3,,2.0
-Sergio Agüero,Manchester City,ATT,0.4,19.4,1.0,,3.0,,6.0,,,0.2,,0.82,0.6,,,0.6,,,,1.8,1.4,0.6,4.0,
-Sergio Busquets,Barcelona,MID,6.6,88.1,,,,0.5,7.0,,0.7,1.1,,,0.6,,,0.7,,,,,0.6,2.7,,1.0
-Sergio Escudero,Sevilla,DEF,2.5,46.0,2.0,2.0,,0.2,9.0,,3.4,0.9,,,1.9,,,0.5,,,,0.3,0.6,2.1,,2.0
-Sergio Ramos,Real Madrid,DEF,6.1,60.3,,1.0,2.0,1.2,1.0,,4.1,1.2,,0.09,1.6,,,0.1,,,,0.4,0.4,1.7,1.0,3.0
+Ryan Babel,Beşiktaş,CF,1.1,26.4,1.0,1.0,,,12.0,,0.3,1.1,,0.32,1.1,,,0.3,,,,0.5,1.5,0.6,2.0,
+Rúben Dias,Benfica,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Sadio Mané,Liverpool,LM,0.6,24.9,1.0,2.0,4.0,,8.0,,0.4,1.5,,0.96,0.7,,1.0,0.7,,,,1.5,3.6,2.1,10.0,2.0
+Salvatore Bocchetti,Spartak Moscow,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Sam Larsson,Feyenoord,CF,0.6,22.4,,,,,3.0,,,0.6,,,2.9,,,1.7,,,,,1.1,2.3,,
+Sami Khedira,Juventus,CDM,1.1,37.1,3.0,2.0,1.0,0.3,8.0,,1.4,0.7,,,0.6,,,0.1,,,,0.1,0.6,1.6,,
+Samuel Umtiti,Barcelona,CB,3.2,70.6,,1.0,,0.8,2.0,,2.2,1.2,,,2.2,,,0.1,,,,,0.1,1.3,,
+Sandro Wagner,Bayern München,CF,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
+Saúl,Atlético de Madrid,CDM,2.2,42.7,,2.0,3.0,0.5,8.0,,3.0,1.7,,0.17,2.3,,,0.8,,,,1.0,1.3,3.3,1.0,
+Scott Brown,Celtic,CM,1.7,57.5,,,,0.3,2.0,,1.6,1.2,,,2.1,,,,,,,,0.5,2.3,,
+Scott McTominay,Manchester United,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Scott Sinclair,Celtic,LW,,,,,1.0,,5.0,,,,,,,,,,,,,,,,1.0,
+Sebastian Rudy,Bayern München,CDM,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,2.0
+Sebastián Coates,Sporting Lisbon,CB,,,1.0,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,3.0
+Sebá,Olympiakos,RW,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Serdar Tasci,Spartak Moscow,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Sergei Ignashevich,CSKA Moscow,GK,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Sergi Roberto,Barcelona,CDM,1.5,56.2,,,1.0,0.2,4.0,,0.5,1.1,,,0.6,,,0.5,,,,0.2,0.9,2.3,,2.0
+Sergio Agüero,Manchester City,CF,0.4,19.4,1.0,,3.0,,6.0,,,0.2,,0.82,0.6,,,0.6,,,,1.8,1.4,0.6,4.0,
+Sergio Busquets,Barcelona,CM,6.6,88.1,,,,0.5,7.0,,0.7,1.1,,,0.6,,,0.7,,,,,0.6,2.7,,1.0
+Sergio Escudero,Sevilla,LWB,2.5,46.0,2.0,2.0,,0.2,9.0,,3.4,0.9,,,1.9,,,0.5,,,,0.3,0.6,2.1,,2.0
+Sergio Ramos,Real Madrid,CB,6.1,60.3,,1.0,2.0,1.2,1.0,,4.1,1.2,,0.09,1.6,,,0.1,,,,0.4,0.4,1.7,1.0,3.0
 Sergio Rico,Sevilla,GK,,11.3,,,,,,2.0,0.4,,1.6,,,,,,,58.1,2.3,,,,,
-Seydou Doumbia,Sporting Lisbon,ATT,,,1.0,2.0,2.0,,3.0,,,,,,,,,,,,,,,,1.0,1.0
-Shinji Kagawa,Borussia Dortmund,MID,,,2.0,3.0,,,10.0,,,,,,,,,,,,,,,,,
+Seydou Doumbia,Sporting Lisbon,CF,,,1.0,2.0,2.0,,3.0,,,,,,,,,,,,,,,,1.0,1.0
+Shinji Kagawa,Borussia Dortmund,CDM,,,2.0,3.0,,,10.0,,,,,,,,,,,,,,,,,
 Silvio Proto,Olympiakos,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Simon Kjær,Sevilla,DEF,1.8,36.2,,,,1.3,,,5.3,0.5,,0.17,2.0,,,,,,,0.2,0.2,2.0,1.0,
-Sofiane Hanni,RSC Anderlecht,ATT,1.1,25.8,,4.0,,,10.0,,0.6,0.8,,0.19,1.9,,,0.6,,,,1.3,1.1,0.6,1.0,
-Sofyan Amrabat,Feyenoord,MID,2.4,35.1,,,,,1.0,,0.5,2.7,,0.17,1.5,,,0.5,,,,0.3,1.9,2.0,1.0,1.0
-Sokratis Papastathopoulos,Borussia Dortmund,DEF,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
-Soualiho Meité,Monaco,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Stefan Ilsanker,RB Leipzig,DEF,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,
-Stefan Ristovski,Sporting Lisbon,DEF,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Stefan Savic,Atlético de Madrid,DEF,,,,,,,,,,,,,,,,,1.0,,,,,,,
-Stefano Sturaro,Juventus,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
-Stephan El Shaarawy,Roma,ATT,0.5,34.6,1.0,2.0,1.0,,9.0,,,1.0,,0.5,1.0,,,0.5,,,,1.5,1.3,0.5,2.0,
-Stephan Lichtsteiner,Juventus,DEF,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Stevan Jovetic,Monaco,ATT,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,
-Steven Berghuis,Feyenoord,ATT,3.3,24.4,2.0,3.0,1.0,,10.0,,0.2,1.2,,0.19,0.8,,1.0,0.2,,,,1.5,1.4,1.9,1.0,2.0
-Steven Nzonzi,Sevilla,MID,2.3,77.7,,,,0.5,4.0,,2.0,0.5,,,1.6,,,0.4,,,,0.1,0.7,1.5,,2.0
-Stuart Armstrong,Celtic,MID,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
-Sven Kums,RSC Anderlecht,DEF,,,,,1.0,,1.0,,,,,,,1.0,,,1.0,,,,,,,
+Simon Kjær,Sevilla,CB,1.8,36.2,,,,1.3,,,5.3,0.5,,0.17,2.0,,,,,,,0.2,0.2,2.0,1.0,
+Sofiane Hanni,RSC Anderlecht,CAM,1.1,25.8,,4.0,,,10.0,,0.6,0.8,,0.19,1.9,,,0.6,,,,1.3,1.1,0.6,1.0,
+Sofyan Amrabat,Feyenoord,CDM,2.4,35.1,,,,,1.0,,0.5,2.7,,0.17,1.5,,,0.5,,,,0.3,1.9,2.0,1.0,1.0
+Sokratis Papastathopoulos,Borussia Dortmund,CB,,,,,,,,,,,,,,,,,,,,,,,1.0,1.0
+Soualiho Meité,Monaco,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Stefan Ilsanker,RB Leipzig,RB,,,,,,,1.0,,,,,,,,,,1.0,,,,,,,
+Stefan Ristovski,Sporting Lisbon,RB,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Stefan Savic,Atlético de Madrid,CB,,,,,,,,,,,,,,,,,1.0,,,,,,,
+Stefano Sturaro,Juventus,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,1.0
+Stephan El Shaarawy,Roma,LAM,0.5,34.6,1.0,2.0,1.0,,9.0,,,1.0,,0.5,1.0,,,0.5,,,,1.5,1.3,0.5,2.0,
+Stephan Lichtsteiner,Juventus,RWB,,,1.0,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Stevan Jovetic,Monaco,ST,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,
+Steven Berghuis,Feyenoord,RW,3.3,24.4,2.0,3.0,1.0,,10.0,,0.2,1.2,,0.19,0.8,,1.0,0.2,,,,1.5,1.4,1.9,1.0,2.0
+Steven Nzonzi,Sevilla,CDM,2.3,77.7,,,,0.5,4.0,,2.0,0.5,,,1.6,,,0.4,,,,0.1,0.7,1.5,,2.0
+Stuart Armstrong,Celtic,CDM,,,,,1.0,,2.0,,,,,,,,,,,,,,,,,
+Sven Kums,RSC Anderlecht,CB,,,,,1.0,,1.0,,,,,,,1.0,,,1.0,,,,,,,
 Sven Ulreich,Bayern München,GK,,18.8,1.0,,,,1.0,3.0,0.6,,1.1,,,,,,,71.4,2.7,,,,,1.0
-Sven van Beek,Feyenoord,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Sèrge Aurier,Tottenham Hotspur,DEF,0.5,33.9,1.0,1.0,,0.2,4.0,,2.0,2.0,,,3.0,2.0,,0.2,,,,0.4,0.9,1.4,,3.0
-Sébastien Corchia,Sevilla,DEF,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,
-Sérgio Oliveira,FC Porto,MID,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
-Taison,Shakhtar Donetsk,ATT,1.0,35.6,,2.0,2.0,0.1,7.0,,0.4,0.6,,0.13,0.5,,,0.5,,,,0.8,2.6,0.8,1.0,2.0
-Talisca,Beşiktaş,ATT,2.7,27.1,,,,,5.0,,0.8,2.3,,0.67,0.8,,,0.3,,,,0.8,1.2,0.8,4.0,2.0
-Taras Stepanenko,Shakhtar Donetsk,MID,3.0,42.2,1.0,1.0,,0.5,3.0,,1.2,1.7,,,1.8,1.0,,0.5,,,,0.1,0.3,2.4,,2.0
-Taulant Xhaka,FC Basel,MID,1.2,35.6,1.0,2.0,,0.3,5.0,,2.1,1.4,,0.17,0.7,,,,,,,0.2,1.5,2.2,1.0,5.0
-Terence Kongolo,Monaco,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Theo Hernández,Real Madrid,DEF,,,1.0,2.0,,,4.0,,,,,,,,,,,,,,,,,
-Thiago Alcántara,Bayern München,MID,6.7,76.2,,2.0,,0.1,12.0,,0.3,1.6,,0.44,2.1,,,1.3,,,,0.7,2.8,3.8,3.0,2.0
-Thiago Motta,Paris Saint-Germain,Code_2,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Thiago Silva,Paris Saint-Germain,DEF,2.2,57.2,,,,0.7,1.0,,5.0,0.2,,,0.7,,,,,,,,,0.9,,
+Sven van Beek,Feyenoord,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Sèrge Aurier,Tottenham Hotspur,RWB,0.5,33.9,1.0,1.0,,0.2,4.0,,2.0,2.0,,,3.0,2.0,,0.2,,,,0.4,0.9,1.4,,3.0
+Sébastien Corchia,Sevilla,RWB,,,,,,,1.0,,,,,,,,1.0,,,,,,,,,
+Sérgio Oliveira,FC Porto,CM,,,,1.0,,,4.0,,,,,,,,,,,,,,,,,3.0
+Taison,Shakhtar Donetsk,LW,1.0,35.6,,2.0,2.0,0.1,7.0,,0.4,0.6,,0.13,0.5,,,0.5,,,,0.8,2.6,0.8,1.0,2.0
+Talisca,Beşiktaş,CAM,2.7,27.1,,,,,5.0,,0.8,2.3,,0.67,0.8,,,0.3,,,,0.8,1.2,0.8,4.0,2.0
+Taras Stepanenko,Shakhtar Donetsk,CDM,3.0,42.2,1.0,1.0,,0.5,3.0,,1.2,1.7,,,1.8,1.0,,0.5,,,,0.1,0.3,2.4,,2.0
+Taulant Xhaka,FC Basel,CM,1.2,35.6,1.0,2.0,,0.3,5.0,,2.1,1.4,,0.17,0.7,,,,,,,0.2,1.5,2.2,1.0,5.0
+Terence Kongolo,Monaco,LB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Theo Hernández,Real Madrid,LWB,,,1.0,2.0,,,4.0,,,,,,,,,,,,,,,,,
+Thiago Alcántara,Bayern München,CAM,6.7,76.2,,2.0,,0.1,12.0,,0.3,1.6,,0.44,2.1,,,1.3,,,,0.7,2.8,3.8,3.0,2.0
+Thiago Motta,Paris Saint-Germain,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Thiago Silva,Paris Saint-Germain,CB,2.2,57.2,,,,0.7,1.0,,5.0,0.2,,,0.7,,,,,,,,,0.9,,
 Thibaut Courtois,Chelsea,GK,,14.5,1.0,,,,1.0,2.0,0.1,,1.5,,0.3,,,,,62.5,2.5,,,,,
-Thomas Lemar,Monaco,ATT,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Thomas Meunier,Paris Saint-Germain,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Thomas Müller,Bayern München,ATT,1.0,25.3,2.0,3.0,4.0,,13.0,,0.5,1.8,,0.37,0.5,,,0.6,,,,0.9,0.7,1.2,3.0,1.0
-Thomas Partey,Atlético de Madrid,MID,3.1,55.2,,,,0.6,5.0,,1.2,1.4,,0.21,1.2,,,0.6,,,,0.2,1.7,1.9,1.0,1.0
-Thomas Vermaelen,Barcelona,DEF,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
-Tiemoué Bakayoko,Chelsea,MID,,,1.0,,,,4.0,,,,,,,,,,,,,,,,1.0,1.0
-Timo Werner,RB Leipzig,ATT,0.3,14.2,,,2.0,0.3,4.0,,,0.3,,0.82,0.3,,,1.1,,,,1.9,1.6,1.1,3.0,
-Timur Zhamaletdinov,CSKA Moscow,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Tiquinho Soares,FC Porto,ATT,,,,,1.0,,3.0,,,,,,,,,,,,,,,,1.0,
-Toby Alderweireld,Tottenham Hotspur,DEF,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,
-Tolgay Arslan,Beşiktaş,MID,5.0,56.6,,,,,1.0,,0.3,2.0,,,1.1,,,1.4,,,,,1.7,4.2,,2.0
-Tom Rogic,Celtic,ATT,0.9,27.4,,,,,2.0,,,1.8,,,0.9,,,0.3,,,,0.3,1.8,1.8,,
+Thomas Lemar,Monaco,CAM,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Thomas Meunier,Paris Saint-Germain,RWB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Thomas Müller,Bayern München,CAM,1.0,25.3,2.0,3.0,4.0,,13.0,,0.5,1.8,,0.37,0.5,,,0.6,,,,0.9,0.7,1.2,3.0,1.0
+Thomas Partey,Atlético de Madrid,CM,3.1,55.2,,,,0.6,5.0,,1.2,1.4,,0.21,1.2,,,0.6,,,,0.2,1.7,1.9,1.0,1.0
+Thomas Vermaelen,Barcelona,CB,,,,1.0,,,1.0,,,,,,,,,,,,,,,,,
+Tiemoué Bakayoko,Chelsea,CDM,,,1.0,,,,4.0,,,,,,,,,,,,,,,,1.0,1.0
+Timo Werner,RB Leipzig,LW,0.3,14.2,,,2.0,0.3,4.0,,,0.3,,0.82,0.3,,,1.1,,,,1.9,1.6,1.1,3.0,
+Timur Zhamaletdinov,CSKA Moscow,LW,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Tiquinho Soares,FC Porto,ST,,,,,1.0,,3.0,,,,,,,,,,,,,,,,1.0,
+Toby Alderweireld,Tottenham Hotspur,CB,,,1.0,1.0,,,2.0,,,,,,,,,,,,,,,,,
+Tolgay Arslan,Beşiktaş,CDM,5.0,56.6,,,,,1.0,,0.3,2.0,,,1.1,,,1.4,,,,,1.7,4.2,,2.0
+Tom Rogic,Celtic,LW,0.9,27.4,,,,,2.0,,,1.8,,,0.9,,,0.3,,,,0.3,1.8,1.8,,
 Tomás Vaclík,FC Basel,GK,,14.3,,,,,1.0,4.0,0.8,,1.3,,,,,,,63.0,2.1,,,,,
-Toni Kroos,Real Madrid,MID,7.6,76.8,1.0,3.0,,,24.0,,,0.9,,,0.7,,2.0,0.6,,,,0.1,0.2,1.8,,
-Tonny Vilhena,Feyenoord,ATT,0.8,19.6,1.0,1.0,,,2.0,,1.4,1.4,,,1.4,,,0.2,1.0,,,0.5,,1.4,,2.0
-Trent Alexander-Arnold,Liverpool,DEF,3.0,40.4,1.0,2.0,,0.2,5.0,,2.7,1.1,,0.11,2.4,,,0.3,,,,0.2,0.5,2.7,1.0,2.0
-Tyrell Malacia,Feyenoord,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Uros Djurdjevic,Olympiakos,ATT,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
-Uros Spajic,RSC Anderlecht,DEF,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Vadis Odjidja-Ofoe,Olympiakos,MID,3.1,30.3,,,,0.2,4.0,,0.7,3.1,,0.22,0.9,,,0.2,,,,0.7,3.1,2.2,1.0,
-Valentin Stocker,FC Basel,ATT,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
-Valon Ahmedi,Maribor,ATT,,,,1.0,,,5.0,,,,,,,,,,,,,,,,,
-Vasili Berezutski,CSKA Moscow,Code_1,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Victor Moses,Chelsea,MID,,,,,,,3.0,,,,,,,,,,,,,,,,,
-Victor Nilsson Lindelöf,Manchester United,DEF,,,,,,,1.0,,,,,,,,,,,,,,,,,
-Viktor Kovalenko,Shakhtar Donetsk,MID,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
-Viktor Vasin,CSKA Moscow,DEF,2.5,45.5,,,,0.8,1.0,,6.0,2.2,,,1.0,,,0.2,,,,0.2,0.2,1.0,,
-Vincent Aboubakar,FC Porto,ATT,0.5,16.2,2.0,2.0,1.0,,4.0,,0.2,1.6,,0.91,,,,0.2,,,,1.8,0.4,0.2,5.0,
-Vinicius,APOEL Nicosia,Code_2,2.7,34.9,,,,,3.0,,1.7,1.4,,,1.4,,,0.4,,,,,0.2,1.4,,1.0
-Virgil van Dijk,Liverpool,DEF,2.8,34.3,,,1.0,0.5,,,6.8,1.2,,,1.7,,,0.2,,,,,0.3,0.8,,1.0
-Vitinho,CSKA Moscow,ATT,1.7,21.9,,,,0.2,7.0,,1.3,0.6,,0.38,0.6,,,1.0,,,,1.3,2.1,1.0,2.0,1.0
-Vlad Chiriches,Napoli,MID,,,,,,,,,,,,,,,,,,,,,,,,1.0
-Vágner Love,Beşiktaş,ATT,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
-Wilde-Donald Guerrier,FK Qarabag,ATT,3.3,22.6,1.0,1.0,,,3.0,,2.3,1.8,,,1.0,,,,,,,0.3,1.3,2.0,,1.0
-Willi Orbán,RB Leipzig,DEF,3.6,44.2,,,,0.4,,,5.7,1.1,,0.19,1.3,1.0,1.0,,,,,0.2,,1.9,1.0,2.0
-William Carvalho,Sporting Lisbon,MID,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
-Willian,Chelsea,ATT,0.8,31.0,1.0,,1.0,,8.0,,,1.5,,0.63,0.2,,2.0,2.5,,,,1.0,5.5,1.0,3.0,1.0
-Wissam Ben Yedder,Sevilla,ATT,0.6,20.6,,3.0,4.0,,12.0,,0.3,0.6,,1.11,0.3,,1.0,1.5,,,,2.2,0.7,0.4,8.0,2.0
+Toni Kroos,Real Madrid,CDM,7.6,76.8,1.0,3.0,,,24.0,,,0.9,,,0.7,,2.0,0.6,,,,0.1,0.2,1.8,,
+Tonny Vilhena,Feyenoord,LAM,0.8,19.6,1.0,1.0,,,2.0,,1.4,1.4,,,1.4,,,0.2,1.0,,,0.5,,1.4,,2.0
+Trent Alexander-Arnold,Liverpool,RWB,3.0,40.4,1.0,2.0,,0.2,5.0,,2.7,1.1,,0.11,2.4,,,0.3,,,,0.2,0.5,2.7,1.0,2.0
+Tyrell Malacia,Feyenoord,LWB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Uros Djurdjevic,Olympiakos,ST,,,,,1.0,,,,,,,,,,,,,,,,,,,1.0
+Uros Spajic,RSC Anderlecht,CB,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Vadis Odjidja-Ofoe,Olympiakos,CM,3.1,30.3,,,,0.2,4.0,,0.7,3.1,,0.22,0.9,,,0.2,,,,0.7,3.1,2.2,1.0,
+Valentin Stocker,FC Basel,CAM,,,,1.0,,,3.0,,,,,,,,,,,,,,,,,
+Valon Ahmedi,Maribor,LW,,,,1.0,,,5.0,,,,,,,,,,,,,,,,,
+Vasili Berezutski,CSKA Moscow,GK,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Victor Moses,Chelsea,RM,,,,,,,3.0,,,,,,,,,,,,,,,,,
+Victor Nilsson Lindelöf,Manchester United,CB,,,,,,,1.0,,,,,,,,,,,,,,,,,
+Viktor Kovalenko,Shakhtar Donetsk,CDM,,,,1.0,1.0,,1.0,,,,,,,,,,,,,,,,,1.0
+Viktor Vasin,CSKA Moscow,CB,2.5,45.5,,,,0.8,1.0,,6.0,2.2,,,1.0,,,0.2,,,,0.2,0.2,1.0,,
+Vincent Aboubakar,FC Porto,ST,0.5,16.2,2.0,2.0,1.0,,4.0,,0.2,1.6,,0.91,,,,0.2,,,,1.8,0.4,0.2,5.0,
+Vinicius,APOEL Nicosia,CB,2.7,34.9,,,,,3.0,,1.7,1.4,,,1.4,,,0.4,,,,,0.2,1.4,,1.0
+Virgil van Dijk,Liverpool,CB,2.8,34.3,,,1.0,0.5,,,6.8,1.2,,,1.7,,,0.2,,,,,0.3,0.8,,1.0
+Vitinho,CSKA Moscow,LW,1.7,21.9,,,,0.2,7.0,,1.3,0.6,,0.38,0.6,,,1.0,,,,1.3,2.1,1.0,2.0,1.0
+Vlad Chiriches,Napoli,CDM,,,,,,,,,,,,,,,,,,,,,,,,1.0
+Vágner Love,Beşiktaş,ST,,,,,,,1.0,,,,,,,,,,,,,,,,1.0,
+Wilde-Donald Guerrier,FK Qarabag,LW,3.3,22.6,1.0,1.0,,,3.0,,2.3,1.8,,,1.0,,,,,,,0.3,1.3,2.0,,1.0
+Willi Orbán,RB Leipzig,CB,3.6,44.2,,,,0.4,,,5.7,1.1,,0.19,1.3,1.0,1.0,,,,,0.2,,1.9,1.0,2.0
+William Carvalho,Sporting Lisbon,CDM,,,,,,,1.0,,,,,,,,,,,,,,,,,1.0
+Willian,Chelsea,CAM,0.8,31.0,1.0,,1.0,,8.0,,,1.5,,0.63,0.2,,2.0,2.5,,,,1.0,5.5,1.0,3.0,1.0
+Wissam Ben Yedder,Sevilla,CF,0.6,20.6,,3.0,4.0,,12.0,,0.3,0.6,,1.11,0.3,,1.0,1.5,,,,2.2,0.7,0.4,8.0,2.0
 Wojciech Szczesny,Juventus,GK,,,,,,,,1.0,,,,,,,,,,,,,,,,
-Yacine Brahimi,FC Porto,ATT,1.1,28.0,1.0,2.0,,,8.0,,0.2,1.0,,0.16,0.8,,,,,,,0.2,5.7,2.1,1.0,1.0
-Yannick Carrasco,Atlético de Madrid,ATT,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
-Yaroslav Rakitskiy,Shakhtar Donetsk,DEF,6.4,47.3,1.0,1.0,,0.6,2.0,,3.7,0.4,,,1.9,,,,1.0,,,0.1,,1.3,,1.0
-Youri Tielemans,Monaco,MID,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
-Yussuf Poulsen,RB Leipzig,ATT,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
-Zé Luis,Spartak Moscow,ATT,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
-Álvaro Morata,Chelsea,ATT,0.9,14.6,,,7.0,,3.0,,1.4,1.9,,0.23,0.2,,,0.5,,,,2.1,1.4,0.2,1.0,1.0
-Álvaro Negredo,Beşiktaş,ATT,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,1.0,
-Ángel Correa,Atlético de Madrid,ATT,0.4,26.1,1.0,1.0,1.0,,11.0,,0.4,1.1,,,1.1,,,0.4,,,,1.8,2.8,0.7,,
-Ángel Di Maria,Paris Saint-Germain,ATT,,,1.0,,1.0,,3.0,,,,,,,,,,,,,,,,1.0,
-Éder Álvarez,FC Basel,MID,3.4,33.8,,1.0,,0.7,3.0,,5.1,2.0,,,2.0,,,,,,,,2.0,2.4,,2.0
-Édinson Cavani,Paris Saint-Germain,ATT,0.5,15.2,1.0,2.0,3.0,0.1,5.0,,0.7,0.8,,0.93,0.7,,1.0,0.8,,,,1.3,,0.1,7.0,1.0
-Éver Banega,Sevilla,MID,5.8,92.7,2.0,3.0,,0.2,33.0,,0.2,0.8,,0.11,0.7,,,0.8,,,,0.5,3.4,1.5,1.0,4.0
-Óliver Torres,FC Porto,MID,,,,,,,2.0,,,,,,,,,,,,,,,,,
-Ömer Toprak,Borussia Dortmund,DEF,5.9,88.9,,,1.0,0.5,1.0,,2.1,0.5,,,1.6,,,0.3,,,,0.5,,0.5,,1.0
+Yacine Brahimi,FC Porto,LW,1.1,28.0,1.0,2.0,,,8.0,,0.2,1.0,,0.16,0.8,,,,,,,0.2,5.7,2.1,1.0,1.0
+Yannick Carrasco,Atlético de Madrid,LW,,,,,1.0,,3.0,,,,,,,,,,,,,,,,,
+Yaroslav Rakitskiy,Shakhtar Donetsk,LB,6.4,47.3,1.0,1.0,,0.6,2.0,,3.7,0.4,,,1.9,,,,1.0,,,0.1,,1.3,,1.0
+Youri Tielemans,Monaco,CDM,,,,,1.0,,2.0,,,,,,,,,,,,,,,,1.0,1.0
+Yussuf Poulsen,RB Leipzig,CF,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,,1.0
+Zé Luis,Spartak Moscow,ST,,,,,1.0,,1.0,,,,,,,,,,,,,,,,2.0,
+Álvaro Morata,Chelsea,ST,0.9,14.6,,,7.0,,3.0,,1.4,1.9,,0.23,0.2,,,0.5,,,,2.1,1.4,0.2,1.0,1.0
+Álvaro Negredo,Beşiktaş,CF,,,1.0,1.0,,,3.0,,,,,,,,,,,,,,,,1.0,
+Ángel Correa,Atlético de Madrid,CAM,0.4,26.1,1.0,1.0,1.0,,11.0,,0.4,1.1,,,1.1,,,0.4,,,,1.8,2.8,0.7,,
+Ángel Di Maria,Paris Saint-Germain,RW,,,1.0,,1.0,,3.0,,,,,,,,,,,,,,,,1.0,
+Éder Álvarez,FC Basel,CDM,3.4,33.8,,1.0,,0.7,3.0,,5.1,2.0,,,2.0,,,,,,,,2.0,2.4,,2.0
+Édinson Cavani,Paris Saint-Germain,CF,0.5,15.2,1.0,2.0,3.0,0.1,5.0,,0.7,0.8,,0.93,0.7,,1.0,0.8,,,,1.3,,0.1,7.0,1.0
+Éver Banega,Sevilla,CDM,5.8,92.7,2.0,3.0,,0.2,33.0,,0.2,0.8,,0.11,0.7,,,0.8,,,,0.5,3.4,1.5,1.0,4.0
+Óliver Torres,FC Porto,CDM,,,,,,,2.0,,,,,,,,,,,,,,,,,
+Ömer Toprak,Borussia Dortmund,CB,5.9,88.9,,,1.0,0.5,1.0,,2.1,0.5,,,1.6,,,0.3,,,,0.5,,0.5,,1.0

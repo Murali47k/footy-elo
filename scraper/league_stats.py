@@ -46,12 +46,73 @@ STAT_ALIASES = {
     "Top scorer": ["Top scorer", "Goals"]
 }
 
-POSITION_RANGES = [
-    (10, 19, 'GK'),
-    (20, 49, 'DEF'),
-    (50, 79, 'MID'),
-    (80, 119, 'ATT')
-]
+# Comprehensive FotMob / Opta pitch formation code mapping to EA FC positions
+FOTMOB_POSITION_MAP = {
+    # Goalkeepers
+    1: 'GK',
+    11: 'GK',
+
+    # Defenders: Centre Backs
+    2: 'CB',
+    34: 'CB',   # Right CB
+    35: 'CB',   # Central CB
+    36: 'CB',   # Left CB
+
+    # Defenders: Fullbacks & Wing-backs
+    32: 'RWB',
+    33: 'RB',
+    37: 'LB',
+    38: 'LWB',
+    49: 'RB',
+    51: 'RWB',
+    53: 'RB',
+    57: 'LB',
+    59: 'LWB',
+
+    # Midfield: Defensive & Holding Midfielders (CDM)
+    55: 'CDM',
+    63: 'CDM',
+    64: 'CDM',  # Right CDM
+    65: 'CDM',  # Central CDM
+    66: 'CDM',  # Left CDM
+    67: 'CM',
+    74: 'CDM',
+
+    # Midfield: Central & Box-to-Box (CM)
+    3: 'CM',
+    73: 'CM',   # Right CM
+    75: 'CM',   # Central CM
+    76: 'CM',   # Left CM
+
+    # Midfield & Attack: Wide Midfielders / Wingers (RM / LM / RW / LW)
+    62: 'RM',
+    68: 'LM',
+    71: 'RM',
+    72: 'RM',
+    78: 'LM',
+    79: 'LM',
+    82: 'RW',
+    83: 'RW',
+    84: 'RAM',
+    86: 'LAM',
+    87: 'LW',
+    88: 'LW',
+    103: 'RW',
+    107: 'LW',
+
+    # Attack: Attacking Midfielders & Playmakers (CAM)
+    77: 'CAM',
+    85: 'CAM',  # Central CAM (#10)
+    95: 'CAM',
+
+    # Attack: Centre Forwards & Strikers (CF / ST)
+    4: 'ST',
+    104: 'CF',  # Second Striker / RF
+    105: 'CF',  # Centre Forward
+    106: 'CF',  # Second Striker / LF
+    115: 'ST',  # Pure Striker (#9)
+    116: 'ST'
+}
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -60,6 +121,10 @@ HEADERS = {
 }
 
 def get_position(pos_list):
+    """
+    Derives the EA FC position (e.g. ST, CAM, CDM, CB, RB, LB, RW, LW, GK)
+    from FotMob's Opta coordinate codes.
+    """
     if pos_list is None or isinstance(pos_list, float):
         return 'Unknown'
 
@@ -72,11 +137,63 @@ def get_position(pos_list):
     else:
         return 'Unknown'
 
-    for low, high, label in POSITION_RANGES:
-        if low <= pos_code <= high:
-            return label
+    # Direct lookup from verified mapping
+    if pos_code in FOTMOB_POSITION_MAP:
+        return FOTMOB_POSITION_MAP[pos_code]
 
-    return f'Code_{pos_code}'
+    # Dynamic fallback based on Opta (Row, Col) pitch grid
+    row = pos_code // 10
+    col = pos_code % 10
+
+    if row <= 1:
+        return 'GK'
+    elif row in (3, 4, 5):
+        if col <= 2:
+            return 'RWB'
+        elif col == 3:
+            return 'RB'
+        elif col >= 8:
+            return 'LWB'
+        elif col == 7:
+            return 'LB'
+        else:
+            return 'CB'
+    elif row == 6:
+        if col <= 2:
+            return 'RM'
+        elif col >= 8:
+            return 'LM'
+        else:
+            return 'CDM'
+    elif row == 7:
+        if col <= 2:
+            return 'RM'
+        elif col >= 8:
+            return 'LM'
+        elif col == 4:
+            return 'CDM'
+        elif col == 7:
+            return 'CAM'
+        else:
+            return 'CM'
+    elif row in (8, 9):
+        if col <= 3:
+            return 'RW'
+        elif col >= 7:
+            return 'LW'
+        else:
+            return 'CAM'
+    elif row >= 10:
+        if col <= 3:
+            return 'RW'
+        elif col >= 7:
+            return 'LW'
+        elif col in (4, 6):
+            return 'CF'
+        else:
+            return 'ST'
+
+    return 'CM'
 
 def fetch_stat_catalog(league_id, season=None):
     """
