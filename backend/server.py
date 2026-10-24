@@ -48,8 +48,9 @@ def sync_single(league_id):
             'error': f"Unknown league: {league_id}. Valid options: {list(LEAGUE_MAPPING.keys())}"
         }), 400
 
+    season = request.args.get('season') or (request.json.get('season') if request.is_json and request.json else '2026/2027')
     try:
-        result = sync_league(league_id)
+        result = sync_league(league_id, season=season)
         return jsonify({
             'success': True,
             'result': result,
@@ -70,6 +71,8 @@ def sync_stream(league_id):
     if league_id not in LEAGUE_MAPPING:
         return jsonify({'error': f"Invalid league id: {league_id}"}), 400
 
+    season = request.args.get('season', '2026/2027')
+
     def generate_events():
         event_queue = Queue()
 
@@ -79,7 +82,7 @@ def sync_stream(league_id):
         import threading
         def worker():
             try:
-                sync_league(league_id, progress_callback=on_progress)
+                sync_league(league_id, season=season, progress_callback=on_progress)
             except Exception as ex:
                 event_queue.put({
                     'leagueId': league_id,

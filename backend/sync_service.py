@@ -83,7 +83,7 @@ def update_league_meta(league_id, **kwargs):
     save_metadata(meta)
     return meta[league_id]
 
-def sync_league(league_id, progress_callback=None):
+def sync_league(league_id, season="2026/2027", progress_callback=None):
     """
     Sync a single league with progress updates:
     1. Fetch stats from FotMob feed (progress 0% -> 80%)
@@ -98,13 +98,19 @@ def sync_league(league_id, progress_callback=None):
     name = league_info['name']
     file_prefix = league_info['file']
 
-    stats_file = os.path.join(PROJECT_ROOT, f"tables/{file_prefix}.csv")
-    elo_file = os.path.join(PROJECT_ROOT, f"elo_tables/{file_prefix}_elo.csv")
-    react_elo_file = os.path.join(PROJECT_ROOT, f"public/elo_tables/{file_prefix}_elo.csv")
+    # For current season 2026/2027, save to default files
+    if season in ("2026/2027", "current", None):
+        stats_file = os.path.join(PROJECT_ROOT, f"tables/{file_prefix}.csv")
+        elo_file = os.path.join(PROJECT_ROOT, f"public/elo_tables/{file_prefix}_elo.csv")
+        season_query = "2026/2027"
+    else:
+        norm_season = season.replace("/", "_")
+        stats_file = os.path.join(PROJECT_ROOT, f"tables/{file_prefix}_{norm_season}.csv")
+        elo_file = os.path.join(PROJECT_ROOT, f"public/elo_tables/{file_prefix}_elo_{norm_season}.csv")
+        season_query = season
 
     os.makedirs(os.path.dirname(stats_file), exist_ok=True)
     os.makedirs(os.path.dirname(elo_file), exist_ok=True)
-    os.makedirs(os.path.dirname(react_elo_file), exist_ok=True)
 
     update_league_meta(league_id, status='syncing')
 
@@ -129,12 +135,12 @@ def sync_league(league_id, progress_callback=None):
                 'leagueName': name,
                 'status': 'starting',
                 'percent': 5,
-                'message': f"Connecting to {name} data feed..."
+                'message': f"Connecting to {name} data feed ({season_query})..."
             })
 
-        fetch_league_stats(api_id, output_path=stats_file, progress_callback=scraper_progress)
+        fetch_league_stats(api_id, season=season_query, output_path=stats_file, progress_callback=scraper_progress)
 
-        # Step 2: Calculate ELO
+        # Step 2: Calculate ELO (directly to public/elo_tables)
         if progress_callback:
             progress_callback({
                 'leagueId': league_id,
@@ -145,9 +151,6 @@ def sync_league(league_id, progress_callback=None):
             })
 
         elo_df = calculate_elo(stats_file, elo_file)
-
-        # Step 3: Copy to public directory
-        shutil.copy2(elo_file, react_elo_file)
 
         now_iso = datetime.now().isoformat()
         player_count = len(elo_df)
