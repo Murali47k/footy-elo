@@ -78,4 +78,4 @@ def calculate_elo(input_csv, output_csv):
 
 if __name__ == '__main__':
     # Test
-    calculate_elo("tables/pl.csv", "elo_tables/pl_elo.csv")
+    calculate_elo("tables/pl.csv", "public/elo_tables/pl_elo.csv")
