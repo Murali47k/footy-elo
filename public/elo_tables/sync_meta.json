@@ -43,5 +43,25 @@
     "lastUpdated": "2026-02-05T12:44:15.471732",
     "playerCount": 493,
     "status": "ready"
+  },
+  "champions-league": {
+    "id": "champions-league",
+    "name": "Champions League",
+    "flag": "\u2b50",
+    "apiId": "42",
+    "filePrefix": "cl",
+    "lastUpdated": "2026-10-24T14:07:28.356569",
+    "playerCount": 767,
+    "status": "ready"
+  },
+  "europa-league": {
+    "id": "europa-league",
+    "name": "Europa League",
+    "flag": "\ud83c\udfc6",
+    "apiId": "73",
+    "filePrefix": "el",
+    "lastUpdated": "2026-10-24T14:12:20.825806",
+    "playerCount": 798,
+    "status": "ready"
   }
 }
