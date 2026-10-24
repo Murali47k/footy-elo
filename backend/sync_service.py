@@ -17,49 +17,55 @@ LEAGUE_MAPPING = {
     'la-liga': {'file': 'laliga', 'name': 'La Liga', 'apiId': '87', 'flag': '🇪🇸'},
     'bundesliga': {'file': 'bundesliga', 'name': 'Bundesliga', 'apiId': '54', 'flag': '🇩🇪'},
     'serie-a': {'file': 'seriea', 'name': 'Serie A', 'apiId': '55', 'flag': '🇮🇹'},
-    'ligue-1': {'file': 'ligue1', 'name': 'Ligue 1', 'apiId': '53', 'flag': '🇫🇷'}
+    'ligue-1': {'file': 'ligue1', 'name': 'Ligue 1', 'apiId': '53', 'flag': '🇫🇷'},
+    'champions-league': {'file': 'cl', 'name': 'Champions League', 'apiId': '42', 'flag': '⭐'},
+    'europa-league': {'file': 'el', 'name': 'Europa League', 'apiId': '73', 'flag': '🏆'}
 }
 
 META_FILE = os.path.join(PROJECT_ROOT, "public/elo_tables/sync_meta.json")
 
 def get_metadata():
     """Load or initialize sync metadata for all leagues."""
+    meta = {}
     if os.path.exists(META_FILE):
         try:
             with open(META_FILE, 'r') as f:
-                return json.load(f)
+                meta = json.load(f)
         except Exception as e:
             print(f"Error reading metadata: {e}")
+            meta = {}
 
-    # Fallback to inspecting existing files
-    meta = {}
+    dirty = False
     for lid, info in LEAGUE_MAPPING.items():
         prefix = info['file']
         csv_path = os.path.join(PROJECT_ROOT, f"public/elo_tables/{prefix}_elo.csv")
-        last_updated = None
-        player_count = 0
+        
+        if lid not in meta:
+            meta[lid] = {
+                'id': lid,
+                'name': info['name'],
+                'flag': info['flag'],
+                'apiId': info['apiId'],
+                'filePrefix': prefix,
+                'lastUpdated': None,
+                'playerCount': 0,
+                'status': 'ready'
+            }
+            dirty = True
 
-        if os.path.exists(csv_path):
+        if os.path.exists(csv_path) and (meta[lid].get('playerCount', 0) == 0 or not meta[lid].get('lastUpdated')):
             mtime = os.path.getmtime(csv_path)
-            last_updated = datetime.fromtimestamp(mtime).isoformat()
+            meta[lid]['lastUpdated'] = datetime.fromtimestamp(mtime).isoformat()
             try:
                 with open(csv_path, 'r') as f:
-                    player_count = max(0, len(f.readlines()) - 1)
+                    meta[lid]['playerCount'] = max(0, len(f.readlines()) - 1)
             except Exception:
                 pass
+            dirty = True
 
-        meta[lid] = {
-            'id': lid,
-            'name': info['name'],
-            'flag': info['flag'],
-            'apiId': info['apiId'],
-            'filePrefix': prefix,
-            'lastUpdated': last_updated,
-            'playerCount': player_count,
-            'status': 'ready'
-        }
+    if dirty:
+        save_metadata(meta)
 
-    save_metadata(meta)
     return meta
 
 def save_metadata(meta):
