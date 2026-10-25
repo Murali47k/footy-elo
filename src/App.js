@@ -7,13 +7,13 @@ import SyncModal from './components/SyncModal';
 import EloMathModal from './components/EloMathModal';
 
 export const LEAGUES = [
-  { id: 'premier-league', name: 'Premier League', flag: '🏴󠁧󠁢󠁥󠁮󠁧󠁿', filePrefix: 'pl', apiId: '47' },
-  { id: 'la-liga', name: 'La Liga', flag: '🇪🇸', filePrefix: 'laliga', apiId: '87' },
-  { id: 'bundesliga', name: 'Bundesliga', flag: '🇩🇪', filePrefix: 'bundesliga', apiId: '54' },
-  { id: 'serie-a', name: 'Serie A', flag: '🇮🇹', filePrefix: 'seriea', apiId: '55' },
-  { id: 'ligue-1', name: 'Ligue 1', flag: '🇫🇷', filePrefix: 'ligue1', apiId: '53' },
-  { id: 'champions-league', name: 'Champions League', flag: '⭐', filePrefix: 'cl', apiId: '42' },
-  { id: 'europa-league', name: 'Europa League', flag: '🏆', filePrefix: 'el', apiId: '73' },
+  { id: 'premier-league', name: 'Premier League', flag: '', filePrefix: 'pl', apiId: '47' },
+  { id: 'la-liga', name: 'La Liga', flag: '', filePrefix: 'laliga', apiId: '87' },
+  { id: 'bundesliga', name: 'Bundesliga', flag: '', filePrefix: 'bundesliga', apiId: '54' },
+  { id: 'serie-a', name: 'Serie A', flag: '', filePrefix: 'seriea', apiId: '55' },
+  { id: 'ligue-1', name: 'Ligue 1', flag: '', filePrefix: 'ligue1', apiId: '53' },
+  { id: 'champions-league', name: 'Champions League', flag: '', filePrefix: 'cl', apiId: '42' },
+  { id: 'europa-league', name: 'Europa League', flag: '', filePrefix: 'el', apiId: '73' },
 ];
 
 // All seasons with Player ELO data (from 2016/17 onwards, plus current 2026/27)

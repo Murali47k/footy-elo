@@ -116,7 +116,6 @@ function LeagueTable({
 
       {/* League-Specific Scope Notice */}
       <div className="league-scope-callout">
-        <div className="scope-callout-icon">📌</div>
         <div className="scope-callout-content">
           <span className="scope-callout-title">Competition-Specific Ratings:</span>
           <span>
