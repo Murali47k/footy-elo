@@ -68,6 +68,8 @@ FOTMOB_POSITION_MAP = {
     53: 'RB',
     57: 'LB',
     59: 'LWB',
+    62: 'RWB',
+    68: 'LWB',
 
     # Midfield: Defensive & Holding Midfielders (CDM)
     55: 'CDM',

@@ -5,15 +5,15 @@ const STAT_WEIGHTS_DATA = {
     title: 'Striker / Centre Forward (ST, CF)',
     description: 'Calibrated on lethal penalty-box finishing, shot volume, efficiency against xG, and hold-up play.',
     positive: [
-      { stat: 'Top scorer (Goals)', weight: '+1.5', desc: 'Primary output metric for central goalscorers' },
+      { stat: 'Top scorer (Goals)', weight: '+1.7', desc: 'Primary output metric for central goalscorers' },
       { stat: 'Shots on target per 90', weight: '+0.9', desc: 'Consistent threat testing opposition goalkeepers' },
       { stat: 'Assists', weight: '+0.8', desc: 'Flick-ons, layoff passes, and box combination assists' },
-      { stat: 'Successful dribbles per 90', weight: '+0.7', desc: 'Beating markers in tight 1v1 box situations' },
+      { stat: 'Successful dribbles per 90', weight: '+0.25', desc: 'Beating markers in tight 1v1 box situations' },
       { stat: 'Expected goals (xG)', weight: '+0.2', desc: 'Getting into high-probability scoring positions' },
       { stat: 'Expected assist (xA)', weight: '+0.2', desc: 'Quality of chances laid off for teammates' },
     ],
     negative: [
-      { stat: 'Big chances missed', weight: '-1.0', desc: 'Costly finishing inefficiency penalty' },
+      { stat: 'Big chances missed', weight: '-0.7', desc: 'Costly finishing inefficiency penalty' },
       { stat: 'Yellow cards', weight: '-1.5', desc: 'Disciplinary deduction' },
       { stat: 'Red cards', weight: '-2.0', desc: 'Severe match disadvantage deduction' },
       { stat: 'Fouls committed per 90', weight: '-0.9', desc: 'Loss of momentum / attacking foul deduction' },
@@ -24,14 +24,14 @@ const STAT_WEIGHTS_DATA = {
     description: 'Rewards 1v1 take-ons, crosses, wide creativity, direct goal threat, and high-tempo pressing.',
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+1.5', desc: 'Inside cutting & back-post goal threat' },
-      { stat: 'Shots on target per 90', weight: '+0.9', desc: 'Direct goal threat volume from wide angles' },
-      { stat: 'Successful dribbles per 90', weight: '+0.8', desc: 'Wide isolation 1v1 take-on success' },
+      { stat: 'Shots on target per 90', weight: '+0.8', desc: 'Direct goal threat volume from wide angles' },
+      { stat: 'Successful dribbles per 90', weight: '+0.5', desc: 'Wide isolation 1v1 take-on success' },
       { stat: 'Assists', weight: '+0.8', desc: 'Crosses, cutbacks, and final-third deliveries' },
       { stat: 'Expected assist (xA)', weight: '+0.3', desc: 'Incisive wide chance creation' },
       { stat: 'Expected goals (xG)', weight: '+0.2', desc: 'Box-crashing & inward runs into scoring zones' },
     ],
     negative: [
-      { stat: 'Big chances missed', weight: '-1.0', desc: 'Wasteful finishing deduction' },
+      { stat: 'Big chances missed', weight: '-0.5', desc: 'Wasteful finishing deduction' },
       { stat: 'Yellow cards', weight: '-1.5', desc: 'Disciplinary deduction' },
       { stat: 'Red cards', weight: '-2.0', desc: 'Severe match disadvantage deduction' },
       { stat: 'Fouls committed per 90', weight: '-0.9', desc: 'Disruption deduction' },
@@ -43,11 +43,9 @@ const STAT_WEIGHTS_DATA = {
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+1.5', desc: 'Critical second-line goal contributions' },
       { stat: 'Assists', weight: '+1.0', desc: 'Key playmaker output and direct goal creation' },
-      { stat: 'Chances created', weight: '+1.0', desc: 'Key pass volume unlocking stubborn defenses' },
-      { stat: 'Shots on target per 90', weight: '+0.7', desc: 'Threat from edge of the penalty area' },
-      { stat: 'Successful dribbles per 90', weight: '+0.7', desc: 'Tight-space pocket dribbling between lines' },
-      { stat: 'Possession won final 3rd per 90', weight: '+0.6', desc: 'Immediate counter-pressing recoveries' },
-      { stat: 'Expected assist (xA)', weight: '+0.5', desc: 'Playmaking creativity index' },
+      { stat: 'Successful dribbles per 90', weight: '+0.2', desc: 'Tight-space pocket dribbling between lines' },
+      { stat: 'Possession won final 3rd per 90', weight: '+0.5', desc: 'Immediate counter-pressing recoveries' },
+      { stat: 'Expected assist (xA)', weight: '+0.4', desc: 'Playmaking creativity index' },
       { stat: 'Expected goals (xG)', weight: '+0.2', desc: 'Box-crashing & late run threat' },
       { stat: 'Accurate passes per 90', weight: '+0.1', desc: 'Circulation & progressive ball movement' },
     ],
@@ -103,13 +101,13 @@ const STAT_WEIGHTS_DATA = {
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+2.0', desc: 'High-value rare offensive contribution from wide defense' },
       { stat: 'Successful tackles per 90', weight: '+1.8', desc: 'Flank 1v1 duels won against opposing wingers' },
-      { stat: 'Interceptions per 90', weight: '+1.6', desc: 'Cutting off diagonal balls and through passes' },
+      { stat: 'Interceptions per 90', weight: '+2.0', desc: 'Cutting off diagonal balls and through passes' },
       { stat: 'Assists', weight: '+1.5', desc: 'Essential modern fullback output: crosses & cutbacks' },
       { stat: 'Clean sheets', weight: '+1.2', desc: 'Core defensive shutout baseline' },
       { stat: 'Clearances per 90', weight: '+1.0', desc: 'Flank containment and back-post emergency clearances' },
       { stat: 'Possession won final 3rd per 90', weight: '+0.6', desc: 'Overlapping high press and counter-press wins' },
       { stat: 'Expected assist (xA)', weight: '+0.5', desc: 'Quality of wide chances delivered into box' },
-      { stat: 'Accurate long balls per 90', weight: '+0.5', desc: 'Up-the-line progression and long clearances' },
+      { stat: 'Accurate long balls per 90', weight: '+0.7', desc: 'Up-the-line progression and long clearances' },
     ],
     negative: [
       { stat: 'Yellow cards', weight: '-1.5', desc: 'Disciplinary deduction' },
@@ -122,13 +120,13 @@ const STAT_WEIGHTS_DATA = {
     description: 'Anchors the backline: aerial/ground clearances, shot blocks, box defending, and set-piece headers.',
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+2.0', desc: 'Rare set-piece corner headers & clutch goals' },
-      { stat: 'Interceptions per 90', weight: '+2.0', desc: 'Anticipation and cutting off forward through balls' },
-      { stat: 'Successful tackles per 90', weight: '+1.8', desc: 'Last-man 1v1 duels and recovery challenges' },
-      { stat: 'Clearances per 90', weight: '+1.6', desc: 'Box dominance & clearing danger under pressure' },
-      { stat: 'Blocks per 90', weight: '+1.6', desc: 'Heroic direct shot & cross prevention' },
+      { stat: 'Interceptions per 90', weight: '+3.0', desc: 'Anticipation and cutting off forward through balls' },
+      { stat: 'Successful tackles per 90', weight: '+2.0', desc: 'Last-man 1v1 duels and recovery challenges' },
+      { stat: 'Clearances per 90', weight: '+1.8', desc: 'Box dominance & clearing danger under pressure' },
+      { stat: 'Blocks per 90', weight: '+2.5', desc: 'Heroic direct shot & cross prevention' },
       { stat: 'Assists', weight: '+1.5', desc: 'Rare long diagonal passes leading to goals' },
       { stat: 'Clean sheets', weight: '+1.4', desc: 'Primary responsibility for team shutout' },
-      { stat: 'Accurate long balls per 90', weight: '+0.5', desc: 'Long-range distribution starting attacks' },
+      { stat: 'Accurate long balls per 90', weight: '+0.7', desc: 'Long-range distribution starting attacks' },
     ],
     negative: [
       { stat: 'Yellow cards', weight: '-1.5', desc: 'Disciplinary deduction' },
@@ -464,7 +462,6 @@ function EloMathModal({ isOpen, onClose }) {
         {activeTab === 'example' && (
           <div className="math-modal-body">
             <div className="example-intro-box">
-              <div className="example-avatar">⚽</div>
               <div>
                 <h3 className="example-title">Sample Calculation: Elite Striker (ATT)</h3>
                 <p className="example-sub">Walk-through showing exact arithmetic from raw match stats to final ELO rating.</p>
@@ -572,7 +569,6 @@ function EloMathModal({ isOpen, onClose }) {
         {activeTab === 'bonus' && (
           <div className="math-modal-body">
             <div className="scope-notice-hero">
-              <div className="scope-icon-box">🏆</div>
               <div>
                 <h3 className="scope-hero-title">Team Success Bonus</h3>
                 <p className="scope-hero-sub">Each table gets only its own bonus: league finish for league ELO, knockout round for Champions League / Europa League ELO.</p>
@@ -675,7 +671,6 @@ function EloMathModal({ isOpen, onClose }) {
         {activeTab === 'scope' && (
           <div className="math-modal-body">
             <div className="scope-notice-hero">
-              <div className="scope-icon-box">📌</div>
               <div>
                 <h3 className="scope-hero-title">League & Competition Specific Only</h3>
                 <p className="scope-hero-sub">Stats and ratings are isolated within each distinct tournament or league campaign.</p>
