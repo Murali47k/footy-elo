@@ -4,7 +4,7 @@
     "name": "Premier League",
     "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
     "filePrefix": "pl",
-    "lastUpdated": "2026-10-24T23:05:13.883268",
+    "lastUpdated": "2026-10-25T10:29:28.466858",
     "playerCount": 468,
     "status": "ready"
   },
@@ -13,8 +13,8 @@
     "name": "La Liga",
     "flag": "\ud83c\uddea\ud83c\uddf8",
     "filePrefix": "laliga",
-    "lastUpdated": "2026-10-24T23:05:44.851294",
-    "playerCount": 494,
+    "lastUpdated": "2026-10-25T10:29:48.080525",
+    "playerCount": 495,
     "status": "ready"
   },
   "bundesliga": {
@@ -22,7 +22,7 @@
     "name": "Bundesliga",
     "flag": "\ud83c\udde9\ud83c\uddea",
     "filePrefix": "bundesliga",
-    "lastUpdated": "2026-10-24T23:06:16.220273",
+    "lastUpdated": "2026-10-25T10:30:09.925478",
     "playerCount": 419,
     "status": "ready"
   },
@@ -31,7 +31,7 @@
     "name": "Serie A",
     "flag": "\ud83c\uddee\ud83c\uddf9",
     "filePrefix": "seriea",
-    "lastUpdated": "2026-10-24T23:06:54.925046",
+    "lastUpdated": "2026-10-25T10:30:30.196250",
     "playerCount": 498,
     "status": "ready"
   },
@@ -40,8 +40,8 @@
     "name": "Ligue 1",
     "flag": "\ud83c\uddeb\ud83c\uddf7",
     "filePrefix": "ligue1",
-    "lastUpdated": "2026-10-24T23:07:35.512446",
-    "playerCount": 436,
+    "lastUpdated": "2026-10-25T10:30:50.187528",
+    "playerCount": 437,
     "status": "ready"
   },
   "champions-league": {
@@ -50,7 +50,7 @@
     "flag": "\u2b50",
     "apiId": "42",
     "filePrefix": "cl",
-    "lastUpdated": "2026-10-24T23:08:12.923164",
+    "lastUpdated": "2026-10-25T10:31:08.404476",
     "playerCount": 767,
     "status": "ready"
   },
@@ -60,7 +60,7 @@
     "flag": "\ud83c\udfc6",
     "apiId": "73",
     "filePrefix": "el",
-    "lastUpdated": "2026-10-24T23:08:56.319266",
+    "lastUpdated": "2026-10-25T10:31:28.801225",
     "playerCount": 798,
     "status": "ready"
   }

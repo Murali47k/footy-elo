@@ -1,475 +1,475 @@
 ParticipantName,TeamName,Position,ELO,STANDINGS_BONUS,ELO_FINAL
 Mohamed Salah,Liverpool,RW,1906,32,1938
-Harry Kane,Tottenham Hotspur,ST,1806,38,1844
-Sergio Agüero,Manchester City,CF,1764,66,1830
-Kevin De Bruyne,Manchester City,CAM,1732,66,1798
+Harry Kane,Tottenham Hotspur,ST,1802,38,1840
+Sergio Agüero,Manchester City,ST,1766,70,1836
+Kevin De Bruyne,Manchester City,CAM,1735,70,1805
 David de Gea,Manchester United,GK,1714,50,1764
-Raheem Sterling,Manchester City,LW,1691,66,1757
-Christian Eriksen,Tottenham Hotspur,CAM,1719,38,1757
-Roberto Firmino,Liverpool,CAM,1715,32,1747
-Jamie Vardy,Leicester City,CF,1726,8,1734
-Ederson,Manchester City,GK,1648,66,1714
-Heung-Min Son,Tottenham Hotspur,ST,1675,38,1713
-Leroy Sané,Manchester City,RW,1646,66,1712
-Romelu Lukaku,Manchester United,CF,1658,50,1708
-César Azpilicueta,Chelsea,RB,1676,24,1700
+Raheem Sterling,Manchester City,LW,1691,70,1761
+Christian Eriksen,Tottenham Hotspur,CAM,1722,38,1760
+Roberto Firmino,Liverpool,CAM,1718,32,1750
+Jamie Vardy,Leicester City,ST,1728,8,1736
+Ederson,Manchester City,GK,1648,70,1718
+Leroy Sané,Manchester City,RW,1646,70,1716
+Romelu Lukaku,Manchester United,ST,1660,50,1710
+Heung-Min Son,Tottenham Hotspur,ST,1671,38,1709
+César Azpilicueta,Chelsea,RB,1683,24,1707
 Chris Smalling,Manchester United,CB,1638,50,1688
 Riyad Mahrez,Leicester City,RW,1672,8,1680
+Danilo,Manchester City,CB,1605,70,1675
+Paul Pogba,Manchester United,LAM,1624,50,1674
 Hugo Lloris,Tottenham Hotspur,GK,1635,38,1673
-Paul Pogba,Manchester United,LAM,1622,50,1672
-Danilo,Manchester City,CB,1605,66,1671
+Aaron Ramsey,Arsenal,CAM,1650,20,1670
+Ilkay Gündogan,Manchester City,CDM,1600,70,1670
+Fabian Delph,Manchester City,CM,1599,70,1669
 Eden Hazard,Chelsea,LW,1645,24,1669
-Nacho Monreal,Arsenal,LWB,1649,20,1669
 Shkodran Mustafi,Arsenal,CB,1648,20,1668
-Ilkay Gündogan,Manchester City,CDM,1600,66,1666
-Aaron Ramsey,Arsenal,CAM,1646,20,1666
-Fabian Delph,Manchester City,CM,1599,66,1665
-David Silva,Manchester City,RAM,1592,66,1658
-Fernandinho,Manchester City,CM,1591,66,1657
+Nacho Monreal,Arsenal,LB,1648,20,1668
+David Silva,Manchester City,RAM,1593,70,1663
+Fernandinho,Manchester City,CM,1591,70,1661
 Alex Oxlade-Chamberlain,Liverpool,CDM,1623,32,1655
-Alexandre Lacazette,Arsenal,CF,1631,20,1651
+Alexandre Lacazette,Arsenal,ST,1633,20,1653
 Ryan Shawcross,Stoke City,CB,1650,0,1650
-Pascal Groß,Brighton and Hove Albion,CDM,1649,0,1649
 Kurt Zouma,Stoke City,CB,1649,0,1649
-Kieran Trippier,Tottenham Hotspur,RWB,1610,38,1648
+Pascal Groß,Brighton and Hove Albion,CDM,1649,0,1649
 Phil Jagielka,Everton,CB,1636,12,1648
-Pierre-Emerick Aubameyang,Arsenal,ST,1627,20,1647
+Kieran Trippier,Tottenham Hotspur,RB,1610,38,1648
 Anthony Martial,Manchester United,LW,1596,50,1646
+Pierre-Emerick Aubameyang,Arsenal,ST,1623,20,1643
+Kyle Walker,Manchester City,RB,1572,70,1642
 Virgil van Dijk,Liverpool,CB,1610,32,1642
+Sadio Mané,Liverpool,LM,1609,32,1641
 Jordan Henderson,Liverpool,CDM,1608,32,1640
-Steve Cook,Bournemouth,CB,1640,0,1640
 Ben Davies,Tottenham Hotspur,CB,1602,38,1640
+Steve Cook,Bournemouth,CB,1640,0,1640
 N'Golo Kanté,Chelsea,CDM,1615,24,1639
-Kyle Walker,Manchester City,RWB,1573,66,1639
 Dejan Lovren,Liverpool,CB,1605,32,1637
 Ander Herrera,Manchester United,CDM,1587,50,1637
-Sadio Mané,Liverpool,LM,1605,32,1637
+Cuco Martina,Everton,RB,1622,12,1634
 Laurent Koscielny,Arsenal,CB,1614,20,1634
-Cuco Martina,Everton,RWB,1622,12,1634
 Phil Jones,Manchester United,CB,1583,50,1633
 Thibaut Courtois,Chelsea,GK,1609,24,1633
 Mamadou Sakho,Crystal Palace,CB,1631,0,1631
 Michael Keane,Everton,CB,1618,12,1630
+Willian,Chelsea,CAM,1605,24,1629
+Marcos Alonso,Chelsea,LB,1604,24,1628
 Ahmed Hegazy,West Bromwich Albion,CB,1628,0,1628
-Willian,Chelsea,CAM,1602,24,1626
-Marcos Alonso,Chelsea,LB,1601,24,1625
 Florian Lejeune,Newcastle United,CB,1621,4,1625
+Matthew Lowton,Burnley,RWB,1608,16,1624
 Ashley Williams,Everton,CB,1612,12,1624
-Andrew Robertson,Liverpool,LWB,1591,32,1623
 Luka Milivojevic,Crystal Palace,CDM,1622,0,1622
-Matthew Lowton,Burnley,RWB,1606,16,1622
-Chris Wood,Burnley,ST,1605,16,1621
+Andrew Robertson,Liverpool,LB,1589,32,1621
+Chris Wood,Burnley,ST,1602,16,1618
 Ciaran Clark,Newcastle United,CB,1614,4,1618
 Wayne Rooney,Everton,CDM,1605,12,1617
-Ashley Young,Manchester United,RWB,1565,50,1615
-Philippe Coutinho,Liverpool,CAM,1581,32,1613
+Ashley Young,Manchester United,RB,1564,50,1614
 James Tomkins,Crystal Palace,CB,1612,0,1612
+Philippe Coutinho,Liverpool,CAM,1578,32,1610
 Ragnar Klavan,Liverpool,CB,1578,32,1610
-Dele Alli,Tottenham Hotspur,CAM,1571,38,1609
 James Milner,Liverpool,CDM,1577,32,1609
+Dele Alli,Tottenham Hotspur,CAM,1571,38,1609
+Jesse Lingard,Manchester United,ST,1558,50,1608
 Nathan Aké,Bournemouth,CB,1607,0,1607
 Alex Iwobi,Arsenal,CDM,1587,20,1607
 Andreas Christensen,Chelsea,CB,1583,24,1607
-Jesse Lingard,Manchester United,CF,1556,50,1606
-Petr Cech,Arsenal,GK,1583,20,1603
+Gabriel Jesus,Manchester City,ST,1533,70,1603
 Alfie Mawson,Swansea City,CB,1603,0,1603
+Petr Cech,Arsenal,GK,1583,20,1603
 Steven Davis,Southampton,CDM,1600,0,1600
-Cesc Fàbregas,Chelsea,CM,1574,24,1598
 Joel Matip,Liverpool,CB,1566,32,1598
+Cesc Fàbregas,Chelsea,CM,1574,24,1598
 James Tarkowski,Burnley,CB,1581,16,1597
-Gabriel Jesus,Manchester City,CF,1531,66,1597
-Harry Maguire,Leicester City,CB,1588,8,1596
 Davinson Sánchez,Tottenham Hotspur,CB,1558,38,1596
+Harry Maguire,Leicester City,CB,1588,8,1596
 Stephen Ward,Burnley,CB,1579,16,1595
-Marcus Rashford,Manchester United,LW,1545,50,1595
 Gylfi Sigurdsson,Everton,CDM,1583,12,1595
+Marcus Rashford,Manchester United,LW,1545,50,1595
+Sead Kolasinac,Arsenal,LB,1574,20,1594
+Bernardo Silva,Manchester City,RAM,1524,70,1594
 Jordan Pickford,Everton,GK,1582,12,1594
-Juan Mata,Manchester United,CAM,1543,50,1593
 Maya Yoshida,Southampton,CB,1593,0,1593
-Charlie Daniels,Bournemouth,LWB,1593,0,1593
+Juan Mata,Manchester United,CAM,1543,50,1593
 Mathew Ryan,Brighton and Hove Albion,GK,1592,0,1592
+Charlie Daniels,Bournemouth,LB,1591,0,1591
 Vicente Iborra,Leicester City,CM,1583,8,1591
-Sead Kolasinac,Arsenal,LB,1570,20,1590
 Kyle Naughton,Swansea City,CB,1590,0,1590
+Nicolás Otamendi,Manchester City,CB,1519,70,1589
 Jamaal Lascelles,Newcastle United,CB,1585,4,1589
-Christian Fuchs,Leicester City,LWB,1581,8,1589
-Bernardo Silva,Manchester City,RAM,1523,66,1589
-Trent Alexander-Arnold,Liverpool,RWB,1555,32,1587
-Nicolás Otamendi,Manchester City,CB,1519,66,1585
+Christian Fuchs,Leicester City,LB,1579,8,1587
+Trent Alexander-Arnold,Liverpool,RB,1554,32,1586
+Alexis Sánchez,Manchester United,ST,1535,50,1585
 Angelo Ogbonna,West Ham United,CB,1585,0,1585
 Lewis Dunk,Brighton and Hove Albion,CB,1584,0,1584
-Alexis Sánchez,Manchester United,CF,1533,50,1583
 Mario Lemina,Southampton,CDM,1583,0,1583
 Andrew Surman,Bournemouth,CM,1582,0,1582
-Jan Vertonghen,Tottenham Hotspur,CB,1543,38,1581
 Christian Kabasele,Watford,CB,1581,0,1581
+Jan Vertonghen,Tottenham Hotspur,CB,1543,38,1581
+Henrikh Mkhitaryan,Arsenal,CAM,1560,20,1580
 Lukasz Fabianski,Swansea City,GK,1580,0,1580
-Aaron Mooy,Huddersfield Town,CM,1579,0,1579
 Ben Mee,Burnley,CB,1563,16,1579
-Henrikh Mkhitaryan,Arsenal,CAM,1558,20,1578
-Daryl Janmaat,Watford,RWB,1577,0,1577
+Aaron Mooy,Huddersfield Town,CM,1579,0,1579
 Jonas Lössl,Huddersfield Town,GK,1577,0,1577
-Joseph Gomez,Liverpool,CB,1544,32,1576
-Paul Dummett,Newcastle United,CB,1572,4,1576
 Federico Fernández,Swansea City,CB,1576,0,1576
-Loris Karius,Liverpool,GK,1543,32,1575
+Joseph Gomez,Liverpool,CB,1544,32,1576
+Daryl Janmaat,Watford,RB,1576,0,1576
+Paul Dummett,Newcastle United,CB,1572,4,1576
 Tiemoué Bakayoko,Chelsea,CDM,1551,24,1575
+Loris Karius,Liverpool,GK,1543,32,1575
+Davide Zappacosta,Chelsea,RWB,1550,24,1574
 Nick Pope,Burnley,GK,1558,16,1574
 Eric Dier,Tottenham Hotspur,CB,1535,38,1573
 Christopher Schindler,Huddersfield Town,CB,1572,0,1572
+Mike van der Hoorn,Swansea City,CB,1572,0,1572
 Nemanja Matic,Manchester United,CM,1522,50,1572
 Grzegorz Krychowiak,West Bromwich Albion,CDM,1572,0,1572
-Mike van der Hoorn,Swansea City,CB,1572,0,1572
-Jonjoe Kenny,Everton,RWB,1559,12,1571
+Jonjoe Kenny,Everton,RB,1558,12,1570
+Joshua King,Bournemouth,ST,1569,0,1569
 Antonio Rüdiger,Chelsea,CB,1545,24,1569
-Joshua King,Bournemouth,CF,1567,0,1567
 Shane Duffy,Brighton and Hove Albion,CB,1566,0,1566
-Gary Cahill,Chelsea,CB,1540,24,1564
+Leighton Baines,Everton,LM,1553,12,1565
 Emre Can,Liverpool,CB,1532,32,1564
+Gary Cahill,Chelsea,CB,1540,24,1564
+Ayoze Pérez,Newcastle United,ST,1558,4,1562
 Mohamed Diamé,Newcastle United,CB,1558,4,1562
-Leighton Baines,Everton,LM,1548,12,1560
 Sung-Yueng Ki,Swansea City,CDM,1560,0,1560
-Ayoze Pérez,Newcastle United,CF,1556,4,1560
+Marouane Fellaini,Manchester United,ST,1509,50,1559
 Pedro Obiang,West Ham United,CDM,1559,0,1559
 Ruben Loftus-Cheek,Crystal Palace,CM,1558,0,1558
-Matteo Darmian,Manchester United,RM,1508,50,1558
-Marouane Fellaini,Manchester United,CF,1507,50,1557
 Mathias Jørgensen,Huddersfield Town,CB,1557,0,1557
-Olivier Giroud,Chelsea,ST,1533,24,1557
-Callum Wilson,Bournemouth,ST,1557,0,1557
-Aaron Cresswell,West Ham United,LWB,1556,0,1556
-Patrick van Aanholt,Crystal Palace,LWB,1556,0,1556
+Aaron Cresswell,West Ham United,LB,1555,0,1555
 Jonny Evans,West Bromwich Albion,CB,1555,0,1555
-Marko Arnautovic,West Ham United,ST,1555,0,1555
+Xherdan Shaqiri,Stoke City,CAM,1555,0,1555
 Abdoulaye Doucouré,Watford,CDM,1554,0,1554
+Patrick van Aanholt,Crystal Palace,LB,1554,0,1554
 Declan Rice,West Ham United,CDM,1554,0,1554
-Ryan Fraser,Bournemouth,LW,1553,0,1553
-Xherdan Shaqiri,Stoke City,CAM,1553,0,1553
+Callum Wilson,Bournemouth,ST,1554,0,1554
+Olivier Giroud,Chelsea,ST,1530,24,1554
 Mikel Merino,Newcastle United,CM,1549,4,1553
-Victor Moses,Chelsea,RM,1529,24,1553
-Davide Zappacosta,Chelsea,RM,1528,24,1552
-Mark Noble,West Ham United,CDM,1552,0,1552
+Ryan Fraser,Bournemouth,LW,1553,0,1553
 Ben Foster,West Bromwich Albion,GK,1552,0,1552
-Chris Löwe,Huddersfield Town,LWB,1551,0,1551
-Cenk Tosun,Everton,ST,1538,12,1550
+Phil Foden,Manchester City,LAM,1482,70,1552
+Scott Malone,Huddersfield Town,LB,1552,0,1552
+Marko Arnautovic,West Ham United,ST,1552,0,1552
+Mark Noble,West Ham United,CDM,1552,0,1552
+Matteo Darmian,Manchester United,RM,1501,50,1551
 Idrissa Gana Gueye,Everton,CDM,1538,12,1550
-Phil Foden,Manchester City,LAM,1483,66,1549
+Kiko,Watford,RWB,1550,0,1550
+Chris Löwe,Huddersfield Town,LB,1549,0,1549
 Geoff Cameron,Stoke City,CB,1549,0,1549
-Scott Malone,Huddersfield Town,LB,1548,0,1548
-Kiko,Watford,RWB,1548,0,1548
 Étienne Capoue,Watford,CM,1548,0,1548
 Davy Pröpper,Brighton and Hove Albion,CDM,1547,0,1547
-Baye Oumar Niasse,Everton,ST,1534,12,1546
-Ryan Bertrand,Southampton,LWB,1544,0,1544
-Manuel Lanzini,West Ham United,CAM,1543,0,1543
+Cenk Tosun,Everton,ST,1534,12,1546
+Victor Moses,Chelsea,RM,1522,24,1546
+Manuel Lanzini,West Ham United,CAM,1545,0,1545
+Steve Mounié,Huddersfield Town,ST,1544,0,1544
+Baye Oumar Niasse,Everton,ST,1531,12,1543
 Moussa Sissoko,Tottenham Hotspur,CM,1505,38,1543
 Wesley Hoedt,Southampton,CB,1543,0,1543
-Andy King,Swansea City,CDM,1542,0,1542
-Steve Mounié,Huddersfield Town,CF,1542,0,1542
-Ben Chilwell,Leicester City,LWB,1534,8,1542
+Ryan Bertrand,Southampton,LB,1542,0,1542
 Tom Carroll,Swansea City,CDM,1542,0,1542
-Héctor Bellerín,Arsenal,RWB,1522,20,1542
+Héctor Bellerín,Arsenal,RB,1522,20,1542
+Andy King,Swansea City,CDM,1542,0,1542
 Jack Butland,Stoke City,GK,1541,0,1541
 Pedro,Chelsea,LW,1516,24,1540
-Javier Hernández,West Ham United,ST,1540,0,1540
+Ben Chilwell,Leicester City,LB,1532,8,1540
 James McArthur,Crystal Palace,CM,1539,0,1539
 Roberto Pereyra,Watford,CDM,1538,0,1538
 Ashley Westwood,Burnley,CM,1522,16,1538
+Cédric Soares,Southampton,RWB,1536,0,1536
 Granit Xhaka,Arsenal,CDM,1516,20,1536
-Tammy Abraham,Swansea City,ST,1535,0,1535
+Javier Hernández,West Ham United,ST,1536,0,1536
 Joe Allen,Stoke City,CDM,1534,0,1534
-Michy Batshuayi,Chelsea,ST,1509,24,1533
+Tammy Abraham,Swansea City,ST,1532,0,1532
 Wayne Hennessey,Crystal Palace,GK,1532,0,1532
+Jóhann Gudmundsson,Burnley,CAM,1515,16,1531
+Laurent Depoitre,Huddersfield Town,ST,1531,0,1531
 Chris Brunt,West Bromwich Albion,CM,1530,0,1530
-Laurent Depoitre,Huddersfield Town,CF,1530,0,1530
-Jóhann Gudmundsson,Burnley,CAM,1514,16,1530
+Michy Batshuayi,Chelsea,ST,1505,24,1529
 André Carrillo,Watford,CDM,1529,0,1529
+Junior Stanislas,Bournemouth,CAM,1529,0,1529
 Jeff Hendrick,Burnley,CDM,1512,16,1528
-Shinji Okazaki,Leicester City,ST,1520,8,1528
 Jonjo Shelvey,Newcastle United,CDM,1522,4,1526
-Sam Clucas,Swansea City,LM,1526,0,1526
-Danny Welbeck,Arsenal,ST,1506,20,1526
-Eric Maxim Choupo-Moting,Stoke City,ST,1525,0,1525
-Nathaniel Clyne,Liverpool,RM,1493,32,1525
+Manolo Gabbiadini,Southampton,LAM,1525,0,1525
+Shinji Okazaki,Leicester City,ST,1516,8,1524
 Jack Stephens,Southampton,CB,1524,0,1524
-Junior Stanislas,Bournemouth,CAM,1524,0,1524
 James Ward-Prowse,Southampton,CDM,1523,0,1523
-Manolo Gabbiadini,Southampton,LAM,1522,0,1522
-Jeffrey Schlupp,Crystal Palace,LWB,1522,0,1522
-Sèrge Aurier,Tottenham Hotspur,RWB,1483,38,1521
+Danny Welbeck,Arsenal,ST,1503,20,1523
+Cheikhou Kouyaté,West Ham United,LB,1523,0,1523
+Eric Maxim Choupo-Moting,Stoke City,ST,1521,0,1521
+Jeffrey Schlupp,Crystal Palace,LB,1520,0,1520
+Sèrge Aurier,Tottenham Hotspur,RB,1482,38,1520
 Erik Pieters,Stoke City,CB,1520,0,1520
 Jordon Ibe,Bournemouth,RW,1520,0,1520
-Cheikhou Kouyaté,West Ham United,LB,1519,0,1519
 Lewis Cook,Bournemouth,CDM,1519,0,1519
-Zlatan Ibrahimovic,Manchester United,ST,1467,50,1517
 Kasper Schmeichel,Leicester City,GK,1509,8,1517
+Brahim Díaz,Manchester City,RW,1447,70,1517
 Sebastian Prödl,Watford,CB,1516,0,1516
-Kyle Walker-Peters,Tottenham Hotspur,RWB,1478,38,1516
-Thomas Ince,Huddersfield Town,RM,1516,0,1516
-Séamus Coleman,Everton,RM,1501,12,1513
-Brahim Díaz,Manchester City,RW,1447,66,1513
-Adam Smith,Bournemouth,RWB,1512,0,1512
-Michail Antonio,West Ham United,ST,1511,0,1511
-Aaron Lennon,Burnley,LM,1495,16,1511
-Jay Rodriguez,West Bromwich Albion,CAM,1509,0,1509
+Aaron Lennon,Burnley,LM,1500,16,1516
+Kyle Walker-Peters,Tottenham Hotspur,RB,1477,38,1515
+Zlatan Ibrahimovic,Manchester United,ST,1463,50,1513
+Adam Smith,Bournemouth,RB,1512,0,1512
+Jay Rodriguez,West Bromwich Albion,CAM,1511,0,1511
+Javier Manquillo,Newcastle United,RB,1506,4,1510
+Thomas Ince,Huddersfield Town,RM,1510,0,1510
+Georginio Wijnaldum,Liverpool,ST,1477,32,1509
 Jose Izquierdo,Brighton and Hove Albion,LW,1509,0,1509
-Wilfred Ndidi,Leicester City,CDM,1500,8,1508
-Dale Stephens,Brighton and Hove Albion,CM,1508,0,1508
-Josh Sims,Southampton,RM,1508,0,1508
 Jake Livermore,West Bromwich Albion,CDM,1508,0,1508
-Georginio Wijnaldum,Liverpool,CF,1475,32,1507
-Mesut Özil,Arsenal,RAM,1487,20,1507
+Dale Stephens,Brighton and Hove Albion,CM,1508,0,1508
+Craig Dawson,West Bromwich Albion,LB,1508,0,1508
+Mesut Özil,Arsenal,RAM,1488,20,1508
+Michail Antonio,West Ham United,ST,1508,0,1508
+Wilfred Ndidi,Leicester City,CDM,1500,8,1508
+Adrian Mariappa,Watford,LB,1508,0,1508
 Steven Defour,Burnley,CM,1491,16,1507
-Arthur Masuaku,West Ham United,LWB,1506,0,1506
+Joel Ward,Crystal Palace,RB,1506,0,1506
 Simon Mignolet,Liverpool,GK,1474,32,1506
-Joel Ward,Crystal Palace,RWB,1506,0,1506
-Andre Gray,Watford,ST,1505,0,1505
-Bakary Sako,Crystal Palace,ST,1504,0,1504
-Craig Dawson,West Bromwich Albion,LB,1504,0,1504
+Jermain Defoe,Bournemouth,ST,1505,0,1505
+Danny Ings,Liverpool,ST,1473,32,1505
+Arthur Masuaku,West Ham United,LB,1504,0,1504
 Adrián,West Ham United,GK,1504,0,1504
-Jordan Ayew,Swansea City,ST,1504,0,1504
-Adrian Mariappa,Watford,LB,1504,0,1504
-Jermain Defoe,Bournemouth,CF,1504,0,1504
-Tomer Hemed,Brighton and Hove Albion,ST,1503,0,1503
-Danny Ings,Liverpool,CF,1471,32,1503
 Wilfried Zaha,Crystal Palace,LW,1503,0,1503
-Javier Manquillo,Newcastle United,RB,1499,4,1503
-Mousa Dembélé,Tottenham Hotspur,CM,1464,38,1502
+Nathan Redmond,Southampton,LAM,1503,0,1503
 Fraser Forster,Southampton,GK,1502,0,1502
-Álvaro Morata,Chelsea,ST,1478,24,1502
+Mousa Dembélé,Tottenham Hotspur,CM,1464,38,1502
 Wes Morgan,Leicester City,CB,1493,8,1501
-Nathan Redmond,Southampton,LAM,1501,0,1501
+Andre Gray,Watford,ST,1501,0,1501
+Josh Sims,Southampton,RM,1501,0,1501
+Ezequiel Schelotto,Brighton and Hove Albion,RB,1500,0,1500
+Peter Crouch,Stoke City,CF,1500,0,1500
+Jordan Ayew,Swansea City,ST,1500,0,1500
+Bakary Sako,Crystal Palace,ST,1500,0,1500
 Theo Walcott,Everton,RW,1488,12,1500
-Fernando Llorente,Tottenham Hotspur,ST,1462,38,1500
-Bruno Saltor,Brighton and Hove Albion,RWB,1500,0,1500
-Ezequiel Schelotto,Brighton and Hove Albion,RWB,1500,0,1500
+Sam Clucas,Swansea City,LWB,1500,0,1500
+Saido Berahino,Stoke City,CF,1500,0,1500
+Bruno Saltor,Brighton and Hove Albion,RB,1499,0,1499
+Álvaro Morata,Chelsea,ST,1475,24,1499
+Tomer Hemed,Brighton and Hove Albion,ST,1499,0,1499
 Jack Wilshere,Arsenal,CDM,1478,20,1498
+Daniel Sturridge,West Bromwich Albion,ST,1498,0,1498
+DeAndre Yedlin,Newcastle United,RWB,1494,4,1498
 Morgan Schneiderlin,Everton,CB,1485,12,1497
-Kieran Gibbs,West Bromwich Albion,LWB,1497,0,1497
 Heurelho Gomes,Watford,GK,1497,0,1497
+Oleksandr Zinchenko,Manchester City,LB,1427,70,1497
+Benjamin Mendy,Manchester City,LB,1427,70,1497
 Dusan Tadic,Southampton,CAM,1496,0,1496
-Daniel Sturridge,West Bromwich Albion,CF,1496,0,1496
-DeAndre Yedlin,Newcastle United,RWB,1492,4,1496
 Pierre-Emile Højbjerg,Southampton,CDM,1496,0,1496
 Andros Townsend,Crystal Palace,RW,1496,0,1496
-Oleksandr Zinchenko,Manchester City,LWB,1429,66,1495
-Benjamin Mendy,Manchester City,LWB,1429,66,1495
-Ademola Lookman,Everton,LAM,1483,12,1495
+Fernando Llorente,Tottenham Hotspur,ST,1458,38,1496
+Kieran Gibbs,West Bromwich Albion,LB,1495,0,1495
+Ademola Lookman,Everton,LAM,1482,12,1494
 Simon Francis,Bournemouth,CB,1493,0,1493
-Danny Simpson,Leicester City,RWB,1485,8,1493
-Jürgen Locadia,Brighton and Hove Albion,ST,1492,0,1492
 Beram Kayal,Brighton and Hove Albion,CM,1492,0,1492
-Will Hughes,Watford,CDM,1490,0,1490
+Danny Simpson,Leicester City,RB,1484,8,1492
 Joe Hart,West Ham United,GK,1490,0,1490
-Dwight Gayle,Newcastle United,ST,1485,4,1489
+Claudio Bravo,Manchester City,GK,1420,70,1490
+Will Hughes,Watford,CDM,1490,0,1490
+Troy Deeney,Watford,ST,1490,0,1490
 Leroy Fer,Swansea City,CDM,1488,0,1488
-Troy Deeney,Watford,CF,1488,0,1488
-Jacob Murphy,Newcastle United,RW,1483,4,1487
+Yaya Touré,Manchester City,CAM,1418,70,1488
+Jose Holebas,Watford,LB,1488,0,1488
+Florent Hadërgjonaj,Huddersfield Town,RWB,1488,0,1488
+Jürgen Locadia,Brighton and Hove Albion,ST,1488,0,1488
 Charlie Austin,Southampton,LW,1487,0,1487
-Yaya Touré,Manchester City,CAM,1421,66,1487
-Claudio Bravo,Manchester City,GK,1420,66,1486
+Dominic Calvert-Lewin,Everton,ST,1475,12,1487
+Jacob Murphy,Newcastle United,RW,1483,4,1487
 Asmir Begovic,Bournemouth,GK,1486,0,1486
 Jonathan Hogg,Huddersfield Town,CDM,1486,0,1486
-José Salomon Rondon,West Bromwich Albion,ST,1486,0,1486
-Dominic Calvert-Lewin,Everton,CF,1473,12,1485
 Jack Cork,Burnley,CB,1469,16,1485
-Cédric Soares,Southampton,RM,1484,0,1484
-Lys Mousset,Bournemouth,ST,1484,0,1484
-Jose Holebas,Watford,LB,1484,0,1484
-Leonardo Ulloa,Brighton and Hove Albion,ST,1484,0,1484
-Emerson,Chelsea,LWB,1459,24,1483
-Joao Mário,West Ham United,LW,1483,0,1483
-Alex Pritchard,Huddersfield Town,LAM,1483,0,1483
+Dwight Gayle,Newcastle United,ST,1481,4,1485
 Gareth Barry,West Bromwich Albion,CM,1483,0,1483
-Yannick Bolasie,Everton,ST,1470,12,1482
+Joao Mário,West Ham United,LW,1483,0,1483
+Alex Pritchard,Huddersfield Town,LAM,1482,0,1482
+José Salomon Rondon,West Bromwich Albion,ST,1482,0,1482
 Demarai Gray,Leicester City,LW,1474,8,1482
-Kenedy,Newcastle United,RW,1478,4,1482
 Charly Musonda,Chelsea,LW,1458,24,1482
-Aleksandar Mitrovic,Newcastle United,ST,1477,4,1481
-Dominic Solanke,Liverpool,CF,1448,32,1480
-Sofiane Boufal,Southampton,CAM,1479,0,1479
+Kenedy,Newcastle United,RW,1478,4,1482
+Lys Mousset,Bournemouth,ST,1481,0,1481
+Emerson,Chelsea,LB,1457,24,1481
+Jesé,Stoke City,ST,1481,0,1481
+Dominic Solanke,Liverpool,ST,1449,32,1481
+Sam Vokes,Burnley,ST,1464,16,1480
+Gaëtan Bong,Brighton and Hove Albion,LM,1480,0,1480
+Leonardo Ulloa,Brighton and Hove Albion,ST,1480,0,1480
+Gerard Deulofeu,Watford,ST,1480,0,1480
 Christian Atsu,Newcastle United,RW,1475,4,1479
-Robert Brady,Burnley,LAM,1463,16,1479
-Jesé,Stoke City,CF,1479,0,1479
+Sofiane Boufal,Southampton,CAM,1479,0,1479
+Yannick Bolasie,Everton,ST,1466,12,1478
+Kelechi Iheanacho,Leicester City,ST,1470,8,1478
+Robert Brady,Burnley,LAM,1462,16,1478
 Harry Winks,Tottenham Hotspur,CDM,1440,38,1478
-Sam Vokes,Burnley,CF,1462,16,1478
-Gerard Deulofeu,Watford,CF,1478,0,1478
-Jonathan Walters,Burnley,ST,1460,16,1476
-Nahki Wells,Burnley,ST,1460,16,1476
-Kelechi Iheanacho,Leicester City,CF,1468,8,1476
-Gaëtan Bong,Brighton and Hove Albion,LM,1476,0,1476
-Oli McBurnie,Swansea City,ST,1475,0,1475
-Guido Carrillo,Southampton,ST,1475,0,1475
-Sandro Ramírez,Everton,CF,1461,12,1473
+Aleksandar Mitrovic,Newcastle United,ST,1473,4,1477
+Séamus Coleman,Everton,RWB,1465,12,1477
+Sandro Ramírez,Everton,ST,1463,12,1475
+Nahki Wells,Burnley,ST,1456,16,1472
+Oliver Burke,West Bromwich Albion,ST,1472,0,1472
+Jonathan Walters,Burnley,ST,1456,16,1472
 Victor Wanyama,Tottenham Hotspur,CM,1434,38,1472
-Timothy Fosu-Mensah,Crystal Palace,RM,1472,0,1472
-Oliver Burke,West Bromwich Albion,CF,1470,0,1470
+Oli McBurnie,Swansea City,ST,1471,0,1471
+Guido Carrillo,Southampton,ST,1471,0,1471
 Sergio Romero,Manchester United,GK,1420,50,1470
 Reiss Nelson,Arsenal,LW,1450,20,1470
-Danny Drinkwater,Chelsea,CDM,1445,24,1469
 Martin Dúbravka,Newcastle United,GK,1465,4,1469
 Francis Coquelin,Arsenal,CM,1449,20,1469
+Danny Drinkwater,Chelsea,CDM,1445,24,1469
+Nathaniel Clyne,Liverpool,RWB,1435,32,1467
+Molla Wagué,Watford,RB,1467,0,1467
 Dan Gosling,Bournemouth,CDM,1467,0,1467
 Adam Lallana,Liverpool,CM,1434,32,1466
-Peter Crouch,Stoke City,CF,1466,0,1466
+John Stones,Manchester City,CB,1395,70,1465
+Timothy Fosu-Mensah,Crystal Palace,RM,1465,0,1465
 Orestis Karnezis,Watford,GK,1465,0,1465
-Lucas Moura,Tottenham Hotspur,CAM,1426,38,1464
-Jérémy Pied,Southampton,RWB,1463,0,1463
-Lasse Sørensen,Stoke City,RWB,1463,0,1463
-Florent Hadërgjonaj,Huddersfield Town,RM,1463,0,1463
-Elias Kachunga,Huddersfield Town,ST,1463,0,1463
-Luciano Narsingh,Swansea City,RW,1462,0,1462
+Matthew Phillips,West Bromwich Albion,ST,1463,0,1463
+Jamie Murphy,Brighton and Hove Albion,ST,1463,0,1463
+Islam Slimani,Newcastle United,ST,1459,4,1463
 Marko Grujic,Liverpool,CDM,1430,32,1462
-Alberto Moreno,Liverpool,LWB,1429,32,1461
-Matthew Phillips,West Bromwich Albion,CF,1461,0,1461
-Islam Slimani,Newcastle United,CF,1457,4,1461
-Allan Nyom,West Bromwich Albion,RWB,1461,0,1461
-Jamie Murphy,Brighton and Hove Albion,CF,1461,0,1461
-John Stones,Manchester City,CB,1395,66,1461
-James McCarthy,Everton,CM,1449,12,1461
+Luke Shaw,Manchester United,LB,1412,50,1462
+Lasse Sørensen,Stoke City,RB,1462,0,1462
+Jérémy Pied,Southampton,RB,1462,0,1462
+Luciano Narsingh,Swansea City,RW,1462,0,1462
 Davy Klaassen,Everton,CM,1449,12,1461
-Glenn Murray,Brighton and Hove Albion,ST,1460,0,1460
-Molla Wagué,Watford,RB,1460,0,1460
-Luke Shaw,Manchester United,LB,1409,50,1459
+James McCarthy,Everton,CM,1449,12,1461
+Lucas Moura,Tottenham Hotspur,CAM,1423,38,1461
+Allan Nyom,West Bromwich Albion,RB,1460,0,1460
+Elias Kachunga,Huddersfield Town,ST,1459,0,1459
+Alberto Moreno,Liverpool,LB,1427,32,1459
 Paulo Gazzaniga,Tottenham Hotspur,GK,1420,38,1458
-Diafra Sakho,West Ham United,ST,1457,0,1457
-Wilfried Bony,Swansea City,ST,1457,0,1457
+Alexander Sørloth,Crystal Palace,ST,1456,0,1456
+Glenn Murray,Brighton and Hove Albion,ST,1456,0,1456
+Michael Obafemi,Southampton,ST,1456,0,1456
 Isaac Hayden,Newcastle United,CDM,1452,4,1456
-Hamza Choudhury,Leicester City,RWB,1448,8,1456
+Hamza Choudhury,Leicester City,RB,1447,8,1455
 Érik Lamela,Tottenham Hotspur,RW,1417,38,1455
 David Ospina,Arsenal,GK,1435,20,1455
-Joselu,Newcastle United,ST,1451,4,1455
 Tom Davies,Everton,CDM,1443,12,1455
-Tommy Smith,Huddersfield Town,RWB,1455,0,1455
-Ashley Barnes,Burnley,ST,1439,16,1455
+Tommy Smith,Huddersfield Town,RB,1455,0,1455
 Robert Elliot,Newcastle United,GK,1450,4,1454
-Alexander Sørloth,Crystal Palace,CF,1454,0,1454
-Michael Obafemi,Southampton,CF,1454,0,1454
-Ainsley Maitland-Niles,Arsenal,RWB,1433,20,1453
+Diafra Sakho,West Ham United,ST,1453,0,1453
+Wilfried Bony,Swansea City,ST,1453,0,1453
+Ainsley Maitland-Niles,Arsenal,RB,1432,20,1452
 Nordin Amrabat,Watford,RW,1452,0,1452
-Joe Lolley,Huddersfield Town,RW,1452,0,1452
-Dodi Lukébakio,Watford,RW,1452,0,1452
 Chung-Yong Lee,Crystal Palace,RW,1452,0,1452
+Joselu,Newcastle United,ST,1448,4,1452
+Dodi Lukébakio,Watford,RW,1452,0,1452
+Joe Lolley,Huddersfield Town,RW,1452,0,1452
 Georges-Kévin N'Koudou,Burnley,LW,1435,16,1451
-Scott McTominay,Manchester United,CDM,1400,50,1450
-Jerome Sinclair,Watford,LW,1450,0,1450
-Oriol Romeu,Southampton,CDM,1450,0,1450
+Ashley Barnes,Burnley,ST,1435,16,1451
 Marc Albrighton,Leicester City,RW,1442,8,1450
-Nacer Chadli,West Bromwich Albion,LW,1450,0,1450
+Aymeric Laporte,Manchester City,CB,1380,70,1450
+Scott McTominay,Manchester United,CDM,1400,50,1450
+Oriol Romeu,Southampton,CDM,1450,0,1450
+Jerome Sinclair,Watford,LW,1450,0,1450
 Bojan Krkic,Stoke City,LW,1450,0,1450
-Sam McQueen,Southampton,CM,1449,0,1449
+Nacer Chadli,West Bromwich Albion,LW,1450,0,1450
 Isaiah Brown,Brighton and Hove Albion,CM,1449,0,1449
 Henri Saivet,Newcastle United,CDM,1445,4,1449
-Tom Cleverley,Watford,CAM,1448,0,1448
-Ángel Rangel,Swansea City,RWB,1448,0,1448
-Saido Berahino,Stoke City,CF,1448,0,1448
-Benik Afobe,Bournemouth,CF,1447,0,1447
-Fousseni Diabaté,Leicester City,LW,1438,8,1446
-Wayne Routledge,Swansea City,CF,1446,0,1446
-Aymeric Laporte,Manchester City,CB,1380,66,1446
+Sam McQueen,Southampton,CM,1449,0,1449
+Benik Afobe,Bournemouth,ST,1449,0,1449
+Wayne Routledge,Swansea City,ST,1448,0,1448
+Thomas Edwards,Stoke City,RB,1447,0,1447
+Ángel Rangel,Swansea City,RB,1447,0,1447
+Tom Cleverley,Watford,CAM,1446,0,1446
 Kevin Long,Burnley,CB,1430,16,1446
+Fousseni Diabaté,Leicester City,LW,1438,8,1446
 Beni Baningime,Everton,CM,1434,12,1446
-Michael Carrick,Manchester United,CB,1395,50,1445
-Pablo Zabaleta,West Ham United,RWB,1445,0,1445
-Daley Blind,Manchester United,CB,1395,50,1445
+Marvin Zeegelaar,Watford,LM,1446,0,1446
 Antonio Valencia,Manchester United,RW,1395,50,1445
+Pablo Zabaleta,West Ham United,RB,1445,0,1445
+Michael Carrick,Manchester United,CB,1395,50,1445
+Daley Blind,Manchester United,CB,1395,50,1445
+Stefano Okaka Chuka,Watford,ST,1444,0,1444
+Rajiv van La Parra,Huddersfield Town,ST,1444,0,1444
 Wilfredo Caballero,Chelsea,GK,1420,24,1444
-Abdelhamid Sabiri,Huddersfield Town,CM,1444,0,1444
-Matt Targett,Southampton,LWB,1444,0,1444
-Markus Suttner,Brighton and Hove Albion,LWB,1444,0,1444
 Edimilson Fernandes,West Ham United,CM,1444,0,1444
-Konstantinos Stafylidis,Stoke City,LWB,1444,0,1444
-Kasey Palmer,Huddersfield Town,LAM,1443,0,1443
-Rajiv van La Parra,Huddersfield Town,CF,1442,0,1442
-Stefano Okaka Chuka,Watford,CF,1442,0,1442
+Abdelhamid Sabiri,Huddersfield Town,CM,1444,0,1444
+Terence Kongolo,Huddersfield Town,LB,1442,0,1442
+Markus Suttner,Brighton and Hove Albion,LB,1442,0,1442
 Matt Ritchie,Newcastle United,RW,1438,4,1442
-Mame Biram Diouf,Stoke City,ST,1441,0,1441
-Marvin Zeegelaar,Watford,LM,1441,0,1441
-Ross Barkley,Chelsea,CAM,1416,24,1440
-Thomas Edwards,Stoke City,RB,1440,0,1440
+Matt Targett,Southampton,LB,1442,0,1442
+Konstantinos Stafylidis,Stoke City,LB,1442,0,1442
+Kasey Palmer,Huddersfield Town,LAM,1442,0,1442
 Per Mertesacker,Arsenal,GK,1420,20,1440
-Terence Kongolo,Huddersfield Town,LB,1439,0,1439
 Karl Darlow,Newcastle United,GK,1435,4,1439
+Mame Biram Diouf,Stoke City,ST,1438,0,1438
 Ramadan Sobhi,Stoke City,CAM,1438,0,1438
-Danny Rose,Tottenham Hotspur,LWB,1399,38,1437
-Hal Robson-Kanu,West Bromwich Albion,ST,1436,0,1436
-Eric Bailly,Manchester United,CB,1385,50,1435
+Ross Barkley,Chelsea,CAM,1413,24,1437
+Danny Rose,Tottenham Hotspur,LB,1397,38,1435
 Alex McCarthy,Southampton,GK,1435,0,1435
+Eric Bailly,Manchester United,CB,1385,50,1435
 Julian Speroni,Crystal Palace,GK,1435,0,1435
 Ben Watson,Watford,CM,1434,0,1434
-Aaron Wan-Bissaka,Crystal Palace,RWB,1433,0,1433
-Richarlison,Watford,ST,1432,0,1432
-James Morrison,West Bromwich Albion,CAM,1431,0,1431
-André Ayew,Swansea City,CF,1431,0,1431
+André Ayew,Swansea City,ST,1433,0,1433
+Martin Kelly,Crystal Palace,RB,1432,0,1432
+Aaron Wan-Bissaka,Crystal Palace,RB,1432,0,1432
+Hal Robson-Kanu,West Bromwich Albion,ST,1432,0,1432
+Rekeem Harper,West Bromwich Albion,CDM,1430,0,1430
 Victor Nilsson Lindelöf,Manchester United,CB,1380,50,1430
 Emerson Hyndman,Bournemouth,CDM,1430,0,1430
-Rekeem Harper,West Bromwich Albion,CDM,1430,0,1430
-Collin Quaner,Huddersfield Town,ST,1429,0,1429
-Sam Byram,West Ham United,LWB,1429,0,1429
-Nikola Vlasic,Everton,CAM,1416,12,1428
+James Morrison,West Bromwich Albion,CAM,1428,0,1428
 Ben Hamer,Leicester City,GK,1420,8,1428
+Richarlison,Watford,ST,1428,0,1428
+Craig Cathcart,Watford,LB,1427,0,1427
+Sam Byram,West Ham United,LB,1427,0,1427
 Solly March,Brighton and Hove Albion,RW,1427,0,1427
-Scott Arfield,Burnley,CAM,1411,16,1427
-Martin Kelly,Crystal Palace,RB,1425,0,1425
-Craig Cathcart,Watford,LB,1424,0,1424
-Andy Carroll,West Ham United,ST,1423,0,1423
-Anthony Knockaert,Brighton and Hove Albion,CAM,1422,0,1422
+Collin Quaner,Huddersfield Town,ST,1426,0,1426
+Nikola Vlasic,Everton,CAM,1413,12,1425
+Scott Arfield,Burnley,CAM,1408,16,1424
+Anthony Knockaert,Brighton and Hove Albion,CAM,1421,0,1421
 Marc Pugh,Bournemouth,CAM,1420,0,1420
+Andy Carroll,West Ham United,ST,1419,0,1419
 Daniel Amartey,Leicester City,CDM,1410,8,1418
+Jay Fulton,Swansea City,CDM,1415,0,1415
 Nathaniel Chalobah,Watford,CDM,1415,0,1415
 Renato Sanches,Swansea City,CDM,1415,0,1415
-Jay Fulton,Swansea City,CDM,1415,0,1415
-Kevin Mirallas,Everton,CAM,1401,12,1413
-Martin Olsson,Swansea City,LWB,1412,0,1412
+James McClean,West Bromwich Albion,LM,1413,0,1413
 José Fonte,West Ham United,CB,1410,0,1410
+Martin Olsson,Swansea City,LB,1410,0,1410
+Vincent Kompany,Manchester City,CB,1340,70,1410
+Kevin Mirallas,Everton,CAM,1398,12,1410
 Jesus Gamez,Newcastle United,GK,1405,4,1409
 Matthew James,Leicester City,CDM,1400,8,1408
-Nathan Dyer,Swansea City,CAM,1408,0,1408
-James McClean,West Bromwich Albion,LM,1408,0,1408
 Eliaquim Mangala,Everton,CB,1395,12,1407
 Muhamed Besic,Everton,CB,1395,12,1407
-Vincent Kompany,Manchester City,CB,1340,66,1406
+Nathan Dyer,Swansea City,CAM,1406,0,1406
 Roque Mesa,Swansea City,CM,1404,0,1404
-Daniel Williams,Huddersfield Town,CAM,1404,0,1404
 Adrien Silva,Leicester City,CDM,1395,8,1403
-Ibrahim Afellay,Stoke City,CAM,1401,0,1401
-Sam Field,West Bromwich Albion,CDM,1400,0,1400
+Daniel Williams,Huddersfield Town,CAM,1402,0,1402
 Jan Bednarek,Southampton,CB,1400,0,1400
 Calum Chambers,Arsenal,CB,1380,20,1400
+Sam Field,West Bromwich Albion,CDM,1400,0,1400
 Chancel Mbemba,Newcastle United,CB,1395,4,1399
-Darren Fletcher,Stoke City,RAM,1398,0,1398
-Badou Ndiaye,Stoke City,CDM,1395,0,1395
-Mohamed Elneny,Arsenal,CDM,1375,20,1395
+Ibrahim Afellay,Stoke City,CAM,1398,0,1398
 Konstantinos Mavropanos,Arsenal,CB,1375,20,1395
+Mohamed Elneny,Arsenal,CDM,1375,20,1395
+Badou Ndiaye,Stoke City,CDM,1395,0,1395
+Darren Fletcher,Stoke City,RAM,1395,0,1395
 Ramiro Funes Mori,Everton,CB,1380,12,1392
+Phil Bardsley,Burnley,RWB,1375,16,1391
 Boaz Myhill,West Bromwich Albion,GK,1390,0,1390
-Phil Bardsley,Burnley,RWB,1373,16,1389
-Moritz Bauer,Stoke City,RWB,1388,0,1388
 Toby Alderweireld,Tottenham Hotspur,CB,1350,38,1388
-Philip Billing,Huddersfield Town,CDM,1385,0,1385
+Moritz Bauer,Stoke City,RB,1387,0,1387
 Harry Arter,Bournemouth,CDM,1385,0,1385
-Leon Britton,Swansea City,CB,1380,0,1380
+Philip Billing,Huddersfield Town,CDM,1385,0,1385
 Charlie Adam,Stoke City,CDM,1380,0,1380
-Connor Goldson,Brighton and Hove Albion,CB,1380,0,1380
-Tyrone Mings,Bournemouth,CB,1380,0,1380
-Stephen Ireland,Stoke City,CB,1380,0,1380
+Leon Britton,Swansea City,CB,1380,0,1380
 Michael Hefele,Huddersfield Town,CB,1380,0,1380
-Shane Long,Southampton,ST,1374,0,1374
+Tyrone Mings,Bournemouth,CB,1380,0,1380
+Connor Goldson,Brighton and Hove Albion,CB,1380,0,1380
+Stephen Ireland,Stoke City,CB,1380,0,1380
 Aleksandar Dragovic,Leicester City,CB,1365,8,1373
+Shane Long,Southampton,ST,1371,0,1371
 James Collins,West Ham United,CB,1370,0,1370
 Rob Holding,Arsenal,CB,1350,20,1370
 Charlie Taylor,Burnley,CB,1350,16,1366
-Kyle Bartley,Swansea City,CB,1365,0,1365
 Jason Puncheon,Crystal Palace,LW,1365,0,1365
+Kyle Bartley,Swansea City,CB,1365,0,1365
 Mason Holgate,Everton,CB,1350,12,1362
 Glen Johnson,Stoke City,GK,1360,0,1360
 David Luiz,Chelsea,CB,1335,24,1359
 Claudio Yacob,West Bromwich Albion,CDM,1355,0,1355
-Scott Dann,Crystal Palace,CB,1355,0,1355
 Marcos Rojo,Manchester United,CB,1305,50,1355
+Scott Dann,Crystal Palace,CB,1355,0,1355
 Yohan Cabaye,Crystal Palace,CAM,1353,0,1353
 Miguel Britos,Watford,CB,1350,0,1350
 Bruno Martins Indi,Stoke City,CB,1350,0,1350
 Winston Reid,West Ham United,CB,1320,0,1320
 Kevin Wimmer,Stoke City,CB,1320,0,1320
-Christian Benteke,Crystal Palace,CF,1314,0,1314
+Christian Benteke,Crystal Palace,ST,1316,0,1316

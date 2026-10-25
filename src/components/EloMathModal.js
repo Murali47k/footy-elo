@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 const STAT_WEIGHTS_DATA = {
   ST: {
-    title: 'Striker / Centre Forward (ST, CF)',
+    title: 'Striker (ST)',
     description: 'Calibrated on lethal penalty-box finishing, shot volume, efficiency against xG, and hold-up play.',
     positive: [
       { stat: 'Top scorer (Goals)', weight: '+1.7', desc: 'Primary output metric for central goalscorers' },
@@ -44,6 +44,7 @@ const STAT_WEIGHTS_DATA = {
       { stat: 'Top scorer (Goals)', weight: '+1.5', desc: 'Critical second-line goal contributions' },
       { stat: 'Assists', weight: '+1.0', desc: 'Key playmaker output and direct goal creation' },
       { stat: 'Successful dribbles per 90', weight: '+0.2', desc: 'Tight-space pocket dribbling between lines' },
+      { stat: 'Shots on target per 90', weight: '+0.5', desc: 'Direct goal threat volume from wide angles' },
       { stat: 'Possession won final 3rd per 90', weight: '+0.5', desc: 'Immediate counter-pressing recoveries' },
       { stat: 'Expected assist (xA)', weight: '+0.4', desc: 'Playmaking creativity index' },
       { stat: 'Expected goals (xG)', weight: '+0.2', desc: 'Box-crashing & late run threat' },
@@ -155,7 +156,7 @@ const STAT_WEIGHTS_DATA = {
 };
 
 const LEAGUE_BONUS_DATA = [
-  { finish: '1st (Champion)', bonus: '+66' },
+  { finish: '1st (Champion)', bonus: '+70' },
   { finish: '2nd', bonus: '+50' },
   { finish: '3rd', bonus: '+38' },
   { finish: '4th', bonus: '+32' },
@@ -386,7 +387,7 @@ function EloMathModal({ isOpen, onClose }) {
           <div className="math-modal-body">
             <div className="pos-selector-pill-row">
               {[
-                { id: 'ST', label: 'Striker (ST/CF)' },
+                { id: 'ST', label: 'Striker (ST)' },
                 { id: 'WING', label: 'Winger (RW/LW)' },
                 { id: 'CAM', label: 'Attacking Mid (CAM)' },
                 { id: 'CM', label: 'Central Mid (CM)' },

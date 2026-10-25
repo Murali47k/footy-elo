@@ -69,7 +69,7 @@ Team success is rewarded on top of individual performance. Every player in a squ
 
 | Final Position | Bonus |
 |:--|--:|
-| 1st (Champion) | +66 |
+| 1st (Champion) | +70 |
 | 2nd | +50 |
 | 3rd | +38 |
 | 4th | +32 |

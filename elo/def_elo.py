@@ -11,7 +11,7 @@ ELO_CONFIG = {
 # down to Position 10 (+2). Outside top 10: 0.
 # ─────────────────────────────────────────────
 LEAGUE_POSITION_BONUS = {
-    1:  66,   # Champion
+    1:  70,   # Champion
     2:  50,
     3:  38,
     4:  32,
@@ -126,6 +126,7 @@ STAT_WEIGHTS = {
         "Assists": 1.0,
         "Accurate passes per 90": 0.1,
         "Possession won final 3rd per 90": 0.5,
+        "Shots on target per 90": 0.5,
         "Expected assist (xA)": 0.4,
         "Expected goals (xG)": 0.2,
         "Successful dribbles per 90": 0.2,
@@ -231,7 +232,6 @@ ROLE_MAP = {
 
     # Strikers
     'ST': 'ST',
-    'CF': 'ST',
     'RF': 'WING',
     'LF': 'WING',
     'ATT': 'ATT',

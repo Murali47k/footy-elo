@@ -3,12 +3,12 @@ Juan Foyth,Villarreal,CB,1655,130,1785
 Raúl Albiol,Villarreal,CB,1646,130,1776
 Ibañez,Roma,CB,1726,38,1764
 Fabian Lustenberger,BSC Young Boys,CB,1755,0,1755
-Gerard Moreno,Villarreal,CF,1617,130,1747
+Gerard Moreno,Villarreal,ST,1618,130,1748
 Pizzi,Benfica,CM,1743,0,1743
 Dani Parejo,Villarreal,CM,1612,130,1742
-Paco Alcácer,Villarreal,ST,1610,130,1740
-Bruno Fernandes,Manchester United,CAM,1659,70,1729
-Jaume Costa,Villarreal,LWB,1590,130,1720
+Paco Alcácer,Villarreal,ST,1609,130,1739
+Bruno Fernandes,Manchester United,CAM,1664,70,1734
+Jaume Costa,Villarreal,LB,1590,130,1720
 Gerónimo Rulli,Villarreal,GK,1586,130,1716
 Pau López,Roma,GK,1677,38,1715
 Pau Torres,Villarreal,CB,1585,130,1715
@@ -17,7 +17,7 @@ Julian Weigl,Benfica,CDM,1710,0,1710
 Nemanja Milunovic,Crvena Zvezda,CB,1702,0,1702
 Dominik Livakovic,Dinamo Zagreb,GK,1675,20,1695
 Simon Kjær,Milan,CB,1685,10,1695
-Carlos Bacca,Villarreal,ST,1560,130,1690
+Carlos Bacca,Villarreal,ST,1559,130,1689
 Fred,Manchester United,CDM,1619,70,1689
 Moi Gómez,Villarreal,CM,1558,130,1688
 Rasmus Lauritsen,Dinamo Zagreb,CB,1667,20,1687
@@ -26,1256 +26,1256 @@ Samuel Chukwueze,Villarreal,LW,1553,130,1683
 Nemanja Matic,Manchester United,CM,1610,70,1680
 Harry Winks,Tottenham Hotspur,CDM,1660,10,1670
 Davinson Sánchez,Tottenham Hotspur,CB,1659,10,1669
-Nicolas Pépé,Arsenal,RM,1631,38,1669
 Stian Gregersen,Molde,CB,1658,10,1668
 Kévin Théophile-Catherine,Dinamo Zagreb,CB,1648,20,1668
+Nicolas Pépé,Arsenal,RM,1628,38,1666
+Leonardo Spinazzola,Roma,LWB,1627,38,1665
 Álex Baena,Villarreal,LM,1534,130,1664
 Étienne Capoue,Villarreal,CM,1534,130,1664
 Takefusa Kubo,Villarreal,RW,1533,130,1663
 Enric Saborit,Maccabi Tel Aviv,CB,1662,0,1662
 Jordan Lefort,BSC Young Boys,CB,1662,0,1662
-Florian Grillitsch,TSG 1899 Hoffenheim,CM,1661,0,1661
+Borja Mayoral,Roma,ST,1623,38,1661
 Josko Gvardiol,Dinamo Zagreb,CB,1641,20,1661
-Borja Mayoral,Roma,CF,1622,38,1660
+Florian Grillitsch,TSG 1899 Hoffenheim,CM,1661,0,1661
 Dani Ceballos,Arsenal,CDM,1621,38,1659
-Alfonso Pedraza,Villarreal,LWB,1529,130,1659
+Alfonso Pedraza,Villarreal,LB,1529,130,1659
 Francis Coquelin,Villarreal,CM,1526,130,1656
-Fer Niño,Villarreal,ST,1525,130,1655
+Fer Niño,Villarreal,ST,1524,130,1654
 Jonathan Tah,Bayer 04 Leverkusen,CB,1651,0,1651
 Martin Ellingsen,Molde,CB,1640,10,1650
-Diogo Dalot,Milan,RWB,1640,10,1650
-Connor Goldson,Rangers,CB,1639,10,1649
 Olivier Boscagli,PSV,CB,1649,0,1649
-James Tavernier,Rangers,RWB,1639,10,1649
+Connor Goldson,Rangers,CB,1639,10,1649
+Diogo Dalot,Milan,RB,1639,10,1649
 Milos Degenek,Crvena Zvezda,CB,1648,0,1648
+James Tavernier,Rangers,RB,1638,10,1648
 Martín Zubimendi,Real Sociedad,CDM,1646,0,1646
-Borna Barisic,Rangers,LWB,1633,10,1643
+Borna Barisic,Rangers,LB,1634,10,1644
+Lorenzo Pellegrini,Roma,LAM,1606,38,1644
+Yéremi Pino,Villarreal,LAM,1510,130,1640
 Etzaz Hussain,Molde,CM,1630,10,1640
-Yéremi Pino,Villarreal,LAM,1509,130,1639
-Lorenzo Pellegrini,Roma,LAM,1601,38,1639
 Luis Hernández,Maccabi Tel Aviv,CB,1638,0,1638
-Pervis Estupinán,Villarreal,LM,1508,130,1638
 Mislav Orsic,Dinamo Zagreb,LW,1617,20,1637
+Pervis Estupinán,Villarreal,LM,1507,130,1637
 Aleksandar Dragovic,Bayer 04 Leverkusen,CB,1636,0,1636
-Aaron Wan-Bissaka,Manchester United,RWB,1565,70,1635
 Steven Davis,Rangers,CDM,1625,10,1635
-Rubén Pena,Villarreal,RWB,1504,130,1634
-Radovan Pankov,Crvena Zvezda,CB,1634,0,1634
-Granit Xhaka,Arsenal,CDM,1596,38,1634
+Aaron Wan-Bissaka,Manchester United,RB,1564,70,1634
 Maxime Gonalons,Granada CF,CDM,1634,0,1634
+Granit Xhaka,Arsenal,CDM,1596,38,1634
+Radovan Pankov,Crvena Zvezda,CB,1634,0,1634
+Rubén Pena,Villarreal,RB,1503,130,1633
 Jordan Veretout,Roma,CDM,1592,38,1630
 Pierre-Emile Højbjerg,Tottenham Hotspur,CDM,1619,10,1629
-Ritchie De Laet,Royal Antwerp,RWB,1628,0,1628
-Eitan Tibi,Maccabi Tel Aviv,CB,1627,0,1627
-Alex Telles,Manchester United,LWB,1557,70,1627
-Tomás Holes,Slavia Prague,RB,1607,20,1627
+Lior Refaelov,Royal Antwerp,CAM,1628,0,1628
+Alex Telles,Manchester United,LB,1557,70,1627
+Ritchie De Laet,Royal Antwerp,RB,1627,0,1627
 David Luiz,Arsenal,CB,1589,38,1627
-Lior Refaelov,Royal Antwerp,CAM,1626,0,1626
+Eitan Tibi,Maccabi Tel Aviv,CB,1627,0,1627
 Sergio Asenjo,Villarreal,GK,1495,130,1625
 Lukás Masopust,Slavia Prague,CDM,1605,20,1625
+Tomás Holes,Slavia Prague,RB,1605,20,1625
+Magnus Wolff Eikrem,Molde,CAM,1613,10,1623
+Alberto Moreno,Villarreal,LB,1493,130,1623
 Franck Kessié,Milan,CDM,1613,10,1623
-Alberto Moreno,Villarreal,LWB,1492,130,1622
 Thomas Partey,Arsenal,CM,1584,38,1622
 Tiemoué Bakayoko,Napoli,CDM,1621,0,1621
-Mario Gaspar,Villarreal,RB,1491,130,1621
-Édinson Cavani,Manchester United,CF,1550,70,1620
-Kieran Tierney,Arsenal,LWB,1582,38,1620
 Sheriff Sinyan,Molde,CB,1610,10,1620
-Sven Botman,Lille,CB,1619,0,1619
-Boubakary Soumaré,Lille,CDM,1619,0,1619
+Édinson Cavani,Manchester United,ST,1550,70,1620
+Kieran Tierney,Arsenal,LB,1582,38,1620
+Munas Dabbur,TSG 1899 Hoffenheim,ST,1619,0,1619
+Mario Gaspar,Villarreal,RB,1489,130,1619
 Oscar Dorley,Slavia Prague,CDM,1599,20,1619
+Boubakary Soumaré,Lille,CDM,1619,0,1619
+Sven Botman,Lille,CB,1619,0,1619
+Dani Raba,Villarreal,ST,1488,130,1618
 Ibrahim Sangaré,PSV,CDM,1618,0,1618
-Munas Dabbur,TSG 1899 Hoffenheim,CF,1618,0,1618
-Magnus Wolff Eikrem,Molde,CAM,1607,10,1617
-Dani Raba,Villarreal,CF,1487,130,1617
-Cédric Zesiger,BSC Young Boys,LB,1616,0,1616
-Nehuén Pérez,Granada CF,CB,1614,0,1614
 Bryan Cristante,Roma,CDM,1576,38,1614
+Nehuén Pérez,Granada CF,CB,1614,0,1614
 Jan Vertonghen,Benfica,CB,1612,0,1612
-Silvan Hefti,BSC Young Boys,RWB,1611,0,1611
-Dominik Baumgartner,RZ Pellets WAC,RB,1609,0,1609
+Cédric Zesiger,BSC Young Boys,LB,1611,0,1611
+Silvan Hefti,BSC Young Boys,RB,1610,0,1610
 Jonathan Scherzer,RZ Pellets WAC,CB,1608,0,1608
 Ibrahim Traore,Slavia Prague,CM,1587,20,1607
-Mohamed Elneny,Arsenal,CDM,1569,38,1607
 Yusuf Yazici,Lille,RW,1607,0,1607
+Mohamed Elneny,Arsenal,CDM,1569,38,1607
+Dominik Baumgartner,RZ Pellets WAC,RB,1607,0,1607
+Theo Hernández,Milan,LB,1595,10,1605
 Marcus Rashford,Manchester United,LW,1535,70,1605
-Theo Hernández,Milan,LWB,1595,10,1605
-Matt Doherty,Tottenham Hotspur,RB,1594,10,1604
-Jesús Vallejo,Granada CF,CB,1603,0,1603
 Leon Bailey,Bayer 04 Leverkusen,RW,1603,0,1603
+Jesús Vallejo,Granada CF,CB,1603,0,1603
+Matt Doherty,Tottenham Hotspur,RB,1592,10,1602
+Cédric Soares,Arsenal,RWB,1563,38,1601
 Arijan Ademi,Dinamo Zagreb,CM,1581,20,1601
-Carlos Vinícius,Tottenham Hotspur,ST,1590,10,1600
 Kalidou Koulibaly,Napoli,CB,1600,0,1600
-Hamza Choudhury,Leicester City,RWB,1599,0,1599
-Amadou Diawara,Roma,CM,1561,38,1599
 Fransérgio,Sporting Braga,CDM,1599,0,1599
-Leon Balogun,Rangers,CB,1588,10,1598
+Carlos Vinícius,Tottenham Hotspur,ST,1589,10,1599
+Amadou Diawara,Roma,CM,1561,38,1599
 Gianluca Mancini,Roma,CB,1560,38,1598
 Emile Smith Rowe,Arsenal,CAM,1560,38,1598
+Hamza Choudhury,Leicester City,RB,1598,0,1598
+Nicolae Stanciu,Slavia Prague,CAM,1578,20,1598
+Leon Balogun,Rangers,CB,1588,10,1598
 Veljko Nikolic,Crvena Zvezda,CDM,1597,0,1597
-Philipp Max,PSV,LWB,1597,0,1597
+Philipp Max,PSV,LB,1597,0,1597
 Moatasem Al Musrati,Sporting Braga,CM,1596,0,1596
-Dean Henderson,Manchester United,GK,1525,70,1595
 Fredrik Aursnes,Molde,CDM,1585,10,1595
-Florian Wirtz,Bayer 04 Leverkusen,CAM,1593,0,1593
-Nicolae Stanciu,Slavia Prague,CAM,1572,20,1592
+Dean Henderson,Manchester United,GK,1525,70,1595
+Florian Wirtz,Bayer 04 Leverkusen,CAM,1594,0,1594
 Marco Bizot,AZ,GK,1591,0,1591
 Kristijan Jakic,Dinamo Zagreb,CDM,1571,20,1591
-Nacho Monreal,Real Sociedad,LWB,1590,0,1590
-Ben Davies,Tottenham Hotspur,CB,1580,10,1590
 Rade Krunic,Milan,CDM,1580,10,1590
-Michael Liendl,RZ Pellets WAC,RM,1589,0,1589
+Ben Davies,Tottenham Hotspur,CB,1580,10,1590
+Nacho Monreal,Real Sociedad,LB,1590,0,1590
 Sebastian Rudy,TSG 1899 Hoffenheim,CDM,1589,0,1589
 Gianluca Gaudino,BSC Young Boys,CDM,1589,0,1589
 Moussa Diaby,Bayer 04 Leverkusen,RW,1588,0,1588
-Edin Dzeko,Roma,CF,1549,38,1587
-Bruno Peres,Roma,RWB,1549,38,1587
+Lucas Moura,Tottenham Hotspur,CAM,1578,10,1588
+Edin Dzeko,Roma,ST,1550,38,1588
+Amad,Manchester United,RWB,1518,70,1588
+Willian,Arsenal,CAM,1550,38,1588
 Njegos Petrovic,Crvena Zvezda,CDM,1587,0,1587
-Willian,Arsenal,CAM,1549,38,1587
-Lovro Majer,Dinamo Zagreb,CAM,1566,20,1586
-David Zima,Slavia Prague,CB,1566,20,1586
-Lucas Moura,Tottenham Hotspur,CAM,1576,10,1586
+Lovro Majer,Dinamo Zagreb,CAM,1567,20,1587
+Darwin Núñez,Benfica,ST,1587,0,1587
 Nadiem Amiri,Bayer 04 Leverkusen,CDM,1586,0,1586
+Bruno Peres,Roma,RB,1548,38,1586
 Vicente Iborra,Villarreal,CM,1456,130,1586
-Darwin Núñez,Benfica,CF,1586,0,1586
-Dusan Tadic,Ajax,CAM,1565,20,1585
-Héctor Bellerín,Arsenal,RWB,1546,38,1584
+David Zima,Slavia Prague,CB,1566,20,1586
+Michael Liendl,RZ Pellets WAC,RM,1585,0,1585
+Héctor Bellerín,Arsenal,RB,1546,38,1584
 Daniel James,Manchester United,RW,1514,70,1584
-Ondrej Kúdela,Slavia Prague,RB,1564,20,1584
-Joseph Willock,Arsenal,CAM,1546,38,1584
-Jeremie Frimpong,Bayer 04 Leverkusen,RWB,1582,0,1582
+Dusan Tadic,Ajax,CAM,1564,20,1584
+Joseph Willock,Arsenal,CAM,1545,38,1583
+Ondrej Kúdela,Slavia Prague,RB,1562,20,1582
+Jeremie Frimpong,Bayer 04 Leverkusen,RB,1581,0,1581
 David de Gea,Manchester United,GK,1510,70,1580
 Gareth Bale,Tottenham Hotspur,RW,1570,10,1580
-Amad,Manchester United,RM,1509,70,1579
 Ramiro Funes Mori,Villarreal,CB,1449,130,1579
-Heung-Min Son,Tottenham Hotspur,ST,1568,10,1578
-Alfredo Morelos,Rangers,ST,1568,10,1578
+Christoph Baumgartner,TSG 1899 Hoffenheim,CAM,1578,0,1578
+Alfredo Morelos,Rangers,ST,1567,10,1577
+Heung-Min Son,Tottenham Hotspur,ST,1567,10,1577
+Dele Alli,Tottenham Hotspur,CAM,1566,10,1576
 Bukayo Saka,Arsenal,RW,1537,38,1575
-Germán Sánchez,Granada CF,CB,1574,0,1574
 Milan Borjan,Crvena Zvezda,GK,1574,0,1574
-Leonardo Spinazzola,Roma,LM,1535,38,1573
-Lukás Julis,Sparta Prague,CF,1571,0,1571
-Vincent Sierro,BSC Young Boys,CM,1571,0,1571
+Germán Sánchez,Granada CF,CB,1574,0,1574
+Lukás Julis,Sparta Prague,ST,1572,0,1572
 Domingos Duarte,Granada CF,CB,1571,0,1571
+Vincent Sierro,BSC Young Boys,CM,1571,0,1571
 Mason Greenwood,Manchester United,RW,1501,70,1571
-Ángel Montoro,Granada CF,CDM,1570,0,1570
-Eran Zahavi,PSV,CF,1570,0,1570
+Eran Zahavi,PSV,ST,1571,0,1571
 Mikel Merino,Real Sociedad,CM,1570,0,1570
-Folarin Balogun,Arsenal,CF,1531,38,1569
-Elvis Manu,Ludogorets Razgrad,ST,1569,0,1569
-Dele Alli,Tottenham Hotspur,CAM,1559,10,1569
+Ángel Montoro,Granada CF,CDM,1570,0,1570
+Folarin Balogun,Arsenal,ST,1532,38,1570
 Gustavo Busatto,CSKA Sofia,GK,1569,0,1569
-Jan Boril,Slavia Prague,LB,1548,20,1568
-Rafa Silva,Benfica,CAM,1568,0,1568
-Kristoffer Haugen,Molde,LWB,1557,10,1567
-Luke Thomas,Leicester City,LWB,1567,0,1567
-Christoph Baumgartner,TSG 1899 Hoffenheim,CAM,1566,0,1566
+Rafa Silva,Benfica,CAM,1569,0,1569
+Elvis Manu,Ludogorets Razgrad,ST,1568,0,1568
+Abdallah Sima,Slavia Prague,LAM,1548,20,1568
+Kristoffer Haugen,Molde,LB,1558,10,1568
+Luke Thomas,Leicester City,LB,1567,0,1567
 Moussa Sissoko,Tottenham Hotspur,CM,1556,10,1566
-Bartol Franjic,Dinamo Zagreb,LB,1544,20,1564
-Abdallah Sima,Slavia Prague,LAM,1544,20,1564
-Carles Pérez,Roma,RW,1525,38,1563
 Pieter Gerkens,Royal Antwerp,CDM,1563,0,1563
+Carles Pérez,Roma,RW,1525,38,1563
+Henrikh Mkhitaryan,Roma,CAM,1524,38,1562
+Jan Boril,Slavia Prague,LB,1542,20,1562
 Anthony Martial,Manchester United,LW,1492,70,1562
-Rui Silva,Granada CF,GK,1561,0,1561
+Donyell Malen,PSV,ST,1561,0,1561
 Martin Hongla,Royal Antwerp,CDM,1561,0,1561
+Rui Silva,Granada CF,GK,1561,0,1561
 Jakub Hromada,Slavia Prague,CDM,1540,20,1560
 Wenderson Galeno,Sporting Braga,LW,1560,0,1560
-Donyell Malen,PSV,CF,1560,0,1560
 Igor Akinfeev,CSKA Moscow,GK,1560,0,1560
-Henrikh Mkhitaryan,Roma,CAM,1521,38,1559
+Bartol Franjic,Dinamo Zagreb,LB,1539,20,1559
 Joe Aribo,Rangers,CDM,1549,10,1559
-Mikael Ishak,Lech Poznan,ST,1558,0,1558
+Fabián Ruiz,Napoli,CAM,1558,0,1558
 Shola Shoretire,Manchester United,RW,1488,70,1558
-Nikola Maksimovic,Napoli,RB,1557,0,1557
+Luka Ivanusec,Dinamo Zagreb,CAM,1538,20,1558
 Jens Petter Hauge,Milan,LW,1547,10,1557
-Dan Leon Glazer,Maccabi Tel Aviv,CM,1557,0,1557
+Timothy Weah,Lille,RWB,1557,0,1557
 Oliver Baumann,TSG 1899 Hoffenheim,GK,1557,0,1557
-Luka Ivanusec,Dinamo Zagreb,CAM,1536,20,1556
-Fabián Ruiz,Napoli,CAM,1556,0,1556
-Olarenwaju Kayode,Sivasspor,ST,1555,0,1555
+Mikael Ishak,Lech Poznan,ST,1557,0,1557
+Dan Leon Glazer,Maccabi Tel Aviv,CM,1557,0,1557
 André Horta,Sporting Braga,CDM,1555,0,1555
-Reiss Nelson,Arsenal,LW,1517,38,1555
+Nikola Maksimovic,Napoli,RB,1555,0,1555
 Davy Klaassen,Ajax,CM,1535,20,1555
+Reiss Nelson,Arsenal,LW,1517,38,1555
+Olarenwaju Kayode,Sivasspor,ST,1554,0,1554
 Christos Tzolis,PAOK Thessaloniki,LW,1554,0,1554
-Paul Pogba,Manchester United,LAM,1484,70,1554
-Glen Kamara,Rangers,CM,1542,10,1552
-Kasper Schmeichel,Leicester City,GK,1552,0,1552
-Pedro,Roma,LW,1514,38,1552
-Pierre-Emerick Aubameyang,Arsenal,ST,1514,38,1552
+Paul Pogba,Manchester United,LAM,1483,70,1553
+Lukás Provod,Slavia Prague,RAM,1532,20,1552
 Joe Hart,Tottenham Hotspur,GK,1542,10,1552
-Elton Acolatse,Hapoel Be'er Sheva,RW,1551,0,1551
+Kasper Schmeichel,Leicester City,GK,1552,0,1552
+Glen Kamara,Rangers,CM,1542,10,1552
+Tommaso Milanese,Roma,ST,1514,38,1552
+Pedro,Roma,LW,1514,38,1552
+Pierre-Emerick Aubameyang,Arsenal,ST,1513,38,1551
 Youri Tielemans,Leicester City,CDM,1551,0,1551
-Tommaso Milanese,Roma,CF,1513,38,1551
-Lukás Provod,Slavia Prague,RAM,1530,20,1550
+Elton Acolatse,Hapoel Be'er Sheva,RW,1551,0,1551
+Iyayi Believe Atiemwen,Dinamo Zagreb,ST,1530,20,1550
 Donny van de Beek,Manchester United,CAM,1480,70,1550
-Juan Mata,Manchester United,CAM,1480,70,1550
-Petr Sevcík,Slavia Prague,LAM,1530,20,1550
-Giovanni Di Lorenzo,Napoli,RWB,1550,0,1550
-Jordan Flores,Dundalk,LWB,1550,0,1550
 Christian Fassnacht,BSC Young Boys,RW,1550,0,1550
-Eric Bailly,Manchester United,CB,1479,70,1549
-Axel Tuanzebe,Manchester United,CB,1479,70,1549
-Sandro Tonali,Milan,CM,1539,10,1549
-Ainsley Maitland-Niles,Arsenal,RWB,1511,38,1549
+Jordan Flores,Dundalk,LB,1550,0,1550
+Giovanni Di Lorenzo,Napoli,RB,1549,0,1549
+Alexandre Lacazette,Arsenal,ST,1511,38,1549
 Victor Nilsson Lindelöf,Manchester United,CB,1479,70,1549
-Iyayi Believe Atiemwen,Dinamo Zagreb,CF,1529,20,1549
-Ricardo Horta,Sporting Braga,LW,1548,0,1548
+Sandro Tonali,Milan,CM,1539,10,1549
+Petr Sevcík,Slavia Prague,LAM,1529,20,1549
+Juan Mata,Manchester United,CAM,1479,70,1549
+Axel Tuanzebe,Manchester United,CB,1479,70,1549
+Eric Bailly,Manchester United,CB,1479,70,1549
+Ainsley Maitland-Niles,Arsenal,RB,1510,38,1548
 Rúnar Rúnarsson,Arsenal,GK,1510,38,1548
-Milan Gajic,Crvena Zvezda,RWB,1548,0,1548
-Alexandre Lacazette,Arsenal,CF,1510,38,1548
 Alex Remiro,Real Sociedad,GK,1548,0,1548
-Jordan Teze,PSV,RWB,1548,0,1548
-Tanguy Ndombélé,Tottenham Hotspur,CAM,1536,10,1546
+Ricardo Horta,Sporting Braga,LW,1548,0,1548
+Tanguy Ndombélé,Tottenham Hotspur,CAM,1537,10,1547
+Milan Gajic,Crvena Zvezda,RB,1547,0,1547
+Jordan Teze,PSV,RB,1547,0,1547
 Andreas Linde,Molde,GK,1536,10,1546
-El Fardou Ben Nabouhane,Crvena Zvezda,ST,1545,0,1545
 Kai Stratznig,RZ Pellets WAC,CM,1545,0,1545
 Éverton,Benfica,LW,1545,0,1545
+El Fardou Ben Nabouhane,Crvena Zvezda,ST,1544,0,1544
 Bernd Leno,Arsenal,GK,1506,38,1544
-Jonathan Ikoné,Lille,RW,1543,0,1543
 Gonzalo Villar,Roma,CM,1505,38,1543
+Jonathan Ikoné,Lille,RW,1543,0,1543
+Gian-Luca Waldschmidt,Benfica,CAM,1543,0,1543
 Yangel Herrera,Granada CF,CM,1543,0,1543
 Alexander Kofler,RZ Pellets WAC,GK,1542,0,1542
-Harry Kane,Tottenham Hotspur,ST,1531,10,1541
-Luke Shaw,Manchester United,LB,1471,70,1541
-Stephan El Shaarawy,Roma,LAM,1502,38,1540
-Amine Gouiri,Nice,CF,1539,0,1539
+Lorenzo Insigne,Napoli,LAM,1542,0,1542
+Harry Kane,Tottenham Hotspur,ST,1530,10,1540
 Harvey Barnes,Leicester City,LW,1539,0,1539
-Gian-Luca Waldschmidt,Benfica,CAM,1539,0,1539
-Brian Brobbey,Ajax,ST,1518,20,1538
-Brahim Díaz,Milan,RW,1528,10,1538
-Bruno Petkovic,Dinamo Zagreb,ST,1518,20,1538
-Samuel Castillejo,Milan,LM,1528,10,1538
-Sead Kolasinac,Arsenal,LB,1500,38,1538
+Amine Gouiri,Nice,ST,1539,0,1539
+Stephan El Shaarawy,Roma,LAM,1501,38,1539
 David von Ballmoos,BSC Young Boys,GK,1538,0,1538
+Brahim Díaz,Milan,RW,1528,10,1538
+Samuel Castillejo,Milan,LM,1528,10,1538
+Youssef El Arabi,Olympiakos,ST,1528,10,1538
+Bruno Petkovic,Dinamo Zagreb,ST,1517,20,1537
+Brian Brobbey,Ajax,ST,1517,20,1537
 Gabriel,Arsenal,CB,1499,38,1537
 Pablo Marí,Arsenal,CB,1499,38,1537
-Lorenzo Insigne,Napoli,LAM,1537,0,1537
-Youssef El Arabi,Olympiakos,CF,1527,10,1537
-Erling Knudtzon,Molde,RWB,1526,10,1536
-Jordan Pefok,BSC Young Boys,ST,1536,0,1536
+Luke Shaw,Manchester United,LB,1466,70,1536
 Mory Bamba,Roma,LM,1498,38,1536
 Michel Aebischer,BSC Young Boys,CM,1535,0,1535
-Teun Koopmeiners,AZ,LB,1535,0,1535
+Jordan Pefok,BSC Young Boys,ST,1535,0,1535
+Erling Knudtzon,Molde,RB,1525,10,1535
+Cedric Itten,Rangers,ST,1524,10,1534
 Harry Maguire,Manchester United,CB,1464,70,1534
+Ivan Nevistic,HNK Rijeka,GK,1533,0,1533
+Sead Kolasinac,Arsenal,LB,1495,38,1533
 Ondrej Kolár,Slavia Prague,GK,1513,20,1533
 Peter Olayinka,Slavia Prague,LW,1513,20,1533
-Aurélio Buta,Royal Antwerp,RWB,1533,0,1533
-Cedric Itten,Rangers,CF,1523,10,1533
-Ivan Nevistic,HNK Rijeka,GK,1533,0,1533
-Ryan Kent,Rangers,LW,1522,10,1532
+Aurélio Buta,Royal Antwerp,RB,1532,0,1532
 David Neres,Ajax,RAM,1512,20,1532
-Cédric Soares,Arsenal,RM,1494,38,1532
-Rick Karsdorp,Roma,RWB,1494,38,1532
+Ryan Kent,Rangers,LW,1522,10,1532
+Davide Santon,Roma,LB,1494,38,1532
 Calum Chambers,Arsenal,CB,1494,38,1532
-Davide Santon,Roma,LWB,1493,38,1531
-Carlos Neva,Granada CF,LWB,1531,0,1531
+Scott Arfield,Rangers,CAM,1522,10,1532
+Carlos Neva,Granada CF,LB,1531,0,1531
+Rick Karsdorp,Roma,RB,1493,38,1531
 Maximilian Beier,TSG 1899 Hoffenheim,RAM,1531,0,1531
-Scott Arfield,Rangers,CAM,1521,10,1531
-Gabriel Pires,Benfica,CAM,1530,0,1530
+Junior Moraes,Shakhtar Donetsk,ST,1520,10,1530
 Maarten Stekelenburg,Ajax,GK,1510,20,1530
-Timothy Weah,Lille,RM,1530,0,1530
-Paulinho,Sporting Braga,ST,1530,0,1530
 Martin Ødegaard,Arsenal,CM,1491,38,1529
-Junior Moraes,Shakhtar Donetsk,CF,1519,10,1529
 Eirik Ulland Andersen,Molde,LW,1519,10,1529
-Brandon Williams,Manchester United,RWB,1459,70,1529
-Maxime Lestienne,Standard Liège,RM,1529,0,1529
+Gabriel Pires,Benfica,CAM,1529,0,1529
+Teun Koopmeiners,AZ,LB,1529,0,1529
+Paulinho,Sporting Braga,ST,1529,0,1529
+Mohamed Elyounoussi,Celtic,ST,1528,0,1528
+Brandon Williams,Manchester United,RB,1458,70,1528
 Cengiz Ünder,Leicester City,RW,1528,0,1528
-Dimitri Foulquier,Granada CF,RWB,1528,0,1528
-James Maddison,Leicester City,CAM,1528,0,1528
-Mohamed Elyounoussi,Celtic,CF,1528,0,1528
-Giovani Lo Celso,Tottenham Hotspur,CAM,1517,10,1527
+Dimitri Foulquier,Granada CF,RB,1527,0,1527
+James Maddison,Leicester City,CAM,1527,0,1527
+Jordan Lukaku,Royal Antwerp,LB,1526,0,1526
+Giovani Lo Celso,Tottenham Hotspur,CAM,1516,10,1526
 Scott McTominay,Manchester United,CDM,1456,70,1526
-David McMillan,Dundalk,ST,1526,0,1526
+Maxime Lestienne,Standard Liège,RM,1525,0,1525
+David McMillan,Dundalk,ST,1525,0,1525
 Steven Bergwijn,Tottenham Hotspur,LW,1515,10,1525
-Thorsten Schick,SK Rapid Wien,RWB,1525,0,1525
-Jordan Lukaku,Royal Antwerp,LWB,1525,0,1525
-Tymoteusz Puchacz,Lech Poznan,LM,1525,0,1525
-Marcus Holmgren Pedersen,Molde,RM,1515,10,1525
-Joël Piroe,PSV,ST,1524,0,1524
-Sargis Adamyan,TSG 1899 Hoffenheim,CF,1524,0,1524
-Or Dadya,Hapoel Be'er Sheva,RWB,1524,0,1524
+Tymoteusz Puchacz,Lech Poznan,LM,1524,0,1524
+Burak Yilmaz,Lille,ST,1524,0,1524
+Thorsten Schick,SK Rapid Wien,RB,1524,0,1524
+Sargis Adamyan,TSG 1899 Hoffenheim,ST,1524,0,1524
+Or Dadya,Hapoel Be'er Sheva,RB,1523,0,1523
+Joël Piroe,PSV,ST,1523,0,1523
 Robin Le Normand,Real Sociedad,CB,1523,0,1523
-Burak Yilmaz,Lille,CF,1523,0,1523
-Juan Jesus,Roma,LB,1485,38,1523
-Marash Kumbulla,Roma,CB,1484,38,1522
-Laurent Jans,Standard Liège,RWB,1522,0,1522
-Lirim Kastrati,Dinamo Zagreb,ST,1502,20,1522
+Ohi Anthony Omoijuanfo,Molde,ST,1513,10,1523
+Patrik Schick,Bayer 04 Leverkusen,ST,1523,0,1523
 Sékou Sanogo,Crvena Zvezda,CDM,1522,0,1522
-Ohi Anthony Omoijuanfo,Molde,CF,1512,10,1522
-Patrik Schick,Bayer 04 Leverkusen,CF,1522,0,1522
 Nicola Zalewski,Roma,LAM,1484,38,1522
-Vitaliy Buyalskyi,Dynamo Kyiv,CAM,1512,10,1522
-Stefan Schwab,PAOK Thessaloniki,CDM,1521,0,1521
-Filippo Tripi,Roma,LB,1483,38,1521
+Marash Kumbulla,Roma,CB,1484,38,1522
+Marcus Holmgren Pedersen,Molde,RM,1512,10,1522
+Mijat Gacinovic,TSG 1899 Hoffenheim,LAM,1522,0,1522
+Vitaliy Buyalskyi,Dynamo Kyiv,CAM,1511,10,1521
+Riccardo Calafiori,Roma,LB,1483,38,1521
+Lirim Kastrati,Dinamo Zagreb,ST,1501,20,1521
 Karim Bellarabi,Bayer 04 Leverkusen,RW,1521,0,1521
-Riccardo Calafiori,Roma,LWB,1483,38,1521
-Marko Livaja,AEK Athens,ST,1520,0,1520
-Mijat Gacinovic,TSG 1899 Hoffenheim,LAM,1520,0,1520
+Stefan Schwab,PAOK Thessaloniki,CDM,1521,0,1521
+Laurent Jans,Standard Liège,RB,1521,0,1521
 Anatoliy Trubin,Shakhtar Donetsk,GK,1510,10,1520
-Robert Skov,TSG 1899 Hoffenheim,LM,1520,0,1520
+Jan Kuchta,Slavia Prague,ST,1500,20,1520
+Dor Peretz,Maccabi Tel Aviv,CAM,1520,0,1520
 Ciprian Tatarusanu,Milan,GK,1510,10,1520
-Abdoul Fessal Tapsoba,Standard Liège,ST,1519,0,1519
+René Renner,LASK,LWB,1519,0,1519
 Ianis Hagi,Rangers,RAM,1509,10,1519
-Nathan Patterson,Rangers,RWB,1509,10,1519
-Andrej Kramaric,TSG 1899 Hoffenheim,LAM,1519,0,1519
-Jan Kuchta,Slavia Prague,CF,1499,20,1519
+Johannes Eggestein,LASK,ST,1519,0,1519
+Marko Livaja,AEK Athens,ST,1519,0,1519
+Robert Skov,TSG 1899 Hoffenheim,LM,1519,0,1519
+Jamie Vardy,Leicester City,ST,1518,0,1518
+Abdoul Fessal Tapsoba,Standard Liège,ST,1518,0,1518
 Noni Madueke,PSV,RW,1518,0,1518
-Jamie Vardy,Leicester City,CF,1518,0,1518
-Jon Bautista,Real Sociedad,ST,1518,0,1518
-Antonio Mirante,Roma,GK,1480,38,1518
 Pietro Boer,Roma,GK,1480,38,1518
-Johannes Eggestein,LASK,CF,1518,0,1518
-Dor Peretz,Maccabi Tel Aviv,CAM,1518,0,1518
+Andrej Kramaric,TSG 1899 Hoffenheim,LAM,1518,0,1518
+Nathan Patterson,Rangers,RB,1508,10,1518
+Antonio Mirante,Roma,GK,1480,38,1518
+Jon Bautista,Real Sociedad,ST,1517,0,1517
 Matheus,Sporting Braga,GK,1517,0,1517
-Ahmed Hassan Koka,Olympiakos,ST,1507,10,1517
-Odsonne Édouard,Celtic,CF,1517,0,1517
 Rob Holding,Arsenal,CB,1479,38,1517
+Michal Skóras,Lech Poznan,LWB,1517,0,1517
+Kelechi Iheanacho,Leicester City,ST,1517,0,1517
+Juan Jesus,Roma,LB,1479,38,1517
+Odsonne Édouard,Celtic,ST,1517,0,1517
 Abdellah Zoubir,FK Qarabag,LW,1516,0,1516
-Duje Cop,Standard Liège,ST,1516,0,1516
+Filippo Tripi,Roma,LB,1478,38,1516
+Ahmed Hassan Koka,Olympiakos,ST,1506,10,1516
 Cody Gakpo,PSV,LW,1516,0,1516
-Kelechi Iheanacho,Leicester City,CF,1516,0,1516
-Michal Skóras,Lech Poznan,LM,1515,0,1515
+Duje Cop,Standard Liège,ST,1515,0,1515
 Daniel Zagorac,Dinamo Zagreb,GK,1495,20,1515
 Srdjan Plavsic,Sparta Prague,LW,1515,0,1515
-Andrés Andrade,LASK,LB,1514,0,1514
-Ben Cottrell,Arsenal,CDM,1476,38,1514
-Tetê,Shakhtar Donetsk,RW,1504,10,1514
-Alberto Soro,Granada CF,RW,1514,0,1514
 Mario Rondón,CFR Cluj,LW,1514,0,1514
+Marcus Berg,FK Krasnodar,ST,1514,0,1514
+Ben Cottrell,Arsenal,CDM,1476,38,1514
+Alberto Soro,Granada CF,RW,1514,0,1514
+Tetê,Shakhtar Donetsk,RW,1504,10,1514
 Perr Schuurs,Ajax,CB,1494,20,1514
+Ivan Tomecak,HNK Rijeka,LB,1514,0,1514
 Ante Rebic,Milan,LW,1503,10,1513
-Marcus Berg,FK Krasnodar,CF,1513,0,1513
 Guélor Kanga,Crvena Zvezda,LAM,1513,0,1513
-Ivan Tomecak,HNK Rijeka,LWB,1513,0,1513
-Andreas Gruber,LASK,LAM,1512,0,1512
-Fabian Rieder,BSC Young Boys,RAM,1512,0,1512
-René Renner,LASK,LM,1512,0,1512
+Ondrej Lingr,Slavia Prague,ST,1492,20,1512
 Giorgos Masouras,Olympiakos,LM,1502,10,1512
-Sean Klaiber,Ajax,RB,1492,20,1512
+Fabian Rieder,BSC Young Boys,RAM,1512,0,1512
 Vladlen Yurchenko,Zorya Luhansk,RAM,1512,0,1512
 Tomas Malinsky,Slavia Prague,LW,1492,20,1512
-Jan Lecjaks,Omonia Nicosia,LWB,1511,0,1511
+Jan Lecjaks,Omonia Nicosia,LB,1511,0,1511
 Denis Visinsky,Slavia Prague,LW,1491,20,1511
-Ondrej Lingr,Slavia Prague,CF,1491,20,1511
-Alexander Bah,Slavia Prague,RWB,1491,20,1511
+Dejan Joveljic,RZ Pellets WAC,ST,1511,0,1511
+Andreas Gruber,LASK,LAM,1511,0,1511
 Gabriel Martinelli,Arsenal,LW,1473,38,1511
-Sadegh Moharrami,Dinamo Zagreb,RWB,1490,20,1510
-Arouna Koné,Sivasspor,ST,1510,0,1510
-Edward Nketiah,Arsenal,CF,1472,38,1510
-Denis Favorov,Zorya Luhansk,RWB,1510,0,1510
-David Datro Fofana,Molde,ST,1500,10,1510
-Dan Biton,Maccabi Tel Aviv,RW,1510,0,1510
+Edward Nketiah,Arsenal,ST,1473,38,1511
 Odysseas Vlachodimos,Benfica,GK,1510,0,1510
+Roberto Soldado,Granada CF,ST,1510,0,1510
 Darwin Machís,Granada CF,LM,1510,0,1510
+Dan Biton,Maccabi Tel Aviv,RW,1510,0,1510
+Sean Klaiber,Ajax,RB,1490,20,1510
+Alexander Bah,Slavia Prague,RB,1490,20,1510
 Jean Butez,Royal Antwerp,GK,1510,0,1510
-Dejan Joveljic,RZ Pellets WAC,CF,1510,0,1510
-Ondrej Karafiát,Slavia Prague,RB,1490,20,1510
+David Datro Fofana,Molde,ST,1499,10,1509
+Sadegh Moharrami,Dinamo Zagreb,RB,1489,20,1509
+Denis Favorov,Zorya Luhansk,RB,1509,0,1509
+Arouna Koné,Sivasspor,ST,1509,0,1509
 Koji Miyoshi,Royal Antwerp,RW,1509,0,1509
-Roberto Soldado,Granada CF,CF,1509,0,1509
 Filip Helander,Rangers,CB,1499,10,1509
-Muamer Tankovic,AEK Athens,CAM,1509,0,1509
-Alan Czerwinski,Lech Poznan,RB,1509,0,1509
-Viktor Korniienko,Shakhtar Donetsk,LM,1498,10,1508
-Mohammed Kudus,Ajax,RW,1488,20,1508
-Jose Holebas,Olympiakos,LB,1498,10,1508
+Andrés Andrade,LASK,LB,1509,0,1509
 Ebrima Darboe,Roma,CM,1470,38,1508
-Jack Simpson,Rangers,LB,1498,10,1508
-Miguel Azeez,Arsenal,CM,1470,38,1508
 Matej Jurásek,Slavia Prague,RW,1488,20,1508
-Eyal Golasa,Maccabi Tel Aviv,CAM,1508,0,1508
 Artem Gromov,Zorya Luhansk,LW,1508,0,1508
-Didier Lamkel Zé,Royal Antwerp,ST,1507,0,1507
-Ali Sowe,CSKA Sofia,ST,1507,0,1507
-Oussama Idrissi,Ajax,LW,1487,20,1507
+Mohammed Kudus,Ajax,RW,1488,20,1508
+Muamer Tankovic,AEK Athens,CAM,1508,0,1508
+Viktor Korniienko,Shakhtar Donetsk,LM,1498,10,1508
+Miguel Azeez,Arsenal,CM,1470,38,1508
+Ondrej Karafiát,Slavia Prague,RB,1488,20,1508
 Rotem Hatuel,Hapoel Be'er Sheva,LW,1507,0,1507
-Marko Raguz,LASK,ST,1507,0,1507
-Felipe Avenatti,Royal Antwerp,ST,1507,0,1507
+Alan Czerwinski,Lech Poznan,RB,1507,0,1507
+Oussama Idrissi,Ajax,LW,1487,20,1507
+Eyal Golasa,Maccabi Tel Aviv,CAM,1507,0,1507
 Yonatan Cohen,Maccabi Tel Aviv,RW,1507,0,1507
-Viktor Claesson,FK Krasnodar,CF,1506,0,1506
-Leke James,Molde,CF,1496,10,1506
-Pat Hoban,Dundalk,ST,1506,0,1506
+Felipe Avenatti,Royal Antwerp,ST,1506,0,1506
+Ali Sowe,CSKA Sofia,ST,1506,0,1506
+Leigh Griffiths,Celtic,ST,1506,0,1506
+Didier Lamkel Zé,Royal Antwerp,ST,1506,0,1506
+Leke James,Molde,ST,1496,10,1506
+Viktor Claesson,FK Krasnodar,ST,1506,0,1506
+Andronikos Kakoullis,Omonia Nicosia,ST,1506,0,1506
+Marko Raguz,LASK,ST,1506,0,1506
 Ryan Gravenberch,Ajax,CDM,1486,20,1506
-Seán Gannon,Dundalk,RB,1506,0,1506
-Milan Pavkov,Crvena Zvezda,ST,1506,0,1506
-Gilberto,Benfica,RWB,1506,0,1506
-Tin Jedvaj,Bayer 04 Leverkusen,RB,1506,0,1506
-José Sá,Olympiakos,GK,1495,10,1505
-Iuri Medeiros,Sporting Braga,CAM,1505,0,1505
-Hugo Lloris,Tottenham Hotspur,GK,1495,10,1505
-Andronikos Kakoullis,Omonia Nicosia,CF,1505,0,1505
+Milan Pavkov,Crvena Zvezda,ST,1505,0,1505
+Sergio Reguilón,Tottenham Hotspur,LB,1495,10,1505
+Higinio Marín,Ludogorets Razgrad,ST,1505,0,1505
 Dan Ndoye,Nice,RW,1505,0,1505
 Thomas Murg,PAOK Thessaloniki,RW,1505,0,1505
-Georgiy Bushchan,Dynamo Kyiv,GK,1495,10,1505
+Hugo Lloris,Tottenham Hotspur,GK,1495,10,1505
 Mirko Ivanic,Crvena Zvezda,LW,1505,0,1505
-Leigh Griffiths,Celtic,CF,1505,0,1505
-Jon McLaughlin,Rangers,GK,1495,10,1505
-Felix Mambimbi,BSC Young Boys,CF,1505,0,1505
+Georgiy Bushchan,Dynamo Kyiv,GK,1495,10,1505
+José Sá,Olympiakos,GK,1495,10,1505
+Gilberto,Benfica,RB,1505,0,1505
 Viktor Tsigankov,Dynamo Kyiv,RW,1495,10,1505
 Stjepan Loncar,HNK Rijeka,CAM,1505,0,1505
 Dries Mertens,Napoli,RW,1505,0,1505
+Felix Mambimbi,BSC Young Boys,ST,1505,0,1505
+Pat Hoban,Dundalk,ST,1505,0,1505
+Jon McLaughlin,Rangers,GK,1495,10,1505
 Allahyar Sayyadmanesh,Zorya Luhansk,RW,1504,0,1504
+Seán Gannon,Dundalk,RB,1504,0,1504
+Iuri Medeiros,Sporting Braga,CAM,1504,0,1504
 David Moberg Karlsson,Sparta Prague,RW,1504,0,1504
-Marios Vrousai,Olympiakos,RM,1494,10,1504
-Mykola Matviyenko,Shakhtar Donetsk,CB,1494,10,1504
-Sergio Reguilón,Tottenham Hotspur,LWB,1494,10,1504
-Pavel Kaderábek,TSG 1899 Hoffenheim,RM,1504,0,1504
-Miralem Sulejmani,BSC Young Boys,LM,1504,0,1504
 Manuel Benson,Royal Antwerp,RW,1504,0,1504
-Jordan Rolly Botaka,KAA Gent,LM,1504,0,1504
-Higinio Marín,Ludogorets Razgrad,CF,1504,0,1504
 Mario Cuze,Dinamo Zagreb,RW,1484,20,1504
-Lutsharel Geertruida,Feyenoord,LB,1504,0,1504
-Vitaliy Mykolenko,Dynamo Kyiv,LWB,1493,10,1503
-Lucas Alario,Bayer 04 Leverkusen,ST,1503,0,1503
-Davide Calabria,Milan,RWB,1492,10,1502
-Stanislav Tecl,Slavia Prague,ST,1482,20,1502
-Ridgeciano Haps,Feyenoord,LM,1502,0,1502
-Chris Smalling,Roma,CB,1464,38,1502
-Ismaily,Shakhtar Donetsk,LWB,1492,10,1502
-Carlos de Pena,Dynamo Kyiv,RAM,1492,10,1502
-Dodô,Shakhtar Donetsk,RWB,1492,10,1502
-Alexis Claude-Maurice,Nice,LAM,1502,0,1502
-Rafael Leão,Milan,CF,1492,10,1502
+Tin Jedvaj,Bayer 04 Leverkusen,RB,1504,0,1504
+Mykola Matviyenko,Shakhtar Donetsk,CB,1494,10,1504
+Jack Simpson,Rangers,LB,1493,10,1503
+Vitaliy Mykolenko,Dynamo Kyiv,LB,1493,10,1503
+Rafael Leão,Milan,ST,1493,10,1503
+Jose Holebas,Olympiakos,LB,1493,10,1503
+Jordan Rolly Botaka,KAA Gent,LM,1503,0,1503
+Ismaily,Shakhtar Donetsk,LB,1493,10,1503
+Miralem Sulejmani,BSC Young Boys,LM,1503,0,1503
+Sidcley,Dynamo Kyiv,LB,1493,10,1503
+Lucas Alario,Bayer 04 Leverkusen,ST,1502,0,1502
+Shkodran Mustafi,Arsenal,CB,1464,38,1502
 Federico Fazio,Roma,CB,1464,38,1502
 Manor Solomon,Shakhtar Donetsk,LW,1492,10,1502
-Shkodran Mustafi,Arsenal,CB,1464,38,1502
-Sidcley,Dynamo Kyiv,LWB,1492,10,1502
-Sèrge Aurier,Tottenham Hotspur,RWB,1492,10,1502
-Alejandro Grimaldo,Benfica,LM,1501,0,1501
-Kenedy,Granada CF,RW,1501,0,1501
-Ishak Belfodil,TSG 1899 Hoffenheim,CF,1501,0,1501
+Chris Smalling,Roma,CB,1464,38,1502
+Ishak Belfodil,TSG 1899 Hoffenheim,ST,1501,0,1501
+Eirik Hestad,Molde,RW,1491,10,1501
+Carlos de Pena,Dynamo Kyiv,RAM,1491,10,1501
 Vladimir Shepelev,Dynamo Kyiv,RAM,1491,10,1501
-Jack Clarke,Tottenham Hotspur,LW,1491,10,1501
-Fernando,Shakhtar Donetsk,ST,1491,10,1501
+Dentinho,Shakhtar Donetsk,LW,1491,10,1501
+Alexis Claude-Maurice,Nice,LAM,1501,0,1501
+Sèrge Aurier,Tottenham Hotspur,RB,1491,10,1501
+Dmytro Ivanisenya,Zorya Luhansk,CDM,1501,0,1501
+Davide Calabria,Milan,RB,1491,10,1501
+Dodô,Shakhtar Donetsk,RB,1491,10,1501
 David Turnbull,Celtic,CDM,1501,0,1501
 Michael Duffy,Dundalk,LW,1501,0,1501
-Dmytro Ivanisenya,Zorya Luhansk,CDM,1501,0,1501
-Dentinho,Shakhtar Donetsk,LW,1491,10,1501
-Eirik Hestad,Molde,RW,1491,10,1501
+Kenedy,Granada CF,RW,1501,0,1501
 Brandon Barker,Rangers,LW,1491,10,1501
-Fabiano,Omonia Nicosia,GK,1500,0,1500
-Portu,Real Sociedad,LW,1500,0,1500
-Arnór Sigurdsson,CSKA Moscow,LM,1500,0,1500
-Fikayo Tomori,Milan,RB,1490,10,1500
-Christos Albanis,AEK Athens,LM,1500,0,1500
-Matyás Vágner,Slavia Prague,GK,1480,20,1500
-Ciprian Ioan Deac,CFR Cluj,RW,1500,0,1500
-Andrija Zivkovic,PAOK Thessaloniki,RW,1500,0,1500
-Mathieu Valbuena,Olympiakos,CAM,1490,10,1500
-Mërgim Berisha,FC Red Bull Salzburg,CF,1500,0,1500
-Kjell Scherpen,Ajax,GK,1480,20,1500
-Simen Kristiansen Juklerød,Royal Antwerp,LWB,1500,0,1500
-Claudiu Keserü,Ludogorets Razgrad,ST,1500,0,1500
-Marko Tolic,Dinamo Zagreb,CAM,1480,20,1500
-Edmond Tapsoba,Bayer 04 Leverkusen,LB,1500,0,1500
-Koya Kitagawa,SK Rapid Wien,ST,1500,0,1500
-Aleksandar Pesic,Maccabi Tel Aviv,CF,1500,0,1500
-Robert Muric,HNK Rijeka,RW,1500,0,1500
+Stanislav Tecl,Slavia Prague,ST,1481,20,1501
+Ridgeciano Haps,Feyenoord,LM,1501,0,1501
+Jack Clarke,Tottenham Hotspur,LW,1491,10,1501
+Jean Pierre Nsame,BSC Young Boys,ST,1500,0,1500
+Alejandro Grimaldo,Benfica,LWB,1500,0,1500
 Jakub Pesek,Slovan Liberec,LW,1500,0,1500
-Alessio Castro-Montes,KAA Gent,LM,1500,0,1500
-Dávid Hancko,Sparta Prague,CB,1499,0,1499
-Brandon Mechele,Club Brugge,CB,1499,0,1499
-Eduard Sobol,Club Brugge,LM,1499,0,1499
-Lazar Randjelovic,Olympiakos,RW,1489,10,1499
+Aleksandar Pesic,Maccabi Tel Aviv,ST,1500,0,1500
+Kjell Scherpen,Ajax,GK,1480,20,1500
+Dane Scarlett,Tottenham Hotspur,ST,1490,10,1500
+Fernando,Shakhtar Donetsk,ST,1490,10,1500
+Simen Kristiansen Juklerød,Royal Antwerp,LB,1500,0,1500
+Robert Muric,HNK Rijeka,RW,1500,0,1500
+Matyás Vágner,Slavia Prague,GK,1480,20,1500
+Michalis Bakakis,AEK Athens,RWB,1500,0,1500
+Reinhold Ranftl,LASK,RWB,1500,0,1500
+Portu,Real Sociedad,LW,1500,0,1500
+Fabiano,Omonia Nicosia,GK,1500,0,1500
+Andrija Zivkovic,PAOK Thessaloniki,RW,1500,0,1500
+Mërgim Berisha,FC Red Bull Salzburg,ST,1500,0,1500
+Marios Vrousai,Olympiakos,RM,1490,10,1500
+Pavel Kaderábek,TSG 1899 Hoffenheim,RM,1500,0,1500
+Christos Albanis,AEK Athens,LM,1500,0,1500
+Ciprian Ioan Deac,CFR Cluj,RW,1500,0,1500
+Christopher Jullien,Celtic,CB,1499,0,1499
 Dino Peric,Dinamo Zagreb,CB,1479,20,1499
 Caner Osmanpasa,Sivasspor,CB,1499,0,1499
-Jhonathan Agudelo,Hapoel Be'er Sheva,CF,1499,0,1499
-Vladyslav Supriaga,Dynamo Kyiv,ST,1489,10,1499
+Adnan Januzaj,Real Sociedad,ST,1499,0,1499
+Claudiu Keserü,Ludogorets Razgrad,ST,1499,0,1499
 Darko Velkovski,HNK Rijeka,CB,1499,0,1499
-Jean Pierre Nsame,BSC Young Boys,CF,1499,0,1499
-Oleksandr Karavaev,Dynamo Kyiv,RWB,1489,10,1499
+Dávid Hancko,Sparta Prague,CB,1499,0,1499
+Koya Kitagawa,SK Rapid Wien,ST,1499,0,1499
 Vítor Tormena,Sporting Braga,CB,1499,0,1499
-Núrio,KAA Gent,LWB,1499,0,1499
-Christopher Jullien,Celtic,CB,1499,0,1499
-Yuri Gazinskiy,FK Krasnodar,LM,1499,0,1499
-Hassane Kamara,Nice,LM,1499,0,1499
-Evgeny Chernov,FK Krasnodar,LM,1499,0,1499
+Mathieu Valbuena,Olympiakos,CAM,1489,10,1499
+Núrio,KAA Gent,LB,1499,0,1499
+Marko Tolic,Dinamo Zagreb,CAM,1479,20,1499
+Jhonathan Agudelo,Hapoel Be'er Sheva,ST,1499,0,1499
 Taras Kacharaba,Slovan Liberec,CB,1499,0,1499
-Konstantinos Laifis,Standard Liège,CB,1499,0,1499
-Georgi Shchennikov,CSKA Moscow,LB,1499,0,1499
-Andrea Conti,Milan,RWB,1489,10,1499
+Brandon Mechele,Club Brugge,CB,1499,0,1499
+Lazar Randjelovic,Olympiakos,RW,1489,10,1499
+Arnór Sigurdsson,CSKA Moscow,LM,1499,0,1499
 Hakan Çalhanoglu,Milan,CM,1489,10,1499
-Kevin Akpoguma,TSG 1899 Hoffenheim,LB,1499,0,1499
-Marcel Lavinier,Tottenham Hotspur,RWB,1489,10,1499
-Hicham Mahou,Nice,LM,1499,0,1499
-Dane Scarlett,Tottenham Hotspur,CF,1489,10,1499
-Jorge Molina,Granada CF,ST,1498,0,1498
-Konstantinos Fortounis,Olympiakos,CF,1488,10,1498
-Scott Wright,Rangers,RW,1488,10,1498
-Theodosis Macheras,AEK Athens,LM,1498,0,1498
-Gerson Rodrigues,Dynamo Kyiv,CF,1488,10,1498
-Marwan Kabha,Hapoel Be'er Sheva,LB,1498,0,1498
-Evgen Cheberko,LASK,LB,1498,0,1498
-Mattias Moström,Molde,RW,1488,10,1498
+Konstantinos Fortounis,Olympiakos,ST,1489,10,1499
+Gerson Rodrigues,Dynamo Kyiv,ST,1489,10,1499
+Konstantinos Laifis,Standard Liège,CB,1499,0,1499
+Marin Leovac,Dinamo Zagreb,LB,1478,20,1498
+Richard Ledezma,PSV,RWB,1498,0,1498
+Hassane Kamara,Nice,LM,1498,0,1498
 Sergiy Bolbat,Shakhtar Donetsk,RW,1488,10,1498
-Adnan Januzaj,Real Sociedad,CF,1498,0,1498
+Andrea Conti,Milan,RB,1488,10,1498
+Lorenzo Colombo,Milan,ST,1488,10,1498
+Alessio Castro-Montes,KAA Gent,LWB,1498,0,1498
+Marcel Lavinier,Tottenham Hotspur,RB,1488,10,1498
+Dominik Reiter,LASK,RWB,1498,0,1498
+Fikayo Tomori,Milan,RB,1488,10,1498
+Theodosis Macheras,AEK Athens,LM,1498,0,1498
+Abdullahi Shehu,Omonia Nicosia,RWB,1498,0,1498
+Hicham Mahou,Nice,LM,1498,0,1498
+Oleksandr Karavaev,Dynamo Kyiv,RB,1488,10,1498
+Ben Bitton,Maccabi Tel Aviv,RWB,1498,0,1498
+Scott Wright,Rangers,RW,1488,10,1498
+Eduard Sobol,Club Brugge,LM,1498,0,1498
+Yuri Gazinskiy,FK Krasnodar,LM,1498,0,1498
+Vladyslav Supriaga,Dynamo Kyiv,ST,1488,10,1498
+Noam Gamon,Hapoel Be'er Sheva,RWB,1498,0,1498
+Mattias Moström,Molde,RW,1488,10,1498
+Lutsharel Geertruida,Feyenoord,LB,1498,0,1498
+Jan Sykora,Lech Poznan,LWB,1497,0,1497
 Luciano Narsingh,Feyenoord,RW,1497,0,1497
+Evgeny Chernov,FK Krasnodar,LWB,1497,0,1497
 Jonathan Bamba,Lille,LW,1497,0,1497
-Marin Leovac,Dinamo Zagreb,LWB,1477,20,1497
-Lorenzo Colombo,Milan,CF,1487,10,1497
-Marvin Spielmann,BSC Young Boys,RW,1497,0,1497
 Yevheniy Konoplyanka,Shakhtar Donetsk,LW,1487,10,1497
+Marvin Spielmann,BSC Young Boys,RW,1497,0,1497
 Adam Karabec,Sparta Prague,RW,1497,0,1497
-Nicolas Ngamaleu,BSC Young Boys,LW,1496,0,1496
-Jakub Kristan,Slavia Prague,CDM,1476,20,1496
-Stefan Ristovski,Dinamo Zagreb,RB,1476,20,1496
-Aleksandar Katai,Crvena Zvezda,CAM,1496,0,1496
-Yusuf Demir,SK Rapid Wien,CAM,1496,0,1496
-Bradley Mazikou,CSKA Sofia,LWB,1496,0,1496
-Tomás Rigo,Slavia Prague,CDM,1476,20,1496
-Wendell,Bayer 04 Leverkusen,LWB,1496,0,1496
+Jorge Molina,Granada CF,ST,1497,0,1497
 Tiago Rodrigues,CSKA Sofia,CAM,1496,0,1496
-Willian José,Real Sociedad,ST,1496,0,1496
+Nicolas Ngamaleu,BSC Young Boys,LW,1496,0,1496
+Tomás Rigo,Slavia Prague,CDM,1476,20,1496
 Zakaria Aboukhlal,AZ,LM,1496,0,1496
-Raz Rahamim,Hapoel Be'er Sheva,GK,1495,0,1495
-Stavros Vasilantonopoulos,AEK Athens,RWB,1495,0,1495
-Walter Benítez,Nice,GK,1495,0,1495
-Nikola Vasilj,Zorya Luhansk,GK,1495,0,1495
-Niklas Lomb,Bayer 04 Leverkusen,GK,1495,0,1495
-Ulisses Garcia,BSC Young Boys,LWB,1495,0,1495
-Nicolás Gaitán,Sporting Braga,CAM,1495,0,1495
-Mykyta Shevchenko,Zorya Luhansk,GK,1495,0,1495
-Mihailo Perovic,Zorya Luhansk,CF,1495,0,1495
-Nick Marsman,Feyenoord,GK,1495,0,1495
+Jakub Kristan,Slavia Prague,CDM,1476,20,1496
+Dudu Twito,Hapoel Be'er Sheva,LWB,1496,0,1496
+Bradley Mazikou,CSKA Sofia,LB,1496,0,1496
+Wendell,Bayer 04 Leverkusen,LB,1496,0,1496
+Mihailo Perovic,Zorya Luhansk,ST,1496,0,1496
+Aleksandar Katai,Crvena Zvezda,CAM,1496,0,1496
+Adam Hlozek,Sparta Prague,ST,1496,0,1496
 Tiago Sá,Sporting Braga,GK,1495,0,1495
-Nguyen Filip,Slovan Liberec,GK,1495,0,1495
+Nikola Vasilj,Zorya Luhansk,GK,1495,0,1495
 Milan Knobloch,Slovan Liberec,GK,1495,0,1495
+Ulisses Garcia,BSC Young Boys,LB,1495,0,1495
+Niklas Lomb,Bayer 04 Leverkusen,GK,1495,0,1495
+Nick Marsman,Feyenoord,GK,1495,0,1495
+Willian José,Real Sociedad,ST,1495,0,1495
 Miguel Ángel Moyà,Real Sociedad,GK,1495,0,1495
-Jurriën Timber,Ajax,RWB,1475,20,1495
-Hakan Arslan,Sivasspor,LAM,1495,0,1495
-Alexandros Paschalakis,PAOK Thessaloniki,GK,1495,0,1495
-Aarón Escandell,Granada CF,GK,1495,0,1495
-Danny Ward,Leicester City,GK,1495,0,1495
-Adam Hlozek,Sparta Prague,CF,1495,0,1495
-Dario Vizinger,RZ Pellets WAC,RW,1495,0,1495
-Zivko Zivkovic,PAOK Thessaloniki,GK,1495,0,1495
-Antony,Ajax,RW,1475,20,1495
-David Ospina,Napoli,GK,1495,0,1495
-Eric Bautheac,Omonia Nicosia,RM,1495,0,1495
-Elvin Cafarquliyev,FK Qarabag,LWB,1495,0,1495
+Raz Rahamim,Hapoel Be'er Sheva,GK,1495,0,1495
+Mykyta Shevchenko,Zorya Luhansk,GK,1495,0,1495
+Nguyen Filip,Slovan Liberec,GK,1495,0,1495
+Walter Benítez,Nice,GK,1495,0,1495
 Alex Meret,Napoli,GK,1495,0,1495
-Sandro Kulenovic,HNK Rijeka,ST,1494,0,1494
-Mustapha Yatabaré,Sivasspor,ST,1494,0,1494
+Zivko Zivkovic,PAOK Thessaloniki,GK,1495,0,1495
+Yusuf Demir,SK Rapid Wien,CAM,1495,0,1495
+Alexandros Paschalakis,PAOK Thessaloniki,GK,1495,0,1495
+Faouzi Ghoulam,Napoli,LB,1495,0,1495
+Antony,Ajax,RW,1475,20,1495
+Elvin Cafarquliyev,FK Qarabag,LB,1495,0,1495
+Dario Vizinger,RZ Pellets WAC,RW,1495,0,1495
+Danny Ward,Leicester City,GK,1495,0,1495
+Aarón Escandell,Granada CF,GK,1495,0,1495
+David Ospina,Napoli,GK,1495,0,1495
+Edmond Tapsoba,Bayer 04 Leverkusen,LB,1494,0,1494
+Nicolás Gaitán,Sporting Braga,CAM,1494,0,1494
+Ryan Sessegnon,TSG 1899 Hoffenheim,LB,1494,0,1494
+Daniel Stefulj,HNK Rijeka,LB,1494,0,1494
+Nuno Tavares,Benfica,LB,1494,0,1494
+Jurriën Timber,Ajax,RB,1474,20,1494
 Meschack Elia,BSC Young Boys,RW,1494,0,1494
-Matan Hozez,Maccabi Tel Aviv,RM,1494,0,1494
-Daniel Stefulj,HNK Rijeka,LWB,1494,0,1494
-Erdogan Yesilyurt,Sivasspor,RM,1494,0,1494
-Ernest Asante,Omonia Nicosia,RM,1494,0,1494
-Faouzi Ghoulam,Napoli,LWB,1494,0,1494
-Oleksandr Andrievsky,Dynamo Kyiv,LAM,1484,10,1494
-Cristian Balgradean,CFR Cluj,GK,1494,0,1494
+Aihen Muñoz,Real Sociedad,LB,1494,0,1494
 Adama Soumaoro,Lille,CB,1494,0,1494
+Cristian Balgradean,CFR Cluj,GK,1494,0,1494
+Kevin Akpoguma,TSG 1899 Hoffenheim,LB,1494,0,1494
 Kristoffer Ajer,Celtic,CB,1494,0,1494
-Ryan Sessegnon,TSG 1899 Hoffenheim,LWB,1494,0,1494
-Nuno Tavares,Benfica,LWB,1493,0,1493
-Matej Hanousek,Sparta Prague,LWB,1493,0,1493
+Georgi Shchennikov,CSKA Moscow,LB,1494,0,1494
+Hakan Arslan,Sivasspor,LAM,1494,0,1494
+Stavros Vasilantonopoulos,AEK Athens,RB,1494,0,1494
+Stefan Ristovski,Dinamo Zagreb,RB,1474,20,1494
+Hélder Lopes,AEK Athens,LB,1493,0,1493
+Ziya Erdal,Sivasspor,LB,1493,0,1493
 Daniel Tenenbaum,Maccabi Tel Aviv,GK,1493,0,1493
-Petar Musa,Slavia Prague,CF,1473,20,1493
-Lukas Sulzbacher,SK Rapid Wien,RM,1493,0,1493
-Francisco Moura,Sporting Braga,LWB,1493,0,1493
-Christoph Knasmüllner,SK Rapid Wien,CF,1493,0,1493
-Ofir Davidzada,Maccabi Tel Aviv,LWB,1493,0,1493
-Petar Stojanovic,Dinamo Zagreb,RW,1473,20,1493
-Aihen Muñoz,Real Sociedad,LWB,1493,0,1493
-Jhon Mosquera,Slovan Liberec,LW,1493,0,1493
+Christian Fuchs,Leicester City,LB,1493,0,1493
+Christoph Knasmüllner,SK Rapid Wien,ST,1493,0,1493
+Daniel Kosek,Slovan Liberec,LB,1493,0,1493
+Maxim De Cuyper,Club Brugge,LB,1493,0,1493
+Ofir Davidzada,Maccabi Tel Aviv,LB,1493,0,1493
+Iasmin Latovlevici,CFR Cluj,LB,1493,0,1493
+Marwan Kabha,Hapoel Be'er Sheva,LB,1493,0,1493
+Mario Mitaj,AEK Athens,LB,1493,0,1493
 Ander Barrenetxea,Real Sociedad,LW,1493,0,1493
-Richard Ledezma,PSV,RM,1493,0,1493
-Ugur Çiftçi,Sivasspor,LWB,1493,0,1493
-Jan Sykora,Lech Poznan,LWB,1493,0,1493
-Andoni Gorosabel,Real Sociedad,RWB,1493,0,1493
-Agron Rufati,Zorya Luhansk,RM,1493,0,1493
-Younousse Sankharé,CSKA Sofia,CAM,1492,0,1492
-Hélder Lopes,AEK Athens,LWB,1492,0,1492
-Pedrinho,Benfica,RAM,1492,0,1492
-Michalis Bakakis,AEK Athens,RWB,1492,0,1492
-Michal Fukala,Slovan Liberec,LWB,1492,0,1492
-Guram Giorbelidze,RZ Pellets WAC,LWB,1492,0,1492
-Adalberto Peñaranda,CSKA Sofia,LW,1492,0,1492
-Dudu Twito,Hapoel Be'er Sheva,LWB,1492,0,1492
-Maxim Gullit,AZ,LWB,1492,0,1492
-Maxim De Cuyper,Club Brugge,LWB,1492,0,1492
-Greg Taylor,Celtic,LWB,1492,0,1492
-Aleksey Ionov,FK Krasnodar,LW,1492,0,1492
-Diogo Gonçalves,Benfica,LW,1492,0,1492
-Gabriel Debeljuh,CFR Cluj,CF,1492,0,1492
-Mario Mitaj,AEK Athens,LWB,1492,0,1492
-Tural Bayramov,FK Qarabag,LWB,1492,0,1492
-Iasmin Latovlevici,CFR Cluj,LWB,1492,0,1492
-Daniel Kosek,Slovan Liberec,LWB,1492,0,1492
-Rony Lopes,Nice,CAM,1492,0,1492
-Cristián Borja,Sporting Braga,LWB,1492,0,1492
-Collins Fai,Standard Liège,RWB,1492,0,1492
-Reinildo,Lille,LWB,1492,0,1492
-Ziya Erdal,Sivasspor,LWB,1492,0,1492
-Cristian Benavente,Royal Antwerp,LW,1492,0,1492
-Rémy Cabella,FK Krasnodar,LW,1492,0,1492
-Salim Ben Seghir,Nice,LW,1492,0,1492
-Christian Fuchs,Leicester City,LWB,1492,0,1492
+Oleksandr Andrievsky,Dynamo Kyiv,LAM,1483,10,1493
+Matej Hanousek,Sparta Prague,LB,1493,0,1493
+Cristián Borja,Sporting Braga,LB,1493,0,1493
+Petar Musa,Slavia Prague,ST,1473,20,1493
+Petar Stojanovic,Dinamo Zagreb,RW,1473,20,1493
+Ugur Çiftçi,Sivasspor,LB,1493,0,1493
+Mustapha Yatabaré,Sivasspor,ST,1493,0,1493
+Guram Giorbelidze,RZ Pellets WAC,LB,1493,0,1493
+Tural Bayramov,FK Qarabag,LB,1493,0,1493
+Evgen Cheberko,LASK,LB,1493,0,1493
+Jhon Mosquera,Slovan Liberec,LW,1493,0,1493
+Reinildo,Lille,LB,1493,0,1493
+Michal Fukala,Slovan Liberec,LB,1493,0,1493
+Greg Taylor,Celtic,LB,1493,0,1493
+Maxim Gullit,AZ,LB,1493,0,1493
+Francisco Moura,Sporting Braga,LB,1493,0,1493
+Sandro Kulenovic,HNK Rijeka,ST,1493,0,1493
 Myziane Maolida,Nice,LW,1492,0,1492
+Younousse Sankharé,CSKA Sofia,CAM,1492,0,1492
+Ola Brynhildsen,Molde,ST,1482,10,1492
+Gabriel Debeljuh,CFR Cluj,ST,1492,0,1492
+Andoni Gorosabel,Real Sociedad,RB,1492,0,1492
+Aleksey Ionov,FK Krasnodar,LW,1492,0,1492
+Rémy Cabella,FK Krasnodar,LW,1492,0,1492
+Pedrinho,Benfica,RAM,1492,0,1492
+Cristian Benavente,Royal Antwerp,LW,1492,0,1492
+Diogo Gonçalves,Benfica,LW,1492,0,1492
+Adalberto Peñaranda,CSKA Sofia,LW,1492,0,1492
+Salim Ben Seghir,Nice,LW,1492,0,1492
 Charles De Ketelaere,Club Brugge,RAM,1491,0,1491
-Patrick Plojer,LASK,LW,1491,0,1491
-Zé Carlos,Sporting Braga,RWB,1491,0,1491
-Luis Sinisterra,Feyenoord,LW,1491,0,1491
-Luis Suárez,Granada CF,ST,1491,0,1491
-Adolfo Gaich,CSKA Moscow,ST,1491,0,1491
-Orkun Kökcü,Feyenoord,CDM,1491,0,1491
-Filippo Falco,Crvena Zvezda,RAM,1491,0,1491
-Chris Richards,TSG 1899 Hoffenheim,RB,1491,0,1491
-Deni Alar,SK Rapid Wien,RAM,1491,0,1491
-Ola Brynhildsen,Molde,CF,1481,10,1491
-Youcef Atal,Nice,RWB,1491,0,1491
-Dennis Praet,Leicester City,CDM,1491,0,1491
-Martin Minchev,Sparta Prague,LW,1491,0,1491
-Timothy Castagne,Leicester City,RWB,1491,0,1491
-Henrique,CSKA Sofia,LW,1491,0,1491
-Tal Ben Haim,Maccabi Tel Aviv,LW,1491,0,1491
-Axel Bakayoko,Crvena Zvezda,LW,1491,0,1491
+Eric Bautheac,Omonia Nicosia,RM,1491,0,1491
 Melih Ibrahimoglu,SK Rapid Wien,CDM,1491,0,1491
-Srdan Spiridonovic,Crvena Zvezda,LW,1491,0,1491
-Moussa Wagué,PAOK Thessaloniki,RB,1491,0,1491
-James Justin,Leicester City,RB,1491,0,1491
-Wanderson,FK Krasnodar,LW,1491,0,1491
+Filippo Falco,Crvena Zvezda,RAM,1491,0,1491
+Martin Minchev,Sparta Prague,LW,1491,0,1491
 Hernâni,Sporting Braga,LW,1491,0,1491
-Ercan Kara,SK Rapid Wien,CF,1490,0,1490
-Timo Letschert,AZ,RB,1490,0,1490
-Piotr Zielinski,Napoli,CM,1490,0,1490
-Nabil Dirar,Club Brugge,RWB,1490,0,1490
-Yukinari Sugawara,AZ,RWB,1490,0,1490
-Tomás Wiesner,Sparta Prague,RWB,1490,0,1490
-Josip Misic,Dinamo Zagreb,CM,1470,20,1490
-Odilon Kossounou,Club Brugge,RB,1490,0,1490
-Ferro,Benfica,RB,1490,0,1490
+Matan Hozez,Maccabi Tel Aviv,RM,1491,0,1491
+Tal Ben Haim,Maccabi Tel Aviv,LW,1491,0,1491
+Deni Alar,SK Rapid Wien,RAM,1491,0,1491
+Dennis Praet,Leicester City,CDM,1491,0,1491
+Ercan Kara,SK Rapid Wien,ST,1491,0,1491
+Patrick Plojer,LASK,LW,1491,0,1491
+Srdan Spiridonovic,Crvena Zvezda,LW,1491,0,1491
+Rony Lopes,Nice,CAM,1491,0,1491
+Luis Suárez,Granada CF,ST,1491,0,1491
+Wanderson,FK Krasnodar,LW,1491,0,1491
+Collins Fai,Standard Liège,RB,1491,0,1491
+Orkun Kökcü,Feyenoord,CDM,1491,0,1491
+Axel Bakayoko,Crvena Zvezda,LW,1491,0,1491
+Luis Sinisterra,Feyenoord,LW,1491,0,1491
+Henrique,CSKA Sofia,LW,1491,0,1491
+Zé Carlos,Sporting Braga,RB,1490,0,1490
 Michael Pereira,CFR Cluj,RW,1490,0,1490
-John Mountney,Dundalk,RWB,1490,0,1490
+Timothy Castagne,Leicester City,RB,1490,0,1490
+Youcef Atal,Nice,RB,1490,0,1490
+Ernest Asante,Omonia Nicosia,RM,1490,0,1490
+Milan Rodic,Crvena Zvezda,LB,1490,0,1490
+Josip Misic,Dinamo Zagreb,CM,1470,20,1490
+Jan Matousek,Slovan Liberec,ST,1490,0,1490
+Piotr Zielinski,Napoli,CM,1490,0,1490
+Lukas Sulzbacher,SK Rapid Wien,RM,1490,0,1490
+Mamoudou Karamoko,LASK,ST,1490,0,1490
 Alfie Whiteman,Tottenham Hotspur,GK,1480,10,1490
+Agron Rufati,Zorya Luhansk,RM,1490,0,1490
+Erdogan Yesilyurt,Sivasspor,RM,1490,0,1490
 Luiz Araújo,Lille,RW,1490,0,1490
-Quentin Maceiras,BSC Young Boys,RWB,1490,0,1490
-Joseba Zaldúa,Real Sociedad,RWB,1490,0,1490
-André Geraldes,Maccabi Tel Aviv,RB,1490,0,1490
-Lovro Cvek,Zorya Luhansk,RB,1490,0,1490
-Ignace Van Der Brempt,Club Brugge,RWB,1490,0,1490
-Stefan Peric,RZ Pellets WAC,RB,1490,0,1490
-Tobias Christensen,Molde,CAM,1480,10,1490
-Denzel Dumfries,PSV,RM,1490,0,1490
-Hugo Siquet,Standard Liège,RWB,1490,0,1490
-Zinho Vanheusden,Standard Liège,RB,1490,0,1490
-Martin Bjørnbak,Molde,CB,1479,10,1489
-Reinhold Ranftl,LASK,RM,1489,0,1489
-Théo Pionnier,Nice,RWB,1489,0,1489
-Youssouph Badji,Club Brugge,ST,1489,0,1489
-Bruma,Olympiakos,RM,1479,10,1489
-Jordan Ikoko,Ludogorets Razgrad,RWB,1489,0,1489
-Ivan Turitsov,CSKA Sofia,RWB,1489,0,1489
-Cristian Manea,CFR Cluj,RWB,1489,0,1489
-Japhet Tanganga,Tottenham Hotspur,CB,1479,10,1489
-Georgios Koutsias,PAOK Thessaloniki,ST,1489,0,1489
-Oleksandr Syrota,Dynamo Kyiv,CB,1479,10,1489
-Emrehan Gedikli,Bayer 04 Leverkusen,ST,1489,0,1489
-Jordan Lotomba,Nice,RWB,1489,0,1489
+Adolfo Gaich,CSKA Moscow,ST,1490,0,1490
 Tomasz Kedziora,Dynamo Kyiv,CB,1479,10,1489
-Elseid Hysaj,Napoli,RWB,1489,0,1489
-Oleksandr Gladky,Zorya Luhansk,ST,1489,0,1489
-Lukas Csano,Slovan Liberec,ST,1489,0,1489
-Léo Duarte,Milan,CB,1479,10,1489
-Aleksa Vukanovic,Crvena Zvezda,ST,1489,0,1489
-Ilya Zabarnyi,Dynamo Kyiv,CB,1479,10,1489
-Alan Patrick,Shakhtar Donetsk,CAM,1479,10,1489
-Igor Smolnikov,FK Krasnodar,RWB,1489,0,1489
-Matteo Gabbia,Milan,CB,1479,10,1489
-Abdullahi Shehu,Omonia Nicosia,RWB,1489,0,1489
-Charalampos Mavrias,Omonia Nicosia,RWB,1489,0,1489
-Billel Omrani,CFR Cluj,ST,1489,0,1489
-Mario Fernandes,CSKA Moscow,RWB,1489,0,1489
-Momcilo Raspopovic,HNK Rijeka,RWB,1489,0,1489
-Serhiy Kryvtsov,Shakhtar Donetsk,CB,1479,10,1489
-Jaime Romero,FK Qarabag,RW,1489,0,1489
-Mohammad Awad,Lech Poznan,ST,1489,0,1489
-Libor Kozák,Sparta Prague,ST,1489,0,1489
-Denys Popov,Dynamo Kyiv,CB,1479,10,1489
-Noam Gamon,Hapoel Be'er Sheva,RWB,1489,0,1489
-Milan Rodic,Crvena Zvezda,LWB,1489,0,1489
-Ari,FK Krasnodar,ST,1489,0,1489
-Jakub Vojtus,CFR Cluj,ST,1489,0,1489
-Kelvin Arase,SK Rapid Wien,ST,1489,0,1489
-Dominik Reiter,LASK,RM,1489,0,1489
-Ben Bitton,Maccabi Tel Aviv,RWB,1489,0,1489
-Maximilian Wöber,FC Red Bull Salzburg,RWB,1489,0,1489
-Jan Matousek,Slovan Liberec,CF,1489,0,1489
-Mamoudou Karamoko,LASK,CF,1489,0,1489
-Rúben Semedo,Olympiakos,CB,1479,10,1489
-Ahmed Ahmedov,CSKA Sofia,ST,1489,0,1489
-Lefteris Lyratzis,PAOK Thessaloniki,RWB,1489,0,1489
-Sokratis Papastathopoulos,Olympiakos,CB,1479,10,1489
-Racine Coly,Nice,RWB,1489,0,1489
+Martin Bjørnbak,Molde,CB,1479,10,1489
+Zeki Çelik,Lille,RWB,1489,0,1489
 Max-Alain Gradel,Sivasspor,LW,1489,0,1489
-Leo Matos,PAOK Thessaloniki,RWB,1489,0,1489
+Matteo Gabbia,Milan,CB,1479,10,1489
+Tomás Wiesner,Sparta Prague,RB,1489,0,1489
 Georgiy Sudakov,Shakhtar Donetsk,CAM,1479,10,1489
-Levi García,AEK Athens,ST,1489,0,1489
-Tim Kleindienst,KAA Gent,ST,1488,0,1488
-Magomed-Shapi Suleymanov,FK Krasnodar,RW,1488,0,1488
-Mahir Emreli,FK Qarabag,CF,1488,0,1488
-Jacob Bruun Larsen,TSG 1899 Hoffenheim,RW,1488,0,1488
-Stefan Colovic,Dundalk,RW,1488,0,1488
-Tom Rogic,Celtic,LW,1488,0,1488
-Dejan Ljubicic,SK Rapid Wien,CM,1488,0,1488
-Nick Blackman,Maccabi Tel Aviv,CF,1488,0,1488
-Oleg Reabciuk,Olympiakos,LWB,1478,10,1488
+James Justin,Leicester City,RB,1489,0,1489
+Tobias Christensen,Molde,CAM,1479,10,1489
+Yukinari Sugawara,AZ,RB,1489,0,1489
+Sokratis Papastathopoulos,Olympiakos,CB,1479,10,1489
+Jaime Romero,FK Qarabag,RW,1489,0,1489
+Japhet Tanganga,Tottenham Hotspur,CB,1479,10,1489
+Serhiy Kryvtsov,Shakhtar Donetsk,CB,1479,10,1489
+Rúben Semedo,Olympiakos,CB,1479,10,1489
+John Mountney,Dundalk,RB,1489,0,1489
+Quentin Maceiras,BSC Young Boys,RB,1489,0,1489
+Ilya Zabarnyi,Dynamo Kyiv,CB,1479,10,1489
+Chris Richards,TSG 1899 Hoffenheim,RB,1489,0,1489
+Ignace Van Der Brempt,Club Brugge,RB,1489,0,1489
+Oleksandr Syrota,Dynamo Kyiv,CB,1479,10,1489
+Hugo Siquet,Standard Liège,RB,1489,0,1489
+Joseba Zaldúa,Real Sociedad,RB,1489,0,1489
+Léo Duarte,Milan,CB,1479,10,1489
+Moussa Wagué,PAOK Thessaloniki,RB,1489,0,1489
+Denys Popov,Dynamo Kyiv,CB,1479,10,1489
+Nabil Dirar,Club Brugge,RB,1489,0,1489
+Momcilo Raspopovic,HNK Rijeka,RB,1488,0,1488
+Ayoze Pérez,Leicester City,ST,1488,0,1488
+Mario Fernandes,CSKA Moscow,RB,1488,0,1488
+Ari,FK Krasnodar,ST,1488,0,1488
+Sterling Yatéké,HNK Rijeka,ST,1488,0,1488
+André Geraldes,Maccabi Tel Aviv,RB,1488,0,1488
+Serhiy Hryn,Zorya Luhansk,ST,1488,0,1488
 Anderson Niangbo,KAA Gent,RW,1488,0,1488
-Ayoze Pérez,Leicester City,CF,1488,0,1488
-Jules Keita,CSKA Sofia,RW,1488,0,1488
-Loizos Loizou,Omonia Nicosia,RW,1488,0,1488
-Martín Merquelanz,Real Sociedad,RW,1488,0,1488
+Richmond Boakye,Crvena Zvezda,ST,1488,0,1488
+Ferro,Benfica,RB,1488,0,1488
+Marc Andre Schmerböck,RZ Pellets WAC,ST,1488,0,1488
+Mohammad Awad,Lech Poznan,ST,1488,0,1488
+Alan Patrick,Shakhtar Donetsk,CAM,1478,10,1488
+Tom Rogic,Celtic,LW,1488,0,1488
+Dimitar Mitkov,Ludogorets Razgrad,ST,1488,0,1488
+Mahir Emreli,FK Qarabag,ST,1488,0,1488
+Magomed-Shapi Suleymanov,FK Krasnodar,RW,1488,0,1488
+Andraz Sporar,Sporting Braga,ST,1488,0,1488
+Billel Omrani,CFR Cluj,ST,1488,0,1488
+Mehdi Carcela-Gonzalez,Standard Liège,ST,1488,0,1488
+Maximilian Wöber,FC Red Bull Salzburg,RB,1488,0,1488
 David Okereke,Club Brugge,RW,1488,0,1488
+Nick Blackman,Maccabi Tel Aviv,ST,1488,0,1488
+Odilon Kossounou,Club Brugge,RB,1488,0,1488
+Zinho Vanheusden,Standard Liège,RB,1488,0,1488
+Yorbe Vertessen,PSV,ST,1488,0,1488
+Oleg Reabciuk,Olympiakos,LB,1478,10,1488
+Elseid Hysaj,Napoli,RB,1488,0,1488
+Mathis Bolly,Molde,ST,1478,10,1488
+Oleksandr Gladky,Zorya Luhansk,ST,1488,0,1488
+Théo Pionnier,Nice,RB,1488,0,1488
+Dejan Ljubicic,SK Rapid Wien,CM,1488,0,1488
+Aleksa Vukanovic,Crvena Zvezda,ST,1488,0,1488
+Cristian Manea,CFR Cluj,RB,1488,0,1488
+Emrehan Gedikli,Bayer 04 Leverkusen,ST,1488,0,1488
+Stefan Peric,RZ Pellets WAC,RB,1488,0,1488
+Timo Letschert,AZ,RB,1488,0,1488
+Martín Merquelanz,Real Sociedad,RW,1488,0,1488
+Charalampos Mavrias,Omonia Nicosia,RB,1488,0,1488
 Cauly Oliveira Souza,Ludogorets Razgrad,RAM,1488,0,1488
-Dimitar Mitkov,Ludogorets Razgrad,CF,1487,0,1487
-Sean Murray,Dundalk,CM,1487,0,1487
-Serhiy Hryn,Zorya Luhansk,CF,1487,0,1487
-Demarai Gray,Bayer 04 Leverkusen,LW,1487,0,1487
-Yusuf Barasi,AZ,CF,1487,0,1487
-Itay Shechter,Maccabi Tel Aviv,CF,1487,0,1487
-Mehdi Carcela-Gonzalez,Standard Liège,CF,1487,0,1487
-Sterling Yatéké,HNK Rijeka,CF,1487,0,1487
-Yorbe Vertessen,PSV,CF,1487,0,1487
-Mathis Bolly,Molde,CF,1477,10,1487
-Andraz Sporar,Sporting Braga,CF,1487,0,1487
-Richmond Boakye,Crvena Zvezda,CF,1487,0,1487
-Ilya Shkurin,CSKA Moscow,CF,1487,0,1487
-Vadis Odjidja-Ofoe,KAA Gent,CM,1487,0,1487
+Racine Coly,Nice,RB,1488,0,1488
+Stefan Colovic,Dundalk,RW,1488,0,1488
+Libor Kozák,Sparta Prague,ST,1488,0,1488
+Lukas Csano,Slovan Liberec,ST,1488,0,1488
+Itay Shechter,Maccabi Tel Aviv,ST,1488,0,1488
+Kelvin Arase,SK Rapid Wien,ST,1488,0,1488
+Ahmed Ahmedov,CSKA Sofia,ST,1488,0,1488
+Jules Keita,CSKA Sofia,RW,1488,0,1488
+Yusuf Barasi,AZ,ST,1488,0,1488
+Ivan Turitsov,CSKA Sofia,RB,1488,0,1488
+Lovro Cvek,Zorya Luhansk,RB,1488,0,1488
+Igor Smolnikov,FK Krasnodar,RB,1488,0,1488
+Laurent Depoitre,KAA Gent,ST,1488,0,1488
+Ilya Shkurin,CSKA Moscow,ST,1488,0,1488
+Lefteris Lyratzis,PAOK Thessaloniki,RB,1488,0,1488
+Georgios Koutsias,PAOK Thessaloniki,ST,1488,0,1488
+Loizos Loizou,Omonia Nicosia,RW,1488,0,1488
+Jordan Lotomba,Nice,RB,1488,0,1488
+Youssouph Badji,Club Brugge,ST,1488,0,1488
+Leo Matos,PAOK Thessaloniki,RB,1488,0,1488
+Jakub Vojtus,CFR Cluj,ST,1488,0,1488
+Jordan Ikoko,Ludogorets Razgrad,RB,1488,0,1488
+Jacob Bruun Larsen,TSG 1899 Hoffenheim,RW,1488,0,1488
+Levi García,AEK Athens,ST,1488,0,1488
+Denzel Dumfries,PSV,RM,1487,0,1487
 Isaac Lihadji,Lille,LW,1487,0,1487
-Callum McGregor,Celtic,CM,1487,0,1487
-Laurent Depoitre,KAA Gent,CF,1487,0,1487
 Mads Emil Madsen,LASK,CM,1487,0,1487
-Henry Wingo,Molde,RB,1477,10,1487
 Kristijan Bistrovic,CSKA Moscow,CM,1487,0,1487
-Jakub Kaminski,Lech Poznan,LAM,1487,0,1487
-Marc Andre Schmerböck,RZ Pellets WAC,CF,1487,0,1487
-Uros Matic,FK Qarabag,CDM,1486,0,1486
-Ruud Vormer,Club Brugge,CDM,1486,0,1486
-Soualiho Meité,Milan,CDM,1476,10,1486
-Taras Stepanenko,Shakhtar Donetsk,CDM,1476,10,1486
-Filip Bednarek,Lech Poznan,GK,1486,0,1486
-Niklas Dorsch,KAA Gent,CDM,1486,0,1486
-Pedro Tiba,Lech Poznan,CDM,1486,0,1486
-Andreas Bouchalakis,Olympiakos,CDM,1476,10,1486
-Pierre Kalulu,Milan,RB,1476,10,1486
-Yasin Öztekin,Sivasspor,LW,1486,0,1486
-Ryan Jack,Rangers,CDM,1476,10,1486
-Érik Lamela,Tottenham Hotspur,RW,1476,10,1486
-Dennis Geiger,TSG 1899 Hoffenheim,CDM,1486,0,1486
-Fedor Chalov,CSKA Moscow,ST,1486,0,1486
-Mohamed Mady Camara,Olympiakos,CDM,1476,10,1486
+Callum McGregor,Celtic,CM,1487,0,1487
+Vadis Odjidja-Ofoe,KAA Gent,CM,1487,0,1487
+Sean Murray,Dundalk,CM,1487,0,1487
+Tim Kleindienst,KAA Gent,ST,1487,0,1487
+Demarai Gray,Bayer 04 Leverkusen,LW,1487,0,1487
 Harvey White,Tottenham Hotspur,CDM,1476,10,1486
-Husein Balic,LASK,ST,1486,0,1486
-Maximilian Ullmann,SK Rapid Wien,LM,1485,0,1485
-Albert Gudmundsson,AZ,LW,1485,0,1485
-Owen Wijndal,AZ,LWB,1485,0,1485
-Giannis-Fivos Botos,AEK Athens,LAM,1485,0,1485
-Itamar Shviro,Hapoel Be'er Sheva,ST,1485,0,1485
-Taxiarchis Fountas,SK Rapid Wien,RW,1485,0,1485
-Mário Rui,Napoli,LWB,1485,0,1485
-Ihlas Bebou,TSG 1899 Hoffenheim,CF,1485,0,1485
-Dominik Yankov,Ludogorets Razgrad,LAM,1485,0,1485
-Ramzi Safuri,Hapoel Be'er Sheva,LAM,1485,0,1485
-Konstantin Maradishvili,CSKA Moscow,CM,1485,0,1485
-Kiril Despodov,Ludogorets Razgrad,RW,1485,0,1485
+Dennis Geiger,TSG 1899 Hoffenheim,CDM,1486,0,1486
+Mohamed Mady Camara,Olympiakos,CDM,1476,10,1486
+Yasin Öztekin,Sivasspor,LW,1486,0,1486
+Andreas Bouchalakis,Olympiakos,CDM,1476,10,1486
+Érik Lamela,Tottenham Hotspur,RW,1476,10,1486
+Jakub Kaminski,Lech Poznan,LAM,1486,0,1486
+Ruud Vormer,Club Brugge,CDM,1486,0,1486
+Bruma,Olympiakos,RM,1476,10,1486
+Pedro Tiba,Lech Poznan,CDM,1486,0,1486
+Ihlas Bebou,TSG 1899 Hoffenheim,ST,1486,0,1486
+Filip Bednarek,Lech Poznan,GK,1486,0,1486
+Taras Stepanenko,Shakhtar Donetsk,CDM,1476,10,1486
+Soualiho Meité,Milan,CDM,1476,10,1486
+Uros Matic,FK Qarabag,CDM,1486,0,1486
+Ryan Jack,Rangers,CDM,1476,10,1486
+Niklas Dorsch,KAA Gent,CDM,1486,0,1486
 Mohammed Ihattaren,PSV,RW,1485,0,1485
-Diadie Samassékou,TSG 1899 Hoffenheim,CM,1484,0,1484
+Kiril Despodov,Ludogorets Razgrad,RW,1485,0,1485
+Albert Gudmundsson,AZ,LW,1485,0,1485
+Mário Rui,Napoli,LB,1485,0,1485
+Owen Wijndal,AZ,LB,1485,0,1485
+Fedor Chalov,CSKA Moscow,ST,1485,0,1485
+Marcel Ritzmaier,SK Rapid Wien,ST,1485,0,1485
+Nicolás Tagliafico,Ajax,LB,1465,20,1485
+Husein Balic,LASK,ST,1485,0,1485
+Konstantin Maradishvili,CSKA Moscow,CM,1485,0,1485
+Taxiarchis Fountas,SK Rapid Wien,RW,1485,0,1485
+Henry Wingo,Molde,RB,1475,10,1485
+Pierre Kalulu,Milan,RB,1474,10,1484
 Maximilian Hofmann,SK Rapid Wien,CB,1484,0,1484
-Kenny Lala,Olympiakos,RWB,1474,10,1484
-Artem Biesiedin,Dynamo Kyiv,RW,1474,10,1484
+Maximilian Ullmann,SK Rapid Wien,LM,1484,0,1484
+Giannis-Fivos Botos,AEK Athens,LAM,1484,0,1484
+Ramzi Safuri,Hapoel Be'er Sheva,LAM,1484,0,1484
 Seán Hoare,Dundalk,CB,1484,0,1484
-Stanley N'Soki,Nice,LB,1484,0,1484
-Mohamed Dräger,Olympiakos,RWB,1474,10,1484
-Simon Deli,Slavia Prague,CB,1464,20,1484
-Marcel Ritzmaier,SK Rapid Wien,CF,1484,0,1484
+Aleksandar Boljevic,Standard Liège,RWB,1484,0,1484
+Dominik Yankov,Ludogorets Razgrad,LAM,1484,0,1484
 David Hovorka,Slavia Prague,CB,1464,20,1484
 Daley Blind,Ajax,CB,1464,20,1484
-Ales Nesicky,Slovan Liberec,LAM,1484,0,1484
+Diadie Samassékou,TSG 1899 Hoffenheim,CM,1484,0,1484
+Itamar Shviro,Hapoel Be'er Sheva,ST,1484,0,1484
+Antonio Puertas,Granada CF,ST,1484,0,1484
+Artem Biesiedin,Dynamo Kyiv,RW,1474,10,1484
+Maor Kandil,Maccabi Tel Aviv,RWB,1484,0,1484
 Fernando Varela,PAOK Thessaloniki,CB,1484,0,1484
-Mario Götze,PSV,CAM,1484,0,1484
-Björn Sigurdarson,Molde,ST,1474,10,1484
+Simon Deli,Slavia Prague,CB,1464,20,1484
 Marlos,Shakhtar Donetsk,RW,1474,10,1484
-Nicolás Tagliafico,Ajax,LWB,1464,20,1484
-Bas Dost,Club Brugge,ST,1484,0,1484
-Antonio Puertas,Granada CF,CF,1484,0,1484
-Mark Diemers,Feyenoord,CAM,1483,0,1483
-Eric Botteghin,Feyenoord,LB,1483,0,1483
-Dani de Wit,AZ,CAM,1483,0,1483
-Thomas Goiginger,LASK,LAM,1483,0,1483
-Stratos Svarnas,AEK Athens,LB,1483,0,1483
-Maxime Le Marchand,Royal Antwerp,LB,1483,0,1483
-Alexis Saelemaekers,Milan,RM,1473,10,1483
-Mários Pourzitídis,Slovan Liberec,LB,1483,0,1483
-Oumar Solet,FC Red Bull Salzburg,LB,1483,0,1483
-Patrick McEleney,Dundalk,CAM,1482,0,1482
-Daniel Maldini,Milan,CF,1472,10,1482
-Zlatan Ibrahimovic,Milan,ST,1472,10,1482
-Naoufal Bannis,Feyenoord,ST,1482,0,1482
-Chris Shields,Dundalk,CM,1482,0,1482
-Thiago Santos,Omonia Nicosia,CAM,1482,0,1482
+Filip Stojkovic,SK Rapid Wien,LWB,1484,0,1484
+Daniel Maldini,Milan,ST,1473,10,1483
+Andrejs Ciganiks,Zorya Luhansk,LWB,1483,0,1483
+Mario Götze,PSV,CAM,1483,0,1483
+Mohamed Dräger,Olympiakos,RB,1473,10,1483
+Kenny Lala,Olympiakos,RB,1473,10,1483
+Bas Dost,Club Brugge,ST,1483,0,1483
+Abbas Hüseynov,FK Qarabag,RWB,1483,0,1483
+Björn Sigurdarson,Molde,ST,1473,10,1483
+Ales Nesicky,Slovan Liberec,LAM,1483,0,1483
 Luka Menalo,HNK Rijeka,LW,1482,0,1482
-Albian Ajeti,Celtic,ST,1482,0,1482
+Chris Shields,Dundalk,CM,1482,0,1482
+Mavis Tchibota,Ludogorets Razgrad,ST,1482,0,1482
+Gonçalo Ramos,Benfica,ST,1482,0,1482
+Mark Diemers,Feyenoord,CAM,1482,0,1482
 Jesper Karlsson,AZ,LW,1482,0,1482
-Yan Brice Eteki,Granada CF,CDM,1481,0,1481
-Nikola Vlasic,CSKA Moscow,CAM,1481,0,1481
-Konstantin Kuchaev,CSKA Moscow,CAM,1481,0,1481
-Edson Álvarez,Ajax,CDM,1461,20,1481
+Dani de Wit,AZ,CAM,1482,0,1482
+Thomas Goiginger,LASK,LAM,1482,0,1482
+Filip Braut,HNK Rijeka,LWB,1481,0,1481
+Nicolas Gavory,Standard Liège,LB,1481,0,1481
+Patrick McEleney,Dundalk,CAM,1481,0,1481
+Imad Rondic,Slovan Liberec,ST,1481,0,1481
+Naoufal Bannis,Feyenoord,ST,1481,0,1481
+Thiago Santos,Omonia Nicosia,CAM,1481,0,1481
+Daniel Kelly,Dundalk,LWB,1481,0,1481
 Kerem Demirbay,Bayer 04 Leverkusen,CDM,1481,0,1481
-Nélson Oliveira,AEK Athens,ST,1481,0,1481
-Marvin Potzmann,LASK,CAM,1481,0,1481
-David Silva,Real Sociedad,RAM,1481,0,1481
-Mavis Tchibota,Ludogorets Razgrad,CF,1481,0,1481
-Imad Rondic,Slovan Liberec,CF,1481,0,1481
-Gonçalo Ramos,Benfica,CF,1481,0,1481
-Nicolas Gavory,Standard Liège,LWB,1481,0,1481
-Zlatko Junuzovic,FC Red Bull Salzburg,CAM,1481,0,1481
 Adrian Fein,PSV,CDM,1481,0,1481
-Kamso Mara,Slovan Liberec,RB,1481,0,1481
-Ortwin de Wolf,Royal Antwerp,GK,1480,0,1480
-Colin Coosemans,KAA Gent,GK,1480,0,1480
-Brenden Aaronson,FC Red Bull Salzburg,CAM,1480,0,1480
-Bogdan Lednev,Dynamo Kyiv,CM,1470,10,1480
-Noah Crétier,Nice,GK,1480,0,1480
-Jon Guridi,Real Sociedad,CAM,1480,0,1480
-Plamen Iliev,Ludogorets Razgrad,GK,1480,0,1480
-Ohad Levita,Hapoel Be'er Sheva,GK,1480,0,1480
-Davy Roef,KAA Gent,GK,1480,0,1480
-Nile John,Tottenham Hotspur,CM,1470,10,1480
-Paul Gartler,SK Rapid Wien,GK,1480,0,1480
-Charles Aránguiz,Bayer 04 Leverkusen,CAM,1480,0,1480
-Philipp Pentke,TSG 1899 Hoffenheim,GK,1480,0,1480
+Yan Brice Eteki,Granada CF,CDM,1481,0,1481
+Zlatan Ibrahimovic,Milan,ST,1471,10,1481
+Edson Álvarez,Ajax,CDM,1461,20,1481
+Albian Ajeti,Celtic,ST,1481,0,1481
 Helton Leite,Benfica,GK,1480,0,1480
-Richard Strebinger,SK Rapid Wien,GK,1480,0,1480
-Conor Hazard,Celtic,GK,1480,0,1480
 Sahruddin Mahammadaliyev,FK Qarabag,GK,1480,0,1480
-Mykola Shaparenko,Dynamo Kyiv,LAM,1470,10,1480
-Zeki Çelik,Lille,RM,1480,0,1480
-Vasilios Barkas,Celtic,GK,1480,0,1480
+Evgeniy Gorodov,FK Krasnodar,GK,1480,0,1480
+David Silva,Real Sociedad,RAM,1480,0,1480
+Simon Mignolet,Club Brugge,GK,1480,0,1480
+Gary Rogers,Dundalk,GK,1480,0,1480
+Aaron McCarey,Dundalk,GK,1480,0,1480
+Noah Crétier,Nice,GK,1480,0,1480
+Sinan Bolat,KAA Gent,GK,1480,0,1480
+Richard Strebinger,SK Rapid Wien,GK,1480,0,1480
 Thanasis Androutsos,Olympiakos,CM,1470,10,1480
+Colin Coosemans,KAA Gent,GK,1480,0,1480
+Zlatko Junuzovic,FC Red Bull Salzburg,CAM,1480,0,1480
+Conor Hazard,Celtic,GK,1480,0,1480
+Ortwin de Wolf,Royal Antwerp,GK,1480,0,1480
+Paul Gartler,SK Rapid Wien,GK,1480,0,1480
+Stanislav Agkatsev,FK Krasnodar,GK,1480,0,1480
+Ohad Levita,Hapoel Be'er Sheva,GK,1480,0,1480
+Manuel Kuttin,RZ Pellets WAC,GK,1480,0,1480
+Julian Baumgartlinger,Bayer 04 Leverkusen,CM,1480,0,1480
+Nélson Oliveira,AEK Athens,ST,1480,0,1480
+Nuno Sequeira,Sporting Braga,LB,1480,0,1480
+Florin Nita,Sparta Prague,GK,1480,0,1480
+Hirving Lozano,Napoli,LW,1480,0,1480
+Nile John,Tottenham Hotspur,CM,1470,10,1480
+Nikola Vlasic,CSKA Moscow,CAM,1480,0,1480
+Philipp Pentke,TSG 1899 Hoffenheim,GK,1480,0,1480
+Davy Roef,KAA Gent,GK,1480,0,1480
+Georgios Athanasiadis,AEK Athens,GK,1480,0,1480
+Alireza Beiranvand,Royal Antwerp,GK,1480,0,1480
+Vasyl Kravets,Lech Poznan,LB,1480,0,1480
+Matteo Politano,Napoli,RW,1480,0,1480
+Emil Breivik,Molde,CM,1470,10,1480
+Vasilios Barkas,Celtic,GK,1480,0,1480
+Marvin Potzmann,LASK,CAM,1480,0,1480
+Plamen Iliev,Ludogorets Razgrad,GK,1480,0,1480
 Yoan Cardinale,Nice,GK,1480,0,1480
 Lukás Hasalík,Slovan Liberec,GK,1480,0,1480
-Aaron McCarey,Dundalk,GK,1480,0,1480
-Simon Mignolet,Club Brugge,GK,1480,0,1480
-Manuel Kuttin,RZ Pellets WAC,GK,1480,0,1480
-Stanislav Agkatsev,FK Krasnodar,GK,1480,0,1480
-Matteo Politano,Napoli,RW,1480,0,1480
-Evgeniy Gorodov,FK Krasnodar,GK,1480,0,1480
-Luka Sucic,FC Red Bull Salzburg,CAM,1480,0,1480
-Julian Baumgartlinger,Bayer 04 Leverkusen,CM,1480,0,1480
-Stefano Beltrame,CSKA Sofia,CAM,1480,0,1480
-Alireza Beiranvand,Royal Antwerp,GK,1480,0,1480
-Emil Breivik,Molde,CM,1470,10,1480
-Vladislav Stoyanov,Ludogorets Razgrad,GK,1480,0,1480
-Hirving Lozano,Napoli,LW,1480,0,1480
 Guillaume Faivre,BSC Young Boys,GK,1480,0,1480
-Florin Nita,Sparta Prague,GK,1480,0,1480
-Sinan Bolat,KAA Gent,GK,1480,0,1480
-Georgios Athanasiadis,AEK Athens,GK,1480,0,1480
-Selim Amallah,Standard Liège,CAM,1480,0,1480
-Lucas Piazón,Sporting Braga,CAM,1480,0,1480
-Michal Trávník,Sparta Prague,CAM,1480,0,1480
-Alan Dzagoev,CSKA Moscow,CAM,1480,0,1480
-Gary Rogers,Dundalk,GK,1480,0,1480
-Zeljko Gavric,Crvena Zvezda,CAM,1480,0,1480
-Georginio Rutter,TSG 1899 Hoffenheim,CAM,1480,0,1480
-Tomás Hubocan,Omonia Nicosia,CB,1479,0,1479
+Vladislav Stoyanov,Ludogorets Razgrad,GK,1480,0,1480
+Bogdan Lednev,Dynamo Kyiv,CM,1470,10,1480
+Konstantin Kuchaev,CSKA Moscow,CAM,1480,0,1480
 Nir Bitton,Celtic,CB,1479,0,1479
-Bogdan Butko,Lech Poznan,RM,1479,0,1479
-Jakub Jugas,Slovan Liberec,CB,1479,0,1479
-Jan Sulc,Slovan Liberec,CB,1479,0,1479
-Georgi Terziev,Ludogorets Razgrad,CB,1479,0,1479
-Adam Gnezda Cerin,HNK Rijeka,CAM,1479,0,1479
-Ramon Leeuwin,AZ,CB,1479,0,1479
-Sven Bender,Bayer 04 Leverkusen,CB,1479,0,1479
-Vadim Karpov,CSKA Moscow,CB,1479,0,1479
-Strahinja Erakovic,Crvena Zvezda,CB,1479,0,1479
-Clinton Mata,Club Brugge,CB,1479,0,1479
-Amir Rrahmani,Napoli,CB,1479,0,1479
-Wes Morgan,Leicester City,CB,1479,0,1479
-Nuno Sequeira,Sporting Braga,LWB,1479,0,1479
-Vasyl Kravets,Lech Poznan,LWB,1479,0,1479
-Lubomír Satka,Lech Poznan,CB,1479,0,1479
-Wesley Fofana,Leicester City,CB,1479,0,1479
-Tomasz Dejewski,Lech Poznan,CB,1479,0,1479
-Lucas Veríssimo,Benfica,CB,1479,0,1479
-Kaio,FK Krasnodar,CB,1479,0,1479
-Veldin Hodza,HNK Rijeka,CAM,1479,0,1479
-Rodrigo Escoval,HNK Rijeka,CB,1479,0,1479
-Jardel,Benfica,CB,1479,0,1479
-Timo Baumgartl,PSV,CB,1479,0,1479
-Maksim Medvedev,FK Qarabag,CB,1479,0,1479
-Adel Taarabt,Benfica,CAM,1479,0,1479
-Tijs Velthuis,AZ,CB,1479,0,1479
-Plamen Galabov,CSKA Sofia,CB,1479,0,1479
-Aleksandr Martynovich,FK Krasnodar,CB,1479,0,1479
-Thomas Rogne,Lech Poznan,CB,1479,0,1479
-Giannis Michailidis,PAOK Thessaloniki,CB,1479,0,1479
-Stephen Welsh,Celtic,CB,1479,0,1479
-Nino Galovic,HNK Rijeka,CB,1479,0,1479
-Rolando,Sporting Braga,CB,1479,0,1479
-Sintayehu Sallalich,Hapoel Be'er Sheva,RM,1479,0,1479
-Petar Filipovic,LASK,CB,1479,0,1479
-Michael Lüftner,Omonia Nicosia,CB,1479,0,1479
-Igor Diveev,CSKA Moscow,CB,1479,0,1479
-Andreas Vindheim,Sparta Prague,RM,1479,0,1479
-Paulo Vinicius,CFR Cluj,CB,1479,0,1479
-Andrejs Ciganiks,Zorya Luhansk,LWB,1479,0,1479
-Josué,Ludogorets Razgrad,CB,1479,0,1479
-Denis Ciobotariu,CFR Cluj,CB,1479,0,1479
-Ismael Saibari,PSV,CAM,1479,0,1479
-Dmytro Piddubnyi,Zorya Luhansk,CB,1479,0,1479
 André Ramalho,FC Red Bull Salzburg,CB,1479,0,1479
-Andy Pelmard,Nice,CB,1479,0,1479
-Dmytro Chygrynskiy,AEK Athens,CB,1479,0,1479
-Mohamed Tijani,Slovan Liberec,CB,1479,0,1479
-Hatem Abd Elhamed,Celtic,CB,1479,0,1479
-Dino Arslanagic,KAA Gent,CB,1479,0,1479
-Pepe Sánchez,Granada CF,CB,1479,0,1479
-Modibo Sagnan,Real Sociedad,CB,1479,0,1479
-Aritz Elustondo,Real Sociedad,CB,1479,0,1479
-Sean Goldberg,Hapoel Be'er Sheva,CB,1479,0,1479
-Antoine Bernede,FC Red Bull Salzburg,CAM,1479,0,1479
-Cem Türkmen,Bayer 04 Leverkusen,CB,1479,0,1479
-Nicolas Bürgy,BSC Young Boys,CB,1479,0,1479
-Igor Plastun,KAA Gent,CB,1479,0,1479
-Stefan Posch,TSG 1899 Hoffenheim,CB,1479,0,1479
-Danilo,Nice,CB,1479,0,1479
-Martin Vitík,Sparta Prague,CB,1479,0,1479
-Rahil Mammadov,FK Qarabag,CB,1479,0,1479
-Dante,Nice,CB,1479,0,1479
+Joël Abu Hanna,Zorya Luhansk,CB,1479,0,1479
 Badavi Hüseynov,FK Qarabag,CB,1479,0,1479
-Nick Viergever,PSV,CB,1479,0,1479
-Darragh Leahy,Dundalk,CB,1479,0,1479
+Stefan Posch,TSG 1899 Hoffenheim,CB,1479,0,1479
+Aritz Elustondo,Real Sociedad,CB,1479,0,1479
+Ramon Leeuwin,AZ,CB,1479,0,1479
+Jakub Jugas,Slovan Liberec,CB,1479,0,1479
+Brenden Aaronson,FC Red Bull Salzburg,CAM,1479,0,1479
+Lucas Piazón,Sporting Braga,CAM,1479,0,1479
+Plamen Galabov,CSKA Sofia,CB,1479,0,1479
+Jan Sulc,Slovan Liberec,CB,1479,0,1479
+Michael Lüftner,Omonia Nicosia,CB,1479,0,1479
+Kaio,FK Krasnodar,CB,1479,0,1479
+Cem Türkmen,Bayer 04 Leverkusen,CB,1479,0,1479
+Paulo Vinicius,CFR Cluj,CB,1479,0,1479
+Tomasz Dejewski,Lech Poznan,CB,1479,0,1479
+Andy Pelmard,Nice,CB,1479,0,1479
+Selim Amallah,Standard Liège,CAM,1479,0,1479
+Mohamed Tijani,Slovan Liberec,CB,1479,0,1479
+Rahil Mammadov,FK Qarabag,CB,1479,0,1479
+Nino Galovic,HNK Rijeka,CB,1479,0,1479
+Dylan Batubinsika,Royal Antwerp,CB,1479,0,1479
+Jardel,Benfica,CB,1479,0,1479
+Vadim Karpov,CSKA Moscow,CB,1479,0,1479
 Matan Baltaxa,Maccabi Tel Aviv,CB,1479,0,1479
-Nemanja Rnic,RZ Pellets WAC,CB,1479,0,1479
+Thomas Rogne,Lech Poznan,CB,1479,0,1479
+Ismael Saibari,PSV,CAM,1479,0,1479
+Stephen Welsh,Celtic,CB,1479,0,1479
+Alexis Saelemaekers,Milan,RM,1469,10,1479
+Modibo Sagnan,Real Sociedad,CB,1479,0,1479
+Giannis Michailidis,PAOK Thessaloniki,CB,1479,0,1479
+Jon Guridi,Real Sociedad,CAM,1479,0,1479
+Clinton Mata,Club Brugge,CB,1479,0,1479
+Georgi Terziev,Ludogorets Razgrad,CB,1479,0,1479
+Maksim Medvedev,FK Qarabag,CB,1479,0,1479
+Amir Rrahmani,Napoli,CB,1479,0,1479
 Matej Chalus,Slovan Liberec,CB,1479,0,1479
+Veldin Hodza,HNK Rijeka,CAM,1479,0,1479
+Alan Dzagoev,CSKA Moscow,CAM,1479,0,1479
+Tomás Hubocan,Omonia Nicosia,CB,1479,0,1479
+Igor Plastun,KAA Gent,CB,1479,0,1479
+Sven Bender,Bayer 04 Leverkusen,CB,1479,0,1479
+Igor Diveev,CSKA Moscow,CB,1479,0,1479
+Adam Gnezda Cerin,HNK Rijeka,CAM,1479,0,1479
+Josué,Ludogorets Razgrad,CB,1479,0,1479
+Rodrigo Escoval,HNK Rijeka,CB,1479,0,1479
+Rolando,Sporting Braga,CB,1479,0,1479
+Danilo,Nice,CB,1479,0,1479
+Andreas Ulmer,FC Red Bull Salzburg,LB,1479,0,1479
+Dante,Nice,CB,1479,0,1479
 Gustav Henriksson,RZ Pellets WAC,CB,1479,0,1479
 Kasim Adams,TSG 1899 Hoffenheim,CB,1479,0,1479
-Dylan Batubinsika,Royal Antwerp,CB,1479,0,1479
-Joël Abu Hanna,Zorya Luhansk,CB,1479,0,1479
-Dragos Grigore,Ludogorets Razgrad,LB,1478,0,1478
-Federico Ricca,Club Brugge,LWB,1478,0,1478
-Patson Daka,FC Red Bull Salzburg,ST,1478,0,1478
-Anton Nedyalkov,Ludogorets Razgrad,LWB,1478,0,1478
-Andreas Ulmer,FC Red Bull Salzburg,LWB,1478,0,1478
-Nair Tiknizyan,CSKA Moscow,LWB,1478,0,1478
-Owusu Kwabena,FK Qarabag,LW,1477,0,1477
-Petar Zanev,CSKA Sofia,LWB,1477,0,1477
-Abel Ruiz,Sporting Braga,ST,1477,0,1477
-Kiko,Omonia Nicosia,LWB,1477,0,1477
-Jerome Sinclair,CSKA Sofia,LW,1477,0,1477
-Armando Anastasio,HNK Rijeka,LWB,1477,0,1477
-Brian Gartland,Dundalk,LWB,1477,0,1477
+Denis Ciobotariu,CFR Cluj,CB,1479,0,1479
+Nemanja Rnic,RZ Pellets WAC,CB,1479,0,1479
+Tijs Velthuis,AZ,CB,1479,0,1479
+Luka Sucic,FC Red Bull Salzburg,CAM,1479,0,1479
+Stefano Beltrame,CSKA Sofia,CAM,1479,0,1479
+Zeljko Gavric,Crvena Zvezda,CAM,1479,0,1479
+Antoine Bernede,FC Red Bull Salzburg,CAM,1479,0,1479
+Mykola Shaparenko,Dynamo Kyiv,LAM,1469,10,1479
+Wesley Fofana,Leicester City,CB,1479,0,1479
+Lubomír Satka,Lech Poznan,CB,1479,0,1479
+Charles Aránguiz,Bayer 04 Leverkusen,CAM,1479,0,1479
+Timo Baumgartl,PSV,CB,1479,0,1479
+Dmytro Chygrynskiy,AEK Athens,CB,1479,0,1479
+Dmytro Piddubnyi,Zorya Luhansk,CB,1479,0,1479
+Petar Filipovic,LASK,CB,1479,0,1479
+Nick Viergever,PSV,CB,1479,0,1479
+Darragh Leahy,Dundalk,CB,1479,0,1479
+Federico Ricca,Club Brugge,LB,1479,0,1479
+Pepe Sánchez,Granada CF,CB,1479,0,1479
+Georginio Rutter,TSG 1899 Hoffenheim,CAM,1479,0,1479
+Hatem Abd Elhamed,Celtic,CB,1479,0,1479
+Kamso Mara,Slovan Liberec,RB,1479,0,1479
+Strahinja Erakovic,Crvena Zvezda,CB,1479,0,1479
+Wes Morgan,Leicester City,CB,1479,0,1479
+Michal Trávník,Sparta Prague,CAM,1479,0,1479
+Nicolas Bürgy,BSC Young Boys,CB,1479,0,1479
+Dino Arslanagic,KAA Gent,CB,1479,0,1479
+Lucas Veríssimo,Benfica,CB,1479,0,1479
+Aleksandr Martynovich,FK Krasnodar,CB,1479,0,1479
+Martin Vitík,Sparta Prague,CB,1479,0,1479
+Sean Goldberg,Hapoel Be'er Sheva,CB,1479,0,1479
+Oumar Solet,FC Red Bull Salzburg,LB,1478,0,1478
+Armando Anastasio,HNK Rijeka,LB,1478,0,1478
+Mauro Júnior,PSV,LB,1478,0,1478
+Mários Pourzitídis,Slovan Liberec,LB,1478,0,1478
+Kiko,Omonia Nicosia,LB,1478,0,1478
+Adel Taarabt,Benfica,CAM,1478,0,1478
+Brian Gartland,Dundalk,LB,1478,0,1478
+Nair Tiknizyan,CSKA Moscow,LB,1478,0,1478
+Eric Botteghin,Feyenoord,LB,1478,0,1478
+Ondrej Celustka,Sparta Prague,RWB,1478,0,1478
+Maxime Le Marchand,Royal Antwerp,LB,1478,0,1478
+Stratos Svarnas,AEK Athens,LB,1478,0,1478
+Petar Zanev,CSKA Sofia,LB,1478,0,1478
+Anton Nedyalkov,Ludogorets Razgrad,LB,1478,0,1478
+Stanley N'Soki,Nice,LB,1478,0,1478
+Patson Daka,FC Red Bull Salzburg,ST,1477,0,1477
 Karim Adeyemi,FC Red Bull Salzburg,RAM,1477,0,1477
-Ricardo Esgaio,Sporting Braga,RWB,1477,0,1477
+Jerome Sinclair,CSKA Sofia,LW,1477,0,1477
+Owusu Kwabena,FK Qarabag,LW,1477,0,1477
 Mike Maignan,Lille,GK,1477,0,1477
-Filip Braut,HNK Rijeka,LWB,1477,0,1477
-Mauro Júnior,PSV,LWB,1477,0,1477
-Daniel Kelly,Dundalk,LWB,1477,0,1477
-Mario Mandzukic,Milan,ST,1467,10,1477
-Andrew Boyle,Dundalk,RB,1477,0,1477
-Érick Gutiérrez,PSV,CDM,1476,0,1476
-Abdulla Yusuf Helal,Slovan Liberec,ST,1476,0,1476
-Sidnei Tavares,Leicester City,CDM,1476,0,1476
-Raúl Silva,Sporting Braga,RB,1476,0,1476
-Vítor Gomes,Omonia Nicosia,CDM,1476,0,1476
-Anel Sabanadzovic,AEK Athens,CDM,1476,0,1476
-Asier Illarramendi,Real Sociedad,CDM,1476,0,1476
-Éder Álvarez,Club Brugge,CDM,1476,0,1476
-Joachim Carcela-Gonzalez,Standard Liège,CDM,1476,0,1476
-Stanislav Lobotka,Napoli,CDM,1476,0,1476
+João Klauss,TSG 1899 Hoffenheim,ST,1477,0,1477
+Abel Ruiz,Sporting Braga,ST,1476,0,1476
 Calvin Stengs,AZ,CAM,1476,0,1476
-Ander Guevara,Real Sociedad,CDM,1476,0,1476
-Ismaël Bennacer,Milan,CM,1466,10,1476
-Ivan Yordanov,Ludogorets Razgrad,CDM,1476,0,1476
-Jackson Muleka,Standard Liège,ST,1476,0,1476
-Borek Dockal,Sparta Prague,CDM,1476,0,1476
-Jakub Barac,Slovan Liberec,CDM,1476,0,1476
-Jonas Svensson,AZ,RWB,1476,0,1476
-Nathan Oduwa,Dundalk,CF,1476,0,1476
-Exequiel Palacios,Bayer 04 Leverkusen,CDM,1476,0,1476
-Jérémy Gelin,Royal Antwerp,CDM,1476,0,1476
-Ewan Henderson,Celtic,CDM,1476,0,1476
-Elisha Owusu,KAA Gent,CDM,1476,0,1476
-Matej Polidar,Sparta Prague,LM,1476,0,1476
-Ovidiu Hoban,CFR Cluj,CAM,1476,0,1476
-Mateo Susic,CFR Cluj,RWB,1476,0,1476
-Eden Shamir,Standard Liège,CDM,1476,0,1476
-João Klauss,TSG 1899 Hoffenheim,CF,1476,0,1476
-Maor Kandil,Maccabi Tel Aviv,RWB,1476,0,1476
-Maksym Lunyov,Zorya Luhansk,CDM,1476,0,1476
-Domagoj Bradaric,Lille,LM,1476,0,1476
-Dmytro Khomchenovskiy,Zorya Luhansk,CDM,1476,0,1476
+Ricardo Esgaio,Sporting Braga,RB,1476,0,1476
 Frank Boya,Royal Antwerp,CDM,1476,0,1476
-Diego Demme,Napoli,CDM,1476,0,1476
-Lion Schuster,SK Rapid Wien,CDM,1476,0,1476
-Diego Biseswar,PAOK Thessaloniki,LW,1476,0,1476
+Maksym Lunyov,Zorya Luhansk,CDM,1476,0,1476
 Ilay Madmon,Hapoel Be'er Sheva,CDM,1476,0,1476
-Dejan Petrovic,SK Rapid Wien,CDM,1476,0,1476
-Graham Carey,CSKA Sofia,CDM,1476,0,1476
-Gregory Sloggett,Dundalk,CDM,1476,0,1476
-Daniel Amartey,Leicester City,CDM,1476,0,1476
-Noah Okafor,FC Red Bull Salzburg,LW,1476,0,1476
-Konstantinos Galanopoulos,AEK Athens,CDM,1476,0,1476
-Karol Swiderski,PAOK Thessaloniki,CF,1476,0,1476
 David Cancola,Slovan Liberec,CDM,1476,0,1476
+Borek Dockal,Sparta Prague,CDM,1476,0,1476
+Mario Mandzukic,Milan,ST,1466,10,1476
+Sidnei Tavares,Leicester City,CDM,1476,0,1476
+Diego Biseswar,PAOK Thessaloniki,LW,1476,0,1476
+Diego Demme,Napoli,CDM,1476,0,1476
+Konstantinos Galanopoulos,AEK Athens,CDM,1476,0,1476
+Ander Guevara,Real Sociedad,CDM,1476,0,1476
+Dmytro Khomchenovskiy,Zorya Luhansk,CDM,1476,0,1476
+Andreas Vindheim,Sparta Prague,RM,1476,0,1476
+Érick Gutiérrez,PSV,CDM,1476,0,1476
+Anel Sabanadzovic,AEK Athens,CDM,1476,0,1476
+Gregory Sloggett,Dundalk,CDM,1476,0,1476
+Eden Shamir,Standard Liège,CDM,1476,0,1476
+Ladislav Krejcí,Sparta Prague,ST,1476,0,1476
+Ivan Yordanov,Ludogorets Razgrad,CDM,1476,0,1476
+Graham Carey,CSKA Sofia,CDM,1476,0,1476
+Elisha Owusu,KAA Gent,CDM,1476,0,1476
+Ewan Henderson,Celtic,CDM,1476,0,1476
+Dejan Petrovic,SK Rapid Wien,CDM,1476,0,1476
+Asier Illarramendi,Real Sociedad,CDM,1476,0,1476
+Vítor Gomes,Omonia Nicosia,CDM,1476,0,1476
+Daniel Amartey,Leicester City,CDM,1476,0,1476
+Jérémy Gelin,Royal Antwerp,CDM,1476,0,1476
+Jakub Barac,Slovan Liberec,CDM,1476,0,1476
+Noah Okafor,FC Red Bull Salzburg,LW,1476,0,1476
+Ismaël Bennacer,Milan,CM,1466,10,1476
+Joachim Carcela-Gonzalez,Standard Liège,CDM,1476,0,1476
 Nicolas Raskin,Standard Liège,CDM,1476,0,1476
-Ricardo Pereira,Leicester City,RWB,1475,0,1475
-Shir Tzedek,Hapoel Be'er Sheva,RB,1475,0,1475
-Myron Boadu,AZ,ST,1475,0,1475
-Rasmus Kristensen,FC Red Bull Salzburg,RWB,1475,0,1475
-Kasper Dolberg,Nice,CF,1475,0,1475
-Rodrigo Soares,PAOK Thessaloniki,RWB,1475,0,1475
-Jérémy Pied,Lille,RWB,1475,0,1475
+Lion Schuster,SK Rapid Wien,CDM,1476,0,1476
+Karol Swiderski,PAOK Thessaloniki,ST,1476,0,1476
+Kasper Dolberg,Nice,ST,1476,0,1476
+Exequiel Palacios,Bayer 04 Leverkusen,CDM,1476,0,1476
+Stanislav Lobotka,Napoli,CDM,1476,0,1476
+Nathan Oduwa,Dundalk,ST,1476,0,1476
+Éder Álvarez,Club Brugge,CDM,1476,0,1476
+Jackson Muleka,Standard Liège,ST,1475,0,1475
+Sintayehu Sallalich,Hapoel Be'er Sheva,RM,1475,0,1475
+Bogdan Butko,Lech Poznan,RM,1475,0,1475
+Jonas Svensson,AZ,RB,1475,0,1475
+Andrew Boyle,Dundalk,RB,1475,0,1475
+Domagoj Bradaric,Lille,LM,1475,0,1475
+Kemar Roofe,Rangers,ST,1465,10,1475
+Ovidiu Hoban,CFR Cluj,CAM,1475,0,1475
+Matej Polidar,Sparta Prague,LM,1475,0,1475
+Abdulla Yusuf Helal,Slovan Liberec,ST,1475,0,1475
+Mateo Susic,CFR Cluj,RB,1475,0,1475
 Alexander Schlager,LASK,GK,1475,0,1475
-Marcelo Goiano,Sivasspor,RWB,1475,0,1475
-Aleksandar Boljevic,Standard Liège,RWB,1475,0,1475
 Konstantinos Tzolakis,Olympiakos,GK,1465,10,1475
-Christian Ramsebner,LASK,RB,1475,0,1475
-Jeff Reine-Adélaide,Nice,CAM,1475,0,1475
-Albert Vallci,FC Red Bull Salzburg,RB,1475,0,1475
-Ladislav Krejcí,Sparta Prague,CF,1475,0,1475
-Valentin Antov,CSKA Sofia,RB,1475,0,1475
-Mario Pavelic,RZ Pellets WAC,RWB,1474,0,1474
-Lars Bender,Bayer 04 Leverkusen,RWB,1474,0,1474
-Kemar Roofe,Rangers,CF,1464,10,1474
-Abbas Hüseynov,FK Qarabag,RWB,1474,0,1474
-Vitão,Shakhtar Donetsk,CB,1464,10,1474
-Fotis Papoulis,Omonia Nicosia,RW,1474,0,1474
-Arnaud Bodart,Standard Liège,GK,1474,0,1474
-Karim Ansarifard,AEK Athens,ST,1474,0,1474
-Toby Alderweireld,Tottenham Hotspur,CB,1464,10,1474
-João Ferreira,Benfica,RWB,1474,0,1474
-Ferdy Druijf,AZ,ST,1474,0,1474
-Amar Hodzic,RZ Pellets WAC,ST,1474,0,1474
-Eric Dier,Tottenham Hotspur,CB,1464,10,1474
-Roman Yaremchuk,KAA Gent,ST,1474,0,1474
-Cheikhou Dieng,RZ Pellets WAC,RW,1474,0,1474
-Birk Risa,Molde,CB,1464,10,1474
+Myron Boadu,AZ,ST,1474,0,1474
 Bernard Tekpetey,Ludogorets Razgrad,RW,1474,0,1474
+Rodrigo Soares,PAOK Thessaloniki,RB,1474,0,1474
+Jérémy Pied,Lille,RB,1474,0,1474
+Toby Alderweireld,Tottenham Hotspur,CB,1464,10,1474
+Arnaud Bodart,Standard Liège,GK,1474,0,1474
+Vitão,Shakhtar Donetsk,CB,1464,10,1474
+Jeff Reine-Adélaide,Nice,CAM,1474,0,1474
+Eric Dier,Tottenham Hotspur,CB,1464,10,1474
+Marcelo Goiano,Sivasspor,RB,1474,0,1474
+Birk Risa,Molde,CB,1464,10,1474
+Fotis Papoulis,Omonia Nicosia,RW,1474,0,1474
+Rasmus Kristensen,FC Red Bull Salzburg,RB,1474,0,1474
 Calvin Bassey,Rangers,CB,1464,10,1474
-Michel-Ange Balikwisha,Standard Liège,LW,1473,0,1473
-Jordi Gomez,Omonia Nicosia,CM,1473,0,1473
-Cican Stankovic,FC Red Bull Salzburg,GK,1473,0,1473
-Lukás Hrádecky,Bayer 04 Leverkusen,GK,1473,0,1473
+Cheikhou Dieng,RZ Pellets WAC,RW,1474,0,1474
+Ricardo Pereira,Leicester City,RB,1474,0,1474
+Raúl Silva,Sporting Braga,RB,1474,0,1474
+Vladyslav Kabayev,Zorya Luhansk,LW,1473,0,1473
 Marinos Tzionis,Omonia Nicosia,LW,1473,0,1473
 Justin Bijlow,Feyenoord,GK,1473,0,1473
+Karim Ansarifard,AEK Athens,ST,1473,0,1473
+Shir Tzedek,Hapoel Be'er Sheva,RB,1473,0,1473
+Devyne Rensch,Ajax,RWB,1453,20,1473
+Christian Ramsebner,LASK,RB,1473,0,1473
+Roman Yaremchuk,KAA Gent,ST,1473,0,1473
+Albert Vallci,FC Red Bull Salzburg,RB,1473,0,1473
+Jordi Gomez,Omonia Nicosia,CM,1473,0,1473
+Lars Bender,Bayer 04 Leverkusen,RB,1473,0,1473
+Antonio Colak,PAOK Thessaloniki,ST,1473,0,1473
+Michel-Ange Balikwisha,Standard Liège,LW,1473,0,1473
+Dragos Grigore,Ludogorets Razgrad,LB,1473,0,1473
+Ferdy Druijf,AZ,ST,1473,0,1473
+Mario Pavelic,RZ Pellets WAC,RB,1473,0,1473
+Michael Rabusic,Slovan Liberec,ST,1473,0,1473
+Patryk Klimala,Celtic,ST,1473,0,1473
+Valentin Antov,CSKA Sofia,RB,1473,0,1473
+Lukás Hrádecky,Bayer 04 Leverkusen,GK,1473,0,1473
+João Ferreira,Benfica,RB,1473,0,1473
 Panagiotis Tsintotas,AEK Athens,GK,1473,0,1473
-Antonio Colak,PAOK Thessaloniki,CF,1473,0,1473
-Vladyslav Kabayev,Zorya Luhansk,LW,1473,0,1473
-Omar El Kaddouri,PAOK Thessaloniki,CAM,1473,0,1473
-Patryk Klimala,Celtic,CF,1472,0,1472
-Eljif Elmas,Napoli,LAM,1472,0,1472
-Jakub Moder,Lech Poznan,CM,1472,0,1472
-Taison,Shakhtar Donetsk,LW,1462,10,1472
-Alexis Trouillet,Nice,CM,1472,0,1472
-James Holland,LASK,RWB,1472,0,1472
+Amar Hodzic,RZ Pellets WAC,ST,1473,0,1473
+Cican Stankovic,FC Red Bull Salzburg,GK,1473,0,1473
 Rodrigue Casimir Ninga,Sivasspor,LW,1472,0,1472
-Michael Rabusic,Slovan Liberec,CF,1472,0,1472
-João Novais,Sporting Braga,CM,1471,0,1471
-Marco John,TSG 1899 Hoffenheim,CDM,1471,0,1471
-Dieumerci Mbokani,Royal Antwerp,ST,1471,0,1471
-Marcos Antônio,Shakhtar Donetsk,CDM,1461,10,1471
-Yann M'Vila,Olympiakos,CDM,1461,10,1471
-Serhiy Sydorchuk,Dynamo Kyiv,CDM,1461,10,1471
-Bongani Zungu,Rangers,CDM,1461,10,1471
-Filip Stojkovic,SK Rapid Wien,LM,1471,0,1471
-Ryan Thomas,PSV,CDM,1471,0,1471
-Luis Milla,Granada CF,CDM,1471,0,1471
+Taison,Shakhtar Donetsk,LW,1462,10,1472
+Eljif Elmas,Napoli,LAM,1472,0,1472
+Omar El Kaddouri,PAOK Thessaloniki,CAM,1472,0,1472
+Jakub Moder,Lech Poznan,CM,1472,0,1472
+Alexis Trouillet,Nice,CM,1472,0,1472
 Yegor Nazaryna,Zorya Luhansk,CDM,1471,0,1471
-Geferson,CSKA Sofia,CDM,1471,0,1471
-Georgi Yomov,CSKA Sofia,RW,1471,0,1471
-Christopher Martins,BSC Young Boys,CM,1471,0,1471
-Kristoffer Olsson,FK Krasnodar,CM,1471,0,1471
-Michal Sadílek,Slovan Liberec,CDM,1471,0,1471
-Haris Seferovic,Benfica,ST,1471,0,1471
-Olivier Ntcham,Celtic,LAM,1471,0,1471
+Bongani Zungu,Rangers,CDM,1461,10,1471
 Maycon Barberan,Shakhtar Donetsk,CDM,1461,10,1471
-Wouter George,KAA Gent,CM,1470,0,1470
-Håkon Evjen,AZ,CM,1470,0,1470
-Bryan Linssen,Feyenoord,CF,1470,0,1470
-Eden Karzev,Maccabi Tel Aviv,CM,1470,0,1470
-Jens Toornstra,Feyenoord,CM,1470,0,1470
-Marco van Ginkel,PSV,CM,1470,0,1470
-Domagoj Pavicic,HNK Rijeka,LAM,1470,0,1470
+Christopher Martins,BSC Young Boys,CM,1471,0,1471
+Serhiy Sydorchuk,Dynamo Kyiv,CDM,1461,10,1471
+Michal Sadílek,Slovan Liberec,CDM,1471,0,1471
+Olivier Ntcham,Celtic,LAM,1471,0,1471
+Haris Seferovic,Benfica,ST,1471,0,1471
+João Novais,Sporting Braga,CM,1471,0,1471
+Yann M'Vila,Olympiakos,CDM,1461,10,1471
+Marco John,TSG 1899 Hoffenheim,CDM,1471,0,1471
+James Holland,LASK,RB,1471,0,1471
+Georgi Yomov,CSKA Sofia,RW,1471,0,1471
+Ryan Thomas,PSV,CDM,1471,0,1471
+Geferson,CSKA Sofia,CDM,1471,0,1471
+Kristoffer Olsson,FK Krasnodar,CM,1471,0,1471
+Andrea Petagna,Napoli,ST,1471,0,1471
+Luis Milla,Granada CF,CDM,1471,0,1471
+Marcos Antônio,Shakhtar Donetsk,CDM,1461,10,1471
 Tonny Vilhena,FK Krasnodar,LAM,1470,0,1470
-Victor Osimhen,Napoli,ST,1470,0,1470
+Marco van Ginkel,PSV,CM,1470,0,1470
+Eden Karzev,Maccabi Tel Aviv,CM,1470,0,1470
+Marcelo Meli,Hapoel Be'er Sheva,CM,1470,0,1470
 Cheikh Niasse,Lille,CM,1470,0,1470
 Ismael Ruiz,Granada CF,CM,1470,0,1470
-Marcelo Meli,Hapoel Be'er Sheva,CM,1470,0,1470
-Andrea Petagna,Napoli,CF,1470,0,1470
-Roberto López,Real Sociedad,CM,1470,0,1470
+Wouter George,KAA Gent,CM,1470,0,1470
 Jordy Wehrmann,Feyenoord,CM,1470,0,1470
+Domagoj Pavicic,HNK Rijeka,LAM,1470,0,1470
+Jens Toornstra,Feyenoord,CM,1470,0,1470
+Roberto López,Real Sociedad,CM,1470,0,1470
+Dieumerci Mbokani,Royal Antwerp,ST,1470,0,1470
 Ismayil Ibrahimli,FK Qarabag,CM,1470,0,1470
-Ladislav Krejcí,Sparta Prague,LB,1469,0,1469
-Ondrej Celustka,Sparta Prague,RWB,1469,0,1469
-Bruno Martins Indi,AZ,CB,1469,0,1469
+Bryan Linssen,Feyenoord,ST,1470,0,1470
+Håkon Evjen,AZ,CM,1470,0,1470
+Obbi Oularé,Standard Liège,ST,1469,0,1469
 Lisandro Martínez,Ajax,CB,1449,20,1469
-Marc Albrighton,Leicester City,RW,1468,0,1468
-Obbi Oularé,Standard Liège,CF,1468,0,1468
-Guilherme Schettine,Sporting Braga,ST,1468,0,1468
+Bruno Martins Indi,AZ,CB,1469,0,1469
+Victor Osimhen,Napoli,ST,1469,0,1469
 Steven Berghuis,Feyenoord,RW,1468,0,1468
-Gaetan Varenne,Hapoel Be'er Sheva,ST,1468,0,1468
-Roman Bezus,KAA Gent,CAM,1466,0,1466
-Enock Mwepu,FC Red Bull Salzburg,CAM,1466,0,1466
-Philipp Wiesinger,LASK,RB,1466,0,1466
-Nika Katcharava,Lech Poznan,CF,1466,0,1466
-Chidera Ejuke,CSKA Moscow,RW,1466,0,1466
-Fredrik Midtsjø,AZ,CDM,1466,0,1466
-Michael Novak,RZ Pellets WAC,RM,1466,0,1466
-Franko Andrijasevic,HNK Rijeka,CF,1466,0,1466
+Marc Albrighton,Leicester City,RW,1468,0,1468
+Franko Andrijasevic,HNK Rijeka,ST,1467,0,1467
+Guilherme Schettine,Sporting Braga,ST,1467,0,1467
+Gaetan Varenne,Hapoel Be'er Sheva,ST,1467,0,1467
+Nika Katcharava,Lech Poznan,ST,1467,0,1467
 Dani Ramírez,Lech Poznan,CAM,1466,0,1466
-Camora,CFR Cluj,LWB,1465,0,1465
-Mario Leitgeb,RZ Pellets WAC,CAM,1465,0,1465
-Devyne Rensch,Ajax,RM,1445,20,1465
-Josué,Hapoel Be'er Sheva,CAM,1465,0,1465
-Scott Bain,Celtic,GK,1465,0,1465
-Catalin Itu,CFR Cluj,CAM,1465,0,1465
-Filip Marchwinski,Lech Poznan,CAM,1465,0,1465
-Chiquinho,Benfica,CAM,1465,0,1465
+Fredrik Midtsjø,AZ,CDM,1466,0,1466
+Nicolae Cârnat,CFR Cluj,LWB,1466,0,1466
+Chidera Ejuke,CSKA Moscow,RW,1466,0,1466
+Milad Mohammadi,KAA Gent,LB,1466,0,1466
+Roman Bezus,KAA Gent,CAM,1465,0,1465
+Enock Mwepu,FC Red Bull Salzburg,CAM,1465,0,1465
 Ilzat Akhmetov,CSKA Moscow,CAM,1465,0,1465
-Milad Mohammadi,KAA Gent,LWB,1465,0,1465
-João Teixeira,Feyenoord,CAM,1465,0,1465
-David Pavelka,Sparta Prague,CB,1464,0,1464
-Andreas Hanche-Olsen,KAA Gent,CB,1464,0,1464
-Jonny Evans,Leicester City,CB,1464,0,1464
+Scott Bain,Celtic,GK,1465,0,1465
+Camora,CFR Cluj,LB,1465,0,1465
+Tyrell Malacia,Feyenoord,LB,1464,0,1464
+Sven Kums,KAA Gent,CB,1464,0,1464
+Tiago Djaló,Lille,CB,1464,0,1464
+Sverrir Ingi Ingason,PAOK Thessaloniki,CB,1464,0,1464
+Nassim Hnid,AEK Athens,CB,1464,0,1464
+Jurgen Mattheij,CSKA Sofia,CB,1464,0,1464
+Caglar Söyüncü,Leicester City,CB,1464,0,1464
+Catalin Itu,CFR Cluj,CAM,1464,0,1464
+Håvard Nordtveit,TSG 1899 Hoffenheim,CB,1464,0,1464
+David Lischka,Sparta Prague,CB,1464,0,1464
+Philipp Wiesinger,LASK,RB,1464,0,1464
+Kevin Medina,FK Qarabag,CB,1464,0,1464
+Chiquinho,Benfica,CAM,1464,0,1464
+Leo Greiml,SK Rapid Wien,CB,1464,0,1464
+Filip Soucek,Sparta Prague,CAM,1464,0,1464
+Filip Marchwinski,Lech Poznan,CAM,1464,0,1464
+Pantelis Hatzidiakos,AZ,CB,1464,0,1464
+Mario Leitgeb,RZ Pellets WAC,CAM,1464,0,1464
 Mateo Barac,SK Rapid Wien,CB,1464,0,1464
 Merveille Bokadi,Standard Liège,CB,1464,0,1464
-Filip Soucek,Sparta Prague,CAM,1464,0,1464
-Sandro Lauper,BSC Young Boys,CB,1464,0,1464
-Robson Bambu,Nice,CB,1464,0,1464
-Michael Ngadeu-Ngadjui,KAA Gent,CB,1464,0,1464
-David Lischka,Sparta Prague,CB,1464,0,1464
-Tiago Djaló,Lille,CB,1464,0,1464
-José Fonte,Lille,CB,1464,0,1464
-Ionut Nedelcearu,AEK Athens,CB,1464,0,1464
-Olivier Verdon,Ludogorets Razgrad,CB,1464,0,1464
-Shane Duffy,Celtic,CB,1464,0,1464
-Nassim Hnid,AEK Athens,CB,1464,0,1464
-Shiran Yeini,Maccabi Tel Aviv,CB,1464,0,1464
-Pantelis Hatzidiakos,AZ,CB,1464,0,1464
 Cosmin Moti,Ludogorets Razgrad,CB,1464,0,1464
-Caglar Söyüncü,Leicester City,CB,1464,0,1464
-Håvard Nordtveit,TSG 1899 Hoffenheim,CB,1464,0,1464
-Robin Yalçin,Sivasspor,CB,1464,0,1464
-Jonathan David,Lille,CF,1464,0,1464
-Igor Zubeldia,Real Sociedad,CB,1464,0,1464
+Olivier Verdon,Ludogorets Razgrad,CB,1464,0,1464
+Michael Ngadeu-Ngadjui,KAA Gent,CB,1464,0,1464
+Diego Laxalt,Celtic,LB,1464,0,1464
+João Teixeira,Feyenoord,CAM,1464,0,1464
 Hrvoje Smolcic,HNK Rijeka,CB,1464,0,1464
-Jurgen Mattheij,CSKA Sofia,CB,1464,0,1464
-Sverrir Ingi Ingason,PAOK Thessaloniki,CB,1464,0,1464
-Kevin Medina,FK Qarabag,CB,1464,0,1464
-Bruno Viana,Sporting Braga,CB,1464,0,1464
+José Fonte,Lille,CB,1464,0,1464
+Jonny Evans,Leicester City,CB,1464,0,1464
 Jan Mikula,Slovan Liberec,CB,1464,0,1464
-Leo Greiml,SK Rapid Wien,CB,1464,0,1464
-Sven Kums,KAA Gent,CB,1464,0,1464
-Tyrell Malacia,Feyenoord,LWB,1463,0,1463
-Nicolai Jørgensen,Feyenoord,ST,1463,0,1463
-Diego Laxalt,Celtic,LWB,1463,0,1463
-Alexander Isak,Real Sociedad,ST,1463,0,1463
-Wilde-Donald Guerrier,FK Qarabag,LW,1462,0,1462
-Daley Sinkgraven,Bayer 04 Leverkusen,CAM,1462,0,1462
+Andreas Hanche-Olsen,KAA Gent,CB,1464,0,1464
+Shiran Yeini,Maccabi Tel Aviv,CB,1464,0,1464
+Shane Duffy,Celtic,CB,1464,0,1464
+Jonathan David,Lille,ST,1464,0,1464
+Bruno Viana,Sporting Braga,CB,1464,0,1464
+Ionut Nedelcearu,AEK Athens,CB,1464,0,1464
+Sandro Lauper,BSC Young Boys,CB,1464,0,1464
+David Pavelka,Sparta Prague,CB,1464,0,1464
+Josué,Hapoel Be'er Sheva,CAM,1464,0,1464
+Robin Yalçin,Sivasspor,CB,1464,0,1464
+Robson Bambu,Nice,CB,1464,0,1464
+Igor Zubeldia,Real Sociedad,CB,1464,0,1464
+Ladislav Krejcí,Sparta Prague,LB,1463,0,1463
 Srdjan Grahovac,SK Rapid Wien,CM,1462,0,1462
+Nicolai Jørgensen,Feyenoord,ST,1462,0,1462
+Michael Novak,RZ Pellets WAC,RM,1462,0,1462
+Wilde-Donald Guerrier,FK Qarabag,LW,1462,0,1462
+Alexander Isak,Real Sociedad,ST,1462,0,1462
 Peter Michorl,LASK,CAM,1462,0,1462
-Nicolae Cârnat,CFR Cluj,LWB,1462,0,1462
+Ismaila Soro,Celtic,CDM,1461,0,1461
 Khéphren Thuram-Ulien,Nice,CDM,1461,0,1461
 Vladyslav Kochergin,Zorya Luhansk,CDM,1461,0,1461
-Nenad Krsticic,AEK Athens,CDM,1461,0,1461
-Castro,Sporting Braga,CDM,1461,0,1461
-Gojko Cimirot,Standard Liège,CDM,1461,0,1461
-Nampalys Mendy,Leicester City,CDM,1461,0,1461
-Isaac Cofie,Sivasspor,CDM,1461,0,1461
-Alex Santana,Ludogorets Razgrad,CDM,1461,0,1461
-Amos Youga,CSKA Sofia,CDM,1461,0,1461
-Thomas Van den Keybus,Club Brugge,CDM,1461,0,1461
-Claudemir,Sivasspor,CDM,1461,0,1461
-Wilfred Ndidi,Leicester City,CDM,1461,0,1461
-Sulayman Marreh,KAA Gent,CDM,1461,0,1461
-Stéphane Badji,Ludogorets Razgrad,CDM,1461,0,1461
 Ioannis Kousoulos,Omonia Nicosia,CDM,1461,0,1461
-Ismaila Soro,Celtic,CDM,1461,0,1461
-Theocharis Tsingaras,PAOK Thessaloniki,CDM,1461,0,1461
-Thibaut Vion,CSKA Sofia,RWB,1461,0,1461
-Samed Onur,Bayer 04 Leverkusen,CDM,1461,0,1461
-Alfons Amade,TSG 1899 Hoffenheim,CDM,1461,0,1461
+Isaac Cofie,Sivasspor,CDM,1461,0,1461
+Gojko Cimirot,Standard Liège,CDM,1461,0,1461
 Andre Simoes,AEK Athens,CDM,1461,0,1461
-Anicet Abel,Ludogorets Razgrad,CDM,1461,0,1461
+Nenad Krsticic,AEK Athens,CDM,1461,0,1461
+Theocharis Tsingaras,PAOK Thessaloniki,CDM,1461,0,1461
 Slavoljub Srnic,Crvena Zvezda,CDM,1461,0,1461
-Mikel Oyarzabal,Real Sociedad,ST,1461,0,1461
+Anicet Abel,Ludogorets Razgrad,CDM,1461,0,1461
+Samed Onur,Bayer 04 Leverkusen,CDM,1461,0,1461
+Amos Youga,CSKA Sofia,CDM,1461,0,1461
+Stéphane Badji,Ludogorets Razgrad,CDM,1461,0,1461
+Sulayman Marreh,KAA Gent,CDM,1461,0,1461
+Wilfred Ndidi,Leicester City,CDM,1461,0,1461
+Castro,Sporting Braga,CDM,1461,0,1461
 Qara Garayev,FK Qarabag,CDM,1461,0,1461
-Martin Koscelník,Slovan Liberec,RWB,1460,0,1460
-Cicinho,Ludogorets Razgrad,RWB,1460,0,1460
+Alfons Amade,TSG 1899 Hoffenheim,CDM,1461,0,1461
+Claudemir,Sivasspor,CDM,1461,0,1461
+Nampalys Mendy,Leicester City,CDM,1461,0,1461
+Alex Santana,Ludogorets Razgrad,CDM,1461,0,1461
+Daley Sinkgraven,Bayer 04 Leverkusen,CAM,1461,0,1461
+Thomas Van den Keybus,Club Brugge,CDM,1461,0,1461
 Nana Ampomah,Royal Antwerp,RW,1460,0,1460
-Yevhen Shakhov,AEK Athens,CAM,1460,0,1460
-Alessio Romagnoli,Milan,CB,1449,10,1459
-Gernot Trauner,LASK,CB,1459,0,1459
-Nicolás Otamendi,Benfica,CB,1459,0,1459
-Alexandru Chipciu,CFR Cluj,LWB,1459,0,1459
+Thibaut Vion,CSKA Sofia,RB,1460,0,1460
+Mikel Oyarzabal,Real Sociedad,ST,1460,0,1460
 Dominik Plechaty,Sparta Prague,CB,1459,0,1459
+Alexandru Chipciu,CFR Cluj,LB,1459,0,1459
+Gernot Trauner,LASK,CB,1459,0,1459
+Yevhen Shakhov,AEK Athens,CAM,1459,0,1459
+Nicolás Otamendi,Benfica,CB,1459,0,1459
+Cicinho,Ludogorets Razgrad,RB,1459,0,1459
+Mario Gavranovic,Dinamo Zagreb,ST,1439,20,1459
+Alessio Romagnoli,Milan,CB,1449,10,1459
+Martin Koscelník,Slovan Liberec,RB,1459,0,1459
 Gianluigi Donnarumma,Milan,GK,1448,10,1458
-Mario Gavranovic,Dinamo Zagreb,CF,1438,20,1458
 Pablo Rosario,PSV,CM,1457,0,1457
 Eliel Peretz,RZ Pellets WAC,CM,1456,0,1456
-Emanuel Insúa,AEK Athens,LB,1456,0,1456
-Anderson Esiti,PAOK Thessaloniki,CM,1455,0,1455
-Franco Cervi,Benfica,CM,1455,0,1455
-Tibor Halilovic,HNK Rijeka,CM,1455,0,1455
-Dimitrios Giannoulis,PAOK Thessaloniki,LM,1455,0,1455
-Eduardo Guerrero,Maccabi Tel Aviv,ST,1455,0,1455
-Scott Brown,Celtic,CM,1455,0,1455
-Mamadou Samassa,Sivasspor,GK,1455,0,1455
 Jorrit Hendrix,PSV,CM,1455,0,1455
+Franco Cervi,Benfica,CM,1455,0,1455
+Anderson Esiti,PAOK Thessaloniki,CM,1455,0,1455
+Tibor Halilovic,HNK Rijeka,CM,1455,0,1455
+Mamadou Samassa,Sivasspor,GK,1455,0,1455
+Scott Brown,Celtic,CM,1455,0,1455
 Pierre Lees-Melou,Nice,CM,1455,0,1455
-Marko Gobeljic,Crvena Zvezda,RWB,1455,0,1455
-Ousseynou Ba,Olympiakos,CB,1444,10,1454
-Filip Ozobic,FK Qarabag,LM,1454,0,1454
+Dimitrios Giannoulis,PAOK Thessaloniki,LWB,1454,0,1454
 Diego Falcinelli,Crvena Zvezda,RW,1454,0,1454
-Avi Rikan,Maccabi Tel Aviv,CAM,1453,0,1453
-Petros Mantalos,AEK Athens,CDM,1451,0,1451
-Kaly Sène,Omonia Nicosia,CF,1451,0,1451
+Ousseynou Ba,Olympiakos,CB,1444,10,1454
+Eduardo Guerrero,Maccabi Tel Aviv,ST,1454,0,1454
+Marko Gobeljic,Crvena Zvezda,RB,1454,0,1454
+Filip Ozobic,FK Qarabag,LM,1453,0,1453
+Kaly Sène,Omonia Nicosia,ST,1452,0,1452
+Avi Rikan,Maccabi Tel Aviv,CAM,1452,0,1452
 Hicham Boudaoui,Nice,CM,1451,0,1451
 Ryan Christie,Celtic,CDM,1451,0,1451
-Patrick Andrade,FK Qarabag,CM,1450,0,1450
+Emanuel Insúa,AEK Athens,LB,1451,0,1451
+Petros Mantalos,AEK Athens,CDM,1451,0,1451
 Adrian Paun,CFR Cluj,CAM,1450,0,1450
-Tomer Yosefi,Hapoel Be'er Sheva,CAM,1450,0,1450
-Lukas Grgic,LASK,CM,1450,0,1450
 Milan Heca,Sparta Prague,GK,1450,0,1450
+Patrick Andrade,FK Qarabag,CM,1450,0,1450
+Lukas Grgic,LASK,CM,1450,0,1450
 Yvon Mvogo,PSV,GK,1449,0,1449
 Aaron Appindangoyé,Sivasspor,CB,1449,0,1449
 Kevin Vogt,TSG 1899 Hoffenheim,CB,1449,0,1449
-Osman Bukari,KAA Gent,RW,1449,0,1449
-Cameron Dummigan,Dundalk,CB,1449,0,1449
-Hördur Magnusson,CSKA Moscow,CB,1449,0,1449
-Miguel Vítor,Hapoel Be'er Sheva,CB,1449,0,1449
-Luka Capan,HNK Rijeka,CB,1449,0,1449
-Loai Taha,Hapoel Be'er Sheva,CB,1449,0,1449
-Baktiyor Zaynutdinov,CSKA Moscow,CB,1449,0,1449
 Andrei Burca,CFR Cluj,CB,1449,0,1449
 Matthäus Taferner,RZ Pellets WAC,CM,1449,0,1449
+Luka Capan,HNK Rijeka,CB,1449,0,1449
+Loai Taha,Hapoel Be'er Sheva,CB,1449,0,1449
 Viktor Vasin,CSKA Moscow,CB,1449,0,1449
+Miguel Vítor,Hapoel Be'er Sheva,CB,1449,0,1449
+Baktiyor Zaynutdinov,CSKA Moscow,CB,1449,0,1449
+Cameron Dummigan,Dundalk,CB,1449,0,1449
+Osman Bukari,KAA Gent,RW,1449,0,1449
+Hördur Magnusson,CSKA Moscow,CB,1449,0,1449
 Flavius Daniliuc,Nice,CB,1449,0,1449
+Tomer Yosefi,Hapoel Be'er Sheva,CAM,1449,0,1449
 Uros Spajic,Feyenoord,CB,1449,0,1449
 Victor Diaz,Granada CF,CB,1449,0,1449
 Mario Sonnleitner,SK Rapid Wien,CB,1449,0,1449
 Allan McGregor,Rangers,GK,1437,10,1447
+Michal Duris,Omonia Nicosia,ST,1447,0,1447
+Ivan Lepinjica,HNK Rijeka,CDM,1446,0,1446
 Ivan Oblyakov,CSKA Moscow,CDM,1446,0,1446
-Michal Sácek,Sparta Prague,RWB,1446,0,1446
-David Keltjens,Hapoel Be'er Sheva,CDM,1446,0,1446
-Michal Beran,Slovan Liberec,CDM,1446,0,1446
-Michal Duris,Omonia Nicosia,CF,1446,0,1446
-Birger Verstraete,Royal Antwerp,CDM,1446,0,1446
 Faris Haroun,Royal Antwerp,CDM,1446,0,1446
-Daniel Cleary,Dundalk,RB,1446,0,1446
+Michal Beran,Slovan Liberec,CDM,1446,0,1446
+David Keltjens,Hapoel Be'er Sheva,CDM,1446,0,1446
+Birger Verstraete,Royal Antwerp,CDM,1446,0,1446
 Samuel Bastien,Standard Liège,CDM,1446,0,1446
 Sven Sprangler,RZ Pellets WAC,CDM,1446,0,1446
-Ivan Lepinjica,HNK Rijeka,CDM,1446,0,1446
 Christopher Wernitznig,RZ Pellets WAC,CAM,1445,0,1445
-Djordje Crnomarkovic,Lech Poznan,CB,1444,0,1444
-Bart Nieuwkoop,Feyenoord,RWB,1444,0,1444
+Michal Sácek,Sparta Prague,RB,1445,0,1445
 Samba Camara,Sivasspor,CB,1444,0,1444
+Daniel Cleary,Dundalk,RB,1444,0,1444
+Djordje Crnomarkovic,Lech Poznan,CB,1444,0,1444
+Bart Nieuwkoop,Feyenoord,RB,1443,0,1443
+Melayro Bogarde,TSG 1899 Hoffenheim,CDM,1441,0,1441
 José Crespo,PAOK Thessaloniki,CM,1441,0,1441
 Fayçal Fajr,Sivasspor,CDM,1441,0,1441
-Melayro Bogarde,TSG 1899 Hoffenheim,CDM,1441,0,1441
 Karlo Muhar,Lech Poznan,CM,1440,0,1440
 David Carmo,Sporting Braga,CB,1434,0,1434
 Lucas Mariano Bareiro,Hapoel Be'er Sheva,CB,1434,0,1434

@@ -59,29 +59,30 @@ Each round lists only teams eliminated at that round (except winner/final).
 
 ---
 
-## ELO Bonuses
+### League Finish Bonus (Top 10) — league tables only
 
-### League
+| Final Position | Bonus |
+|:--|--:|
+| 1st (Champion) | +70 |
+| 2nd | +50 |
+| 3rd | +38 |
+| 4th | +32 |
+| 5th | +24 |
+| 6th | +20 |
+| 7th | +16 |
+| 8th | +12 |
+| 9th | +8 |
+| 10th | +4 |
+| 11th or lower | 0 |
 
-| Position | Bonus |
-|----------|-------|
-| 1 (Champion) | +50 |
-| 2  | +44 |
-| 3  | +38 |
-| 4  | +32 |
-| 5  | +26 |
-| 6  | +20 |
-| 7  | +16 |
-| 8  | +12 |
-| 9  | +6  |
-| 10 | +2  |
+### UCL / UEL Knockout Bonus — Champions League & Europa League tables only
 
-### UCL / UEL (same scale)
+The Champions League and Europa League share the same scale.
 
-| Round   | Bonus |
-|---------|-------|
-| Winner  | +100  |
-| Final   | +75   |
-| Semi    | +50   |
-| Quarter | +25   |
-| R16     | +10   |
+| Furthest Round Reached | Bonus |
+|:--|--:|
+| Winner | +130 |
+| Finalist | +70 |
+| Semi-final | +38 |
+| Quarter-final | +20 |
+| Round of 16 | +10 |

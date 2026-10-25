@@ -59,10 +59,10 @@ FOTMOB_POSITION_MAP = {
     36: 'CB',   # Left CB
 
     # Defenders: Fullbacks & Wing-backs
-    32: 'RWB',
+    32: 'RB',
     33: 'RB',
     37: 'LB',
-    38: 'LWB',
+    38: 'LB',
     49: 'RB',
     51: 'RWB',
     53: 'RB',
@@ -87,8 +87,6 @@ FOTMOB_POSITION_MAP = {
     76: 'CM',   # Left CM
 
     # Midfield & Attack: Wide Midfielders / Wingers (RM / LM / RW / LW)
-    62: 'RM',
-    68: 'LM',
     71: 'RM',
     72: 'RM',
     78: 'LM',
@@ -107,12 +105,12 @@ FOTMOB_POSITION_MAP = {
     85: 'CAM',  # Central CAM (#10)
     95: 'CAM',
 
-    # Attack: Centre Forwards & Strikers (CF / ST)
+    # Attack: Strikers (CF / ST)
     4: 'ST',
-    104: 'CF',  # Second Striker / RF
-    105: 'CF',  # Centre Forward
-    106: 'CF',  # Second Striker / LF
-    115: 'ST',  # Pure Striker (#9)
+    104: 'ST',  
+    105: 'ST',  
+    106: 'ST',  
+    115: 'ST',  
     116: 'ST'
 }
 

@@ -1,510 +1,510 @@
 ParticipantName,TeamName,Position,ELO,STANDINGS_BONUS,ELO_FINAL
 Marek Hamsik,Napoli,CDM,1838,38,1876
-Gonzalo Higuain,Juventus,ST,1787,66,1853
-Lorenzo Insigne,Napoli,LAM,1809,38,1847
-Mauro Icardi,Internazionale,ST,1816,16,1832
+Gonzalo Higuain,Juventus,ST,1791,70,1861
+Lorenzo Insigne,Napoli,LAM,1814,38,1852
+Mauro Icardi,Internazionale,ST,1820,16,1836
 Dries Mertens,Napoli,RW,1784,38,1822
-Edin Dzeko,Roma,CF,1759,50,1809
+Edin Dzeko,Roma,ST,1756,50,1806
 Federico Fazio,Roma,CB,1737,50,1787
-Andrea Belotti,Torino,CF,1772,8,1780
+Andrea Belotti,Torino,ST,1769,8,1777
 Francesco Acerbi,Sassuolo,CB,1756,0,1756
 Wojciech Szczesny,Roma,GK,1695,50,1745
+Giorgio Chiellini,Juventus,CB,1669,70,1739
 Stefan de Vrij,Lazio,CB,1712,24,1736
-Giorgio Chiellini,Juventus,CB,1669,66,1735
-Gianluigi Buffon,Juventus,GK,1661,66,1727
+Gianluigi Buffon,Juventus,GK,1661,70,1731
 Mohamed Salah,Roma,RW,1671,50,1721
-Alex Sandro,Juventus,LWB,1650,66,1716
-Papu Gómez,Atalanta,CF,1684,32,1716
-Paulo Dybala,Juventus,CF,1642,66,1708
+Papu Gómez,Atalanta,ST,1681,32,1713
+Paulo Dybala,Juventus,ST,1639,70,1709
+Leonardo Bonucci,Juventus,CB,1637,70,1707
+Sami Khedira,Juventus,CDM,1636,70,1706
+Alex Sandro,Juventus,LB,1634,70,1704
 Piotr Zielinski,Napoli,CM,1666,38,1704
-Leonardo Bonucci,Juventus,CB,1637,66,1703
-Sami Khedira,Juventus,CDM,1636,66,1702
+Ciro Immobile,Lazio,ST,1672,24,1696
 Éver Banega,Internazionale,CDM,1679,16,1695
-Ciro Immobile,Lazio,ST,1668,24,1692
 Marco Borriello,Cagliari,CM,1690,0,1690
 Jorginho,Napoli,CDM,1651,38,1689
 Ervin Zukanovic,Atalanta,CB,1656,32,1688
-José Maria Callejon,Napoli,CF,1647,38,1685
+Miralem Pjanic,Juventus,CAM,1616,70,1686
+Adem Ljajic,Torino,CAM,1678,8,1686
 Allan,Napoli,CDM,1646,38,1684
 Pepe Reina,Napoli,GK,1645,38,1683
-Adem Ljajic,Torino,CAM,1675,8,1683
-Antonio Candreva,Internazionale,CAM,1663,16,1679
-Miralem Pjanic,Juventus,CAM,1613,66,1679
+Antonio Candreva,Internazionale,CAM,1666,16,1682
+José Maria Callejon,Napoli,ST,1644,38,1682
 Diego Perotti,Roma,LW,1626,50,1676
 Leandro Paredes,Roma,CM,1626,50,1676
-Iago Falqué,Torino,CF,1667,8,1675
 Remo Freuler,Atalanta,CDM,1643,32,1675
-Andrea Conti,Atalanta,RWB,1641,32,1673
-Dani Alves,Juventus,RWB,1601,66,1667
+Iago Falqué,Torino,ST,1664,8,1672
+Andrea Conti,Atalanta,RB,1639,32,1671
+Dani Alves,Juventus,RB,1600,70,1670
 Valter Birsa,Chievo,CM,1666,0,1666
-Faouzi Ghoulam,Napoli,LWB,1626,38,1664
+Radja Nainggolan,Roma,ST,1615,50,1665
 Gianluigi Donnarumma,Milan,GK,1643,20,1663
-Radja Nainggolan,Roma,ST,1611,50,1661
 Ciprian Tatarusanu,Fiorentina,GK,1649,12,1661
+Stephan El Shaarawy,Roma,LAM,1606,50,1656
 Wallace,Lazio,CB,1632,24,1656
-Stephan El Shaarawy,Roma,LAM,1602,50,1652
-Keita Baldé,Lazio,LAM,1628,24,1652
+Keita Baldé,Lazio,LAM,1631,24,1655
 Daniele De Rossi,Roma,CDM,1601,50,1651
+Mario Lemina,Juventus,CDM,1580,70,1650
+Faouzi Ghoulam,Napoli,LB,1610,38,1648
+Andrea Barzagli,Juventus,CB,1577,70,1647
 Kalidou Koulibaly,Napoli,CB,1609,38,1647
-Mario Lemina,Juventus,CDM,1580,66,1646
-Andrea Barzagli,Juventus,CB,1577,66,1643
+Davide Zappacosta,Torino,RWB,1634,8,1642
+Konstantinos Manolas,Roma,CB,1592,50,1642
 Etrit Berisha,Atalanta,GK,1610,32,1642
 Daniele Baselli,Torino,CDM,1634,8,1642
-Konstantinos Manolas,Roma,CB,1592,50,1642
-Emerson,Roma,LWB,1592,50,1642
 Ivan Perisic,Internazionale,LW,1622,16,1638
-Bruno Peres,Roma,RWB,1585,50,1635
 Wesley Hoedt,Lazio,CB,1611,24,1635
-Lucas Biglia,Lazio,CM,1600,24,1624
-Stefano Sorrentino,Chievo,GK,1624,0,1624
+Bruno Peres,Roma,RB,1583,50,1633
+Leonardo Spinazzola,Atalanta,LWB,1595,32,1627
+Emerson,Roma,LB,1576,50,1626
 Bryan Cristante,Atalanta,CDM,1592,32,1624
+Stefano Sorrentino,Chievo,GK,1624,0,1624
+Lucas Biglia,Lazio,CM,1600,24,1624
 Samir Caetano,Udinese,CB,1623,0,1623
+Danilo D'Ambrosio,Internazionale,LB,1607,16,1623
 Sinisa Andelkovic,Palermo,CB,1621,0,1621
 Matias Silvestre,Sampdoria,CB,1614,4,1618
 Ezequiel Muñoz,Genoa,CB,1618,0,1618
-Grégoire Defrel,Sassuolo,CF,1614,0,1614
-Mario Sampirisi,Crotone,RWB,1613,0,1613
-Tomás Rincón,Juventus,CDM,1544,66,1610
-Danilo D'Ambrosio,Internazionale,LB,1593,16,1609
+Juan Cuadrado,Juventus,RWB,1545,70,1615
+Tomás Rincón,Juventus,CDM,1544,70,1614
+Mario Sampirisi,Crotone,RB,1611,0,1611
+Grégoire Defrel,Sassuolo,ST,1611,0,1611
+Cristian Tello,Fiorentina,CAM,1598,12,1610
+Emiliano Moretti,Torino,LB,1602,8,1610
 Alessio Romagnoli,Milan,CB,1589,20,1609
-Ignazio Abate,Milan,RWB,1589,20,1609
 Gian Marco Ferrari,Crotone,CB,1608,0,1608
-Roberto Inglese,Chievo,CF,1607,0,1607
+Ignazio Abate,Milan,RB,1588,20,1608
 Antonio Mirante,Bologna,GK,1607,0,1607
 Lukasz Skorupski,Empoli,GK,1606,0,1606
-Cristian Tello,Fiorentina,CAM,1594,12,1606
-Kevin Strootman,Roma,CAM,1554,50,1604
-Patrik Schick,Sampdoria,CF,1600,4,1604
+Andrea Masiello,Atalanta,LB,1573,32,1605
 Marcelo Brozovic,Internazionale,CDM,1587,16,1603
-Gabriel Paletta,Milan,CB,1582,20,1602
+Roberto Inglese,Chievo,ST,1603,0,1603
+Kevin Strootman,Roma,CAM,1553,50,1603
+Khouma Babacar,Fiorentina,ST,1591,12,1603
 Vasco Regini,Sampdoria,CB,1598,4,1602
-Khouma Babacar,Fiorentina,ST,1587,12,1599
-Fabio Quagliarella,Sampdoria,ST,1592,4,1596
-Emiliano Moretti,Torino,LB,1588,8,1596
-Neto,Juventus,GK,1529,66,1595
+Gabriel Paletta,Milan,CB,1582,20,1602
+Patrik Schick,Sampdoria,ST,1597,4,1601
+Fabio Quagliarella,Sampdoria,ST,1595,4,1599
+Neto,Juventus,GK,1529,70,1599
 Luca Rossettini,Torino,CB,1587,8,1595
 Luca Ceppitelli,Cagliari,CB,1594,0,1594
-Andrea Masiello,Atalanta,LB,1559,32,1591
-Rafael Tolói,Atalanta,RB,1558,32,1590
 Miranda,Internazionale,CB,1571,16,1587
 Franck Kessié,Atalanta,CDM,1554,32,1586
 Hugo Campagnaro,Pescara,CB,1585,0,1585
-Armando Izzo,Genoa,RB,1585,0,1585
+Rafael Tolói,Atalanta,RB,1553,32,1585
+Stephan Lichtsteiner,Juventus,RB,1512,70,1582
 Carlos Sánchez,Fiorentina,CB,1570,12,1582
 Jasmin Kurtic,Atalanta,CM,1549,32,1581
-Sergio Pellissier,Chievo,CF,1581,0,1581
+Armando Izzo,Genoa,RB,1580,0,1580
 Sebastián Cristoforo,Fiorentina,CDM,1568,12,1580
 Domenico Maietta,Bologna,CB,1579,0,1579
-Federico Bernardeschi,Fiorentina,RW,1567,12,1579
-Stephan Lichtsteiner,Juventus,RWB,1513,66,1579
 Thomas Strakosha,Lazio,GK,1555,24,1579
-Andrea Consigli,Sassuolo,GK,1578,0,1578
+Federico Bernardeschi,Fiorentina,RW,1567,12,1579
+Borja Valero,Fiorentina,CAM,1567,12,1579
+Ahmad Benali,Pescara,CM,1578,0,1578
 Dario Dainelli,Chievo,CB,1578,0,1578
 Samir Handanovic,Internazionale,GK,1562,16,1578
-Mattia De Sciglio,Milan,RB,1558,20,1578
-Ahmad Benali,Pescara,CM,1578,0,1578
-Éder,Internazionale,CF,1562,16,1578
-Cyril Théréau,Udinese,CF,1577,0,1577
+Andrea Consigli,Sassuolo,GK,1578,0,1578
+Sergio Pellissier,Chievo,ST,1578,0,1578
 Geancarlo González,Palermo,CB,1577,0,1577
-Borja Valero,Fiorentina,CAM,1565,12,1577
+Bruno Fernandes,Sampdoria,CAM,1573,4,1577
 Matías Vecino,Fiorentina,CM,1564,12,1576
 Bruno Alves,Cagliari,CB,1575,0,1575
-Bruno Fernandes,Sampdoria,CAM,1569,4,1573
-Suso,Milan,CF,1552,20,1572
-Marco Parolo,Lazio,CB,1547,24,1571
+Éder,Internazionale,ST,1558,16,1574
+Cyril Théréau,Udinese,ST,1573,0,1573
+Mattia De Sciglio,Milan,RB,1553,20,1573
 Sven Kums,Udinese,CB,1571,0,1571
+Marco Parolo,Lazio,CB,1547,24,1571
+Juan Jesus,Roma,LB,1520,50,1570
+Suso,Milan,ST,1549,20,1569
 Francesco Totti,Roma,CM,1519,50,1569
-Luis Muriel,Sampdoria,CF,1564,4,1568
+Kwadwo Asamoah,Juventus,LM,1497,70,1567
+Federico Di Francesco,Bologna,LWB,1567,0,1567
 Felipe,Udinese,CB,1567,0,1567
 Mattia Caldara,Atalanta,RAM,1534,32,1566
 Jeison Murillo,Internazionale,CB,1549,16,1565
-Mario Pasalic,Milan,CDM,1542,20,1562
+Luis Muriel,Sampdoria,ST,1560,4,1564
+Carlos Bacca,Milan,ST,1544,20,1564
 Oscar Hiljemark,Genoa,CM,1562,0,1562
+Mario Pasalic,Milan,CDM,1542,20,1562
 Alberto Aquilani,Sassuolo,CB,1562,0,1562
-Kwadwo Asamoah,Juventus,LM,1495,66,1561
-Diego Laxalt,Genoa,LWB,1561,0,1561
-Carlos Bacca,Milan,ST,1540,20,1560
-Felipe Anderson,Lazio,LW,1536,24,1560
 Michele Fornasier,Pescara,CB,1560,0,1560
-Davide Zappacosta,Torino,RM,1552,8,1560
+Felipe Anderson,Lazio,LW,1536,24,1560
 Geoffrey Kondogbia,Internazionale,CDM,1543,16,1559
+Gonzalo Rodriguez,Fiorentina,CB,1545,12,1557
 Ledian Memushaj,Pescara,CM,1557,0,1557
 Nicolás Spolli,Chievo,CB,1557,0,1557
-Juan Jesus,Roma,LB,1507,50,1557
-Gonzalo Rodriguez,Fiorentina,CB,1545,12,1557
+Christian Maggio,Napoli,RM,1518,38,1556
 Karol Linetty,Sampdoria,CDM,1551,4,1555
 Milan Skriniar,Sampdoria,CB,1551,4,1555
-Lorenzo De Silvestri,Torino,RWB,1547,8,1555
-Christian Maggio,Napoli,RM,1517,38,1555
+Lorenzo De Silvestri,Torino,RB,1545,8,1553
 Roberto Gagliardini,Internazionale,CM,1537,16,1553
-Leonardo Spinazzola,Atalanta,LM,1520,32,1552
+Giacomo Bonaventura,Milan,CAM,1533,20,1553
 Raúl Albiol,Napoli,CB,1513,38,1551
-Giacomo Bonaventura,Milan,CAM,1531,20,1551
 Diego Falcinelli,Crotone,RW,1550,0,1550
 Erick Pulgar,Bologna,CDM,1550,0,1550
+Andrea Rispoli,Palermo,RM,1549,0,1549
+Claudio Marchisio,Juventus,CM,1479,70,1549
 Darko Lazovic,Genoa,CM,1548,0,1548
-Arkadiusz Milik,Napoli,CF,1510,38,1548
-Andrea Rispoli,Palermo,RM,1548,0,1548
-Alessandro Crescenzi,Pescara,RWB,1548,0,1548
 Danilo,Udinese,CB,1547,0,1547
-Edoardo Goldaniga,Palermo,CB,1545,0,1545
+Alessandro Crescenzi,Pescara,RB,1546,0,1546
+Marco D'Alessandro,Atalanta,LM,1513,32,1545
 Gastón Brugman,Pescara,CDM,1545,0,1545
 Haitam Aleesami,Palermo,CB,1545,0,1545
-Claudio Marchisio,Juventus,CM,1479,66,1545
-Massimo Gobbi,Chievo,LWB,1544,0,1544
+Edoardo Goldaniga,Palermo,CB,1545,0,1545
+Diego Laxalt,Genoa,LB,1545,0,1545
+Arkadiusz Milik,Napoli,ST,1506,38,1544
 Emmanuel Agyemang-Badu,Udinese,CM,1544,0,1544
-Mauricio Isla,Cagliari,RWB,1544,0,1544
-Marco D'Alessandro,Atalanta,LM,1511,32,1543
-Fabio Pisacane,Cagliari,RB,1542,0,1542
+Seko Fofana,Udinese,CAM,1542,0,1542
+Mauricio Isla,Cagliari,RB,1542,0,1542
+Andrea Costa,Empoli,LB,1541,0,1541
 Marcus Rohdén,Crotone,CDM,1541,0,1541
-Saphir Taider,Bologna,CAM,1540,0,1540
-Seko Fofana,Udinese,CAM,1540,0,1540
-Patric,Lazio,CM,1516,24,1540
 Milan Badelj,Fiorentina,CM,1528,12,1540
-Rafael,Cagliari,GK,1539,0,1539
-Dusan Basta,Lazio,RM,1515,24,1539
+Patric,Lazio,CM,1516,24,1540
+Saphir Taider,Bologna,CAM,1540,0,1540
 Antonio Rüdiger,Roma,CB,1489,50,1539
 Ricardo Álvarez,Sampdoria,CM,1535,4,1539
-Lucas Nahuel Castro,Chievo,CAM,1538,0,1538
-Alessandro Matri,Sassuolo,CF,1538,0,1538
+Lucas Nahuel Castro,Chievo,CAM,1539,0,1539
+Dusan Basta,Lazio,RM,1515,24,1539
+Rafael,Cagliari,GK,1539,0,1539
 Blerim Dzemaili,Bologna,CDM,1537,0,1537
-Federico Ceccherini,Crotone,RB,1537,0,1537
-Andrea Petagna,Atalanta,CF,1504,32,1536
+Fabio Pisacane,Cagliari,RB,1537,0,1537
 Andrea Barberis,Crotone,CDM,1536,0,1536
 Josip Ilicic,Fiorentina,RW,1524,12,1536
 Joe Hart,Torino,GK,1527,8,1535
 Adam Masina,Bologna,CB,1535,0,1535
-Andrea Nalini,Crotone,RM,1533,0,1533
-Giovanni Simeone,Genoa,CF,1533,0,1533
+Ilija Nestorovski,Palermo,ST,1535,0,1535
+Andrea Nalini,Crotone,RM,1534,0,1534
+Alessandro Matri,Sassuolo,ST,1534,0,1534
+Stefano Sturaro,Juventus,CDM,1463,70,1533
+Andrea Petagna,Atalanta,ST,1501,32,1533
+Federico Ceccherini,Crotone,RB,1533,0,1533
 Mirko Valdifiori,Torino,CM,1524,8,1532
-Ilija Nestorovski,Palermo,ST,1532,0,1532
 Orestis Karnezis,Udinese,GK,1532,0,1532
 Edgar Barreto,Sampdoria,CM,1528,4,1532
-Juan Cuadrado,Juventus,RM,1464,66,1530
-Moise Kean,Juventus,CF,1464,66,1530
-Luis Alberto,Lazio,CAM,1506,24,1530
-Thiago Cionek,Palermo,RB,1529,0,1529
-Jonathan de Guzmán,Chievo,CDM,1529,0,1529
+Moise Kean,Juventus,ST,1460,70,1530
+Giovanni Simeone,Genoa,ST,1530,0,1530
 Gary Medel,Internazionale,CDM,1513,16,1529
-Stefano Sturaro,Juventus,CDM,1463,66,1529
-Luca Crecco,Lazio,LWB,1504,24,1528
-Nikola Maksimovic,Napoli,RB,1490,38,1528
-Andrea Costa,Empoli,LB,1527,0,1527
+Marco Benassi,Torino,LM,1521,8,1529
+Jonathan de Guzmán,Chievo,CDM,1529,0,1529
+Luis Alberto,Lazio,CAM,1505,24,1529
+Massimo Gobbi,Chievo,LB,1528,0,1528
 Manuel Locatelli,Milan,CDM,1507,20,1527
-Marco Benassi,Torino,LM,1519,8,1527
-Sergej Milinkovic-Savic,Lazio,RAM,1501,24,1525
-Emanuele Giaccherini,Napoli,CAM,1486,38,1524
-Senad Lulic,Lazio,LM,1500,24,1524
+Jakub Jankto,Udinese,LM,1526,0,1526
+Sergej Milinkovic-Savic,Lazio,RAM,1502,24,1526
+Senad Lulic,Lazio,LM,1502,24,1526
 Francesco Zampano,Pescara,RM,1524,0,1524
-Gianluca Lapadula,Milan,CF,1504,20,1524
-Jakub Jankto,Udinese,LM,1523,0,1523
-Lucas Torreira,Sampdoria,CDM,1519,4,1523
+Thiago Cionek,Palermo,RB,1524,0,1524
 Afriyie Acquah,Torino,CDM,1515,8,1523
-Emil Krafth,Bologna,RWB,1522,0,1522
+Lucas Torreira,Sampdoria,CDM,1519,4,1523
+Emanuele Giaccherini,Napoli,CAM,1485,38,1523
+Nikola Maksimovic,Napoli,RB,1485,38,1523
 Guido Marilungo,Empoli,CM,1522,0,1522
 Marco Sau,Cagliari,LW,1522,0,1522
-Mário Rui,Roma,LWB,1469,50,1519
+Emil Krafth,Bologna,RB,1520,0,1520
+Gianluca Lapadula,Milan,ST,1500,20,1520
 Levan Mchedlidze,Empoli,CM,1519,0,1519
+Luca Rizzo,Bologna,LM,1519,0,1519
+Aniello Salzano,Crotone,LM,1519,0,1519
+Filippo Costa,Chievo,LM,1519,0,1519
+Riccardo Fiamozzi,Genoa,RM,1518,0,1518
 Massimo Maccarone,Empoli,CM,1518,0,1518
-Luca Rizzo,Bologna,LM,1517,0,1517
-Filippo Costa,Chievo,LM,1517,0,1517
-Gennaro Ruggiero,Palermo,RM,1517,0,1517
-Riccardo Fiamozzi,Genoa,RM,1517,0,1517
-Aniello Salzano,Crotone,LM,1517,0,1517
-Pierluigi Gollini,Atalanta,GK,1484,32,1516
+Gennaro Ruggiero,Palermo,RM,1518,0,1518
 Anthony Mounier,Atalanta,LW,1484,32,1516
+Pierluigi Gollini,Atalanta,GK,1484,32,1516
 Silvan Widmer,Udinese,RM,1515,0,1515
-Stefan Daniel Radu,Lazio,LWB,1491,24,1515
-Mattia Destro,Bologna,CF,1515,0,1515
-Matias Fernández,Milan,CM,1494,20,1514
 Dennis Praet,Sampdoria,CDM,1510,4,1514
+Matias Fernández,Milan,CM,1494,20,1514
+Bruno Martella,Crotone,LB,1513,0,1513
 Mato Jajalo,Palermo,CM,1513,0,1513
-Federico Di Francesco,Bologna,LM,1513,0,1513
+Luca Crecco,Lazio,LB,1488,24,1512
+Mario Mandzukic,Juventus,ST,1441,70,1511
+Mattia Destro,Bologna,ST,1511,0,1511
+Davide Di Gennaro,Cagliari,CAM,1510,0,1510
+Hernanes,Juventus,CAM,1440,70,1510
 Ádám Nagy,Bologna,CM,1510,0,1510
-Duván Zapata,Udinese,CF,1510,0,1510
-Alessandro Murgia,Lazio,CAM,1486,24,1510
-Pietro Iemmello,Sassuolo,CF,1510,0,1510
-Jean-Christophe Bahebeck,Pescara,CF,1509,0,1509
-Alex Cordaz,Crotone,GK,1509,0,1509
 Vlad Chiriches,Napoli,CDM,1471,38,1509
+Alex Cordaz,Crotone,GK,1509,0,1509
+Alessandro Murgia,Lazio,CAM,1485,24,1509
 Ivaylo Chochev,Palermo,RAM,1509,0,1509
-Mauro Zarate,Fiorentina,CAM,1496,12,1508
-Davide Di Gennaro,Cagliari,CAM,1508,0,1508
+Adrian Stoian,Crotone,CAM,1508,0,1508
 Federico Marchetti,Lazio,GK,1484,24,1508
-Adrian Stoian,Crotone,CAM,1507,0,1507
-Hernanes,Juventus,CAM,1441,66,1507
-Eugenio Lamanna,Genoa,GK,1507,0,1507
 Alfred Duncan,Sassuolo,CM,1507,0,1507
-Fabrizio Cacciatore,Chievo,RB,1506,0,1506
+Mauro Zarate,Fiorentina,CAM,1495,12,1507
+Eugenio Lamanna,Genoa,GK,1507,0,1507
 Christian Puggioni,Sampdoria,GK,1502,4,1506
-Mario Mandzukic,Juventus,ST,1438,66,1504
-Simone Verdi,Bologna,CF,1504,0,1504
-Vasilios Torosidis,Bologna,LWB,1503,0,1503
-Josip Posavec,Palermo,GK,1502,0,1502
-Nikola Kalinic,Fiorentina,ST,1490,12,1502
-Mattia Perin,Genoa,GK,1502,0,1502
-Cristiano Biraghi,Pescara,LWB,1502,0,1502
-Giuseppe Pezzella,Palermo,LM,1502,0,1502
+Nikola Kalinic,Fiorentina,ST,1494,12,1506
+Duván Zapata,Udinese,ST,1506,0,1506
+Pietro Iemmello,Sassuolo,ST,1506,0,1506
+Jean-Christophe Bahebeck,Pescara,ST,1505,0,1505
+Giuseppe Pezzella,Palermo,LM,1504,0,1504
+Marco Zambelli,Empoli,LM,1504,0,1504
+Antonio Barreca,Torino,LM,1495,8,1503
+Mário Rui,Roma,LB,1453,50,1503
 Matteo Politano,Sassuolo,RW,1502,0,1502
-Marco Zambelli,Empoli,LM,1502,0,1502
+Josip Posavec,Palermo,GK,1502,0,1502
+Mattia Perin,Genoa,GK,1502,0,1502
+Marko Pjaca,Juventus,RW,1431,70,1501
+Fabrizio Cacciatore,Chievo,RB,1501,0,1501
 Juan Iturbe,Torino,RW,1493,8,1501
-Adel Taarabt,Genoa,CAM,1501,0,1501
-Antonio Barreca,Torino,LM,1493,8,1501
+Simone Verdi,Bologna,ST,1501,0,1501
+Federico Melchiorri,Cagliari,CF,1500,0,1500
+Sergio Floccari,Bologna,CF,1500,0,1500
+Marcello Trotta,Crotone,CF,1500,0,1500
 Domenico Berardi,Sassuolo,RW,1500,0,1500
+Adel Taarabt,Genoa,CAM,1500,0,1500
 Bruno Henrique,Palermo,CDM,1500,0,1500
-Davide Santon,Internazionale,LWB,1484,16,1500
 Andrea Fulignati,Palermo,GK,1499,0,1499
-Bruno Martella,Crotone,LB,1499,0,1499
-Hans Hateboer,Atalanta,RWB,1467,32,1499
-Elseid Hysaj,Napoli,RWB,1460,38,1498
+Stefan Daniel Radu,Lazio,LB,1475,24,1499
+Hans Hateboer,Atalanta,RB,1465,32,1497
 Amadou Diawara,Napoli,CM,1459,38,1497
-Diego Farias,Cagliari,CF,1497,0,1497
-Marko Pjaca,Juventus,RW,1431,66,1497
+Federico Dimarco,Empoli,LM,1497,0,1497
 Pol Lirola,Sassuolo,RM,1496,0,1496
-Hrvoje Milic,Fiorentina,LWB,1484,12,1496
-Miha Zajc,Empoli,CAM,1496,0,1496
-Federico Dimarco,Empoli,LM,1495,0,1495
-Jordan Lukaku,Lazio,LWB,1469,24,1493
-Cristian Molinaro,Torino,LWB,1484,8,1492
-Joao Mário,Internazionale,LW,1475,16,1491
+Elseid Hysaj,Napoli,RB,1458,38,1496
+Miha Zajc,Empoli,CAM,1495,0,1495
+Diego Farias,Cagliari,ST,1494,0,1494
 Mariano Julio Izco,Chievo,RM,1491,0,1491
+Joao Mário,Internazionale,LW,1475,16,1491
 Alberto Grassi,Atalanta,CM,1459,32,1491
-Fabio Depaoli,Chievo,RM,1490,0,1490
 Alessandro Gazzi,Palermo,CB,1490,0,1490
+Boadu Maxwell Acosty,Crotone,LM,1489,0,1489
+Daniele Rugani,Juventus,CB,1419,70,1489
+Claud Adjapong,Sassuolo,RM,1488,0,1488
+Vasilios Torosidis,Bologna,LB,1487,0,1487
 Lorenzo Tonelli,Napoli,CB,1449,38,1487
-Claud Adjapong,Sassuolo,RM,1487,0,1487
-Boadu Maxwell Acosty,Crotone,LM,1487,0,1487
+Gianluca Caprari,Pescara,LAM,1487,0,1487
+Cristiano Biraghi,Pescara,LB,1486,0,1486
 Clément Grenier,Roma,CDM,1436,50,1486
 Albano Bizzarri,Pescara,GK,1486,0,1486
+Andrea Beghetto,Genoa,LWB,1486,0,1486
 Miguel Veloso,Genoa,CDM,1486,0,1486
 Ricardo Kishna,Lazio,RW,1461,24,1485
-Gianluca Caprari,Pescara,LAM,1485,0,1485
-Leonardo Pavoletti,Napoli,CF,1447,38,1485
-Daniele Rugani,Juventus,CB,1419,66,1485
-Andrea Beghetto,Genoa,LWB,1484,0,1484
 Antonio Floro Flores,Chievo,CM,1484,0,1484
-Marcello Trotta,Crotone,CF,1484,0,1484
-Davide Vitturini,Pescara,LWB,1484,0,1484
+Davide Santon,Internazionale,LB,1468,16,1484
+Medhi Benatia,Juventus,CB,1414,70,1484
+Marco Davide Faraoni,Udinese,RM,1483,0,1483
 Manuel Pucciarelli,Empoli,LW,1482,0,1482
-Marco Davide Faraoni,Udinese,RM,1482,0,1482
+Leonardo Pavoletti,Napoli,ST,1443,38,1481
 Marco Sportiello,Fiorentina,GK,1469,12,1481
-Sebastien De Maio,Fiorentina,LWB,1469,12,1481
-Medhi Benatia,Juventus,CB,1414,66,1480
-Víctor Ibarbo,Cagliari,LW,1479,0,1479
+Hrvoje Milic,Fiorentina,LB,1468,12,1480
+Kevin Diks,Fiorentina,LB,1468,12,1480
 Simone Lo Faso,Palermo,LW,1479,0,1479
+Víctor Ibarbo,Cagliari,LW,1479,0,1479
 Cristián Zapata,Milan,CB,1459,20,1479
-Gerard Deulofeu,Milan,CF,1458,20,1478
 Lucas Ocampos,Milan,LW,1458,20,1478
-Danilo Avelar,Torino,LWB,1469,8,1477
-Gérson,Roma,CDM,1426,50,1476
+Jordan Lukaku,Lazio,LB,1453,24,1477
 Alessandro Florenzi,Roma,CDM,1426,50,1476
-Federico Melchiorri,Cagliari,CF,1476,0,1476
 Robert Muric,Pescara,RW,1476,0,1476
+Cristian Molinaro,Torino,LB,1468,8,1476
+Gérson,Roma,CDM,1426,50,1476
 Marco Andreolli,Internazionale,CB,1459,16,1475
-Pietro De Giorgio,Crotone,CM,1474,0,1474
-Federico Peluso,Sassuolo,CB,1474,0,1474
-Thomas Vermaelen,Roma,CB,1424,50,1474
-Eddy Gnahoré,Crotone,CM,1474,0,1474
-Bartosz Bereszynski,Sampdoria,RB,1470,4,1474
+M'Baye Niang,Milan,ST,1455,20,1475
 Raffaele Maiello,Empoli,CM,1474,0,1474
-Manolo Gabbiadini,Napoli,LAM,1436,38,1474
-Cristian Daniel Ansaldi,Internazionale,LWB,1457,16,1473
-Davide Calabria,Milan,RWB,1452,20,1472
-Aleksandar Pesic,Atalanta,CF,1440,32,1472
-Michel Morganella,Palermo,RM,1472,0,1472
-Luca Bittante,Cagliari,RM,1472,0,1472
+Federico Peluso,Sassuolo,CB,1474,0,1474
+Eddy Gnahoré,Crotone,CM,1474,0,1474
+Thomas Vermaelen,Roma,CB,1424,50,1474
+Gerard Deulofeu,Milan,ST,1454,20,1474
+Pietro De Giorgio,Crotone,CM,1474,0,1474
+Michel Morganella,Palermo,RM,1473,0,1473
+Luca Bittante,Cagliari,RM,1473,0,1473
+Omar El Kaddouri,Empoli,CAM,1473,0,1473
+Nicola Murru,Cagliari,LM,1472,0,1472
+Dodo,Sampdoria,LB,1468,4,1472
 Daniele Gastaldello,Bologna,CB,1471,0,1471
-Ewandro,Udinese,CAM,1471,0,1471
 Boukari Dramé,Atalanta,GK,1439,32,1471
-M'Baye Niang,Milan,ST,1451,20,1471
-Omar El Kaddouri,Empoli,CAM,1470,0,1470
-Marios Oikonomou,Bologna,RB,1470,0,1470
-Stipe Perica,Udinese,CF,1470,0,1470
-Nicola Murru,Cagliari,LM,1469,0,1469
-Vincenzo Fiorillo,Pescara,GK,1469,0,1469
-Joel Chukwuma Obi,Torino,LM,1461,8,1469
+Manolo Gabbiadini,Napoli,LAM,1433,38,1471
+Joel Chukwuma Obi,Torino,LM,1463,8,1471
+Davide Calabria,Milan,RB,1450,20,1470
+Cristiano Lombardi,Lazio,LWB,1446,24,1470
+Ewandro,Udinese,CAM,1470,0,1470
 Aleksandar Tonev,Crotone,LW,1469,0,1469
-Pablo Armero,Udinese,LWB,1469,0,1469
-Yuto Nagatomo,Internazionale,RWB,1452,16,1468
-Cristiano Lombardi,Lazio,LWB,1444,24,1468
-Daniele Croce,Empoli,CAM,1468,0,1468
-Ianis Hagi,Fiorentina,RAM,1456,12,1468
+Vincenzo Fiorillo,Pescara,GK,1469,0,1469
+Bartosz Bereszynski,Sampdoria,RB,1465,4,1469
+Davide Vitturini,Pescara,LB,1468,0,1468
+João Pedro,Cagliari,ST,1468,0,1468
+Aleksandar Pesic,Atalanta,ST,1436,32,1468
+Cristian Dell'Orco,Sassuolo,LB,1468,0,1468
 Ivan Radovanovic,Chievo,CB,1467,0,1467
-Luiz Adriano,Milan,CF,1447,20,1467
-Roberto Vitiello,Palermo,RWB,1467,0,1467
+Ianis Hagi,Fiorentina,RAM,1455,12,1467
 Arlind Ajeti,Torino,CB,1459,8,1467
-Maximiliano Olivera,Fiorentina,LWB,1454,12,1466
+Daniele Croce,Empoli,CAM,1467,0,1467
 Leonardo Capezzi,Crotone,CM,1466,0,1466
-Kevin Diks,Fiorentina,LB,1454,12,1466
+Yuto Nagatomo,Internazionale,RB,1450,16,1466
 Rodrigo De Paul,Udinese,CDM,1466,0,1466
-Rade Krunic,Empoli,CDM,1465,0,1465
+Stipe Perica,Udinese,ST,1466,0,1466
+Riccardo Saponara,Fiorentina,LAM,1454,12,1466
+Marios Oikonomou,Bologna,RB,1465,0,1465
+Sebastien De Maio,Fiorentina,LB,1453,12,1465
 Vincent Laurini,Empoli,RM,1465,0,1465
+Roberto Vitiello,Palermo,RB,1465,0,1465
 Raffaele Palladino,Genoa,CM,1465,0,1465
-Riccardo Saponara,Fiorentina,LAM,1453,12,1465
-Filip Djordjevic,Lazio,CF,1440,24,1464
-João Pedro,Cagliari,ST,1464,0,1464
-Kwang-Song Han,Cagliari,CF,1464,0,1464
-Pietro Pellegri,Genoa,CF,1464,0,1464
-Andrea Pinamonti,Internazionale,CF,1447,16,1463
+Rade Krunic,Empoli,CDM,1465,0,1465
+Luiz Adriano,Milan,ST,1443,20,1463
 Ivan Strinic,Napoli,CB,1424,38,1462
+Manuel Pasqual,Empoli,LM,1462,0,1462
 Emil Hallfredsson,Udinese,CM,1462,0,1462
-Ladislav Krejcí,Bologna,CF,1461,0,1461
-Roland Sallai,Palermo,RWB,1461,0,1461
-Andrea Bertolacci,Milan,CAM,1441,20,1461
-Manuel Pasqual,Empoli,LM,1460,0,1460
+Danilo Avelar,Torino,LB,1453,8,1461
+Pietro Pellegri,Genoa,ST,1460,0,1460
+Filip Djordjevic,Lazio,ST,1436,24,1460
+Kwang-Song Han,Cagliari,ST,1460,0,1460
+Andrea Bertolacci,Milan,CAM,1440,20,1460
 Nicola Rigoni,Chievo,CM,1459,0,1459
+Andrea Pinamonti,Internazionale,ST,1443,16,1459
 Ouasim Bouy,Palermo,CM,1459,0,1459
-Alberto Paloschi,Atalanta,CF,1426,32,1458
-Dodo,Sampdoria,LB,1454,4,1458
-Simy,Crotone,CF,1457,0,1457
+Roland Sallai,Palermo,RB,1459,0,1459
+Cristian Daniel Ansaldi,Internazionale,LB,1441,16,1457
+Ladislav Krejcí,Bologna,ST,1457,0,1457
+Lorenzo Pellegrini,Sassuolo,LAM,1457,0,1457
 Samuel Bastien,Chievo,CDM,1456,0,1456
-Panagiotis Kone,Udinese,CAM,1456,0,1456
-Sofian Kiyine,Chievo,CAM,1456,0,1456
 Abdoulay Konko,Atalanta,GK,1424,32,1456
-Lorenzo Pellegrini,Sassuolo,LAM,1456,0,1456
-Grigoris Kastanos,Pescara,CAM,1456,0,1456
 Assane Demoya Gnoukouri,Internazionale,CB,1439,16,1455
-Carlos Embalo,Palermo,CF,1455,0,1455
-Molla Wagué,Udinese,RB,1455,0,1455
+Grigoris Kastanos,Pescara,CAM,1455,0,1455
+Panagiotis Kone,Udinese,CAM,1455,0,1455
+Sofian Kiyine,Chievo,CAM,1455,0,1455
+Alberto Paloschi,Atalanta,ST,1422,32,1454
 Simone Scuffet,Udinese,GK,1454,0,1454
 Angelo da Costa,Bologna,GK,1454,0,1454
-Cristian Dell'Orco,Sassuolo,LB,1454,0,1454
-Marcello Gazzola,Sassuolo,RWB,1452,0,1452
-Nicolas Frey,Chievo,RWB,1452,0,1452
-Alberto Cerri,Pescara,CF,1452,0,1452
-Thomas Heurtaux,Udinese,RWB,1452,0,1452
+Pablo Armero,Udinese,LB,1453,0,1453
+Simy,Crotone,ST,1453,0,1453
+Frédéric Veseli,Empoli,LB,1453,0,1453
 Marko Rog,Napoli,CM,1414,38,1452
-Maxi Lopez,Torino,CF,1444,8,1452
-Patrick Cutrone,Milan,CF,1432,20,1452
-Edenílson,Genoa,CAM,1451,0,1451
+Carlos Embalo,Palermo,ST,1451,0,1451
+Marcello Gazzola,Sassuolo,RB,1450,0,1450
+Nicolas Frey,Chievo,RB,1450,0,1450
+Edenílson,Genoa,CAM,1450,0,1450
 Alessandro Gamberini,Chievo,GK,1450,0,1450
-Aleksandar Trajkovski,Palermo,CF,1449,0,1449
+Molla Wagué,Udinese,RB,1450,0,1450
+Thomas Heurtaux,Udinese,RB,1450,0,1450
+Maximiliano Olivera,Fiorentina,LB,1438,12,1450
 Nikola Ninkovic,Genoa,RW,1449,0,1449
-Orji Okwonkwo,Bologna,CF,1448,0,1448
-Luca Crosta,Cagliari,GK,1447,0,1447
+Alberto Cerri,Pescara,ST,1448,0,1448
+Patrick Cutrone,Milan,ST,1428,20,1448
+Jan Mlakar,Fiorentina,ST,1436,12,1448
+Maxi Lopez,Torino,ST,1440,8,1448
 Olivier Ntcham,Genoa,LAM,1447,0,1447
-Sergio Floccari,Bologna,CF,1447,0,1447
-Leonardo Morosini,Genoa,CF,1447,0,1447
+Luca Crosta,Cagliari,GK,1447,0,1447
 Andrea Poli,Milan,CDM,1426,20,1446
-Keisuke Honda,Milan,LAM,1426,20,1446
 Danilo Cataldi,Genoa,CM,1446,0,1446
-Aleandro Rosi,Crotone,RB,1445,0,1445
-Gabriel Silva,Udinese,CM,1444,0,1444
+Fabio Depaoli,Chievo,RWB,1446,0,1446
+Federico Chiesa,Fiorentina,ST,1433,12,1445
+Aleksandar Trajkovski,Palermo,ST,1445,0,1445
+Luca Antonelli,Milan,CB,1424,20,1444
+Alberto Gilardino,Pescara,CM,1444,0,1444
+Simone Padoin,Cagliari,RM,1444,0,1444
+Orji Okwonkwo,Bologna,ST,1444,0,1444
 Federico Viviani,Bologna,CM,1444,0,1444
 Stefano Sensi,Sassuolo,CM,1444,0,1444
-Rodrigo Palacio,Internazionale,CF,1428,16,1444
-Alberto Gilardino,Pescara,CM,1444,0,1444
-Jan Mlakar,Fiorentina,ST,1432,12,1444
-Luca Antonelli,Milan,CB,1424,20,1444
-Simone Padoin,Cagliari,RM,1443,0,1443
-Luca Antei,Sassuolo,RWB,1442,0,1442
-Antonino Ragusa,Sassuolo,RW,1441,0,1441
+Gabriel Silva,Udinese,CM,1444,0,1444
+Stevan Jovetic,Internazionale,ST,1428,16,1444
+Keisuke Honda,Milan,LAM,1423,20,1443
+Leonardo Morosini,Genoa,ST,1443,0,1443
+Daniel Pavlovic,Sampdoria,LB,1438,4,1442
 Matheus Pereira,Empoli,CDM,1441,0,1441
-Artur Ionita,Cagliari,CAM,1441,0,1441
-Federico Chiesa,Fiorentina,ST,1429,12,1441
-Alessandro Deiola,Cagliari,CAM,1441,0,1441
-Stevan Jovetic,Internazionale,ST,1424,16,1440
+Antonino Ragusa,Sassuolo,RW,1441,0,1441
 Trent Sainsbury,Internazionale,CB,1424,16,1440
+Alessandro Deiola,Cagliari,CAM,1440,0,1440
+Rodrigo Palacio,Internazionale,ST,1424,16,1440
+Ante Budimir,Sampdoria,ST,1436,4,1440
+Aleandro Rosi,Crotone,RB,1440,0,1440
+Artur Ionita,Cagliari,CAM,1440,0,1440
+Luca Antei,Sassuolo,RB,1440,0,1440
 Paolo Cannavaro,Sassuolo,GK,1439,0,1439
 Simone Pepe,Pescara,CB,1439,0,1439
-Frédéric Veseli,Empoli,LB,1439,0,1439
-Marco Capuano,Cagliari,CB,1439,0,1439
 Djamel Mesbah,Crotone,GK,1439,0,1439
 Guglielmo Stendardo,Pescara,GK,1439,0,1439
 Marco Festa,Crotone,GK,1439,0,1439
+Marco Capuano,Cagliari,CB,1439,0,1439
 Carlos Carmona,Atalanta,CDM,1406,32,1438
+Goran Pandev,Genoa,ST,1437,0,1437
 Panagiotis Tachtsidis,Cagliari,LW,1437,0,1437
-Ibrahima Mbaye,Bologna,RWB,1437,0,1437
-Filip Djuricic,Sampdoria,LW,1432,4,1436
 Lucas Evangelista,Udinese,CDM,1436,0,1436
 Nenad Tomovic,Fiorentina,CB,1424,12,1436
-Ante Budimir,Sampdoria,ST,1432,4,1436
-Timo Letschert,Sassuolo,RB,1435,0,1435
+Filip Djuricic,Sampdoria,LW,1432,4,1436
+Matos,Udinese,ST,1435,0,1435
+Ibrahima Mbaye,Bologna,RB,1435,0,1435
 Samuel Gustafson,Torino,CDM,1426,8,1434
-Goran Pandev,Genoa,ST,1434,0,1434
-Stefano Pettinari,Pescara,CF,1432,0,1432
-Carlao,Torino,CB,1424,8,1432
+Rey Manaj,Pescara,ST,1433,0,1433
 Gabriel,Cagliari,GK,1432,0,1432
+Carlao,Torino,CB,1424,8,1432
+Mame Baba Thiam,Empoli,ST,1432,0,1432
 Godfred Donsah,Bologna,CDM,1431,0,1431
-Alexandru Mitrita,Pescara,LAM,1431,0,1431
-Matos,Udinese,ST,1431,0,1431
+Gabriel Barbosa,Internazionale,ST,1415,16,1431
+Timo Letschert,Sassuolo,RB,1430,0,1430
 Riccardo Montolivo,Milan,CB,1409,20,1429
-Rey Manaj,Pescara,ST,1429,0,1429
-Emiliano Viviano,Sampdoria,GK,1424,4,1428
-Daniel Pavlovic,Sampdoria,LB,1424,4,1428
-Mame Baba Thiam,Empoli,ST,1428,0,1428
+Stefano Pettinari,Pescara,ST,1428,0,1428
 Angelo Palombo,Sampdoria,CB,1424,4,1428
-Gabriel Barbosa,Internazionale,ST,1411,16,1427
+Alexandru Mitrita,Pescara,LAM,1428,0,1428
+Emiliano Viviano,Sampdoria,GK,1424,4,1428
 Giuseppe Vives,Torino,CB,1419,8,1427
-Francesco Magnanelli,Sassuolo,CDM,1426,0,1426
 Robin Quaison,Palermo,CDM,1426,0,1426
-Cristian Raimondi,Atalanta,CB,1394,32,1426
 Paolo Faragò,Cagliari,CDM,1426,0,1426
-Umar Sadiq,Bologna,CF,1425,0,1425
+Cristian Raimondi,Atalanta,CB,1394,32,1426
+Francesco Magnanelli,Sassuolo,CDM,1426,0,1426
 Andrea Ranocchia,Internazionale,CB,1409,16,1425
 Daniele Dessena,Cagliari,CM,1424,0,1424
-Dario Zuparic,Pescara,CB,1424,0,1424
-Uros Cosic,Empoli,CB,1424,0,1424
-Toni Sunjic,Palermo,CB,1424,0,1424
-Claiton Dos Santos,Crotone,CB,1424,0,1424
-Senna Miangué,Cagliari,CB,1424,0,1424
 Bartosz Salamon,Cagliari,CB,1424,0,1424
+Senna Miangué,Cagliari,CB,1424,0,1424
+Claiton Dos Santos,Crotone,CB,1424,0,1424
+Dario Zuparic,Pescara,CB,1424,0,1424
 Hrvoje Milicevic,Pescara,CB,1424,0,1424
+Toni Sunjic,Palermo,CB,1424,0,1424
+Uros Cosic,Empoli,CB,1424,0,1424
+Serge Gakpe,Chievo,ST,1423,0,1423
+Umar Sadiq,Bologna,ST,1421,0,1421
+Bruno Petkovic,Bologna,ST,1421,0,1421
 Felipe Melo,Internazionale,CB,1404,16,1420
-Josef Martínez,Torino,CF,1412,8,1420
-Serge Gakpe,Chievo,ST,1419,0,1419
-Slobodan Rajkovic,Palermo,CB,1419,0,1419
-Roberto Colombo,Cagliari,GK,1419,0,1419
 Santiago Gentiletti,Genoa,CB,1419,0,1419
+Roberto Colombo,Cagliari,GK,1419,0,1419
+Slobodan Rajkovic,Palermo,CB,1419,0,1419
 Marco Storari,Cagliari,GK,1419,0,1419
-Niccolò Giannetti,Cagliari,CF,1419,0,1419
-Bruno Petkovic,Bologna,ST,1417,0,1417
-Giuseppe Bellusci,Empoli,RB,1417,0,1417
-Valerio Verre,Pescara,LAM,1416,0,1416
-Filip Helander,Bologna,CB,1414,0,1414
+Josef Martínez,Torino,ST,1408,8,1416
+Niccolò Giannetti,Cagliari,ST,1415,0,1415
+Valerio Verre,Pescara,LAM,1414,0,1414
 Mamadou Coulibaly,Pescara,CM,1414,0,1414
-Federico Ricci,Sassuolo,RW,1414,0,1414
 Gabriele Angella,Udinese,CB,1414,0,1414
-Andrija Balic,Udinese,LAM,1411,0,1411
-Pedro Pereira,Sampdoria,RWB,1407,4,1411
+Filip Helander,Bologna,CB,1414,0,1414
+Federico Ricci,Sassuolo,RW,1414,0,1414
+Giuseppe Bellusci,Empoli,RB,1412,0,1412
 Nicolò Barella,Cagliari,CM,1410,0,1410
-Ali Adnan,Udinese,CB,1409,0,1409
+Pedro Pereira,Sampdoria,RB,1405,4,1409
 Davide Biraschi,Genoa,CB,1409,0,1409
-Norbert Balogh,Palermo,CF,1405,0,1405
+Ali Adnan,Udinese,CB,1409,0,1409
+Andrija Balic,Udinese,LAM,1408,0,1408
+Lucas Orban,Genoa,LWB,1406,0,1406
 Noë Dussenne,Crotone,CB,1404,0,1404
-Lucas Orban,Genoa,LWB,1404,0,1404
+Norbert Balogh,Palermo,ST,1401,0,1401
 Luca Cigarini,Sampdoria,CDM,1396,4,1400
 Leonel Vangioni,Milan,CB,1379,20,1399
+Gianni Munari,Cagliari,CM,1399,0,1399
 Marcel Büchel,Empoli,CM,1399,0,1399
 Gustavo Gómez,Milan,CB,1379,20,1399
-Gianni Munari,Cagliari,CM,1399,0,1399
 Assane Dioussé,Empoli,CM,1398,0,1398
 Simone Missiroli,Sassuolo,CDM,1396,0,1396
-Lucas Boyé,Torino,CF,1387,8,1395
 Luca Rigoni,Genoa,CDM,1394,0,1394
 Federico Barba,Empoli,CB,1394,0,1394
-Cesare Bovo,Pescara,RWB,1392,0,1392
-Juraj Kucka,Milan,CAM,1369,20,1389
+Lucas Boyé,Torino,ST,1383,8,1391
+Juraj Kucka,Milan,CAM,1370,20,1390
 Leandro Castan,Torino,CB,1379,8,1387
-Luca Mazzitelli,Sassuolo,CAM,1386,0,1386
 Lorenzo Crisetig,Crotone,CM,1386,0,1386
-Jacopo Sala,Sampdoria,RW,1379,4,1383
+Luca Mazzitelli,Sassuolo,CAM,1385,0,1385
 Bastos,Lazio,CB,1359,24,1383
+Jacopo Sala,Sampdoria,RW,1379,4,1383
 José Mauri,Empoli,CDM,1381,0,1381
-Alessandro Bruno,Pescara,CAM,1381,0,1381
+Alessandro Bruno,Pescara,CAM,1380,0,1380
 Norbert Gyömbér,Pescara,CB,1379,0,1379
-Sulley Ali Muntari,Pescara,CDM,1376,0,1376
-Isaac Cofie,Genoa,CDM,1376,0,1376
 José Sosa,Milan,CDM,1356,20,1376
-Riccardo Meggiorini,Chievo,CF,1375,0,1375
+Sulley Ali Muntari,Pescara,CDM,1376,0,1376
+Cesare Bovo,Pescara,RWB,1376,0,1376
+Isaac Cofie,Genoa,CDM,1376,0,1376
+Riccardo Meggiorini,Chievo,ST,1371,0,1371
 Davide Biondini,Sassuolo,CB,1364,0,1364
 Carlos Salcedo,Fiorentina,CB,1349,12,1361
 Sasa Lukic,Torino,CDM,1351,8,1359
 Përparim Hetemaj,Chievo,RW,1358,0,1358
 Andrés Tello,Empoli,CDM,1351,0,1351
-Alessandro Diamanti,Palermo,CF,1347,0,1347
 Andrea Coda,Pescara,GK,1344,0,1344
-Mauricio Pinilla,Genoa,ST,1334,0,1334
+Alessandro Diamanti,Palermo,ST,1343,0,1343
+Mauricio Pinilla,Genoa,ST,1338,0,1338
 Bostjan Cesar,Chievo,CB,1319,0,1319
 Davide Astori,Fiorentina,GK,1289,12,1301
 Nicolas Burdisso,Genoa,GK,1271,0,1271
