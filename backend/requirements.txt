@@ -1,4 +1,7 @@
 flask==3.0.0
 flask-cors==4.0.0
 pandas==2.1.4
-reus
+reus==1.1.4
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+gunicorn>=21.2.0
