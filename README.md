@@ -84,3 +84,7 @@ The backend API will start at `http://localhost:5000`.
 *Feel free to star ⭐ the repo and expand upon this idea.*
 
 ---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
