@@ -12,11 +12,6 @@ Traditional football player rating systems exhibit heavy bias toward attacking m
 
 **Footy ELO** introduces a position-weighted rating engine that evaluates player performance within specific tactical roles, calibrates ratings against a 1500 baseline across Europe's top competitions, and incorporates team success through competition-specific standings bonuses.
 
-> **Inspiration & Citation**
-> This project draws methodological inspiration from [beyondELO](https://beyondelo.com), specifically their [club-level ELO methodology](https://beyondelo.com/methodology), which details how match importance, home advantage, scoreline context, and uncertainty are layered on top of a classical Elo framework for football. We extend that foundation to the individual **player** level.
->
-> *beyondELO — "How ELO Works in Football", https://beyondelo.com/methodology*
-
 ### Live Deployment
 The web dashboard is hosted and accessible at:  
 **[https://footy-elo.vercel.app/](https://footy-elo.vercel.app/)**
