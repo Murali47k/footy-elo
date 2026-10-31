@@ -56,12 +56,13 @@ The rating pipeline runs in three sequential stages:
 For each player, a raw performance delta is computed by multiplying each per-90 stat by its position-specific weight:
 
 ```
-ELO_RAW = BASE_ELO + K_FACTOR × Σ(stat_value × stat_weight[position])
+ELO_RAW = BASE_ELO + (K_FACTOR × importance) × Σ(stat_value × stat_weight[position])
 ```
 
-- **`BASE_ELO = 1500`** — the universal starting point, mirroring classic chess Elo conventions.
-- **`K_FACTOR = 10`** — scales the sensitivity of each unit of performance delta. Following the insight from beyondELO: *relative differences between players matter more than absolute numbers*. Multiplying all inputs and the K-factor by a constant preserves the ordering; only aesthetic readability changes.
-- Stat weights are **position-specific** (see `elo/def_elo.py`). A goal by a CB is worth more than a goal by a striker because it is a positive outlier relative to that role's typical contribution.
+- **`BASE_ELO = 1500`** — universal starting point.
+- **`K_FACTOR = 10`** — sensitivity scalar. Relative differences between players matter more than absolute numbers (beyondELO). Proportional rescaling preserves ordering.
+- **`importance`** — competition-tier multiplier from `COMPETITION_IMPORTANCE` (UCL knockout = 1.4×, domestic = 1.0×, domestic cup = 0.8×).
+- Stat weights are **position-specific** (see [`elo/def_elo.py`](elo/def_elo.py)). Expanded to cover: `xGOT`, `Big chances created`, `Chances created`, `Goals per 90`, `Save percentage`, `Penalties won`, `xG per 90`, `xA per 90` — each with small weights (0.1–0.5) so they contribute without dominating.
 
 ### Stage 2 — Position-Mean Normalization
 
@@ -73,9 +74,29 @@ ELO[player] = BASE_ELO + (ELO_RAW[player] − mean(ELO_RAW[position]))
 
 This ensures a world-class CB and a world-class ST are both anchored at 1500, making cross-positional comparisons meaningful. As discussed by beyondELO, the meaningful measure is not an absolute threshold (e.g., "1700+ = world class") but rather **standard deviations above the positional mean**.
 
-### Stage 3 — Standings Bonus
+### Stage 3 — Glicko-style Rating Deviation
 
-A team-contextual bonus is applied post-normalization to credit players whose clubs achieved exceptional collective results:
+Each player receives a **Rating Deviation (RD)** that quantifies confidence in their rating, inspired by the Glicko rating system:
+
+```
+RD = BASE_RD / sqrt(max(appearances, 1))     clamped to [MIN_RD, BASE_RD]
+
+BASE_RD = 350   (maximum uncertainty — no data)
+MIN_RD  =  50   (floor for full-season regulars)
+```
+
+| Appearances | RD | Confidence |
+|---|---|---|
+| 1 | ~350 | provisional |
+| 5 | ~157 | medium |
+| 15 | ~90 | high |
+| 38 | ~57 | high |
+
+The `CONFIDENCE` column is written to every ELO output CSV so the UI can flag players with small sample sizes.
+
+### Stage 4 — Standings Bonus
+
+A team-contextual bonus is applied post-normalisation:
 
 | Source | Bonus |
 |---|---|
@@ -91,8 +112,6 @@ A team-contextual bonus is applied post-normalization to credit players whose cl
 ```
 ELO_FINAL = ELO + STANDINGS_BONUS
 ```
-
-This bonus is **additive and applied after normalization**, so it lifts players from winning clubs without corrupting the within-position distribution. It also partially accounts for *match importance*: a player who helped their club win the Champions League was repeatedly performing in the highest-stakes fixtures.
 
 ---
 
