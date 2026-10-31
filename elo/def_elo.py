@@ -1,8 +1,46 @@
 BASE_ELO = 1500
 
 ELO_CONFIG = {
+    # Sensitivity scalar: each unit of weighted-stat delta moves the rating by
+    # K_FACTOR points.  Relative ordering is invariant to proportional rescaling.
     "K_FACTOR": 10,
-    "MIN_ELO": 800,  
+    # Hard floor to keep outlier-low ratings readable (avoids negatives or near-0).
+    "MIN_ELO": 800,
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Competition Importance Multipliers  (future hook — not yet wired into calc.py)
+# ─────────────────────────────────────────────────────────────────────────────
+# Inspired by beyondELO's match-importance layer.  When per-match data becomes
+# available, multiply K_FACTOR by the relevant tier multiplier so that a goal
+# in a UCL knockout fixture contributes more to a player's rating than the same
+# goal in a routine domestic match.
+#
+# Even within a tier, context matters: a team needing a win on matchday 38 to
+# qualify assigns far higher stakes than a team already certain of their finish.
+# Per-match contextual importance is the gold standard; tier multipliers are an
+# approximation that requires only competition-level metadata.
+# ─────────────────────────────────────────────────────────────────────────────
+COMPETITION_IMPORTANCE = {
+    "ucl_knockout":  1.4,   # Champions League knockout rounds
+    "ucl_group":     1.2,   # Champions League group stage
+    "uel_knockout":  1.1,   # Europa League knockout rounds
+    "uel_group":     1.0,   # Europa League group stage
+    "domestic":      1.0,   # Premier League, La Liga, Bundesliga, Serie A, Ligue 1
+    "domestic_cup":  0.8,   # Domestic cup fixtures (lower default stakes)
+}
+
+# ─────────────────────────────────────────────────────────────────────────────
+# Confidence Thresholds  (Glicko-inspired — future hook)
+# ─────────────────────────────────────────────────────────────────────────────
+# Rough appearance bands for displaying a rating confidence label in the UI.
+# Players below LOW_APPS should be shown with a "small sample" caveat.
+# ─────────────────────────────────────────────────────────────────────────────
+CONFIDENCE_THRESHOLDS = {
+    "LOW_APPS":    5,   # < 5 apps: high uncertainty, treat rating as provisional
+    "MEDIUM_APPS": 15,  # 5–15 apps: moderate confidence
+    "HIGH_APPS":   25,  # 15–25 apps: established rating
+    # 25+ apps: high confidence — rating reflects true seasonal performance
 }
 
 # ─────────────────────────────────────────────

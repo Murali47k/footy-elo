@@ -8,7 +8,16 @@ import json
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
 
-from elo.def_elo import BASE_ELO, ELO_CONFIG, get_stat_weight, LEAGUE_POSITION_BONUS, EUROPEAN_BONUS
+from elo.def_elo import (
+    BASE_ELO,
+    ELO_CONFIG,
+    get_stat_weight,
+    LEAGUE_POSITION_BONUS,
+    EUROPEAN_BONUS,
+    COMPETITION_IMPORTANCE,   # Future hook: per-tier K-factor multiplier
+    CONFIDENCE_THRESHOLDS,    # Future hook: Glicko-style confidence bands
+)
+
 
 # Round priority order (deepest round = highest bonus)
 _ROUND_ORDER = ["winner", "final", "semi", "quarter", "r16"]
