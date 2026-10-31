@@ -77,21 +77,33 @@ const parseCSV = (text) => {
   const rows = text.split('\n');
   const data = [];
 
+  if (rows.length < 2) return data;
+
+  // Parse header row to find column indices by name
+  const headers = parseCSVRow(rows[0]).map(h => h.trim());
+  const nameIdx = headers.indexOf('ParticipantName');
+  const clubIdx = headers.indexOf('TeamName');
+  const posIdx  = headers.indexOf('Position');
+  // Prefer ELO_FINAL (includes standings bonus), fall back to ELO, then index 3
+  const eloIdx  = headers.indexOf('ELO_FINAL') !== -1
+    ? headers.indexOf('ELO_FINAL')
+    : headers.indexOf('ELO') !== -1
+      ? headers.indexOf('ELO')
+      : 3;
+
   for (let i = 1; i < rows.length; i++) {
     const row = rows[i].trim();
     if (!row) continue;
 
     const cols = parseCSVRow(row);
-    if (cols.length >= 4) {
-      const eloVal = parseFloat(cols[5]);
-      if (!isNaN(eloVal)) {
-        data.push({
-          name: cols[0].trim(),
-          club: cols[1].trim(),
-          position: cols[2].trim(),
-          elo: eloVal
-        });
-      }
+    const eloVal = parseFloat(cols[eloIdx]);
+    if (!isNaN(eloVal)) {
+      data.push({
+        name:     (nameIdx >= 0 ? cols[nameIdx] : cols[0]).trim(),
+        club:     (clubIdx >= 0 ? cols[clubIdx] : cols[1]).trim(),
+        position: (posIdx  >= 0 ? cols[posIdx]  : cols[2]).trim(),
+        elo:      eloVal
+      });
     }
   }
   return data;
