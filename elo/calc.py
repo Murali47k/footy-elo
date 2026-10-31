@@ -1,54 +1,69 @@
+import math
 import pandas as pd
 import os
 import sys
 import glob
 import json
 
-# Add project root to path for imports
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, project_root)
 
 from elo.def_elo import (
     BASE_ELO,
     ELO_CONFIG,
+    GLICKO_CONFIG,
+    COMPETITION_IMPORTANCE,
     get_stat_weight,
     LEAGUE_POSITION_BONUS,
     EUROPEAN_BONUS,
-    COMPETITION_IMPORTANCE,   # Future hook: per-tier K-factor multiplier
-    CONFIDENCE_THRESHOLDS,    # Future hook: Glicko-style confidence bands
 )
 
-
-# Round priority order (deepest round = highest bonus)
 _ROUND_ORDER = ["winner", "final", "semi", "quarter", "r16"]
 
-
-# Which standings folder feeds the bonus for each kind of competition table
 _BONUS_SOURCE = {
-    "league": "leagues",   # domestic league tables  -> league finish bonus ONLY
-    "europe": "europe",    # UCL / UEL tables        -> knockout round bonus ONLY
+    "league": "leagues",
+    "europe": "europe",
 }
 
-# File prefixes of the tables that are European competitions
 _EUROPEAN_PREFIXES = ("cl", "el")
 
 
 def _infer_kind(input_csv: str) -> str:
-    """Infer 'league' or 'europe' from a stats filename like pl_2025_2026.csv / cl.csv."""
     prefix = os.path.splitext(os.path.basename(input_csv))[0].split("_")[0].lower()
     return "europe" if prefix in _EUROPEAN_PREFIXES else "league"
 
 
-def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
+def glicko_rd(appearances: int) -> float:
     """
-    Scan standings/ JSON files for a specific season and build a
-    { team_name -> bonus } map. Returns empty dict if no data found.
+    Compute Rating Deviation from appearance count.
 
-    kind = "league" -> only standings/leagues/ (league finish bonus)
-    kind = "europe" -> only standings/europe/  (UCL/UEL knockout bonus)
+    Simplified Glicko-inspired formula:
+        RD = BASE_RD / sqrt(max(appearances, 1))
+    Clamped to [MIN_RD, BASE_RD].
+
+    A player with 1 appearance has near-maximum uncertainty (RD ~ BASE_RD).
+    A full-season regular (38 apps) converges toward MIN_RD.
     """
+    cfg = GLICKO_CONFIG
+    raw = cfg["BASE_RD"] / math.sqrt(max(appearances, 1))
+    return round(max(cfg["MIN_RD"], min(cfg["BASE_RD"], raw)), 1)
+
+
+def glicko_confidence_label(rd: float) -> str:
+    cfg = GLICKO_CONFIG
+    span = cfg["BASE_RD"] - cfg["MIN_RD"]
+    if rd >= cfg["BASE_RD"] - 0.1 * span:
+        return "provisional"
+    if rd >= cfg["BASE_RD"] - 0.4 * span:
+        return "low"
+    if rd >= cfg["BASE_RD"] - 0.7 * span:
+        return "medium"
+    return "high"
+
+
+def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
     if kind not in _BONUS_SOURCE:
-        raise ValueError(f"Unknown competition kind '{kind}'. Use 'league' or 'europe'.")
+        raise ValueError(f"Unknown competition kind '{kind}'.")
 
     standings_dir = os.path.join(project_root, "standings")
     suffix = season_str.replace("/", "_")
@@ -63,13 +78,12 @@ def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
             except Exception:
                 continue
 
-            file_season = data.get("season", "").replace("/", "_")
-            if file_season != suffix:
+            if data.get("season", "").replace("/", "_") != suffix:
                 continue
 
             if sub == "leagues":
                 for entry in data.get("standings", []):
-                    pos  = entry.get("position")
+                    pos = entry.get("position")
                     team = entry.get("team", "").strip()
                     bonus = LEAGUE_POSITION_BONUS.get(pos, 0)
                     if bonus and team:
@@ -82,8 +96,7 @@ def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
                     val = results.get(rnd)
                     if val is None:
                         continue
-                    teams_in_round = [val] if isinstance(val, str) else list(val)
-                    for team in teams_in_round:
+                    for team in ([val] if isinstance(val, str) else list(val)):
                         team = team.strip()
                         if team and team not in team_round:
                             team_round[team] = rnd
@@ -95,53 +108,68 @@ def _load_team_bonus_for_season(season_str: str, kind: str = "league") -> dict:
     return team_bonus
 
 
-def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = None,
-                  kind: str = None):
+def calculate_elo(
+    input_csv: str,
+    output_csv: str,
+    season: str = None,
+    team_bonus: dict = None,
+    kind: str = None,
+    competition_tier: str = "domestic",
+) -> pd.DataFrame:
     """
-    Calculate ELO ratings from a stats CSV and write to output_csv.
+    Calculate ELO + Glicko-style Rating Deviation from a stats CSV.
 
-    The standings bonus is competition-specific and applied automatically when
-    standings data exists for the season:
-      - domestic league tables -> league finish bonus only
-      - UCL / UEL tables       -> UCL/UEL knockout round bonus only
+    Pipeline
+    --------
+    1. Raw Score
+         ELO_RAW = BASE_ELO + K × importance × Σ(stat × weight[position])
+         where importance = COMPETITION_IMPORTANCE[competition_tier]
 
-    Args:
-        input_csv    : path to raw stats CSV (tables/*.csv)
-        output_csv   : path to write ELO output CSV
-        season       : season string used to look up standings, e.g. '2025/2026'.
-                       If None the function tries to infer it from the filename.
-        team_bonus   : optional pre-built { team -> bonus } dict (overrides
-                       auto-loading from standings/).  Pass {} to skip bonuses.
-        kind         : 'league' or 'europe'. Decides which bonus is applied.
-                       If None it is inferred from the filename (cl*/el* -> 'europe',
-                       everything else -> 'league').
+    2. Position-Mean Normalisation
+         ELO = BASE_ELO + (ELO_RAW − mean(ELO_RAW for position))
+
+    3. Glicko RD
+         RD = BASE_RD / sqrt(appearances), clamped to [MIN_RD, BASE_RD]
+         Confidence label: provisional / low / medium / high
+
+    4. Standings Bonus
+         ELO_FINAL = ELO + STANDINGS_BONUS
+
+    Args
+    ----
+    input_csv        : path to raw stats CSV  (tables/*.csv)
+    output_csv       : path to write ELO output CSV
+    season           : e.g. '2025/2026'; inferred from filename if None
+    team_bonus       : pre-built {team -> bonus}; pass {} to skip
+    kind             : 'league' or 'europe'; inferred from filename if None
+    competition_tier : key into COMPETITION_IMPORTANCE for K-factor scaling
     """
     print(f"Calculating ELO from {input_csv}...")
 
     df = pd.read_csv(input_csv)
 
-    required_cols = {"ParticipantName", "TeamName", "Position"}
-    missing = required_cols - set(df.columns)
+    required = {"ParticipantName", "TeamName", "Position"}
+    missing = required - set(df.columns)
     if missing:
         raise ValueError(f"Missing required columns: {missing}")
 
     df = df.fillna(0)
 
-    # ── Raw ELO ──────────────────────────────────────────────────────────
-    def compute_raw_elo(row):
-        position = row["Position"]
-        elo_delta = 0.0
-        for stat, value in row.items():
-            if stat in ("ParticipantName", "TeamName", "Position"):
-                continue
-            weight = get_stat_weight(position, stat)
-            if weight != 0:
-                elo_delta += value * weight
-        return BASE_ELO + (ELO_CONFIG["K_FACTOR"] * elo_delta)
+    k = ELO_CONFIG["K_FACTOR"] * COMPETITION_IMPORTANCE.get(competition_tier, 1.0)
 
-    df["ELO_RAW"] = df.apply(compute_raw_elo, axis=1)
+    # ── Stage 1: Raw Score ────────────────────────────────────────────────
+    def _raw_elo(row):
+        pos = row["Position"]
+        delta = sum(
+            row[stat] * get_stat_weight(pos, stat)
+            for stat in row.index
+            if stat not in ("ParticipantName", "TeamName", "Position")
+        )
+        return BASE_ELO + k * delta
 
-    # ── Position-normalised ELO ───────────────────────────────────────────
+    df["ELO_RAW"] = df.apply(_raw_elo, axis=1)
+
+    # ── Stage 2: Position-Mean Normalisation ─────────────────────────────
     df["ELO"] = 0.0
     for pos in df["Position"].unique():
         mask = df["Position"] == pos
@@ -155,18 +183,37 @@ def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = 
         .astype(int)
     )
 
-    # ── Standings bonus ───────────────────────────────────────────────────
-    # Resolve which team_bonus map to use
+    # ── Stage 3: Glicko-style Rating Deviation ────────────────────────────
+    # Derive appearance proxy from Goals per 90 column availability;
+    # fall back to estimating from xG total if appearances column absent.
+    # When an explicit "Appearances" column exists it is used directly.
+    if "Appearances" in df.columns:
+        df["RD"] = df["Appearances"].apply(glicko_rd)
+    elif "Goals per 90" in df.columns and "Expected goals (xG)" in df.columns:
+        # Estimate appearances = xG_total / xG_per90, floored at 1.
+        # This is an approximation; provide an Appearances column for accuracy.
+        def _est_apps(row):
+            xg_p90 = row.get("Expected goals (xG) per 90", 0)
+            xg_tot = row.get("Expected goals (xG)", 0)
+            if xg_p90 > 0:
+                return max(1, round(xg_tot / xg_p90))
+            return 1
+        df["APPS_EST"] = df.apply(_est_apps, axis=1)
+        df["RD"] = df["APPS_EST"].apply(glicko_rd)
+        df.drop(columns=["APPS_EST"], inplace=True)
+    else:
+        df["RD"] = float(GLICKO_CONFIG["BASE_RD"])
+
+    df["CONFIDENCE"] = df["RD"].apply(glicko_confidence_label)
+
+    # ── Stage 4: Standings Bonus ──────────────────────────────────────────
     if team_bonus is None:
-        # Try to infer season from filename: tables/pl_2025_2026.csv -> '2025/2026'
         if season is None:
-            base = os.path.splitext(os.path.basename(input_csv))[0]  # e.g. pl_2025_2026
+            base = os.path.splitext(os.path.basename(input_csv))[0]
             parts = base.split("_")
-            # Look for a YYYY_YYYY pattern at the end
             if len(parts) >= 3 and parts[-2].isdigit() and parts[-1].isdigit():
                 season = f"{parts[-2]}/{parts[-1]}"
             else:
-                # Current season files have no suffix (e.g. pl.csv -> 2026/2027)
                 season = "2026/2027"
         if kind is None:
             kind = _infer_kind(input_csv)
@@ -176,15 +223,18 @@ def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = 
         df["STANDINGS_BONUS"] = df["TeamName"].map(team_bonus).fillna(0).astype(int)
         teams_with_bonus = df.loc[df["STANDINGS_BONUS"] > 0, "TeamName"].unique()
         if len(teams_with_bonus):
-            print(f"  📊 {kind or 'custom'} bonus applied to {len(teams_with_bonus)} team(s): "
+            print(f"  {kind or 'custom'} bonus → {len(teams_with_bonus)} team(s): "
                   f"{', '.join(sorted(teams_with_bonus))}")
     else:
         df["STANDINGS_BONUS"] = 0
 
     df["ELO_FINAL"] = df["ELO"] + df["STANDINGS_BONUS"]
 
-    # ── Final table ───────────────────────────────────────────────────────
-    out_cols = ["ParticipantName", "TeamName", "Position", "ELO", "STANDINGS_BONUS", "ELO_FINAL"]
+    # ── Output ────────────────────────────────────────────────────────────
+    out_cols = [
+        "ParticipantName", "TeamName", "Position",
+        "ELO", "RD", "CONFIDENCE", "STANDINGS_BONUS", "ELO_FINAL",
+    ]
     elo_df = (
         df[out_cols]
         .sort_values("ELO_FINAL", ascending=False)
@@ -194,14 +244,12 @@ def calculate_elo(input_csv, output_csv, season: str = None, team_bonus: dict = 
     os.makedirs(os.path.dirname(os.path.abspath(output_csv)), exist_ok=True)
     elo_df.to_csv(output_csv, index=False)
 
-    print(f"✅ ELO saved to {output_csv}")
-    print(f"   Players: {elo_df.shape[0]}")
+    print(f"ELO saved → {output_csv}  ({elo_df.shape[0]} players)")
     print(f"\nTop 10 (ELO_FINAL):")
     print(elo_df.head(10).to_string(index=False))
 
     return elo_df
 
 
-if __name__ == '__main__':
-    # Test
+if __name__ == "__main__":
     calculate_elo("tables/pl.csv", "public/elo_tables/pl_elo.csv")
